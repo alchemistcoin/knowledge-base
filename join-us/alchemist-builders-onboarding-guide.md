@@ -108,7 +108,7 @@ Coordinape is a platform for DAOs to easily and fairly distribute resources to c
 
 Alchemists that have received payouts from the multisig will be placed in circles and have the ability to reward their fellow contributors.
 
-## Meeting Calender
+## Meeting Calendar
 
 You can find our shared calendar [here](https://calendar.google.com/calendar/u/2/r?cid=c29sYm9mcWlnZGQzbzdzY3E3cWdyN3R2b2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ). All dates are included, be they project-related or generally interesting for the entire organization. Meetings are essential to question individual approaches and to discuss them in a team. A transcript will then be written out of sustainability in the base camp. Since the participants are spread all over the world, the times are usually chosen so that as many as possible can take part.
 
