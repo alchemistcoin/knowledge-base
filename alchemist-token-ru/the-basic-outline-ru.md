@@ -2,9 +2,9 @@
 
 Существует токен, который называется Alchemist. Его тикером является символ "⚗️". Также известный как "mist" и "$MIST". Не путайте его с [MUST](https://www.coingecko.com/en/coins/must) - несмотря на то, что в его названии также присутствует тигель \(⚗️\), он не имеет ничего общего с Alchemist.
 
-Для чего необходим ⚗️? Я здесь не для ответа на этот вопрос. Пожалуйста прочтите официальный FAQ.
+Для чего необходим ⚗️? Я здесь не для ответа на этот вопрос. Пожалуйста прочтите [официальный ](https://docs.alchemist.wtf/mist/v/russian/alchemist-token-ru/faq-ru)[ЧАВО](https://docs.alchemist.wtf/mist/v/russian/alchemist-token-ru/faq-ru).
 
-Вы можете стейкать ⚗️как и другие монеты и в конечном счете отчеканить Crucible NFT для участия в программе вознаграждений Aludel. 
+Вы можете стейкать ⚗️как и другие монеты и в конечном счете [выпустить Crucible NFT](https://docs.alchemist.wtf/mist/v/russian/crucible/teach-me-about-crucibles-ru) для участия в программе вознаграждений [Aludel](https://docs.alchemist.wtf/mist/v/russian/alchemist-token-ru/the-basic-outline-ru#3-aludel). 
 
 ## Как я могу увеличить свое состояние с помощью ⚗️?
 
@@ -28,7 +28,7 @@ Crucible поддерживает только пул ликвидности **U
 
 Пожалуйста, посмотрите несколько видео описаний Impermanent Loss прежде, чем приступить к процессу стэйкинга и изучите эту тему, прежде чем принимать решение. Потери могут быть достаточно высокими в сравнении с просто держанием токенов в кошельке и обменом/продажей их.
 
-### [https://youtu.be/8XJ1MSTEuU0](https://youtu.be/8XJ1MSTEuU0)
+{% embed url="https://youtu.be/8XJ1MSTEuU0" caption="Please watch this video on \"Impermanent Loss\" before proceeding." %}
 
 ### 3. Aludel
 

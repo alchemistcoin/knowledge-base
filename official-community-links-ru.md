@@ -1,4 +1,6 @@
-# Official Community Links
+# Официальные ссылки сообщества
+
+
 
 {% hint style="warning" %}
 Если вы решили использовать ссылки из внешних источников, сначала убедитесь, что они соответствуют нашим официальным ссылкам. Если ссылки нет в этом списке, **она не является официальной**. ‌
@@ -10,10 +12,10 @@
 
 | Сайт | Описание |
 | :--- | :--- |
-| [alchemist.wtf](http://alchemist.wtf) | GitHub Repository |
-| [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) | Latest Crucible Website |
-| [alchemist.farm](https://alchemist.farm) | Crucible Website |
-| [docs.alchemist.wtf](https://docs.alchemist.wtf) | Documentation |
+| [alchemist.wtf](http://alchemist.wtf) | Репозиторий GitHub |
+| [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) | новая версия сайта Crucible |
+| [alchemist.farm](https://alchemist.farm) | предыдущая версия сайта Crucible  |
+| [docs.alchemist.wtf](https://docs.alchemist.wtf) | Документация |
 
 ### Сообщество
 

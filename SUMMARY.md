@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Что такое Alchemist?](README.md)
-* [Official Community Links](official-community-links-ru.md)
+* [Официальные ссылки сообщества](official-community-links-ru.md)
 
 ## Alchemist Token ⚗️ $MIST <a id="alchemist-token-ru"></a>
 
@@ -14,7 +14,7 @@
 * [В первую очередь](crucible/getting-started-ru.md)
 * [Расскажи мне про Crucibles](crucible/teach-me-about-crucibles-ru.md)
 * [Гайд: crucible.alchemist.wtf](crucible/guides-crucible.alchemist.wtf-ru/README.md)
-  * [Как сминтить Crucible?](crucible/guides-crucible.alchemist.wtf-ru/how-do-i-mint-a-crucible-ru.md)
+  * [Как создать Crucible?](crucible/guides-crucible.alchemist.wtf-ru/how-do-i-mint-a-crucible-ru.md)
   * [Что я могу сделать со своим Crucible?](crucible/guides-crucible.alchemist.wtf-ru/what-can-i-do-with-my-new-crucible-ru.md)
   * [Получение награды и отмена подписки токенов ПЛ](crucible/guides-crucible.alchemist.wtf-ru/claiming-rewards-and-unsubscribing-your-lp-ru.md)
 * [Гайд: alchemist.farm](crucible/guides-alchemist.farm-ru/README.md)
@@ -24,4 +24,12 @@
 * [Как получить роль "сертифицированного алхимика" в дискорде 💬](crucible/how-to-become-a-certified-alchemist-on-discord-ru.md)
 * [Совместимости с кошельками](crucible/wallet-compatibility-ru.md)
 * [ЧАВО 📖](crucible/aludel-crucible-chavo.md)
+
+---
+
+* [Twitter](https://twitter.com/_alchemistcoin)
+* [Discord](https://discord.com/invite/qWQQMMKjKe)
+* [Telegram](https://t.me/alchemistcoin)
+* [Instagram](https://www.instagram.com/thealchemistcoin/)
+* [GitHub](http://alchemist.wtf/)
 

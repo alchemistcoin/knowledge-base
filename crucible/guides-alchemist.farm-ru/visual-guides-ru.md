@@ -12,7 +12,7 @@
 Если вы не знаете как переключиться между версией 2 и 3 воспользуйтесь нашей [инструкцией](https://docs.alchemist.wtf/mist/alchemist-token/acquiring-and-subscribing).
 {% endhint %}
 
-* [​Выпуск C​rucible](https://www.youtube.com/watch?v=Rl9Rf-3Sp-8)
+* [​Создание C​rucible](https://www.youtube.com/watch?v=Rl9Rf-3Sp-8)
 * [​Получение токенов ПЛ и создание Crucible​](https://www.youtube.com/watch?v=Ga1qcQ6x3as)
 * ​[Получение токенов ПЛ и создание Crucible​ и получение роли "сертифицированный алхимик" в дискорде](https://www.youtube.com/watch?v=k7MO1QpqCds)
 * [Перемещение Crucible с помощью Alchemist.farm и OpenSea.io ](https://www.youtube.com/watch?v=i2MCYimelBM)

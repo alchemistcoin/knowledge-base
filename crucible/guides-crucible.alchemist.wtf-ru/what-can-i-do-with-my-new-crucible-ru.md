@@ -2,8 +2,6 @@
 
 Со своим Crucible вы можете делать несколько вещей. Наиболее популярные, которые делаются с помощью crucible.alchemist.wtf, приведены ниже.
 
-
-
 * [Проверить ваши награды](https://docs.alchemist.wtf/mist/v/russian/crucible/guides-crucible.alchemist.wtf-ru/what-can-i-do-with-my-new-crucible-ru#proverka-vashikh-nagrad)
 * [Увеличить вашу подписку токенов ПЛ](https://docs.alchemist.wtf/mist/v/russian/crucible/guides-crucible.alchemist.wtf-ru/what-can-i-do-with-my-new-crucible-ru#uvelichit-vashu-podpisku-tokenov-pl)
 * [Проверить сколько токенов ПЛ вы подписали в свой Crucible](https://docs.alchemist.wtf/mist/v/russian/crucible/guides-crucible.alchemist.wtf-ru/what-can-i-do-with-my-new-crucible-ru#proverit-skolko-tokenov-pl-vy-podpisali-v-svoi-crucible)
@@ -30,7 +28,7 @@
 ## Проверить сколько токенов ПЛ вы подписали в свой Crucible.
 
 1. Выполните пункты [1-5 из этой инструкции](https://docs.alchemist.wtf/mist/v/russian/crucible/guides-crucible.alchemist.wtf-ru/what-can-i-do-with-my-new-crucible-ru#proverka-vashikh-nagrad)
-2. Вам будет представлена информация о подписанных и неподписанных ПЛ токенах в соответствующих полях "Subscribed Crucible LP" и "Unsubscribed Crucible LP"
+2. Вам будет представлена информация о подписанных и неподписанных токенах ПЛ в соответствующих полях "Subscribed Crucible LP" и "Unsubscribed Crucible LP"
 
 ## Отправить Crucible в другой кошелек
 

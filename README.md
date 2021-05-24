@@ -4,8 +4,6 @@ description: Official Community Links
 
 # Что такое Alchemist?
 
-[alchemist.wtf](https://github.com/alchemistcoin/alchemist)
-
 Alchemist начался с [твита](https://twitter.com/thegostep/status/1358159173440184322?s=20) от [@thegostep](https://twitter.com/thegostep). 
 
 Нет «команды разработчиков». Нет компании. Есть только сообщество алхимиков, решающих, что создавать. 
