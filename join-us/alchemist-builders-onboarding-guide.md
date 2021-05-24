@@ -72,7 +72,7 @@ GitHub is a web-based version-control and collaboration platform for software de
 
 #### **How we use it**
 
-GitHub is the digital home of our developers. As already stated in the description, it the perfect platform for collaboration on deployment & developement, especially for us as a decentralized autonomous organization. It represents, separted into different respositories, the core of our products.
+GitHub is the digital home of our developers. As already stated in the description, it the perfect platform for collaboration on deployment & development, especially for us as a decentralized autonomous organization. It represents, separated into different repositories, the core of our products.
 
 **Links:** [**Alchemist Github**](https://github.com/alchemistcoin/alchemist)\*\*\*\*
 
