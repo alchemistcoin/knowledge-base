@@ -10,7 +10,7 @@
 
 ### 1. ספקולציות 
 
-The first way is to speculate on its value. In other words: you buy some and hope the price goes up and then sell it. Disclaimer: there is no guarantee the price goes up.
+הדרך הראשונה היא לשער את ערכו. במילים אחרות: אתה קונה כמה ומקווה שהמחיר יעלה ואז מוכר אותו. הצהרה: אין התחייבות שהמחיר יעלה.
 
 ### 2. סטקינג
 
