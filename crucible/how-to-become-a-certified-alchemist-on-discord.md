@@ -19,7 +19,7 @@ After you have gained access to the wallet containing your Crucible, you can bec
 1. On the [_\#welcome_](http://discord.alchemist.wtf) channel write the command **!join**
 2. You will receive a private message from Collab.Land
 
-   If you do not receive a message please [check your privacy settings](https://support.discord.com/hc/en-us/articles/217916488-Blocking-Privacy-Settings-) to make sure you can receive messages from others, then go back to the \#welcome channel  
+   If you do not receive a message please [check your privacy settings](https://support.discord.com/hc/en-us/articles/217916488-Blocking-Privacy-Settings-) to make sure you can receive messages from others, then go back to the \#welcome channel and retype the command !join  
    ![](https://i.imgur.com/2UvO1ZL.png)
 
 3. Press the ‘Click Here’ link sent to you by Collab.Land and follow the link
