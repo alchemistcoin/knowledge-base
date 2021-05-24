@@ -1,6 +1,6 @@
 # I have minted a Crucible, now what?
 
-## You can checking how many LP tokens are in your Crucible
+## You can check how many LP tokens are in your Crucible
 
 Visit [alchemist.farm](https://alchemist.farm/) and connect your wallet and click on the Crucibles tab.
 
