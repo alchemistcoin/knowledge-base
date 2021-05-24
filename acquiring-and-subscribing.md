@@ -5,24 +5,27 @@
 סחרת אי פעם במטבעות ב- Uniswap? אם כן אתה יודע לעשות זאת כבר.
 
 {% hint style="warning" %}
-בגלל נזילות נמוכה ב- Uniswap V3, החלקה נוספת עשויה לגרום לכך שלא תקבל את המחיר הטוב ביותר עבור הרכישה שלך. אנא השתמש בקישור Uniswap V2 שלנו למטה כדי לבצע החלפת טוקנים.
+בגלל נזילות נמוכה ב- Uniswap V3, החלקה נוספת עשויה לגרום לכך שלא תקבל את המחיר הטוב ביותר עבור הרכישה שלך. אנא השתמש בקישור Uniswap V2 שלנו למטה כדי לבצע החלפת אסימונים.
 {% endhint %}
 
-1. Head to [Swap $MIST on Uniswap V2](https://app.uniswap.org/#/swap?outputCurrency=0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab&use=V2)
-2. Connect MetaMask wallet
-3. You should see something like this:
 
-    ![](https://i.imgur.com/5rzgvpf.png)
 
-4. Enter the amount of ⚗️ you wish to purchase, ensuring you have an equivalent value of ETH remaining to use for the subscribing
-5. Hit "Swap", make necessary approvals via MetaMask, wait for the transaction to complete
+1.עבור אל[ Swap $MIST on Uniswap V2](https://app.uniswap.org/#/swap?outputCurrency=0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab&use=V2)
+
+2.חבר את ארנק ה- MetaMask שלך
+
+3.אתה תראה את המסך הבא:
+
+1.  ![](https://i.imgur.com/5rzgvpf.png)
+2. Enter the amount of ⚗️ you wish to purchase, ensuring you have an equivalent value of ETH remaining to use for the subscribing
+3. Hit "Swap", make necessary approvals via MetaMask, wait for the transaction to complete
    * I found that my first two attempts failed, seemingly because they weren't being processed fast enough for the price to remain stable before they finished
    * MetaMask has the ability to let you speed up a transaction by locating it in the "Activity" tab and choosing to pay more gas for higher priority processing
-6. Navigate to [https://etherscan.io/address/](https://etherscan.io/address/) to view pending transactions and all tokens associated with your account.
+4. Navigate to [https://etherscan.io/address/](https://etherscan.io/address/) to view pending transactions and all tokens associated with your account.
    * if you use MetaMask you can click the triple dots and then "View on Etherscan" to jump to it:
 
      ![](https://i.imgur.com/jdzodQP.png)
-7. You should see your new ⚗️ displayed like the following:
+5. You should see your new ⚗️ displayed like the following:
 
     ![](https://i.imgur.com/bF9wsrg.png)
 
