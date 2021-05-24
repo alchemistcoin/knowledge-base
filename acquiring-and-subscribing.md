@@ -1,11 +1,11 @@
-# Acquiring & Subscribing
+# רכישות והרשמות
 
-### 1. Getting $MIST ⚗️
+### 1. קבלת MIST$ ⚗️
 
-Ever traded coins on Uniswap? If so you know how to do this already.
+סחרת אי פעם במטבעות ב- Uniswap? אם כן אתה יודע לעשות זאת כבר.
 
 {% hint style="warning" %}
-Due to low liquidity on **Uniswap V3**, extra slippage might mean you will not get the best price for your purchase. Please use our **Uniswap V2** link below to perform the token swap.
+בגלל נזילות נמוכה ב- Uniswap V3, החלקה נוספת עשויה לגרום לכך שלא תקבל את המחיר הטוב ביותר עבור הרכישה שלך. אנא השתמש בקישור Uniswap V2 שלנו למטה כדי לבצע החלפת טוקנים.
 {% endhint %}
 
 1. Head to [Swap $MIST on Uniswap V2](https://app.uniswap.org/#/swap?outputCurrency=0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab&use=V2)

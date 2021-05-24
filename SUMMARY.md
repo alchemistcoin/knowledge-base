@@ -8,7 +8,7 @@
 ---
 
 * [המתווה הבסיסי](the-basic-outline.md)
-* [Acquiring & Subscribing](acquiring-and-subscribing.md)
+* [רכישות והרשמות](acquiring-and-subscribing.md)
 * [FAQ](faq.md)
 
 ## Crucible
