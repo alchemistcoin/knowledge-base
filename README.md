@@ -14,7 +14,7 @@ Pentru a deveni un alchimist este necesar a invata si a practica. Antrenamentul 
 
 ⚗️$mist este folosit pentru a coordona si recompensa alchimistii implicati in proiect. Fie ca esti un artist, un dezvoltator, un manager de comunitate sau un furnizor de lichiditate exista un loc de implicare, un rol si pentru tine.
 
-Vino sa intalnesti alti alchimisti la [discord.alchemist.wtf](http://discord.alchemist.wtf/) si ofera-ti abilitatile in canalul discord \#bounties.
+Vino sa intalnesti alti alchimisti la [discord.alchemist.wtf](http://discord.alchemist.wtf/) si ofera-ti abilitatile in canalul discord [\#constructori-aplicatie](https://discord.com/channels/812035504869998644/812324390082969620).
 
 **Exista un website?**
 
