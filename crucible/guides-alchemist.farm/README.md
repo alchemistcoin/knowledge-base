@@ -3,7 +3,7 @@
 
 
 {% hint style="info" %}
-**以下是社区网站**[**alchemist.farm**](https://alchemist.farm/)**的指南。**  
+**以下是社区网站** [**alchemist.farm**](https://alchemist.farm/) **的指南。**  
 如果您使用的是[crucible.alchemist.wtf](https://crucible.alchemist.wtf/)，请[点击这里](../guides-crucible.alchemist.wtf/)
 {% endhint %}
 
