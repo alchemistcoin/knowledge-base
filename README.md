@@ -14,7 +14,7 @@ Devenir alchimiste nécessite un apprentissage et de la pratique. Pour un vérit
 
 ⚗️ $MIST est utilisé pour coordonner et récompenser l’engagement des alchimistes. Que vous soyez un artiste, un développeur, un community manager ou un fournisseur de liquidité, vous avez un rôle à jouer.
 
-Venez rencontrer les autres alchimistes sur [discord.alchemist.wtf](http://discord.alchemist.wtf) et présentez vos compétences sur le canal \#builders-application.
+Venez rencontrer les autres alchimistes sur [discord.alchemist.wtf](http://discord.alchemist.wtf) et présentez vos compétences sur le canal [\#builders-application](https://discord.com/channels/812035504869998644/812324390082969620).
 
 **Y-a-t-il un site web ?**
 
