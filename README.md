@@ -14,7 +14,7 @@ Alchemist\(炼金术士\) 起源于 [@thegostep](https://twitter.com/thegostep) 
 
 ⚗️$mist 用于协调和奖励忠实的 Alchemists 。无论您是艺术家、开发者、社区经理还是流动资金的提供者，都能从中找到自己的角色。
 
-快来 [discord.alchemist.wtf](http://discord.alchemist.wtf) 与其他 Alchemists 见面，并在 \#builders-application 频道展示您的技能吧。
+快来 [discord.alchemist.wtf](http://discord.alchemist.wtf) 与其他 Alchemists 见面，并在 [\#builders-application](https://discord.com/channels/812035504869998644/812324390082969620) 频道展示您的技能吧。
 
 **有网站吗？**
 
