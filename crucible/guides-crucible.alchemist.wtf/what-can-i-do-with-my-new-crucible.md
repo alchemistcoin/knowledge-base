@@ -11,7 +11,9 @@
 * [Transferring your Crucible to another wallet](what-can-i-do-with-my-new-crucible.md#transferring-your-crucible-to-another-wallet)
 * अपने क्रूसिबल को किसी दूसरे वॉलेट में ट्रांसफर करना 
 * [Locating and Copying your Crucible Address](what-can-i-do-with-my-new-crucible.md#locating-and-copying-your-crucible-address)
-* अपने क्रूसिबल एड्रेस का पता लगाना और उसे कॉपी करनाChecking your rewards
+* अपने क्रूसिबल एड्रेस का पता लगाना और उसे कॉपी करना
+
+## **अपने रिवार्ड्स चेक करना**
 
 1. [crucible.alchemist.wtf](https://crucible.alchemist.wtf/), को खोलिये, अपना वॉलेट कनेक्ट कीजिये और "Your crucibles" टैब पर जाइये
 2. "Your crucibles" टैब पर आने के बाद, नीचे की ओर तीर का उपयोग करके वह क्रूसिबल को चुनिए जिसका विवरण आप देखना चाहते हैं :  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.58.png) 
