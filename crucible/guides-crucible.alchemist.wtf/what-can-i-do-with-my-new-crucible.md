@@ -2,16 +2,11 @@
 
 आप अपने नए मिंट किये गए क्रूसिबल के साथ बहुत कुछ कर सकते हैं, नीचे सबसे सामान्य चीजें हैं जो आप crucible.alchemist.wtf का उपयोग करके कर सकते हैं
 
-* [Checking your rewards](what-can-i-do-with-my-new-crucible.md#undefined)
-* अपने रिवार्ड्स चेक करना
-* [Increasing your LP Subscription](what-can-i-do-with-my-new-crucible.md#undefined-1)
-* अपनी एलपी सब्सक्रिप्शन बढ़ाना
-* [Checking how much LP you've subscribed to your Crucible](what-can-i-do-with-my-new-crucible.md#undefined-2)
-* यह चेक करना की आपने अपने क्रूसिबल में कितनी एलपी जोड़ी है
-* [Transferring your Crucible to another wallet](what-can-i-do-with-my-new-crucible.md#transferring-your-crucible-to-another-wallet)
-* अपने क्रूसिबल को किसी दूसरे वॉलेट में ट्रांसफर करना 
-* [Locating and Copying your Crucible Address](what-can-i-do-with-my-new-crucible.md#undefined-3)
-* अपने क्रूसिबल एड्रेस का पता लगाना और उसे कॉपी करना
+* [अपने रिवार्ड्स चेक करना](what-can-i-do-with-my-new-crucible.md#undefined)
+* [अपनी एलपी सब्सक्रिप्शन बढ़ाना](what-can-i-do-with-my-new-crucible.md#undefined-1)
+* [यह चेक करना की आपने अपने क्रूसिबल में कितनी एलपी जोड़ी है](what-can-i-do-with-my-new-crucible.md#undefined-2)
+* [अपने क्रूसिबल को किसी दूसरे वॉलेट में ट्रांसफर करना ](what-can-i-do-with-my-new-crucible.md#undefined-3)
+* [अपने क्रूसिबल एड्रेस का पता लगाना और उसे कॉपी करना](what-can-i-do-with-my-new-crucible.md#undefined-4)
 
 ## **अपने रिवार्ड्स चेक करना**
 
