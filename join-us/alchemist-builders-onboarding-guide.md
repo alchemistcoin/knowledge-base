@@ -38,111 +38,112 @@
 
 **चौथा ग्रुप है "नियमित" कम्युनिटी के सदस्य और प्रमाणित अलकेमिस्टों का , जो ज़्यादातर $मिस्ट / या क्रूसिबल धारक हैं. यह कम्युनिटी हमारे लिए एक बड़ी भूमिका निभाती है - सहयोग करना, व्यापक भावनाएँ  बताना और मौजूदा उत्पादों और सेवाओं के साथ-साथ आगे के प्रयोगों के लिए विचार के संबंध में मूल्यवान प्रतिक्रिया प्रदान करना. हम उन सबकी सराहना करते हैं को हम तक आ पहुंचे हैं और हम उन्हें इस कम्युनिटी मैं सहज महसूस कराना चाहते हैं.**
 
-## Tools
+## **‌‌उपकरण**
 
-### Discord
+### **डिस्कॉर्ड**
 
-#### **General**
+#### **सामान्य**
 
-Discord is a VoIP, instant messaging and digital distribution platform designed for creating communities. Users communicate with voice calls, video calls, text messaging, media and files in private chats or as part of communities called "servers". Servers are a collection of persistent chat rooms and voice chat channels. Discord runs on Windows, macOS, Android, iOS, iPadOS, Linux, and in web browsers. As of December 2020, the service has over 140 million monthly active users.
+**डिस्कॉर्ड एक वीओआईपी, इंस्टेंट मैसेजिंग और डिजिटल डिस्ट्रीब्यूशन प्लेटफॉर्म है जो समुदायों को बनाने के लिए डिज़ाइन किया गया है. उपयोगकर्ता वॉइस कॉल, वीडियो कॉल, टेक्स्ट मैसेजिंग, मीडिया और फाइलों के साथ निजी चैट में या "सर्वर" नामक समुदायों में संवाद करते हैं. सर्वर चैट रूम एवं वॉइस चैट चैनलों का संग्रह है. डिस्कोर्ड विंडोज, मैक ओएस,एंड्रॉयड, आईओएस, आईपैड ओएस, लिनक्स एवं वेब ब्राउजर पर चलता है. दिसंबर 2020 तक, सेवा के 140 मिलियन से अधिक मासिक सक्रिय उपयोगकर्ता हैं**.
 
-#### **How we use it**
+#### **हम इसका उपयोग कैसे करते हैं**
 
-Discord is our preferred communication tool, as it provides a fast, uncomplicated and sustainable solution for conversations - be it in writing or acoustically. We differentiate in 2 categories - Community & Builder. While the community is open to every alchemist, the builder has his own isolated area apart from distraction. The builder area is divided into different projects or topics, but is basically open to every builder and is intended to encourage participation.
+**डिस्कोर्ड हमारा पसंदीदा संचार उपकरण है, क्योंकि यह बातचीत के लिए एक तेज़, सरल और धारणीय समाधान प्रदान करता है - चाहे वह लिखित रूप में हो या ध्वनिक रूप से. हमारे पास दो श्रेणियां हैं - कम्युनिटी एवं बिल्डर. जहां कम्युनिटी हर अलकेमिस्ट के लिए खुली है, एक बिल्डर के पास अपनी अलग से जगह है जहाँ उसे कोई व्याकुलता नहीं होगी. बिल्डर क्षेत्र को विभिन्न परियोजनाओं या विषयों में विभाजित किया गया है, लेकिन वह हर बिल्डर के लिए खुला है और इसका उद्देश्य भागीदारी को प्रोत्साहित करना है**.
 
-**Links:** [**Alchemist Discord**](http://discord.alchemist.wtf)\*\*\*\*
+**‌लिंक:** [**अलकेमिस्ट डिस्कोर्ड**](http://discord.alchemist.wtf/)**\(**[**Alchemist Discord**](http://discord.alchemist.wtf)**\)**
 
-### Basecamp
+### **बेस कैंप**
 
-#### **General**
+#### **‌सामान्य**
 
-Basecamp is a project management app that you can access in your browser and on your phone. It gives you the tools you need to set up to-dos, a schedule, create and upload documents and files, message and chat with your colleagues, and check in regularly with your group—all in one place!
+**बेस कैंप एक परियोजना प्रबंधन ऐप है जो आप अपने मोबाइल या ब्राउज़र पर एक्सेस कर सकते हैं. यह आपको वे टूल देता है जिससे आप कार्य-सूची सेट कर सकते हैं, शेड्यूल बना सकते हैं, दस्तावेज़ और फ़ाइलें बनाकर अपलोड कर सकते हैं, अपने सहकर्मियों के साथ चैट कर सकते हैं, और अपने समूह के साथ नियमित रूप से चेक-इन कर सकते हैं - यह सब कुछ एक ही स्थान पर**!
 
-Whether you are working alone and need to get organized with your work or use it to collaborate on a project, with work or something personal, Basecamp makes it easy. It’s quick to set up and if you are consistent in using it it should make communication with your team a lot easier. Especially teams that are virtual.
+**चाहे आप अकेले काम कर रहे हों और आपको अपने काम को व्यवस्थित करने की आवश्यकता हो या फिर किसी प्रोजेक्ट पर किसी के साथ सहयोग करना हो, काम के साथ या कुछ व्यक्तिगत, बेस कैंप से सब कुछ आसान है. इसका सेटअप जल्दी से हो जाता है और अगर आप इसका उपयोग करने में सुसंगत हैं तो आपका अपनी टीम के साथ संचार बहुत ही आसान बन जाएगा - खासतौर पर ऐसी टीमें जो वर्चुअल हैं**.
 
-#### **How we use it**
+#### **‌हम इसका उपयोग कैसे करते हैं**
 
-Basecamp is the place where we collect, develop and map all projects. A more precise allocation of tasks and responsibilities are also carried out, as well as transcripts of calls and meetings. It is primarily used to provide an overview if you and especially the multisig-signers, senior alchemists, and builders involved, want to look at a project as a whole.
+**बेस कैंप वह जगह है जहाँ हम सारे परियोजनाओं को एकत्रित, विकसित और मानचित्रित करते हैं. कार्यों और जिम्मेदारियों का अधिक सटीक नियतन भी किया जाता है, साथ ही कॉल और मीटिंग के टेप किए जाते हैं. इसका मुख्य रूप से प्रयोग सिंहावलोकन प्रदान करने के लिए किया जाता है अगर आप और विशेष रूप से मल्टीसिग-साइनर्स, वरिष्ठ अलकेमिस्ट, और बिल्डर, एक परियोजना को समग्र रूप से देखना चाहते हैं**.
 
-### Github
+### **गिटहब**
 
-#### **General**
+#### **‌सामान्य**
 
-GitHub is a web-based version-control and collaboration platform for software developers. GitHub facilitates social coding by providing a web interface to the Git code repository and management tools for collaboration. GitHub can be thought of as a serious social networking site for software developers. Members can follow each other, rate each other's work, receive updates for specific projects and communicate publicly or privately.
+**गिटहब सॉफ्टवेयर डेवलपर्स के लिए एक वेब-आधारित संस्करण-नियंत्रण और सहयोग प्लेटफार्म है. गिटहब सहयोग के लिए Git कोड रिपॉजिटरी और प्रबंधन टूल को वेब इंटरफेस प्रदान करता है और सामाजिक कोडिंग की सुविधा प्रदान करता है. गिटहब को एक गंभीर सोशल नेटवर्किंग साइट की तरह सोचें जो सॉफ्टवेयर डेवेलपर्स के लिए बनाई गई है. इसके सदस्य एक दूसरे को फॉलो कर सकते हैं, एक दूसरे के काम को रेट कर सकते हैं, विशिष्ट परियोजनाओं के लिए अपडेट प्राप्त कर सकते हैं और सार्वजनिक या निजी तौर पर संवाद कर सकते हैं**.
 
-#### **How we use it**
+#### **‌‌हम इसका उपयोग कैसे करते हैं**
 
-GitHub is the digital home of our developers. As already stated in the description, it the perfect platform for collaboration on deployment & developement, especially for us as a decentralized autonomous organization. It represents, separted into different respositories, the core of our products.
+**गिटहब हमारे डेवेलपर्स के लिए एक डिजिटल घर की तरह है. जैसा की हमने पहले कहा, वह डिप्लॉयमेंट एवं डेवलपमेंट के लिए एक आदर्श प्लेटफार्म है, खासकर हमारे लिए क्योंकि हम एक विकेन्द्रीकृत स्वायत्त संगठन हैं. यह प्रतिनिधित्व करता है, विभिन्न भंडारों में विभाजित, हमारे उत्पादों का मूल.**  
+.
 
-**Links:** [**Alchemist Github**](https://github.com/alchemistcoin/alchemist)\*\*\*\*
+**‌‌लिंक:** [**अलकेमिस्ट गिटहब**](https://github.com/alchemistcoin/alchemist)**\(**[**Alchemist Github**](https://github.com/alchemistcoin/alchemist)**\)**
 
-### Linear App
+### **लीनियर ऐप**
 
-#### **General**
+#### **‌सामान्य**
 
-Linear helps streamline software projects, sprints, tasks, and bug tracking. It's built for high-performance teams. It's directly connected to Github.
+**लीनियर सॉफ्टवेयर परियोजनाओं, स्प्रिंट, कार्यों और बग ट्रैकिंग को सुव्यवस्थित करने में मदद करता है. यह उच्च प्रदर्शन वाली टीमों के लिए बनाया गया है. यह गिटहब से सीधा जुड़ा हुआ है**.
 
-#### **How we use it**
+#### **‌‌हम इसका उपयोग कैसे करते हैं**
 
-Linear is primarily used by us to document developer-relevant issues, problems and / or hurdles that arise during the architecture and processing of individual tasks \(previously defined in the Basecamp\) and ultimately to provide solutions or workarounds. Thus, Linear represents the tool, which breaks down individual tasks transparently and in detail for technical topics. Tracking tasks on Github.
+**हम लीनियर का उपयोग व्यक्तिगत कार्य \(जो बेस कैंप में पहले ही परिभाषित किए गए हैं\) की वास्तुकला और प्रसंस्करण के दौरान उत्पन्न होने वाले डेवलपर-प्रासंगिक मुद्दों, समस्याएं और / या बाधाएं दस्तावेजीकरण और अंत में उनका समाधान प्रदान करने के लिए करते हैं. इस प्रकार, लीनियर उपकरण का प्रतिनिधित्व करता है, जो तकनीकी विषयों के लिए व्यक्तिगत कार्यों को पारदर्शी रूप से और विस्तार से तोड़ता है. गिटहब पर कार्य ट्रैक करना**.
 
-### Figma
+### **फिग्मा**
 
-#### **General**
+#### **‌‌सामान्य**
 
-Figma is a cloud-based design tool that is similar to Sketch in functionality and features, but with big differences that make Figma better for team collaboration. For those skeptical of such claims, we’ll explain how Figma simplifies the design process and is more effective than other programs at helping designers and teams work together efficiently.
+**फिग्मा एक क्लाउड-आधारित डिज़ाइन टूल है जो कार्यक्षमता और सुविधाओं में स्केच के समान है, लेकिन टीम सहयोग के लिए ज़्यादा बेहतर है क्योंकि इसमें स्केच से बड़ा अंतर है. अगर आप हमारे दावों पर संदेह करते हैं, तो हम यह समझाएंगे की फिग्मा डिज़ाइन के प्रक्रिया को कैसे सरल करता है और दूसरे प्रोग्रामों से ज़्यादा प्रभावी है डिजाइनरों और टीमों की मदद करने में ताकि वह कुशलतापूर्वक एक साथ काम कर सकें**.
 
-#### **How we use it**
+**‌‌हम इसका उपयोग कैसे करते हैं**
 
-Figma is mainly used by us to share creative content and work on it together. These can be, for example, UI-relevant design drafts, but also initial designs of community projects of any kind - an example here would be designs for one-pagers. Especially when it comes to design decisions, as these are often influenced by personal taste, in our opinion they should first be shared before they are published.
+**फिग्मा का उपयोग हम ज़्यादातर रचनात्मक सामग्री साझा करने और उस पर एक साथ काम करने के लिए करते हैं. उदहारण के लिए - UI से जुड़े डिज़ाइन ड्राफ्ट, या फिर कम्युनिटी के कोई भी प्रोजेक्ट्स से जुड़े प्रारंभिक डिज़ाइन, जैसे की एक पेज के लिए डिज़ाइन. जब डिजाइन से जुड़े निर्णयों की बात हो, क्योंकि वह अक्सर व्यक्तिगत स्वाद से प्रभावित होती है, हमारी राय में इन्हें प्रकाशित होने से पहले साझा किया जाना चाहिये**.
 
-**Links:** [**Alchemist Figma**](https://figma.com)\*\*\*\*
+**‌‌लिंक:** [**अलकेमिस्ट फिग्मा**](https://figma.com/)**\(**[**Alchemist Figma**](https://figma.com)**\)**
 
-### **Coordinape**
+### **‌कोऑर्डीनेप**
 
-#### **General**
+#### **‌‌सामान्य**
 
-Coordinape is a platform for DAOs to easily and fairly distribute resources to contributors. Community grants, internal salaries, and special projects can all be incentivized and rewarded by the community itself. Instead of cumbersome voting or black box committees, contributors themselves can quickly and transparently reward the value they see being created.
+**कोऑर्डीनेप एक ऐसा प्लेटफार्म है जिससे विकेन्द्रीकृत स्वायत्त संगठन अपने योगदानकर्ताओं को संसाधन आसानी से और निष्पक्ष रूप से वितरित कर सकते हैं. सामुदायिक अनुदान, आंतरिक वेतन और विशेष परियोजनाओं को समुदाय द्वारा ही प्रोत्साहित और पुरस्कृत किया जा सकता है. दुष्कर मतदान या ब्लैक बॉक्स समितियों के बदले, योगदानकर्ता खुद ही उस मूल्य को त्वरित और पारदर्शी रूप से पुरस्कृत कर सकते हैं जिसे वे बनते हुए देखते हैं.**
 
-#### **How we use it**
+#### **‌‌हम इसका उपयोग कैसे करते हैं**
 
-Alchemists that have received payouts from the multisig will be placed in circles and have the ability to reward their fellow contributors.
+**जो अलकेमिस्ट मल्टीसिग से भुगतान प्राप्त कर चुके हैं उन्हें मंडलियों में रखा जाएगा और वे अपने साथी योगदानकर्ताओं को पुरस्कृत कर सकते हैं**.
 
-## Meeting Calender
+## **‌बैठक कैलेंडर**
 
-You can find our shared calendar [here](https://calendar.google.com/calendar/u/2/r?cid=c29sYm9mcWlnZGQzbzdzY3E3cWdyN3R2b2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ). All dates are included, be they project-related or generally interesting for the entire organization. Meetings are essential to question individual approaches and to discuss them in a team. A transcript will then be written out of sustainability in the base camp. Since the participants are spread all over the world, the times are usually chosen so that as many as possible can take part.
+**आप हमारे कैलेंडर को** [**यहां**](https://calendar.google.com/calendar/u/2/r?cid=c29sYm9mcWlnZGQzbzdzY3E3cWdyN3R2b2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)**\(**[here](https://calendar.google.com/calendar/u/2/r?cid=c29sYm9mcWlnZGQzbzdzY3E3cWdyN3R2b2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)\) **देख सकते हैं. यहां सारी तिथियां मौजूद है, चाहे वो परियोजना से संबंधित हों या पूरे संगठन के लिए आम तौर पर दिलचस्प हों. बैठक इसलिए आवश्यक है ताकि हम व्यक्तिगत दृष्टिकोण जान सकें और एक टीम में उन पर चर्चा कर सकें. उसके बाद बेस कैंप पर एक प्रतिलेख लिखी जाती है. क्योंकि हमारे प्रतिभागी पुरे दुनिया में मौजूद हैं, इसलिए हम ऐसा समय चुनते हैं जब अधिक से अधिक लोग हमारी बैठकों में भाग ले सकें**
 
-## Routines to Achieve Transparency
+## **पारदर्शिता हासिल करने के लिए दिनचर्या**
 
-In a decentralized team it is sometimes difficult to get an overview of who contributed what and how often. To counteract this, we decided to introduce some routines to promote transparency and visibility even for builders & senior alchemists who are not directly involved in the project.
+**एक विकेन्द्रीकृत टीम में यह देखना कठिन हो जाता है कि किसने क्या और कितनी बार योगदान दिया. इस स्थिति का सामना करने के लिए, हमने कुछ दिनचर्या बनाने का निर्णय जिससे हम पारदर्शिता और दृश्यता को बढ़ावा दे सकें. यह बिल्डर्स और वरिष्ठ अलकेमिस्ट के लिए भी हैं जो सीधे परियोजना में शामिल नहीं हैं**.
 
-### Builder Stand Up
+### **बिल्डर स्टैंड उप**
 
-To make the process more transparent for everyone, we're creating a \# builders-standup channel that we want to encourage active project contributors to post updates to regularly. What did you last work on and what progress did you make? What are you currently working on? What blockers / issues did you run into since your last update and do you need help with anything?
+**प्रक्रिया को सभी के लिए अधिक पारदर्शी बनाने के लिए, हम एक \#builders-standup चैनल शुरू कर रहे हैं जहाँ हम सक्रिय परियोजना योगदानकर्ताओं को नियमित रूप से अपडेट पोस्ट करने के लिए प्रोत्साहित करना चाहते हैं. आपने आखरी बार किस चीज़ पर काम किया था और आपने उस पर क्या प्रगति की? आप इस समय किस पर काम कर रहे हैं? आपके आखरी अपडेट के बाद क्या आपने किसी समस्या का सामना किया और क्या आपको किसी चीज़ में मदद चाहिए**?
 
-We also want to encourage you to push all your WIP branches to GitHub frequently, and especially on Thursdays, so that Senior Alchemists have a better idea on how to calculate the stipend distribution for the week
+**हम आपको प्रोत्साहित करना चाहते हैं कि आप अपनी सभी अर्धनिर्मित उत्पादन को बार-बार गिटहब पर डालें विशेष रूप से गुरुवार को, ताकि वरिष्ठ अलकेमिस्ट सप्ताह के लिए वृत्ति वितरण की गणना कर सकें.**
 
-### Participation on Scheduled Meetings
+### **अनुसूचित बैठकों में भागीदारी**
 
-As already described under the topic "Meeting Calendar", we appreciate the lively exchange in the team on current topics. The easiest and most uncomplicated way to do this is always the spoken word. Regular participation is therefore essential for several reasons at the same time - finding quick solutions, bundling several opinions on certain topics, finding a majority approach and promoting integrity. If it is not possible that you cannot participate in principle or as an exception, let your team know and then take the transcript \(Basecamp\) to stay up to date.
+**जैसा की हमने 'बैठक कैलेंडर' में बताया, हम समसामयिक विषयों पर टीम में जीवंत आदान-प्रदान की सराहना करते हैं. ऐसा करने का सबसे आसान और सरल तरीका है शब्दों में बोलना. इसलिए नियमित भागीदारी ज़रूरी है कई कारणों के लिए - जल्दी से उपाय ढूंढ़ने के लिए, कुछ विषयों कई लोगो की राय लेने के लिए, बहुमत का दृष्टिकोण खोजने और ईमानदारी को बढ़ावा देने के लिए. अगर आप किसी भी वजह से भाग नहीं ले सकते तो अपनी टीम को बताइये और अप टू डेट रहने के लिए बेस कैंप से प्रतिलेख लीजिये**.
 
-### Communication and Tool Interactions
+### **संचार और उपकरण सहभागिता**
 
-We have various tools in use, which we of course also want to use so that we can recognize progress for our set expectations. The work done should be in focus either way. The communication of small or large milestones is often relevant for the entire project, even if this is not always necessarily visible at first glance, and should therefore be in Basecamp \(Project Management\), Linear \(developer\), Figma \(artist\) and / or can be found in the Discord. We would therefore like to encourage you to communicate a lot and actively via one of the channels made available to you.
+**हम कई टूल्स का उपयोग करते हैं और करना भी चाहते हैं ताकि हम अपनी निर्धारित अपेक्षाओं के लिए प्रगति को पहचान सकें. किया गया कार्य हमेशा फोकस में रहना चाहिये. हर छोटे या बड़े माइलस्टोन का संचार अक्सर पूरी परियोजना के लिए प्रासंगिक होता है, चाहे वो भले ही शुरू में नज़र ना आए. इसलिए वह हमेशा बेस कैंप \(परियोजना प्रबंधन के लिए\), लीनियर \(डेवलपर के लिए\), फिग्मा \(डिज़ाइनर के लिए\) और / या डिस्कोर्ड पर होना चाहिये. इसलिए हम प्रोत्साहित करना चाहते हैं की आप उपलब्ध कराए गए चैनलों में से एक के माध्यम से बहुत अधिक और सक्रिय रूप से संवाद करें**.
 
-## Feedback
+## **प्रतिपुष्टि**
 
-We would like to support you with your onboarding as a builder and have therefore incorporated fixed feedback discussions in the initial phase. A senior alchemist or a builder colleague will answer your questions after your first overview and assign you a starting point. The aim of the conversation is to clear up ambiguities and to answer questions of all kinds, so that you can be as much a part of your project as possible from the beginning.
+**एक बिल्डर होने के नाते, हम आपके ऑनबोर्डिंग के साथ आपका समर्थन करना चाहते हैं और इसलिए हमने प्रारंभिक चरण में निश्चित प्रतिपुष्टि चर्चाओं को शामिल किया है. एक वरिष्ठ अलकेमिस्ट या एक बिल्डर सहयोगी आपके पहले अवलोकन के बाद आपके प्रश्नों का उत्तर देगा और आपको एक प्रारंभिक स्थान प्रदान करेगा. इस बात चीत का उद्देश्य यह है की आपके सारे अस्पष्टता दूर हो जाएँ और आपको हर तरह के सवालों का उत्तर मिल जाए, ताकि आप अपने परियोजना का शुरू से ही हिस्सा बने रहें**.
 
-Another feedback appointment is then set after about 2 weeks, when we would like to know in particular how well you have settled and how symptom-free you have been able to contribute your strengths to the value of the project. We also try to optimize our onboarding process through feedback that you give us.
+**लगभग २ हफ्ते बाद , फिर से एक प्रतिपुष्टि के लिए अपॉइंटमेंट निर्धारित की जाती है , जहाँ हम यह जानना पसंद करेंगे की आप कितनी अच्छी तरह से यहां बस गए हैं और की आप किस हद तक आसानी से अपने प्रोजेक्ट में योगदान देने में सहज हैं. हम आपके द्वारा हमें दिए गए प्रतिपुष्टि से अपनी ऑनबोर्डिंग प्रक्रिया को अनुकूलित करने का भी प्रयास करते हैं**.
 
-## The Builders' Stipend
+## **बिल्डरों की वृत्ति**
 
-Once the development efforts begin, the Senior Alchemists start allocating a builders’ stipend to distribute among the project’s actively contributing team members. The stipend comes from a finite pool of $MIST and is distributed weekly based on what the Senior Alchemists deem to be the most beneficial allocation for nourishing the project’s growth. It is subject to change with every payout, but the Senior Alchemists will usually give a rough justification for why the funds were distributed in a particular manner.
+**डेवलपमेंट शुरू होने के बाद, हमारे वरिष्ठ अलकेमिस्ट बिल्डरों की वृत्ति का नियतन करना शुरू कर देते हैं जो परियोजना के सक्रिय रूप से योगदान देने वाले टीम के सदस्यों के बीच वितरित होगा. यह वृत्ति $MIST के एक सीमित पूल से आती है और इसे परियोजना के विकास के लिए वरिष्ठ अलकेमिस्ट सबसे अधिक लाभकारी आवंटन के आधार पर हर हफ्ते वितरित करते हैं. यह प्रत्येक भुगतान के साथ परिवर्तन के अधीन है, लेकिन वरिष्ठ अलकेमिस्ट आमतौर पर इस बात का औचित्य देंगे कि इस तरह से धन क्यों वितरित किया गया है**.
 
-The builders stipend is here to make it easy for you to put aside other distractions and focus on building with the rest of the Alchemists. It is not a salary. It is not meant to be the primary incentive to drive your contributions. If you’re here as a mercenary and just want to get paid then you’re probably in the wrong community.
+**बिल्डरों की वृत्ति इसलिए बनाई गई है ताकि आप अन्य विकर्षणों को दूर करके बाकी अलकेमिस्टों के साथ मिलकर निर्माण पर ध्यान केंद्रित कर सकें. यह ऐक वेतन नहीं है. इसको आप अपने योगदान को बढ़ाने के लिए प्राथमिक प्रोत्साहन ना समझें. अगर आप यहां भाड़े के व्यक्ति के रूप में हैं और केवल भुगतान प्राप्त करना चाहते हैं तो आप शायद गलत कम्युनिटी में हैं**.
 
-## Onboarding Form
+## **ऑनबोर्डिंग फॉर्म**
 
-To take part in the onboarding process, please fill out this [form](https://dzd671syme2.typeform.com/to/YUBB53J8)!
+**ऑनबोर्डिंग की प्रक्रिया में हिस्सा लेने के लिए, कृपया यह** [**फॉर्म**](https://dzd671syme2.typeform.com/to/YUBB53J8)**\(**[form](https://dzd671syme2.typeform.com/to/YUBB53J8)\) **भरिये**!
 
