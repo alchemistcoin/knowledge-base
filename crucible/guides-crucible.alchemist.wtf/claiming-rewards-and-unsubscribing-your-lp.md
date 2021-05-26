@@ -20,7 +20,11 @@
 4. "Manage Crucible" बटन को दबाइये.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.04.png) 
 5. अब आपको "Rewards" टैब के अंतर्गत आंकड़ों की अधिक जटिल सूची दिखाई जानी चाहिए  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.22.png) 
 6. पृष्ठ के निचले भाग में "Claim rewards and unsubscribe" पर क्लिक कीजिये. ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.05.52.png) 
-7. आगे बढ़ने से पहले, आपको अपना वॉलेट ताइची नेटवर्क पर कनेक्ट करना होगा, कृपया [this link for connection details and instructions](https://github.com/Taichi-Network/docs/blob/master/sendPriveteTx_tutorial.md)\([कनेक्शन विवरण और निर्देशों](https://github.com/Taichi-Network/docs/blob/master/sendPriveteTx_tutorial.md)\), के लिए इस लिंक को देखें, हमने आपको यह प्रक्रिया समझाने के लिए नीचे एक एनिमेटेड ट्यूटोरियल बनाया है. ![](../../.gitbook/assets/taichi-network-add.gif) 
+7. आगे बढ़ने से पहले, आपको अपना वॉलेट ताइची नेटवर्क पर कनेक्ट करना होगा, कृपया [कनेक्शन विवरण और निर्देशों](https://github.com/Taichi-Network/docs/blob/master/sendPriveteTx_tutorial.md)
+
+   \([this link for connection details and instructions](https://github.com/Taichi-Network/docs/blob/master/sendPriveteTx_tutorial.md)\), के लिए इस लिंक को देखें, हमने आपको यह प्रक्रिया समझाने के लिए नीचे एक एनिमेटेड ट्यूटोरियल बनाया है.  
+   ![](../../.gitbook/assets/taichi-network-add.gif) 
+
 8. यह सुनिश्चित कर लेना की मेटामास्क ताइची नेटवर्क दिखा रहा है.
 
    ![](https://i.imgur.com/kszVVbq.png)
