@@ -35,7 +35,7 @@
 1. [Checking your Rewards](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)\(**अपने रिवार्ड्स चेक करना**\) **वाले भाग से चरण १ - ५ का पालन कीजिये**
 2. **‌अब आप “Subscribed Crucible LP" और "Unsubscribed Crucible LP" देख पाएंगे.**
 
-## Transferring your Crucible to another wallet
+## **अपने क्रूसिबल को किसी दूसरे वॉलेट में ट्रांसफर करना**
 
 1. [Checking your Rewards](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)\(**अपने रिवार्ड्स चेक करना**\) **वाले भाग से चरण १ - ५ का पालन कीजिये** 
 2. **अपने क्रूसिबल सारांश का पता लगाइए जो खुला है** ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.42.png)
