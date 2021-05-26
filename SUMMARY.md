@@ -33,7 +33,7 @@
 ## Links 🔗 <a id="discussion"></a>
 
 * [Twitter](https://twitter.com/_alchemistcoin)
-* [Discord](https://discord.com/invite/qWQQMMKjKe)
+* [Discord](https://discord.com/invite/alchemist)
 * [Telegram](https://t.me/alchemistcoin)
 * [Instagram](https://www.instagram.com/thealchemistcoin/)
 * [Github](http://alchemist.wtf/)
