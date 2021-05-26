@@ -23,7 +23,8 @@
       </th>
       <th style="text-align:center"><b>&#x915;&#x94D;&#x930;&#x942;&#x938;&#x93F;&#x92C;&#x932;&#x938; &#x915;&#x94B; &#x905;&#x928;&#x938;&#x92C;&#x94D;&#x938;&#x94D;&#x915;&#x94D;&#x930;&#x93E;&#x907;&#x92C; &#x915;&#x930;&#x928;&#x93E; &#x914;&#x930; &#x926;&#x947;&#x916;&#x928;&#x93E;</b>
       </th>
-      <th style="text-align:center">TaiChi Network</th>
+      <th style="text-align:center"><b>&#x924;&#x93E;&#x907;&#x91A;&#x940; &#x928;&#x947;&#x91F;&#x935;&#x930;&#x94D;&#x915;</b>
+      </th>
     </tr>
   </thead>
   <tbody>
