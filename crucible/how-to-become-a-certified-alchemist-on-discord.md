@@ -4,7 +4,7 @@
 
 अगर आपका क्रूसिबल ऑनलाइन साइट द्वारा मिंट किया गया है , तो कृपया [Part 2](how-to-become-a-certified-alchemist-on-discord.md#part-2) जाइए
 
-अगर आपका क्रूसिबल  [कमांड लाइन](https://github.com/alchemistcoin/alchemist)\([command line](https://github.com/alchemistcoin/alchemist)\), द्वारा मिंट किया गया है , तो आपको आपके कमांड लाइन वॉलेट से स्मृती-विज्ञान/निमोनिक्स का उपयोग करके एक नए मेटामास्क वॉलेट में लॉगिन करना होगा. यह [Part 1](how-to-become-a-certified-alchemist-on-discord.md#part-1)  दिखाया गया है. 
+अगर आपका क्रूसिबल  [कमांड लाइन](https://github.com/alchemistcoin/alchemist)\([command line](https://github.com/alchemistcoin/alchemist)\), द्वारा मिंट किया गया है , तो आपको आपके कमांड लाइन वॉलेट से स्मृती-विज्ञान/निमोनिक्स का उपयोग करके एक नए मेटामास्क वॉलेट में लॉगिन करना होगा. यह [Part 1](how-to-become-a-certified-alchemist-on-discord.md#undefined)  दिखाया गया है. 
 
 ## ‌भाग १
 
