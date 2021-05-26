@@ -12,15 +12,10 @@
 **अगर आप अनिश्चित हैं कि V3 और V2 के बीच कैसे बदला जाये, तो कृपया** [guide](../../acquiring-and-subscribing.md)\(**गाइड**\) **में दी गयी हमारी लिंक्स का उपयोग कीजिये**
 {% endhint %}
 
-* [Make a Crucible](https://www.youtube.com/watch?v=Rl9Rf-3Sp-8)
 * [**क्रूसिबल को बनाना**](https://www.youtube.com/watch?v=Rl9Rf-3Sp-8)
-* [Get LP, then Make a Crucible](https://www.youtube.com/watch?v=Ga1qcQ6x3as)
 * [**एलपी को प्राप्त करना, फिर क्रूसिबल को बनाना**](https://www.youtube.com/watch?v=Ga1qcQ6x3as)
-* [Get LP, then Make a Crucible, and become a Certified Alchemist on Discord](https://www.youtube.com/watch?v=k7MO1QpqCds)
 * [**एलपी को प्राप्त करना, फिर क्रूसिबल को बनाना और डिस्कॉर्ड पर प्रमाणित अल्केमिस्ट बनना**](https://www.youtube.com/watch?v=k7MO1QpqCds)
-* [Crucible Transfer using Alchemist.farm and OpenSea.io](https://www.youtube.com/watch?v=i2MCYimelBM)
 * [**Alchemist.farm और OpenSea.io का उपयोग करके क्रूसिबल ट्रांसफर करना** ](https://www.youtube.com/watch?v=i2MCYimelBM)
-* [Impermanent Loss - watch before staking LP](https://www.youtube.com/watch?v=8XJ1MSTEuU0)
 * [**अस्थायी नुकसान - एलपी को दांव पर लगाने से पहले देखिये**](https://www.youtube.com/watch?v=8XJ1MSTEuU0)
 
 ### **संबंधित चित्र 🖼🎨**
