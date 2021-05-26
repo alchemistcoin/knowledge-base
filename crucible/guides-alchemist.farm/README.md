@@ -2,7 +2,7 @@
 
 {% hint style="info" %}
 **नीचे दिए गए गाइड्स कम्युनिटी साइट के लिए हैं**  [**alchemist.farm**](https://alchemist.farm/)  
-**अगर आप** [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) **का उपयोग कर रहे हैं , तो** [**यहाँ क्लिक**](https://crucible.alchemist.wtf/)**\(**[click here](../guides-crucible.alchemist.wtf/)**\) कीजिये** 
+**अगर आप** [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) **का उपयोग कर रहे हैं , तो**[ **यहाँ क्लिक**](../guides-crucible.alchemist.wtf/)**\(**[click here](../guides-crucible.alchemist.wtf/)**\) कीजिये** 
 {% endhint %}
 
 ### **लेख-सूची**
