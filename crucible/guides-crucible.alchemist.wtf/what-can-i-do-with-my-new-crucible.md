@@ -18,7 +18,7 @@
 
 ## **अपनी एलपी सब्सक्रिप्शन बढ़ाना**
 
-1. [Checking your Rewards](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)\(**अपने रिवार्ड्स चेक करना**\) **वाले भाग से चरण १ - ५ का पालन कीजिये**
+1. \*\*\*\*[**अपने रिवार्ड्स चेक करना**](what-can-i-do-with-my-new-crucible.md#undefined) **वाले भाग से चरण १ - ५ का पालन कीजिये**
 2. **“Increase LP Subscription" बटन पर क्लिक कीजिये**  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.36.png)
 3. **निर्दिष्ट कीजिये कि आप अपनी सदस्यता को कितना एलपी बढ़ाना चाहते हैं और "Increase Subscription" को दबाइये.** ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.48.png) 
 4. **२ ‘सिग्नेचर रिक्वेस्ट’ पर हस्ताक्षर कीजिये और ट्रांजेक्शन की पुष्टि कीजिये.**![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.59.png)![](../../.gitbook/assets/screenshot-2021-05-07-at-12.52.17.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.52.27.png) 
@@ -27,12 +27,12 @@
 
 ## **‌यह चेक करना की आपने अपने क्रूसिबल में कितनी एलपी जोड़ी है**
 
-1. [Checking your Rewards](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)\(**अपने रिवार्ड्स चेक करना**\) **वाले भाग से चरण १ - ५ का पालन कीजिये**
+1. [**अपने रिवार्ड्स चेक करना**](what-can-i-do-with-my-new-crucible.md#undefined) **वाले भाग से चरण १ - ५ का पालन कीजिये**
 2. **‌अब आप “Subscribed Crucible LP" और "Unsubscribed Crucible LP" देख पाएंगे.**
 
 ## **अपने क्रूसिबल को किसी दूसरे वॉलेट में ट्रांसफर करना**
 
-1. [Checking your Rewards](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)\(**अपने रिवार्ड्स चेक करना**\) **वाले भाग से चरण १ - ५ का पालन कीजिये** 
+1. \*\*\*\*[**अपने रिवार्ड्स चेक करना**](what-can-i-do-with-my-new-crucible.md#undefined) **वाले भाग से चरण १ - ५ का पालन कीजिये** 
 2. **अपने क्रूसिबल सारांश का पता लगाइए जो खुला है** ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.42.png)
 3. **अपने क्रूसिबल के दाईं ओर हवाई जहाज का आइकन ढूंढिये और उस पर क्लिक कीजिये**![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.44.png) 
 4. **"Recipient Address" फ़ील्ड में अपना वॉलेट एड्रेस लिखिए \(यह ERC-721 संगत होना चाहिए\) और "Transfer Crucible" को दबाइये** ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.56.17.png) 
@@ -41,7 +41,7 @@
 
 ## **अपने क्रूसिबल एड्रेस का पता लगाना और उसे कॉपी करना**
 
-1. [Checking your Rewards](what-can-i-do-with-my-new-crucible.md#checking-your-rewards) \(**अपने रिवार्ड्स चेक करना\) वाले भाग से चरण १ - ५ का पालन कीजिये**
+1. \*\*\*\*[**अपने रिवार्ड्स चेक करना**](what-can-i-do-with-my-new-crucible.md#undefined) **वाले भाग से चरण १ - ५ का पालन कीजिये**
 2. **अपने क्रूसिबल सारांश का पता लगाइए जो खुला है** ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.42.png)
 3. **हवाई जहाज के आइकन के बाईं ओर कॉपी आइकन को ढूंढिये, इसे क्लिक कीजिये. अब आपका क्रूसिबल एड्रेस आपके क्लिपबोर्ड में सेव है.** ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.48.png)
 
