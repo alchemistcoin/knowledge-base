@@ -12,5 +12,5 @@
 3. [How to Claim Rewards and Unsubscribe your LP from the Aludel using the TaiChi network](how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md)
 4. \*\*\*\*[**अपने रिवार्ड्स को क्लेम एवं अपने एलपी \(लिक्विडिटी पूल\) की ऐलूडेल से ताइची नेटवर्क पर सदस्यता समाप्त कैसे करें**](how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md)
 5. [Visual Guides 🎞](visual-guides.md)
-6. **विजुअल गाइड्स**
+6. \*\*\*\*[**विजुअल गाइड्स**](visual-guides.md)\*\*\*\*
 
