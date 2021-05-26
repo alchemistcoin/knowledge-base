@@ -21,10 +21,10 @@
 | :--- | :--- |
 | [twitter.com/\_alchemistcoin](https://twitter.com/_alchemistcoin) | ट्विटर |
 | [discord.alchemist.wtf](http://discord.alchemist.wtf) | डिस्कॉर्ड |
-| [t.me/alchemistcoin](https://t.me/alchemistcoin) | Telegram \(App Link\) |
-| [web.telegram.org/\#/im?p=@alchemistcoin](https://web.telegram.org/#/im?p=@alchemistcoin) | Telegram \(Web Version\) |
-| [instagram.com/thealchemistcoin](https://www.instagram.com/thealchemistcoin/) | Instagram |
-| [alchemistcoin.medium.com](https://alchemistcoin.medium.com/) | Medium |
+| [t.me/alchemistcoin](https://t.me/alchemistcoin) | टेलीग्राम ऐप |
+| [web.telegram.org/\#/im?p=@alchemistcoin](https://web.telegram.org/#/im?p=@alchemistcoin) | टेलीग्राम वेब |
+| [instagram.com/thealchemistcoin](https://www.instagram.com/thealchemistcoin/) | इंस्टाग्राम |
+| [alchemistcoin.medium.com](https://alchemistcoin.medium.com/) | मीडियम प्लेटफार्म |
 
 
 
