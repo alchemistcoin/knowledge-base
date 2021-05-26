@@ -1,96 +1,96 @@
-# Where to start? – the 7 ITIL guiding principles \(thegostep\(s\);\)\)!
+# कहाँ से शुरू करें? - ७ आईटीआईएल मार \(thegostep\(s\);\)\)!
 
-A guiding principle is a recommendation that provides universal and enduring guidance to an organization, which applies in all circumstances, regardless of changes in its goals, strategies, type of work, or management structure.
+**एक मार्गदर्शक सिद्धांत एक सिफारिश है जो एक संगठन को सार्वभौमिक और स्थायी मार्गदर्शन प्रदान करता है, जो सभी परिस्थितियों में लागू होता है, भले ही इसके लक्ष्यों, रणनीतियों, कार्य के प्रकार या प्रबंधन संरचना में परिवर्तन हो जाए**.
 
 ![](https://i.imgur.com/iy0U6hG.png)
 
-### 1. Focus on value.
+### 1. **महत्व पर ध्यान दें**.
 
-Everything the organization does should link back, directly or indirectly, to value for itself, its “customers”, and other stakeholders. When focusing on value. The first step is to know who are the customers and key stakeholders that my value is being served. Second, it is important to understand what constitutes value from the consumer’s perspective. It is also critical to understand the customer’s experience with the organization and the product/service through a clear awareness of the customer experience or user experience.
+**जो कुछ एक संगठन करता है, उसे प्रत्यक्ष या अप्रत्यक्ष रूप से, अपने, "ग्राहकों" और अन्य हितधारकों के लिए मूल्य पैदा करना चाहिये. मूल्य या महत्व ध्यान केंद्रित करने के लिए , पहला कदम है यह जानना कि मेरे ग्राहक और महत्त्वपूर्ण साझीदार कौन हैं जिनके लिए मुझे मूल्य पैदा करना है. दूसरा कदम है यह समझना की ग्राहकों के नज़र में मूल्य क्या है. ग्राहक अनुभव या उपयोगकर्ता अनुभव के माध्यम से यह समझना भी आवश्यक है की ग्राहक का संगठन के साथ और उत्पाद/सेवा के साथ कैसा अनुभव रहा है**.
 
-* Know the usage of your service/product/organization.
-* Encourage a focus on value among your team members.
-* Focus on value during every normal operational activity.
-* Include in any improvement initiative the focus on value.
+* **अपनी सेवा/उत्पाद/संगठन के उपयोग को जानें.**
+* **अपनी टीम के सदस्यों को मूल्य पर ध्यान केंद्रित करने के लिए प्रोत्साहित करें**.
+* **प्रत्येक सामान्य परिचालन गतिविधि के दौरान मूल्य पर ध्यान दें**.
+* **जो भी पहल मूल्य पर ध्यान केंद्रित करता है उससे शामिल कर लें**.
 
-### 2. Start where you are.
+### 2. **जो है उसी के साथ शुरू करें / जहां हैं वहीं से शुरू करें**.
 
-When you seek an improvement opportunity, do not start over without considering what is already available to be leveraged. You should not waste your time by wrecking the base of your work – be aware what has been invested \(costs, sweat and time\).
+**जब आप ऐक सुधर का अवसर ढूँढ़ते हैं, जो पहले से ही उपलब्ध है, उस पर विचार किए बिना फिर से शुरू न करें. आप अपने काम की बुनियाद तोड़कर अपना समय बर्बाद ना करें - यह ध्यान रहे की इस काम पर आपने कितना निवेश किया है - लागत, पसीना और समय**.
 
-Observing existing services and methods should be in line with measurement if possible, to properly understand their current state and what can be reused from them. Information should always be as accurate as possible to make objective decisions. Always see measurement as a support for the analysis. Be aware – measurement is used to support the analysis of what has been observed rather than to replace it, as over-reliance on data analytics and reporting can unintentionally introduce biases and risks in decision-making.
+**अगर संभव है तो मौजूदा सेवाओं और विधियों का अवलोकन मापन के अनुरूप होना चाहिये, ताकि आप उनकी वर्तमान स्थिति को ठीक से समझ सकें और यह देख सकें की उनसे क्या पुन: उपयोग किया जा सकता है. वस्तुनिष्ठ निर्णय लेने के लिए सूचना हमेशा यथासंभव सटीक होनी चाहिये. मापन को हमेशा विश्लेषण के समर्थन के रूप में देखें. ध्यान रहे की मापन को उपयोग जो अवलोकन किया गया है उसके विश्लेषण के समर्थन में किया जाता है , ना की उसे बदलने के लिए, क्योंकि डेटा विश्लेषण और रिपोर्टिंग पर अत्यधिक निर्भरता अनजाने में निर्णय लेने में पूर्वाग्रह और जोखिम पैदा कर सकती है**.
 
-* The Starting Point is either the “customer” or result. Judge your existing methods as objective as possible!
-* Did you find successful existing practices? Use them! Determine if and how these can be expanded and replicated upon to achieve a desired improvement.
-* Evaluate with risk management skills.
-* Face it! Sometimes almost nothing or even nothing can be re-used.
+* **प्रारंभिक स्थान या तो ग्राहक होता है या तो परिणाम. अपने मौजूदा तरीकों को यथासंभव उद्देश्य के रूप में आंकें**!
+* **क्या आपको कोई मौजूदा सफल अभ्यास मिले हैं? उनका उपयोग करें! यह निर्धारित करें कि क्या और कैसे इनका विस्तार किया जा सकता है और वांछित सुधार प्राप्त करने के लिए उन्हें दोहराया जा सकता है या नहीं**.
+* **जोखिम प्रबंधन कौशल के साथ मूल्यांकन करें**.
+* **यह याद रखें की कभी कभी हम कुछ चीज़ों का पुन: उपयोग नहीं कर सकते हैं**.
 
-### 3. Progress iteratively with feedback.
+### 3. **प्रतिपुष्टि के साथ पुनरावृत्त रूप से आगे बड़े**.
 
-Resist the temptation to do everything at once. Slice it! Small steps or milestones \(iterations\) can be executed and completed in a timely manner. Each goal will be easier to achieve, its motivating instead of a frustrating. The focus on each effort will be sharper. Reflect any changes in circumstances and keep the focus on value on mind to re-evaluate and potentially revision every iteration as well as the whole initiative. Honest feedback is your tool to review your actions – analyze your improvement opportunities, risks and issues. Give feedback a value to learn, build and improve.
+**हर चीज़ को ऐक साथ करने से बचें. उन्हें टुकड़ों में तोड़ें. छोटे कदम या माइलस्टोंस को समय पर पूरा किया जा सकता है. प्रत्येक लक्ष्य को प्राप्त करना आसान होगा, निराशा के बजाय उसे आप प्रेरित होंगे. हर प्रयास पर आपका ध्यान तेज होगा. परिस्थितियों में किसी भी बदलाव को प्रतिबिंबित करें और अपना ध्यान मूल्य पर रखें ताकि आप हर कदम या पुरे पहल का पुनर्मूल्यांकन और संभावित संशोधन कर सकें. ईमानदार प्रतिपुष्टि अपने कार्यों की समीक्षा करने के लिए आपका उपकरण है - अपने सुधार के अवसरों, जोखिमों और मुद्दों का विश्लेषण करें. प्रतिक्रिया को सीखने, बनाने और सुधारने के लिए मूल्य दें**.
 
-* Small steps or milestones, while comprehend the whole.
-* Feedback is essential – circumstances change fast.
-* Fast =/= incomplete.
+* **छोटे कदम या माइलस्टोंस, पुरे पहल को ध्यान में रखते हुए**.
+* **प्रतिपुष्टि ज़रूरी है - परिस्थितियां तेजी से बदलती हैं**.
+* **तेजी से करना =/= काम का अधूरा होना**.
 
-### 4. Collaborate and promote visibility.
+### 4. **मिल कर काम करें और दृश्यता को बढ़ावा दें**.
 
-Involving the right people in the correct roles, efforts benefit from more relevance \(judgement for decision making has more value\) and create increased long-term success. Inclusion is generally a better policy than exclusion since enthusiastic contributions, creative solutions, and important perspectives can be obtained from unexpected sources. Requirements for success are information, understanding and trust.
+**सही लोगों को सही भूमिकाओं में शामिल करने से अधिक प्रासंगिकता का फायदा होता है \(फैसला लेने के लिए निर्णय का अधिक मूल्य हो जाता है\) और इससे लंबी अवधि की सफलता में वृद्धि होती है. समावेश बहिष्करण से ज़्यादा बेहतर नीति है क्योंकि अप्रत्याशित स्रोतों से उत्साही योगदान, रचनात्मक समाधान और महत्वपूर्ण दृष्टिकोण प्राप्त किए जा सकते हैं. जानकारी, समज और विश्वास सफलता के लिए आवश्यकताएं हैं**.
 
-Identify and manage all stakeholders or groups involved. The most obvious stakeholder group is the “customers”, as in ITIL the organization’s main goal is to facilitate customer outcomes. Other examples of stakeholder collaboration include: developers \(collaboration with other internal teams – like research\) or internal and external suppliers.
+**सभी हितधारकों या ग्रुप्स को पहचान लें और उनका प्रबंधन करें. सबसे स्पष्ट हितधारक समूह "ग्राहक" है, जैसा की आईटीआईएल में लिखा है, संगठन का मुख्य लक्ष्य उपभोक्ता परिणामों को सुविधाजनक बनाना है. दूसरे हितधारकों के साथ सहयोग के उदाहरण हैं - डेवेलपर्स \(आंतरिक टीम्स के साथ सहयोग कैसे रिसर्च टीम\) या फिर आंतरिक और बाहरी आपूर्तिकर्ता**.
 
-The contribution to improvement of each stakeholder group at each level should be understood, as should the most effective methods to engage with them. Expect different variations about the level and type of collaboration, depending on the relationship between the organization and “consumer”. Address the needs of involved stakeholders! Determining the type, method, and frequency of such messaging! An organized activity @communication is highly recommended.
+**प्रत्येक स्तर पर प्रत्येक हितधारक समूह के सुधार में योगदान को समझना ज़रूरी है, जैसा कि है उनके साथ जुड़ने के लिए सबसे प्रभावी तरीके को समझना.  संगठन और "उपभोक्ता" के बीच संबंधों के आधार पर, सहयोग के स्तर और प्रकार के बारे में विभिन्न भिन्नताओं की अपेक्षा करें. शामिल हितधारकों की जरूरतों को संबोधित करें! मैसेजिंग के प्रकार, विधि और आवृत्ति का निर्धारण करें. एक संगठित गतिविधि @communication की अत्यधिक अनुशंसा की जाती है**.
 
-Stakeholders need a clear vision of the progress and workload! Never give the impression that nothing happens! Insufficient visibility leads to poor decision making and impacts the ability to improve internal capabilities. To avoid this, you will need critical \(and sincere!\) analysis of the workflow, bottlenecks and excess capacity.
+**हितधारकों को प्रगति और कार्यभार की स्पष्ट दृष्टि की आवश्यकता है! यह कभी न आभास दें कि कुछ नहीं हो रहा! अपर्याप्त दृश्यता खराब निर्णय लेने की ओर ले जाती है और आंतरिक क्षमताओं में सुधार करने की क्षमता को प्रभावित करती है. इससे बचने के लिए, आपको वर्कफ़्लो, बाधाओं और अतिरिक्त क्षमता के महत्वपूर्ण \(और ईमानदार\) विश्लेषण की आवश्यकता होगी**.
 
-* Collaboration =/= consensus
-* Shout out loud – frequent communication is the way to go.
-* “Good” decisions can only be made with visibility.
+* **सहयोग =/= आम सहमति.**
+*  **लगातार संचार बनाये रखें**.
+* **"अच्छे" निर्णय केवल स्पष्ट दृश्यता के साथ किए जा सकते हैं**.
 
-### 5. Think and work holistically.
+### 5. **समग्र रूप से सोचें और काम करें**.
 
-In a complex system, the alteration of one element can impact others. These impacts need to be identified, analyzed and planned for. Nothing stands alone – whether a service, practice, process or department. The result will suffer unless it works in an integrated way to handle its activities as a whole, rather than as separate parts.
+**एक जटिल व्यवस्था में, एक तत्व का परिवर्तन दूसरों को प्रभावित कर सकता है. इन प्रभावों की पहचान, विश्लेषण और योजना बनाना आवश्यक है. कुछ भी अकेला नहीं खड़ा हो सकता है - चाहे वह सेवा, अभ्यास, प्रक्रिया या विभाग हो. नतीजा तब तक ख़राब रहेगा जब तक कि यह अलग-अलग हिस्सों के बजाय अपनी गतिविधियों को समग्र रूप से संभालने के लिए एकीकृत तरीके से काम नहीं करता**.
 
-Taking a holistic approach to ITIL concepts includes establishing an understanding of how all the parts of an organization work together \(four dimensions: organizations and people, information and technology, partners and/or suppliers, value streams and processes\). Demand is captured and translated into outcomes.
+**आईटीआईएल अवधारणाओं के प्रति समग्र दृष्टिकोण अपनाने का मतलब है यह समझना कि एक संगठन के सभी हिस्से कैसे काम करते हैं \(चार आयाम: संगठन और लोग, सूचना और प्रौद्योगिकी, भागीदार और/या आपूर्तिकर्ता, मूल्य धाराएं और प्रक्रियाएं\). मांग पर कब्जा करके उसे परिणामों में अनुवादित किया जाता है**.
 
-* Recognize the complexity of every element.
-* Collaboration is key to working holistically.
-* Reach out for patterns in the needs of and interactions between elements.
-* Automation can facilitate working integrated.
+* **हर तत्व की जटिलता को पहचानें**.
+* **सहयोग समग्र रूप से काम करने की कुंजी है**.
+* **उन पैटर्नस का ध्यान रखें जिन्हे तत्वों की और परस्पर क्रियाओं की जरूरत है**.
+* **स्वचालन एकीकृत काम करने की सुविधा प्रदान कर सकता है**.
 
-### 6. Keep it simple and practical.
+### 6. **काम को सरल और व्यावहारिक रखें**.
 
-Always use the minimum number of steps to accomplish an objective. Result-based thinking should be used to produce practical solutions that deliver valuable outcomes. If a process, action or metric fails to provide value or produce a useful outcome, then eliminate it. Do not focus on every exception, this will automatically lead to over-complication. Instead, rules, workflows or processes should be designed that can be used to handle exceptions generally.
+**कोई उद्देश्य पूरा करने के लिए हमेशा न्यूनतम चरणों का उपयोग करें. मूल्यवान परिणाम देने वाले व्यावहारिक समाधान तैयार करने के लिए परिणाम-आधारित सोच का उपयोग किया जाना चाहिये. अगर एक प्रक्रिया, क्रिया या मीट्रिक मूल्य देने में या एक उपयोगी परिणाम उत्पन्न करने में विफल हो जाता है, तो उसे समाप्त कर दें. हर अपवाद पर ध्यान न दें, क्योंकि वह अति-जटिलता की ओर ले जाएगी. इसके बजाय, नियमों, वर्कफ़्लो या प्रक्रियाओं को इस तरह डिज़ाइन किया जाना चाहिये कि वे इन अपवादों को संभाल सकें**.
 
-Value creation is your goal – keeping it simple and practical helps to understand the contribution. Establish and communicate a holistic view of the work. Individual teams or groups can understand how their work is being influenced by, and in turn influences, others.
+**मूल्य निर्माण आपका लक्ष्य है -  इसे सरल और व्यावहारिक रखने से योगदान को समझने में आसानी होती है. अपने काम को समग्र दृष्टिकोण से स्थापित और संप्रेषित करें. व्यक्तिगत टीम और ग्रुप्स यह समझ पाएंगे कि उनका काम किस तरह दूसरों से प्रभावित हो रहा है और वे भी दूसरों को प्रभावित करते हैं**.
 
-Keep your eyes open of conflicting objectives when designing, managing, or operating practices. For example, managers may want a lot of data \(quantity\), but service teams might be constrained in prioritizing the collection and detail of that data. Find a compromise between competing objectives.
+**प्रथाओं को डिजाइन, प्रबंधन या संचालन करते समय विरोधी उद्देश्यों के लिए अपनी आँखें खुली रखें. उदाहरण के लिए - शायद प्रबंधक बहुत अधिक डेटा \(मात्रा\) मांग सकते हैं , लेकिन सेवा दल उस डेटा के संग्रह और विवरण को प्राथमिकता देने में विवश हो सकते हैं. प्रतिस्पर्धी उद्देश्यों के बीच एक समझौता खोजें**.
 
-* Ensure value.
-* Simplicity is key.
-* Set only a few rules to cover the major practices.
-* Respect the time and work of people involved.
-* Adoption is easier when it is not complicated.
-* Get the low-hanging fruits.
+* **मूल्य सुनिश्चित करें**.
+* **सरलता कुंजी है**.
+* **प्रमुख प्रथाओं को कवर करने के लिए केवल कुछ नियम निर्धारित करें**.
+* **जब कुछ जटिल न हो तो उसे अपनाना आसान हो जाता है**.
+* **नज़दीक लटकने वाले फल प्राप्त करें**.
+* **अनुकूलित और स्वचालित करें**.
 
-### 7. Optimize and automate.
+### 7. **अनुकूलित और स्वचालित करें**.
 
-Maximize the value of the work carried out by human and technical resources. Technology can help organizations to scale up and take on frequent and repetitive tasks. However, technology should not always be relied upon without the capability of human intervention, as automation for automation’s sake can increase costs and reduce robustness and resilience.
+**मानव और तकनीकी संसाधनों द्वारा किए गए कार्य के मूल्य को अधिकतम करें.टेक्नोलॉजी से संगठनों को आगे बड़ने और बार-बार दोहराए जाने वाले कार्य करने में मदद मिल सकती है. लेकिन, मानव हस्तक्षेप की योग्यता के बिना टेक्नोलॉजी पर हमेशा भरोसा नहीं किया जाना चाहिए, क्योंकि स्वचालन लागत में वृद्धि कर सकता है और दृढ़ता और लचीलापन को कम कर सकता है**.
 
-Optimization intents to make something as effective and useful as it should be. Always optimize first before considering an automation. Consider that you have set constraint limits for optimization! E.g. Costs, time or resources could be wasted.
+**अनुकूलन का इरादा किसी चीज को उतना ही प्रभावी और उपयोगी बनाना है जितना उसे होना चाहिये. स्वचालन से पहले हमेशा अनुकूलित करें. विचार करें कि आपने अनुकूलन के लिए बाधा सीमा निर्धारित की है! मतलब: लागत, समय या संसाधन बर्बाद हो सकते हैं**.
 
-The path to optimization follows these high-level steps:
+**अनुकूलन का मार्ग इन उच्च-स्तरीय चरणों का अनुसरण करता है**:
 
-* Declare the context in which the proposed optimization exists.
-* Judge the current state of the proposed optimization.
+* **उस संदर्भ की घोषणा करें जिसमें प्रस्तावित अनुकूलन मौजूद है**.
+* **प्रस्तावित अनुकूलन की वर्तमान स्थिति पर फैसला लें**.
 * Focus for the desired outcome on simplification and value of an optimization. Set limits!
-* Ensure the optimization is for everyone involved acceptable,
-* Remember iterations – optimizations and everyone involved loves low-hanging fruits.
-* Monitor the impact/effect of optimizations.
+* **यह सुनिश्चित करें कि अनुकूलन सभी शामिल हुए लोगों के लिए स्वीकार्य है**
+* **पुनरावृत्तियों को याद रखें - अनुकूलन और इसमें शामिल सभी लोग को नज़दीक लटके हुए फल पसंद हैं**.
+* **अनुकूलन के प्रभाव की निगरानी करें**.
 
-Automation typically refers to the use of technology to perform a step or series of steps correctly. Set automation in the context of standardization and streamlining of manual tasks. E.g. define rules to allow decisions without being reviewed individually. Stop human involvement and evaluation of each part of a process to achieve more efficiency. Automation is an opportunity for reduced costs, reduced human errors, and \(important!\) improving experiences for involved.
+**स्वचालन आमतौर पर उस टेक्नोलॉजी के उपयोग को कहा जाता है जिससे एक चरण या चरणों की श्रृंखला को सही ढंग से किया जाए. मैनुअल कार्यों के मानकीकरण और सुव्यवस्थित करने के लिए स्वचालन सेट करें. उदाहरण के लिए : उन नियमों को परिभाषित करें जो व्यक्तिगत रूप से समीक्षा किए बिना निर्णय लेने की अनुमति दे सकें. अधिक कार्यक्षमता पाने करने के लिए प्रक्रिया के प्रत्येक भाग से मानवीय भागीदारी और मूल्यांकन को रोक दें. स्वचालन एक मौका है जिससे लागत और मानवीय गलतियां कम हो सकती हैं और \(महत्वपूर्ण!\) शामिल हुए सभी के अनुभवों में सुधार लाया जा सकता है**.
 
-* Optimization &gt;&gt;&gt;&gt; Automation
-* Use automation to achieve better experiences, reduce errors and save costs and time.
-* Define your metrics.
-* Use the other guiding principles when applying this one!
+* **अनुकूलन &gt;&gt;&gt;&gt; स्वचालन**
+* **स्वचालन का उपयोग आप अनुभवों को बेहतर, गलतियों को कम और समय एवं लागत को कम करने के लिए करें.**
+* **अपने मैट्रिक्स को परिभाषित करें**.
+* **इसे लागू करते समय अन्य मार्गदर्शक सिद्धांतों का प्रयोग करें**!
 

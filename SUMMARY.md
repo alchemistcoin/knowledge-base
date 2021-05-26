@@ -30,7 +30,7 @@
 ## Join us
 
 * [अल्केमिस्ट बिल्डर्स ऑनबोर्डिंग गाइड](join-us/alchemist-builders-onboarding-guide.md)
-* [Where to start? – the 7 ITIL guiding principles \(thegostep\(s\);\)\)!](join-us/where-to-start-the-7-itil-guiding-principles-thegostep-s.md)
+* [कहाँ से शुरू करें? - ७ आईटीआईएल मार \(thegostep\(s\);\)\)!](join-us/where-to-start-the-7-itil-guiding-principles-thegostep-s.md)
 
 ## Links 🔗 <a id="discussion"></a>
 
