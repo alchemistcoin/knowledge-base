@@ -29,7 +29,11 @@
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">MetaMask *recommended</td>
+      <td style="text-align:left">
+        <p><b>&#x92E;&#x947;&#x91F;&#x93E;&#x92E;&#x93E;&#x938;&#x94D;&#x915;</b>
+        </p>
+        <p>*&#x938;&#x93F;&#x92B;&#x93E;&#x930;&#x93F;&#x936;</p>
+      </td>
       <td style="text-align:center">&#x2714;&#xFE0F;</td>
       <td style="text-align:center">&#x2714;&#xFE0F;</td>
       <td style="text-align:center">&#x2714;&#xFE0F;</td>
@@ -37,15 +41,16 @@
       <td style="text-align:center">&#x2714;&#xFE0F;</td>
     </tr>
     <tr>
-      <td style="text-align:left">TrustWallet</td>
-      <td style="text-align:center">&#x2714;&#xFE0F;</td>
-      <td style="text-align:center">&#x2714;&#xFE0F;</td>
-      <td style="text-align:center">&#x2714;&#xFE0F;</td>
-      <td style="text-align:center">&#x2714;&#xFE0F;</td>
-      <td style="text-align:center">-</td>
+      <td style="text-align:left">&#x91F;&#x94D;&#x930;&#x938;&#x94D;&#x91F;&#x935;&#x949;&#x932;&#x947;&#x91F;</td>
+      <td
+      style="text-align:center">&#x2714;&#xFE0F;</td>
+        <td style="text-align:center">&#x2714;&#xFE0F;</td>
+        <td style="text-align:center">&#x2714;&#xFE0F;</td>
+        <td style="text-align:center">&#x2714;&#xFE0F;</td>
+        <td style="text-align:center">-</td>
     </tr>
     <tr>
-      <td style="text-align:left">Coinbase</td>
+      <td style="text-align:left">&#x915;&#x949;&#x907;&#x928;&#x92C;&#x947;&#x938;</td>
       <td style="text-align:center">&#x2714;&#xFE0F;</td>
       <td style="text-align:center">-</td>
       <td style="text-align:center">&#x2714;&#xFE0F;</td>
@@ -61,7 +66,7 @@
       <td style="text-align:center">-</td>
     </tr>
     <tr>
-      <td style="text-align:left">Coinomi</td>
+      <td style="text-align:left">&#x915;&#x949;&#x907;&#x928;&#x94B;&#x92E;&#x940;</td>
       <td style="text-align:center">&#x2714;&#xFE0F;</td>
       <td style="text-align:center">&#x2714;&#xFE0F;</td>
       <td style="text-align:center">&#x2714;&#xFE0F;</td>
@@ -69,12 +74,13 @@
       <td style="text-align:center">-</td>
     </tr>
     <tr>
-      <td style="text-align:left">Hardware Wallets</td>
-      <td style="text-align:center">-</td>
-      <td style="text-align:center">-</td>
-      <td style="text-align:center">-</td>
-      <td style="text-align:center">-</td>
-      <td style="text-align:center">-</td>
+      <td style="text-align:left">&#x939;&#x93E;&#x930;&#x94D;&#x921;&#x935;&#x947;&#x92F;&#x930; &#x935;&#x949;&#x932;&#x947;&#x91F;</td>
+      <td
+      style="text-align:center">-</td>
+        <td style="text-align:center">-</td>
+        <td style="text-align:center">-</td>
+        <td style="text-align:center">-</td>
+        <td style="text-align:center">-</td>
     </tr>
   </tbody>
 </table>
