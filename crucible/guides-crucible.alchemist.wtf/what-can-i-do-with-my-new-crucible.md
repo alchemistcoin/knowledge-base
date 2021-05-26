@@ -3,7 +3,7 @@
 आप अपने नए मिंट किये गए क्रूसिबल के साथ बहुत कुछ कर सकते हैं, नीचे सबसे सामान्य चीजें हैं जो आप crucible.alchemist.wtf का उपयोग करके कर सकते हैं
 
 * [Checking your rewards](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
-* अपने रिवार्ड्स चेक करना
+* [अपने रिवार्ड्स चेक करना](../guides-alchemist.farm/how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md)
 * [Increasing your LP Subscription](what-can-i-do-with-my-new-crucible.md#increasing-your-lp-subscription)
 * अपनी एलपी सब्सक्रिप्शन बढ़ाना
 * [Checking how much LP you've subscribed to your Crucible](what-can-i-do-with-my-new-crucible.md#checking-how-much-lp-youve-subscribed-to-your-crucible)
