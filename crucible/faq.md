@@ -45,7 +45,7 @@
 
 **मैं डिस्कॉर्ड में एक प्रमाणित अल्केमिस्ट कैसे बन सकता हूं?**
 
-* कृपया इस [गाइड](https://alchemist-docs.gitbook.io/alchemist/crucible/how-to-become-a-certified-alchemist-on-discord) का उपयोग कीजिये 
+* कृपया इस[ गाइड](how-to-become-a-certified-alchemist-on-discord.md) का उपयोग कीजिये 
 * डिस्कॉर्ड में अपने आप को शामिल / रजिस्टर कीजिये 
 * वेलकम चैनल पर जाइये. !join लिखिये
 * आपको Collab.Land बॉट से एक संदेश मिलेगा
