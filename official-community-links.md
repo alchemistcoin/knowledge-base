@@ -1,23 +1,25 @@
 # 官方社區鏈接如下 🔗
 
+
+
 {% hint style="warning" %}
-If you decide to use links from external sources, check first that they match our official links. **If the link doesn't exist in this list, it is not ours.**
+如果你選擇使用外部連結，請先確認跟我們的官方連結一樣。**如果你在這裏找不到同一樣的連結，那就代表連結不是屬於我們的。**
 {% endhint %}
 
-Please only use our list of official links when taking part in the Alchemist.
+在參與Alchemist的時候，請只使用我們官方的連結。
 
-### Sites
+### 網站
 
-| Site | Description |
+| 網站 | 描述 |
 | :--- | :--- |
 | [alchemist.wtf](http://alchemist.wtf) | GitHub Repository |
 | [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) | Latest Crucible Website |
 | [alchemist.farm](https://alchemist.farm) | Crucible Website |
 | [docs.alchemist.wtf](https://docs.alchemist.wtf) | Documentation |
 
-### Community
+### 社群
 
-| Site | Description |
+| 網站 | 描述 |
 | :--- | :--- |
 | [twitter.com/\_alchemistcoin](https://twitter.com/_alchemistcoin) | Twitter |
 | [discord.alchemist.wtf](http://discord.alchemist.wtf) | Discord |

@@ -1,13 +1,12 @@
-# Guides: crucible.alchemist.wtf
+# 指南: crucible.alchemist.wtf
 
 {% hint style="info" %}
-**Guides below are for community site** [**crucible.alchemist.wtf**](https://crucible.alchemist.wtf/)  
-Please [click here](../guides-alchemist.farm/) if you are using [alchemist.farm](https://alchemist.farm/)
+**以下是社群網站**[**crucible.alchemist.wtf**](https://crucible.alchemist.wtf/)**的指南**。 如果您使用的是[alchemist.farm](https://alchemist.farm/)請點擊[這裏](../guides-alchemist.farm/)。
 {% endhint %}
 
-### Contents
+### 目錄
 
-1. [How do I mint a Crucible?](how-do-i-mint-a-crucible.md)
-2. [What can I do with my new Crucible?](what-can-i-do-with-my-new-crucible.md)
-3. [Claiming Rewards & Unsubscribing your LP](claiming-rewards-and-unsubscribing-your-lp.md)
+1. [如何鑄造Crucible?](how-do-i-mint-a-crucible.md)
+2. [我可以用我的新Crucible做什麼?](what-can-i-do-with-my-new-crucible.md)
+3. [領取獎勵和提取你的 LP](claiming-rewards-and-unsubscribing-your-lp.md)
 

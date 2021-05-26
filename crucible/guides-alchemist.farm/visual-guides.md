@@ -1,28 +1,30 @@
-# Visual Guides 🎞
+# 視覺指南 🎞
 
-### **Videos 🎬📺**
+### 視頻 🎬📺 
 
 {% hint style="info" %}
-Please note some of the videos are out of date in regards to the current appearance of [alchemist.farm](https://alchemist.farm). Also, these videos are community made videos - but they can still be of assistance.
+請註意，有些視頻已經過期，與[alchemist.farm](https://alchemist.farm)目前的外觀不符。另外，這些視頻是社群製作的視頻--但它們仍然可以起到幫助作用。
 {% endhint %}
 
 {% hint style="warning" %}
-References to Uniswap in the videos may be outdated. Please make sure you are using **Uniswap V2** for providing Liquidity as V3 is not supported.
+視頻中提到的Uniswap可能已經過時。請確保你使用的是**Uniswap V2**來提供流動性，因為V3不被支持。
 
-If you are unsure how to switch between V3 and V2, please use our links in the [guide](../../acquiring-and-subscribing.md).
+如果您不知道如何在V3和V2之間切換，請使用我們[指南](../../acquiring-and-subscribing.md)中的鏈接。
 {% endhint %}
 
-* [Make a Crucible](https://www.youtube.com/watch?v=Rl9Rf-3Sp-8)
-* [Get LP, then Make a Crucible](https://www.youtube.com/watch?v=Ga1qcQ6x3as)
-* [Get LP, then Make a Crucible, and become a Certified Alchemist on Discord](https://www.youtube.com/watch?v=k7MO1QpqCds)
-* [Crucible Transfer using Alchemist.farm and OpenSea.io](https://www.youtube.com/watch?v=i2MCYimelBM)
-* [Impermanent Loss - watch before staking LP](https://www.youtube.com/watch?v=8XJ1MSTEuU0)
+* [製作一個 Crucible](https://www.youtube.com/watch?v=Rl9Rf-3Sp-8)​
+* [獲取LP，然後製作一個Crucible](https://www.youtube.com/watch?v=Ga1qcQ6x3as)
+* [Get 取得LP, 然後製作一個 ](https://www.youtube.com/watch?v=k7MO1QpqCds)[Crucible並成為Discord上得到認證的煉金術師\(Certified Alchemist](https://www.youtube.com/watch?v=k7MO1QpqCds)\)
+* [使用Alchemist.farm and OpenSea.io轉移Crucible](https://www.youtube.com/watch?v=i2MCYimelBM)
+* [Impermanent Loss暫時性損失 - 在押LP之前請觀看](https://www.youtube.com/watch?v=8XJ1MSTEuU0)
 
-### **Images 🖼🎨**
+### 圖片 🖼🎨
 
-![Processes to enter the Aludel Program](https://i.imgur.com/7sK0Jr2.png)
 
-![The idea behind the Audel](https://i.imgur.com/sutIhed.png)
+
+![&#x5982;&#x4F55;&#x53C3;&#x8207;Aludel&#x734E;&#x52F5;&#x8A08;&#x5283; ](https://i.imgur.com/7sK0Jr2.png)
+
+![Aludel&#x80CC;&#x5F8C;&#x7684;&#x7406;&#x5FF5;](https://i.imgur.com/sutIhed.png)
 
 
 
