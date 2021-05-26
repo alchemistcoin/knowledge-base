@@ -11,7 +11,7 @@
 * [प्राप्ति और सदस्यता लेना](acquiring-and-subscribing.md)
 * [सामान्य प्रश्न](faq.md)
 
-## Crucible
+## क्रूसिबल <a id="crucible"></a>
 
 * [शुरू करना](crucible/getting-started.md)
 * [मुझे क्रूसिबलस के बारे में सिखाएं](crucible/teach-me-about-crucibles.md)
