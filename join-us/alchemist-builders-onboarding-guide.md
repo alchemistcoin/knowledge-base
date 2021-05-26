@@ -1,42 +1,42 @@
-# Alchemist Builders Onboarding Guide
+# अल्केमिस्ट बिल्डर्स ऑनबोर्डिंग गाइड
 
-## Vision
+## **दृष्टि**
 
-So you think you got what it takes to become an alchemist, to walk the path of the Great Work which might lead you to trails never taken, territories unexplored - like the greatest alchemist of our times - a famous psychiatrist Carl Jung said: "One does not become enlightened by imagining figures of light, but by making the darkness conscious"
+**तो क्या आपको लगता है की आप में वो सब है जिससे आप एक अलकेमिस्ट बन सकते हैं, उस महान कार्य के पथ पर चलने के लिए जो आपको कभी भी न चले गए पथ पर ले जा सकता है, अस्पष्टीकृत क्षेत्र - हमारे समय के सबसे महान अलकेमिस्ट की तरह - एक प्रसिद्ध मनोचिकित्सक कार्ल जंग ने कहा: "प्रकाश की आकृतियों की कल्पना करने से कोई प्रबुद्ध नहीं होता है, बल्कि अंधेरे को सचेत करने से होता है"**
 
-Within the alchemist labs the experiments are focused on exploring highly technical concepts in an attempt to discover the ingredients required to properly synthesize the Philosophers Stone - for example designing the Mint a Crucible NFT experience or the mistX Gasless DEX.
+**अलकेमिस्ट लैब के भीतर, 'फिलॉसॉफर्स स्टोन' \(उदाहरण के लिए - 'क्रूसिबल NFT को मिंट करना' या फिर 'मिस्टX गैसलेस DEX' अनुभव को बनाना\) को ठीक से संश्लेषित करने के लिए जिन आवश्यक सामग्री की ज़रुरत होगी, उनको अत्यधिक तकनीकी अवधारणाओं के द्वारा ढूंढ निकालने का प्रयास होता है.**
 
-Beside technical experimentation our guild has grown into a decentralised safe haven where the weary scholars can feel comfortable, at ease and safe. Creative projects like building the Alchemist Radio or finding the right art direction for the Crucible NFT are just some of the endless examples of outcomes from the Alchemists playing around with some beakers and funnels in their down time.
+**तकनीकी प्रयोग के अलावा, हमारी कम्युनिटी एक विकेन्द्रीकृत सुरक्षित आश्रय स्थल बन चुकी है जहाँ विद्वान सहज और सुरक्षित महसूस कर सकते हैं. रचनात्मक परियोजनाएं जैसे अलकेमिस्ट रेडियो या फिर क्रूसिबल NFT के लिए सही कला निर्देशन ढूंढना, अपने खाली समय में बीकरों और फ़नलों के साथ खेलने वाले अलकेमिस्टों के परिणामों के उदाहरण है.**
 
-In general, we follow the guiding principles dear to the alchemists since the epoch of the Emerald Tablet in order to effectively create value in every process - all the active participants have internalized this mindset, so that we basically share an equally polarized vision:
+**सामान्य रूप में, हम उन मार्गदर्शक सिद्धांतों का पालन करते हैं जो अलकेमिस्टों के प्रिय हैं, ताकि हर प्रक्रिया में प्रभावी ढंग से मूल्य निर्माण किया जा सके - सभी सक्रिय प्रतिभागी ने इस मानसिकता को आत्मसात कर लिया है, ताकि हम समान रूप से ध्रुवीकृत दृष्टि साझा कर सकें**:
 
-* Focus on value
-* Start where you are
-* Progress iteratively with feedback
-* Collaborate and promote visibility
-* Think and work holistically
-* Keep it simple and practical
-* Optimize and automate
+* **महत्व पर ध्यान दें**
+* **जो है उसी के साथ शुरू करें / जहां हैं वहीं से शुरू करें**
+* **प्रतिपुष्टि के साथ पुनरावृत्त रूप से आगे बड़े**
+* **मिल कर काम करें और दृश्यता को बढ़ावा दें**
+* **समग्र रूप से सोचें और काम करें**
+* **काम को सरल और व्यावहारिक रखें**
+* **अनुकूलित और स्वचालित करें**
 
-For more details please read this [article](where-to-start-the-7-itil-guiding-principles-thegostep-s.md)
+**‌अधिक जानकारी के लिए इस** **अनुच्छेद\(**[article](where-to-start-the-7-itil-guiding-principles-thegostep-s.md)\) **को पड़ें**
 
-## Compliance & Ethic
+## **अनुपालन और नैतिकता**
 
-We are open-minded and welcome everyone who wants to join us and actively participate in the discovery of the Elixir of Life. Alchemist guild has no limits or regulations that would limit our growth potential. There is no company, developer or a dark puppet master behind the scenes pulling the strings. Our community grows day by day and leads the project into new - now unimagined spheres. As a decentralized organization, from our point of view it is important to agree on ethics and common rules of conduct. We agreed to follow these rules:
+**हम खुले विचारों वाले हैं और हम उन सभी का स्वागत करते हैं जो हमसे जुड़ना चाहते हैं और जीवन के अमृत की खोज में सक्रिय रूप से भाग लेना चाहते हैं. अलकेमिस्टों की कम्युनिटी में किसी भी प्रकार की सीमा या नियम नहीं हैं जिससे उसकी विकास की क्षमता कम हो. तार खींचने वाले पर्दे के पीछे कोई कंपनी, डेवलपर या डार्क कठपुतली मास्टर नहीं है. हमारी कम्युनिटी दिन बर दिन बढ़ती जा रही है और इस प्रोजेक्ट को अब अकल्पनीय क्षेत्रों में ले जा रही है. क्योंकि हम एक विकेंद्रीकृत संगठन हैं, हमारे दृष्टिकोण से नैतिकता और आचरण के सामान्य नियमों पर सहमत होना महत्वपूर्ण है. हम सब नीचे दिए गए इन नियमों का पालन करने के लिए सहमत हुए**:
 
-* Be respectful to each other
-* No racism, sexism, agitation or activity that brings harm to the community
-* No inappropriate language or content
+* **एक दूसरे का सम्मान करें**
+* **कोई जातिवाद, लिंगवाद, आंदोलन या गतिविधि वाला कार्य न हो जो समुदाय को नुकसान पहुंचाए**
+* **कोई अनुचित भाषा या सामग्री नहीं**
 
-## Hierachy
+## **पदानुक्रम**
 
-Our hierarchy is clearly defined and relatively flat. Our Multi-Sig Signers & Senior Alchemists as well as @thegostep as the founder represent the leadership & simultaneous supervision for Alchemist itself. In addition to goals, milestones and timelines, they also set the basic direction so that Alchemist creates the greatest possible value to ensure a bright future to itself.
+**हमारा पदानुक्रम स्पष्ट रूप से परिभाषित और अपेक्षाकृत सपाट है. हमारे मल्टी-सिग साइनर्स एवं वरिष्ठ अलकेमिस्ट के साथ-साथ @thegostep प्रवर्तक के रूप में अलकेमिस्ट के लिए नेतृत्व और देखरेख का प्रतिनिधित्व करते हैं. लक्ष्यों, माइलस्टोन और समय सीमा के अलावा, वह एक मूल दिशा भी निर्धारित करते हैं जिससे अलकेमिस्ट अपने लिए अधिकतम संभव मूल्य बना सके जिससे उसका उज्ज्वल भविष्य सुनिश्चित हो जाए.**
 
-Next comes the builder group with members from different fields of expertise. On the one hand, of course, there are developers on board who primarily take care of the concept, architecture and the implementation of one or several projects. The builder group does not only consist of developers but scholars from all walks of life - marketing experts, artists and some extremely committed community members. Everyone who wishes to actively participate is part of the builder group. Regardless of the existing skills a lively, constructive exchange in Discord or in other tools such as Basecamp is appreciated. The builder role will enable users to view sensitive technical concepts and products under development in the alchemist labs.
+**आगे आता है बिल्डर ग्रुप जिसमें विशेषज्ञता के विभिन्न क्षेत्रों के सदस्य होते हैं. एक तरफ, निश्चित रूप से, बोर्ड पर डेवलपर्स मौजूद हैं जो एक या कई परियोजनाओं की अवधारणा, वास्तुकला और कार्यान्वयन का ध्यान रखते हैं. यह बिल्डर ग्रुप में, डेवलपर्स के अलावा, जीवन के सभी क्षेत्रों के विद्वान मौजूद हैं जैसे की विपणन विशेषज्ञ, कलाकार और कुछ अत्यंत प्रतिबद्ध समुदाय के सदस्य. हर कोई जो सक्रिय रूप से भाग लेना चाहता है वह बिल्डर ग्रुप का हिस्सा है. मौजूदा कौशल के बावजूद, डिस्कॉर्ड या बेस कैंप पर, रचनात्मक आदान-प्रदान की हम सराहना करते हैं. एक बिल्डर की भूमिका से उपयोगकर्ता अलकेमिस्ट लैब के भीतर विकास के अधीन संवेदनशील तकनीकी अवधारणाओं और उत्पादों को देख पाएंगे.**
 
-In order to keep the teams of builders focused on their transmutations a new role was created - the apprentice. This role gives young alchemists still trying to find their way access to a lot of the experiments going on in the lab, but protects them from territory involving advanced alchemy that might result in accidentally blowing up half the building. The “builder” role will evolve to serve as the next step for the apprentice once they’ve mastered the full technical side of alchemical experimentation.
+**बिल्डर की टीमों को उनके रूपांतरण पर ध्यान केंद्रित रखने के लिए एक नई भूमिका बनाई गई है - अपरेंटिस. जो युवा अलकेमिस्ट अभी भी अपना रास्ता खोज रहे हैं, इस भूमिका से वो लैब में हो रहे है कहीं सारे प्रयोगों को देख पाएंगे, लेकिन उन्नत अल्केमी वाले क्षेत्र से बचे रहेंगे जिसके परिणामस्वरूप बड़ी दुर्घटनाएं हो सकती हैं. जब वे रसायन विज्ञान प्रयोग के पूर्ण तकनीकी पक्ष में महारत हासिल कर लेते हैं, तब उनकी भूमिका "बिल्डर" में विकसित हो जाएगी.**
 
-The fourth group are the "regular" community members and certified alchemists, who are mostly made up of $Mist and / or crucible holders. The community plays a major role for us - cooperation, revealing widespread sentiments and provides valuable feedback in relation to existing products and services as well as food for thought for further experiments. We appreciate everyone who found their way to us and like to let them feel comfortable as much as possible in our community.
+**चौथा ग्रुप है "नियमित" कम्युनिटी के सदस्य और प्रमाणित अलकेमिस्टों का , जो ज़्यादातर $मिस्ट / या क्रूसिबल धारक हैं. यह कम्युनिटी हमारे लिए एक बड़ी भूमिका निभाती है - सहयोग करना, व्यापक भावनाएँ  बताना और मौजूदा उत्पादों और सेवाओं के साथ-साथ आगे के प्रयोगों के लिए विचार के संबंध में मूल्यवान प्रतिक्रिया प्रदान करना. हम उन सबकी सराहना करते हैं को हम तक आ पहुंचे हैं और हम उन्हें इस कम्युनिटी मैं सहज महसूस कराना चाहते हैं.**
 
 ## Tools
 
