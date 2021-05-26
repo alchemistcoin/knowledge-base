@@ -10,17 +10,17 @@
 
 | **वेबसाइट्स** | विवरण |
 | :--- | :--- |
-| [alchemist.wtf](http://alchemist.wtf) | **गिटहब रिपॉजिटरी** |
-| [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) | **क्रूसिबल की नवीनतम वेबसाइट** |
-| [alchemist.farm](https://alchemist.farm) | **क्रूसिबल वेबसाइट** |
-| [docs.alchemist.wtf](https://docs.alchemist.wtf) | **दस्तावेज़ीकरण** |
+| [alchemist.wtf](http://alchemist.wtf) | गिटहब रिपॉजिटरी |
+| [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) | क्रूसिबल की नवीनतम वेबसाइट |
+| [alchemist.farm](https://alchemist.farm) | क्रूसिबल वेबसाइट |
+| [docs.alchemist.wtf](https://docs.alchemist.wtf) | दस्तावेज़ीकरण |
 
-### **कम्युनिटी**
+### कम्युनिटी
 
-| **वेबसाइट्स** | विवरण |
+| वेबसाइट्स | विवरण |
 | :--- | :--- |
 | [twitter.com/\_alchemistcoin](https://twitter.com/_alchemistcoin) | ट्विटर |
-| [discord.alchemist.wtf](http://discord.alchemist.wtf) | **डिस्कॉर्ड** |
+| [discord.alchemist.wtf](http://discord.alchemist.wtf) | डिस्कॉर्ड |
 | [t.me/alchemistcoin](https://t.me/alchemistcoin) | Telegram \(App Link\) |
 | [web.telegram.org/\#/im?p=@alchemistcoin](https://web.telegram.org/#/im?p=@alchemistcoin) | Telegram \(Web Version\) |
 | [instagram.com/thealchemistcoin](https://www.instagram.com/thealchemistcoin/) | Instagram |
