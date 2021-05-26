@@ -20,7 +20,7 @@ In general, we follow the guiding principles dear to the alchemists since the ep
 
 For more details please read this [article](where-to-start-the-7-itil-guiding-principles-thegostep-s.md)
 
-## Compliance & Ethic
+## Compliance & Ethics
 
 We are open-minded and welcome everyone who wants to join us and actively participate in the discovery of the Elixir of Life. Alchemist guild has no limits or regulations that would limit our growth potential. There is no company, developer or a dark puppet master behind the scenes pulling the strings. Our community grows day by day and leads the project into new - now unimagined spheres. As a decentralized organization, from our point of view it is important to agree on ethics and common rules of conduct. We agreed to follow these rules:
 
