@@ -2,11 +2,11 @@
 
 **में ⚗️ $mist\(मिस्ट\) का व्यापार कहाँ कर सकता हूँ ?**
 
-**अधिकांश गतिविधि यूनिस्वैप पर होती है, आप इसे हमारे लिंक का उपयोग करके देख सकते हैं**
+अधिकांश गतिविधि यूनिस्वैप पर होती है, आप इसे हमारे लिंक का उपयोग करके देख सकते हैं
 
 * [uniswap.alchemist.wtf](http://uniswap.alchemist.wtf)
 
-**कुछ वक़्त के बाद $मिस्ट अन्य व्यापारिक साइटों पर प्रदर्शित पर हो जाएगा, जब ऐसा हो जाए तो आप इन स्थानों को** [Coingecko](https://www.coingecko.com/en/coins/alchemist) **या** [CoinMarketCap](https://coinmarketcap.com/currencies/alchemist/)  **का उपयोग करके इन्हे पहचान सकते हैं**.
+कुछ वक़्त के बाद $मिस्ट अन्य व्यापारिक साइटों पर प्रदर्शित पर हो जाएगा, जब ऐसा हो जाए तो आप इन स्थानों को [Coingecko](https://www.coingecko.com/en/coins/alchemist) या [CoinMarketCap](https://coinmarketcap.com/currencies/alchemist/)  का उपयोग करके इन्हे पहचान सकते हैं.
 
 **कुल परिसंचारी आपूर्ति कितनी है?**
 
