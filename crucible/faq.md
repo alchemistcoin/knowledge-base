@@ -68,7 +68,7 @@ The only time you would use multiple Crucibles is if you aim to transfer / sell 
 
 ## What is the maximum number of crucibles that can be created? 
 
-An unlimited number of crucibles can be created. Please note that if you visit [etherscan, ](https://etherscan.io/token/0x54e0395cfb4f39bef66dbcd5bd93cca4e9273d56)please disregard the word "Max" in "Max Total Supply" because the supply is unlimited. The "Max Total Supply" shown on etherscan just indicates the current number crucibles created so far.
+An unlimited number of crucibles can be created. Please note that if you visit [etherscan, ](https://etherscan.io/token/0x54e0395cfb4f39bef66dbcd5bd93cca4e9273d56)please disregard the word "Max" in "Max Total Supply" because the supply is unlimited. The "Max Total Supply" shown on etherscan just indicates the total number crucibles created so far.
 
 ## **How does "Claim Rewards and Unsubscribe LP" impact the reward multiplier?**
 
