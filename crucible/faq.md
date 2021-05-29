@@ -84,7 +84,7 @@ No. This only claims the rewards earned, your LP will remain in the Crucible unt
 
 ## **Does “Withdraw Unsubscribed LP” destroy the Crucible?**
 
-No, it only empties it. You retain the empty Crucible.
+No, it only empties it. You retain the empty Crucible. After a crucible is created, it can never be destroyed.
 
 ## **Can I transfer the Crucible NFT to another wallet?**
 
