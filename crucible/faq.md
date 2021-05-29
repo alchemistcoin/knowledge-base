@@ -64,7 +64,7 @@ The more LP tokens you get the higher amount of liquidity you provided therefore
 
 It’s almost always better to accumulate LP in a single Crucible as it minimizes the gas costs.
 
-The only time you would use multiple Crucibles is if you aim to transfer / sell a Crucible with some active Subscription on it.
+The only time you would use multiple Crucibles is if you aim to transfer / sell a Crucible with or without some active LP subscription on it.
 
 ## **How does "Claim Rewards and Unsubscribe LP" impact the reward multiplier?**
 
