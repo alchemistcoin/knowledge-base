@@ -5,7 +5,7 @@
 Ever traded coins on mistX.io? If so you know how to do this already.
 
 {% hint style="warning" %}
-Please use mistX.io when purchasing mist.  If you use Uniswap, please note that due to low liquidity on **Uniswap V3**, extra slippage might mean you will not get the best price for your purchase. Please use our **Uniswap V2** link below to perform the token swap.
+We recommend using mistX.io when purchasing mist.  However, if you decide to use Uniswap, please note that due to low liquidity on **Uniswap V3**, extra slippage might mean you will not get the best price for your purchase. Please use our **Uniswap V2** link below to perform the token swap.
 {% endhint %}
 
 1. Head to [Swap $MIST on MistX.io](http://swap.mist.alchemist.wtf)
