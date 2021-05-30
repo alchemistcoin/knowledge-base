@@ -8,7 +8,7 @@ Ai tranzactionat vreodata pe mistX.io? Daca da, stii deja cum se procedeaza.
 Recomandam sa folosesti mistX.io cand cumperi $MIST. Daca vrei sa folosesti Uniswap, datorita lichiditatii scazute pe **Uniswap V3**, nu vei gasi un pret la fel de bun ca pe [**Uniswap V2**](https://app.uniswap.org/#/swap?outputCurrency=0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab&use=V2) ****pentru a cumpara $MIST.
 {% endhint %}
 
-1. Mergi sa [**Schimbi $MIST pe mistX**](https://app.mistx.io/#/exchange?outputCurrency=0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab)\*\*\*\*
+1. Mergi sa [**Schimbi $MIST pe mistX**](http://swap.mist.alchemist.wtf/)\*\*\*\*
 2. Conecteaza walletul MetaMask
 3. Ar trebui sa vezi asa ceva:
 
