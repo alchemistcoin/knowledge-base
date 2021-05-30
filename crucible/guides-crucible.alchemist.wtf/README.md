@@ -1,13 +1,15 @@
-# Guides: crucible.alchemist.wtf
+# Kılavuz: crucible.alchemist.wtf
 
 {% hint style="info" %}
-**Guides below are for community site** [**crucible.alchemist.wtf**](https://crucible.alchemist.wtf/)  
-Please [click here](../guides-alchemist.farm/) if you are using [alchemist.farm](https://alchemist.farm/)
+**Aşağıdaki kılavuzlar topluluk sitesi içindir.** [**crucible.alchemist.wtf**](https://crucible.alchemist.wtf/)  
+****[alchemist.farm](https://alchemist.farm/) kullanıyorsanız lütfen [buraya](../guides-alchemist.farm/) tıklayın
 {% endhint %}
 
-### Contents
+### İçerikler
 
-1. [How do I mint a Crucible?](how-do-i-mint-a-crucible.md)
-2. [What can I do with my new Crucible?](what-can-i-do-with-my-new-crucible.md)
-3. [Claiming Rewards & Unsubscribing your LP](claiming-rewards-and-unsubscribing-your-lp.md)
+1. [Bir Crucible nasıl oluşturabilirim?](how-do-i-mint-a-crucible.md)
+2. [Yeni Crucible'ımla ne yapabilirim?](what-can-i-do-with-my-new-crucible.md)
+3. [Ödül talep etme & LP katılımını iptal etme](claiming-rewards-and-unsubscribing-your-lp.md)
+
+
 
