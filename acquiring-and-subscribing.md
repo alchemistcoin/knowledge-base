@@ -8,7 +8,7 @@ Avez-vous déjà trader des coins sur Uniswap ? Si c'est le cas vous savez déj�
 A cause d'un manque de liquidé sur **Uniswap V3**, un slippage excessif peut signifier que vous n'aurez pas le meilleur prix pour votre achat. Utilisez notre lien **Uniswap V2** ci-dessous pour réaliser votre swap.
 {% endhint %}
 
-1. Rendez vous sur [Swap $MIST via mistX.io](%20https://app.mistx.io/#/exchange?outputCurrency=0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab)
+1. Rendez vous sur [Swap $MIST via mistX.io](http://swap.mist.alchemist.wtf/)
 2. Connectez votre wallet MetaMask
 3. Vous devriez voir ce type d'interface :
 
