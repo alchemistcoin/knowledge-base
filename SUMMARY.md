@@ -28,7 +28,7 @@
 ---
 
 * [Twitter](https://twitter.com/_alchemistcoin)
-* [Discord](https://discord.com/invite/qWQQMMKjKe)
+* [Discord](http://discord.alchemist.wtf/)
 * [Telegram](https://t.me/alchemistcoin)
 * [Instagram](https://www.instagram.com/thealchemistcoin/)
 * [GitHub](http://alchemist.wtf/)
