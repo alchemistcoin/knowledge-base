@@ -37,4 +37,5 @@
 * [Telegram](https://t.me/alchemistcoin)
 * [Instagram](https://www.instagram.com/thealchemistcoin/)
 * [Github](http://alchemist.wtf/)
+* [mistX](https://mistx.io/)
 
