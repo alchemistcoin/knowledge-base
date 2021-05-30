@@ -2,19 +2,19 @@
 
 ### 1. Obtine $MIST ⚗️
 
-Ai tranzactionat vreodata pe Uniswap? Daca da, stii deja cum se procedeaza. 
+Ai tranzactionat vreodata pe mistX.io? Daca da, stii deja cum se procedeaza. 
 
 {% hint style="warning" %}
-Datorita lichiditatii scazute pe **Uniswap V3**, nu veti gasi un pret la fel de bun ca pe **Uniswap V2** pentru a cumpara $MIST. De aceea, va rugam sa folositi linkul **Uniswap V2** de mai jos pentru un schimb la pretul cel mai bun.
+Recomandam sa folosesti mistX.io cand cumperi $MIST. Daca vrei sa folosesti Uniswap, datorita lichiditatii scazute pe **Uniswap V3**, nu vei gasi un pret la fel de bun ca pe [**Uniswap V2**](https://app.uniswap.org/#/swap?outputCurrency=0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab&use=V2) ****pentru a cumpara $MIST.
 {% endhint %}
 
-1. Mergi sa [Schimbi $MIST in Uniswap V2](https://app.uniswap.org/#/swap?outputCurrency=0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab&use=V2)
+1. Mergi sa [**Schimbi $MIST pe mistX**](https://app.mistx.io/#/exchange?outputCurrency=0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab)\*\*\*\*
 2. Conecteaza walletul MetaMask
 3. Ar trebui sa vezi asa ceva:
 
- ![](https://i.imgur.com/5rzgvpf.png)
+    ![](.gitbook/assets/swap.jpg)
 
-    4. Introdu suma de ⚗️MIST pe care vrei sa o cumperi, asigurandu-te ca ai disponibila o suma echivalenta de ETH necesara pentru staking.
+    4. Introdu suma de ⚗️MIST pe care vrei sa o cumperi, asigurandu-te ca ai disponibila o suma de ETH echivalenta valorii de $MIST necesara pentru pentru oferta de lichiditate.
 
     5. Fa Click “Swap”, fiind necesare aprobari in Metamask asteapta confirmarea tranzactiilor
 
