@@ -4,7 +4,7 @@
 
 Der meiste Aktivität spielt sich auf Uniswap ab, du kannst unseren Link hierzu benutzen:
 
-* [uniswap.alchemist.wtf](http://uniswap.alchemist.wtf)
+* [swap.mist.alchemist.wtf](http://swap.mist.alchemist.wtf/)
 
 Im Laufe der Zeit wird $MIST zwangsläufig auch auf anderen Handelsplattformen zu finden zu sein. Sollte dies passieren, kannst du dies am Besten verifizieren, in dem du [Coingecko](https://www.coingecko.com/en/coins/alchemist) oder [CoinMarketCap](https://coinmarketcap.com/currencies/alchemist/) nutzt.
 
