@@ -6,7 +6,7 @@
 Daca vrei sa utilizezi linkuri din surse externe, verifica mai întâi dacă acestea corespund link-urilor oficiale Alchemist. **Dacă linkul respectiv nu există în această pagina, nu este al nostru.** 
 {% endhint %}
 
-Pentru a participa in Alchemist va rugam sa folositi doar link-urile oficiale.
+Pentru a participa in Alchemist recomandam sa folositi doar link-urile oficiale.
 
 ### Site-urile Oficiale
 
