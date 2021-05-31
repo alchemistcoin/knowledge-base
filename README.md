@@ -12,11 +12,11 @@ Alchemist\(炼金术士\) 起源于 [@thegostep](https://twitter.com/thegostep) 
 
 成为 Alchemist 需要学习和实践，对于真正的 Alchemist 来说，训练就是一种生活方式。没有最终的目的地，有的只是不断的变化。
 
-⚗️$mist 用于协调和奖励忠实的 Alchemists 。无论您是艺术家、开发者、社区经理还是流动资金的提供者，都能从中找到自己的角色。
+⚗️$mist 用于协调与奖励那些忠诚的 Alchemists 。无论您是艺术家、开发者、社区经理还是流动资金的提供者，都能从中找到自己的角色。
 
 快来 [discord.alchemist.wtf](http://discord.alchemist.wtf) 与其他 Alchemists 见面，并在 [\#builders-application](https://discord.com/channels/812035504869998644/812324390082969620) 频道展示您的技能吧。
 
 **有网站吗？**
 
-暂时还没有，如果您有兴趣帮忙开发一个，请查看 Discord 上的[实验室](https://discord.gg/UQB4MwG4c8)。
+我们暂时还没有，如果您有兴趣帮忙开发一个，请查看 Discord 上的[实验室](https://discord.gg/UQB4MwG4c8)。
 

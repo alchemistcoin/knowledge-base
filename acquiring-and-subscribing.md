@@ -2,10 +2,10 @@
 
 ### 1. 获取 $MIST⚗️
 
-您在 Uniswap 上交易过代币吗？如果有的话，我想您已经知道如何做了。
+您是否在 Uniswap 上交易过代币？如果有，我想您已经知道该怎么做了。
 
 {% hint style="warning" %}
-由于 **Uniswap V3** 的流动性较差，额外的差价可能意味着您无法以最优的价格买入。请使用下面的 **Uniswap V2** 链接来交易代币。
+请使用下面的 **mistX.io** 链接来交易代币。
 {% endhint %}
 
 1. [在 mistX.io 上购买 $MIST](http://swap.mist.alchemist.wtf/)

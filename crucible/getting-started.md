@@ -1,6 +1,6 @@
 # 开始
 
-在参与 Crucible 项目之前，有些防范措施是必需要注意的，请务必在进行之前阅读以下提醒与警告。
+在参与 Crucible 项目之前，有些防范措施必须注意，请务必在进行之前阅读以下提醒和警告。
 
 {% hint style="danger" %}
 **重要提醒**  
@@ -15,7 +15,7 @@ Crucibles 只能由 **Uniswap V2** LP 代币铸造。请确保您将代币添加
 {% endhint %}
 
 {% hint style="info" %}
-Aludel 奖励系统本质上仍为一个正在进行中的实验，在参加此计划前，请牢记这些注意事项。
+Aludel 奖励系统仍为实验品，在参加此计划前，请牢记这些注意事项。
 {% endhint %}
 
 如果您已经阅读了以上内容，那么我想您已经准备好继续学习[有关 Crucible](teach-me-about-crucibles.md) 的知识了。

@@ -4,7 +4,7 @@
 
 **我可以在哪交易 ⚗️\($MIST\) ?**
 
-基本上都在 Uniswap，您可以用我们的链接直接跳转过去：
+基本上都在 mistX.io，您可以用我们的链接直接跳转过去：
 
 * [swap.mist.alchemist.wtf](http://swap.mist.alchemist.wtf/)
 
