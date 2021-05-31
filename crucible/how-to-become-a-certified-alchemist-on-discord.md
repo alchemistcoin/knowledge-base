@@ -23,24 +23,29 @@ Dupa ce ai primit accesul la walletul tau Metamask continand propriul tau Crucib
 
 ![](https://i.imgur.com/2UvO1ZL.png)
 
-1. Actioneaza ‘Click Here’ si urmeaza linkul
-2. Selecteaza walletul in care ai Crucible NFT
+     3. Actioneaza ‘Click Here’ si urmeaza linkul
+
+     4. Selecteaza walletul in care ai Crucible NFT
 
 ![](https://i.imgur.com/y4bXisJ.png)
 
-1. Semneaza mesajul
+     5. Semneaza mesajul
 
 ![](https://i.imgur.com/nF29cFo.png)
 
-1. Vei vedea mesajul urmator si apoi poti sa te intorci in canalul Discord
+    6. Vei vedea mesajul urmator si apoi poti sa te intorci in canalul Discord
 
 ![](https://i.imgur.com/WVIelT9.png)
 
-1. Collab.Land iti va trimite urmatorul mesaj iar daca tu intradevar detii un Crucible NFT robotul iti va determina rolul 
+    7. Collab.Land iti va trimite urmatorul mesaj iar daca tu intradevar detii un Crucible NFT robotul iti va determina rolul 
 
 ![](https://i.imgur.com/1UMmipM.png)
 
-1. Culoarea fontului cu care este scris numele tau ar trebui sa fie acum culoarea rosie pe ecranul canalului Discord.
-   1. Daca dai click stanga pe numele tau Discord ar trebui sa vezi rolul de Alchimist certificat incercuit cu culoarea rosie ![](https://i.imgur.com/KTO91Q1.png)
-   2. Felicitari, tu esti acum un Alchimist Certificat 🧙‍♂️⚗
+   8. Culoarea fontului cu care este scris numele tau ar trebui sa fie acum culoarea rosie pe ecranul canalului Discord, asta daca nu cumva aveti alocate alte roluri . 
+
+   9. Daca dai click stanga pe numele tau Discord ar trebui sa vezi rolul de Alchimist certificat incercuit cu culoarea rosie
+
+ ![](https://i.imgur.com/KTO91Q1.png)
+
+       10. Felicitari, acum esti un Alchimist Certificat 🧙‍♂️⚗
 
