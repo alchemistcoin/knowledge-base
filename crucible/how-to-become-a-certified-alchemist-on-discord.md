@@ -1,4 +1,4 @@
-# Come diventare un  Alchemist certificato su Discord 💬
+# Come diventare un  Alchemist certificato su Discord ��
 
 Se possiedi un Crucible, puoi diventare un Alchemist certificato sul nostro [Discord channel](https://discord.com/invite/qWQQMMKjKe) 🧙‍♂️⚗
 
