@@ -16,7 +16,6 @@ Recomendamos el uso de mistX.io para comprar or vender $MIST. Sin embargo, si de
 
 4. Introduce la cantidad de ⚗️ que deseas comprar, asegurándote de que te queda un valor equivalente de ETH para usar en el programa Aludel.
 5. Click "Swap" y realiza las aprobaciones necesarias a través de MetaMask, espera a que se  te complete la transacción
-   * Mis dos primeros intentos fallaron, porque el precio de la transacción no era estable y las transacciones no estaban siendo procesadas suficientemente rápido
    * MetaMask te deja acelerar una transacción en la pestaña "Actividad" y eligiendo pagar más gas para un procesamiento de mayor prioridad
 6. Navegue hasta [https://etherscan.io/address/](https://etherscan.io/address/) para ver las transacciones pendientes y todos los tokens asociados a tu cuenta.
    * si utilizas MetaMask puedes hacer clic en los puntos triples y luego "View on Etherscan" para acceder la página:
