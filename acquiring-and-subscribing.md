@@ -8,13 +8,13 @@
 由于 **Uniswap V3** 的流动性较差，额外的差价可能意味着您无法以最优的价格买入。请使用下面的 **Uniswap V2** 链接来交易代币。
 {% endhint %}
 
-1. [在 Uniswap V2 上购买 $MIST](https://app.uniswap.org/#/swap?outputCurrency=0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab&use=V2)
+1. [在 mistX.io 上购买 $MIST](http://swap.mist.alchemist.wtf/)
 2. 连接您的 MetaMask 钱包
 3. 您应该会看到如下所示：
 
-    ![](https://i.imgur.com/5rzgvpf.png)
+    ![](.gitbook/assets/swap%20%281%29.jpg)
 
-4. 输入您想购买的 ⚗️ 数量，并确保您有足够的 ETH（包含交易的 gas 费用以及后续提供 LP 的费用）。
+4. 输入您想购买的 ⚗️ 数量，并确保您有足够的 ETH（后续提供 LP 的费用）。
 5. 点击 " SWAP "，通过 MetaMask 进行必要的授权，并等待交易完成。
    * 我发现我前两次交易都失败了，似乎是因为处理的速度不够快，在交易完成之前价格没有保持稳定。
    * MetaMask 可以选择加速交易，您可以在" Activity "选项中找到相关功能，并支付更多的 gas 费用，以便获得更优先的处理。

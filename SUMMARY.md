@@ -14,7 +14,7 @@
 ## Crucible
 
 * [开始](crucible/getting-started.md)
-* [带我了解 Crucible](crucible/teach-me-about-crucibles.md)
+* [关于 Crucible](crucible/teach-me-about-crucibles.md)
 * [指南: crucible.alchemist.wtf](crucible/guides-crucible.alchemist.wtf/README.md)
   * [如何铸造 Crucible ？](crucible/guides-crucible.alchemist.wtf/how-do-i-mint-a-crucible.md)
   * [我的 Crucible 可以用来做什么？](crucible/guides-crucible.alchemist.wtf/what-can-i-do-with-my-new-crucible.md)

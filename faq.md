@@ -6,7 +6,7 @@
 
 基本上都在 Uniswap，您可以用我们的链接直接跳转过去：
 
-* [uniswap.alchemist.wtf](http://uniswap.alchemist.wtf)
+* [swap.mist.alchemist.wtf](http://swap.mist.alchemist.wtf/)
 
 $MIST 将来一定会出现在其他交易平台上，到时我们可以通过 [Coingecko](https://www.coingecko.com/en/coins/alchemist) 或 [CoinMarketCap](https://coinmarketcap.com/currencies/alchemist/) 来查找这些平台。
 

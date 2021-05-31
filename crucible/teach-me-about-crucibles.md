@@ -1,10 +1,10 @@
-# 带我了解 Crucible
+# 关于 Crucible
 
 ## 什么是 Crucible\(坩埚\) ？
 
 它是一种代表您所提供的 LP 的 NFT 。创建一个 Crucible 的行为被称做"铸造"\(Minting\)。
 
-当一个 Crucible 将 LP 提供到了 Aludel 后，持有者就会获得相应的 ⚗️ 和 ETH 。总奖励为每14天发生的1%的通货膨胀所创造的 ⚗️ 的50%，以及最初在平衡\(Balancer\)池中筹集到的 ETH。提供 LP 的 Crucible 会根据其所提供 LP 在总 LP 中的占比，以及相对于其他 LP 的提供时长，来获得总奖励的相应部分。
+当一个 Crucible 将 LP 提供到了 Aludel 后，持有者就会获得相应的 ⚗️ 和 ETH 。总奖励包括每14天发生的1%的通货膨胀所创造的 ⚗️ 的50%，和最初在平衡\(Balancer\)池中筹集到的 ETH。提供 LP 的 Crucible 会根据所提供 LP 在总 LP 中的占比，以及相对于其他 LP 的提供时长，来获得总奖励的相应部分。
 
 ### 什么是 NFT ？
 
