@@ -34,15 +34,15 @@
 
 ## TOOLS
 
-* [Crucible](https://crucible.alchemist.wtf/)
-* [mistX](https://mistx.io/)
+* [क्रूसिबल](https://crucible.alchemist.wtf/)
+* [मिस्टX](https://mistx.io/)
 
 ## Links 🔗 <a id="discussion"></a>
 
-* [Twitter](https://twitter.com/_alchemistcoin)
-* [Discord](http://discord.alchemist.wtf)
-* [Telegram](https://t.me/alchemistcoin)
-* [Instagram](https://www.instagram.com/thealchemistcoin/)
-* [YouTube](https://www.youtube.com/channel/UCIs4LugynLei2TN__lJh-6Q)
-* [Github](http://alchemist.wtf/)
+* [ट्विटर](https://twitter.com/_alchemistcoin)
+* [डिस्कॉर्ड](http://discord.alchemist.wtf)
+* [टेलीग्राम](https://t.me/alchemistcoin)
+* [इंस्टाग्राम](https://www.instagram.com/thealchemistcoin/)
+* [यूट्यूब](https://www.youtube.com/channel/UCIs4LugynLei2TN__lJh-6Q)
+* [गिटहब](http://alchemist.wtf/)
 
