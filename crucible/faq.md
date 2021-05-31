@@ -80,7 +80,7 @@ You can see the accumulated reward for your crucible by using the UI at either [
 
 ## **Can I add more LP to an existing Crucible?**
 
-Yes. The gas for adding more LPs to your current Crucible will be much lower than when you initially minted a Crucible. Each Subscription event is independent, so any LP you add will start their own multiplier independently.
+Yes. The gas for adding more LPs to your current Crucible will be much lower than when you initially minted a Crucible. Each Subscription event is independent, so any LP you add will start their own multiplier independently.  Subscribing more LP will not reset any other reward multiplier.
 
 ## **Does “Claim Rewards and Unsubscribe LP” remove my LP & rewards from the Crucible?**
 
