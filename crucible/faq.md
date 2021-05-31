@@ -64,6 +64,10 @@ Es ist fast immer besser nur ein Crucible mit den gesamten LP Token teilnehmen z
 
 Die einzige Rechtfertigung mehrere Crucibles zu erstellen ist, wenn du darauf abzielst, Crucibles zu transferieren oder zu verkaufen.
 
+## **Was ist die maximale Anzahl an Crucibles, die erstellt werden können?** 
+
+Eine unendliche Anzahl an Crucibles kann erstellt werden. Bitte beachte, dass bei einem Besuch von [Etherscan, ](https://etherscan.io/token/0x54e0395cfb4f39bef66dbcd5bd93cca4e9273d56)das Wort "Max" bei "Max Total Supply" ignoriert wieder kann. Die "Max Total Supply" auf Etherscan zeigt dir an, wie viele Crucibles bislang erstellt worden sind.
+
 ## **Wie wirkt sich die Beendigung der LP Token Teilnahme auf den Belohnungsmultiplikator aus?**
 
 Jedes Mal wenn du LP Token im Aludel Belohnungsprogramm teilnehmen lässt, wird im Hintergrund registriert wie lange diese Token hinterlegt sind. Das Aludel wendet einen Belohnungsmultiplikator an, dieser startet bei 1x bis zu 10x nach 60 Tagen. Wenn du einen Bruchteil der Gesamtmenge entziehst, nimmt das Aludel zunächst den zuletzt hinterlegten Teil mit dem niedrigsten Multiplikator \(Als letztes rein, als erstes raus\)

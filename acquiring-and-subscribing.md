@@ -17,7 +17,7 @@ Wir empfehlen dir mistX.io zu nutzen, um $MIST zu handeln, solltest du dich alle
 4. Gib die Anzahl an ⚗️ ein, die du gerne kaufen möchtest und stelle sicher, dass du genug ETH als Äquivalent übrig hast für die folgende Liquiditätsbereitstellung.
 5. Drücke auf "Swap", bestätige die aufpoppenden MetaMask Meldungen und Unterschriften und warte bis die Transaktion erfolgreich abgeschlossen wurde.
    * Es kann vorkommen, dass der Preis nicht lange stabil bleibt, bevor die Ausführung beendet wurde und so in der Folge die Transaktionen fehlschlägt.
-   * MetaMask bietet dem Nutzer die Möglichkeit eine oder mehrere Transaktionen zu beschleunigen. Dies kann man über das Aktivitäten-Tab durchführen und so mit der Option mehr Gas zu verwenden, als ursprünglich gewählt, schlussendlich eine höhere Priorität der Abarbeitung erzwingen.
+   * Mit mistX kannst du die Erfolgsrate einer Transaktion erhöhen, indem du auf das Einstellungszahnrad klickst und eine höhere Transaktionsgebühr einstellst.
 6. Navigiere nun zu [https://etherscan.io/address/](https://etherscan.io/address/), um deine offenen Transaktionen und alle deine mit deiner Adresse verknüpften Token nachzuschauen.
    * Solltest du MetaMask benutzten, kannst du mit dem klick auf die 3 Punkte und der Option "View on Etherscan" direkt dort hingelangen:
 

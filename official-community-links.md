@@ -14,6 +14,7 @@ Bitte benutze nur unsere Liste mit offiziellen Links, wenn du Teil der Alchemist
 | [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) | Aktuelle Crucible Website |
 | [alchemist.farm](https://alchemist.farm) | Crucible Website |
 | [docs.alchemist.wtf](https://docs.alchemist.wtf) | Dokumentation |
+| [mistX.io](https://mistx.io/) | mistX |
 
 ### Community
 
@@ -24,6 +25,7 @@ Bitte benutze nur unsere Liste mit offiziellen Links, wenn du Teil der Alchemist
 | [t.me/alchemistcoin](https://t.me/alchemistcoin) | Telegram \(App Link\) |
 | [web.telegram.org/\#/im?p=@alchemistcoin](https://web.telegram.org/#/im?p=@alchemistcoin) | Telegram \(Web Version\) |
 | [instagram.com/thealchemistcoin](https://www.instagram.com/thealchemistcoin/) | Instagram |
+| [youtube.com/channel/UCIs4LugynLei2TN\_\_lJh-6Q](https://www.youtube.com/channel/UCIs4LugynLei2TN__lJh-6Q) | YouTube |
 | [alchemistcoin.medium.com](https://alchemistcoin.medium.com/) | Medium |
 
 
