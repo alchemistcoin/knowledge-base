@@ -27,7 +27,7 @@ After you have gained access to the wallet containing your Crucible, you can bec
 5. Sign a message ![](https://i.imgur.com/nF29cFo.png)
 6. You will see the following message and can now return to Discord ![](https://i.imgur.com/WVIelT9.png)
 7. Collab.Land will send you the following message and if you really own a Crucible the bot will update your role ![](https://i.imgur.com/1UMmipM.png)
-8. The font color of your name should now be the color red on the Discord chat screen
+8. The font color of your name should now be the color red on the Discord chat screen, assuming you have no other roles
 9. If you left click on your Discord name you should see the role certified alchemist circled in red ![](https://i.imgur.com/KTO91Q1.png)
 10. Congratulations, your now a Certified Alchemist! 🧙‍♂️⚗
 
