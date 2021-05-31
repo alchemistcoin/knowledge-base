@@ -32,6 +32,11 @@
 * [Wprowadzenie dla Konstruktorów Alchemist](join-us/alchemist-builders-onboarding-guide.md)
 * [Gdzie zacząć? – 7 zasad przewodnich ITIL \(thegostep\(s\);\)\)!](join-us/where-to-start-the-7-itil-guiding-principles-thegostep-s.md)
 
+## TOOLS
+
+* [Crucible](https://crucible.alchemist.wtf/)
+* [mistX](https://mistx.io/)
+
 ## Linki 🔗 <a id="discussion"></a>
 
 * [Twitter](https://twitter.com/_alchemistcoin)
@@ -39,7 +44,5 @@
 * [Telegram](https://t.me/alchemistcoin)
 * [Instagram](https://www.instagram.com/thealchemistcoin/)
 * [YouTube](https://www.youtube.com/channel/UCIs4LugynLei2TN__lJh-6Q)
-* [Crucible](https://crucible.alchemist.wtf/)
 * [Github](http://alchemist.wtf/)
-* [mistX](https://mistx.io/)
 
