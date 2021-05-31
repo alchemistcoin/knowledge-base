@@ -32,11 +32,17 @@
 * [अल्केमिस्ट बिल्डर्स ऑनबोर्डिंग गाइड](join-us/alchemist-builders-onboarding-guide.md)
 * [कहाँ से शुरू करें? - ७ आईटीआईएल मार \(thegostep\(s\);\)\)!](join-us/where-to-start-the-7-itil-guiding-principles-thegostep-s.md)
 
+## TOOLS
+
+* [Crucible](https://crucible.alchemist.wtf/)
+* [mistX](https://mistx.io/)
+
 ## Links 🔗 <a id="discussion"></a>
 
 * [Twitter](https://twitter.com/_alchemistcoin)
 * [Discord](http://discord.alchemist.wtf)
 * [Telegram](https://t.me/alchemistcoin)
 * [Instagram](https://www.instagram.com/thealchemistcoin/)
+* [YouTube](https://www.youtube.com/channel/UCIs4LugynLei2TN__lJh-6Q)
 * [Github](http://alchemist.wtf/)
 
