@@ -35,7 +35,7 @@
 ## TOOLS
 
 * [Crucible](https://crucible.alchemist.wtf/)
-* [mistX](http://swap.mist.alchemist.wtf/)
+* [mistX](https://mistx.io/)
 
 ## Links 🔗 <a id="discussion"></a>
 
