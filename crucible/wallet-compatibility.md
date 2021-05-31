@@ -1,4 +1,4 @@
-# Wallet Compatibility
+# Wallet Ondersteuning
 
 Based on limited testing and feedback from users, we have come up with the following compatibility chart.
 

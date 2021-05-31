@@ -1,96 +1,98 @@
-# Where to start? – the 7 ITIL guiding principles \(thegostep\(s\);\)\)!
+# Waar begin je? – De 7 ITIL leidende principes \(thegostep\(s\);\)\)!
 
-A guiding principle is a recommendation that provides universal and enduring guidance to an organization, which applies in all circumstances, regardless of changes in its goals, strategies, type of work, or management structure.
+Een leidend principe is een aanbeveling die universele en blijvende begeleiding biedt aan een organisatie, die onder alle omstandigheden van toepassing is, ongeacht veranderingen in haar doelen, strategieën, soort werk of managementstructuur.
 
 ![](https://i.imgur.com/iy0U6hG.png)
 
-### 1. Focus on value.
+### 1. Focus op waarde.
 
-Everything the organization does should link back, directly or indirectly, to value for itself, its “customers”, and other stakeholders. When focusing on value. The first step is to know who are the customers and key stakeholders that my value is being served. Second, it is important to understand what constitutes value from the consumer’s perspective. It is also critical to understand the customer’s experience with the organization and the product/service through a clear awareness of the customer experience or user experience.
+Alles wat de organisatie doet, moet, direct of indirect, een link zijn naar de waarde voor zichzelf, haar 'klanten' en andere belanghebbenden. Bij het focussen op waarde, is de eerste stap om te weten wie de klanten en de belangrijkste belanghebbenden zijn waarvan mijn waarde wordt gediend. Ten tweede is het belangrijk om te begrijpen wat waarde is vanuit het perspectief van de consument. Het is ook van cruciaal belang om de ervaring van de klant met de organisatie en het product / de dienst te begrijpen door een duidelijk bewustzijn van de klantervaring of gebruikerservaring. 
 
-* Know the usage of your service/product/organization.
-* Encourage a focus on value among your team members.
-* Focus on value during every normal operational activity.
-* Include in any improvement initiative the focus on value.
+* Ken het gebruik van uw dienst / product / organisatie. 
+* Moedig een focus op waarde aan bij uw teamleden. 
+* Focus op waarde tijdens elke normale operationele activiteit. 
+* Neem in elk verbeterinitiatief de focus op waarde op.
 
-### 2. Start where you are.
+### 2. Begin waar je nu bent.
 
-When you seek an improvement opportunity, do not start over without considering what is already available to be leveraged. You should not waste your time by wrecking the base of your work – be aware what has been invested \(costs, sweat and time\).
+Als je op zoek bent naar een verbetermogelijkheid, begin dan niet opnieuw zonder te overwegen wat er al beschikbaar is om te worden benut. Je moet je tijd niet verspillen door de basis van je werk te vernielen - let op wat er is geïnvesteerd \(kosten, zweet en tijd\).
 
-Observing existing services and methods should be in line with measurement if possible, to properly understand their current state and what can be reused from them. Information should always be as accurate as possible to make objective decisions. Always see measurement as a support for the analysis. Be aware – measurement is used to support the analysis of what has been observed rather than to replace it, as over-reliance on data analytics and reporting can unintentionally introduce biases and risks in decision-making.
+Het observeren van bestaande diensten en methoden moet indien mogelijk in overeenstemming zijn met de meting, om hun huidige staat goed te begrijpen en wat ervan kan worden hergebruikt. Informatie moet altijd zo nauwkeurig mogelijk zijn om objectieve beslissingen te nemen. Zie meting altijd als een ondersteuning voor de analyse. 
 
-* The Starting Point is either the “customer” or result. Judge your existing methods as objective as possible!
-* Did you find successful existing practices? Use them! Determine if and how these can be expanded and replicated upon to achieve a desired improvement.
-* Evaluate with risk management skills.
-* Face it! Sometimes almost nothing or even nothing can be re-used.
+**Let op**: metingen worden gebruikt om de analyse van wat is waargenomen te ondersteunen in plaats van het te vervangen, aangezien een te grote afhankelijkheid van data-analyse en rapportage onbedoeld vooroordelen en risico's in de besluitvorming kan introduceren.
 
-### 3. Progress iteratively with feedback.
+* Het uitgangspunt is óf de “klant” of het resultaat. Beoordeel de bestaande methoden zo objectief mogelijk! 
+* Heb je succesvolle bestaande opties gevonden? Gebruik ze! Bepaal of en hoe deze kunnen worden uitgebreid en gerepliceerd om een gewenste verbetering te bereiken.
+* Evalueer met vaardigheden op het gebied van risicobeheer. 
+* Onder ogen zien! Soms kan bijna niets of zelfs niets worden hergebruikt.
 
-Resist the temptation to do everything at once. Slice it! Small steps or milestones \(iterations\) can be executed and completed in a timely manner. Each goal will be easier to achieve, its motivating instead of a frustrating. The focus on each effort will be sharper. Reflect any changes in circumstances and keep the focus on value on mind to re-evaluate and potentially revision every iteration as well as the whole initiative. Honest feedback is your tool to review your actions – analyze your improvement opportunities, risks and issues. Give feedback a value to learn, build and improve.
+### 3. Werk vooruit in kleine stappen, met feedback
 
-* Small steps or milestones, while comprehend the whole.
-* Feedback is essential – circumstances change fast.
-* Fast =/= incomplete.
+Weersta de verleiding om alles tegelijk te doen. Deel het op! Kleine stappen of mijlpalen \(iteraties\) kunnen tijdig worden uitgevoerd en voltooid. Elk doel zal gemakkelijker te bereiken zijn, het is motiverend in plaats van frustrerend. De focus op elke inspanning zal scherper zijn. Geef eventuele veranderingen in de omstandigheden weer en houd de focus op waarde in gedachten om elke iteratie en het hele initiatief opnieuw te evalueren en eventueel te herzien. Eerlijke feedback is uw hulpmiddel om uw acties te herzien - analyseer uw verbetermogelijkheden, risico's en problemen. Geef feedback een waarde om te leren, op te bouwen en te verbeteren. 
 
-### 4. Collaborate and promote visibility.
+* Kleine stapjes of mijlpalen, terwijl je het geheel begrijpt. 
+* Feedback is essentieel - omstandigheden veranderen snel. 
+* Snel = / = onvolledig.
 
-Involving the right people in the correct roles, efforts benefit from more relevance \(judgement for decision making has more value\) and create increased long-term success. Inclusion is generally a better policy than exclusion since enthusiastic contributions, creative solutions, and important perspectives can be obtained from unexpected sources. Requirements for success are information, understanding and trust.
+### 4. Werk samen en bevorder de zichtbaarheid.
 
-Identify and manage all stakeholders or groups involved. The most obvious stakeholder group is the “customers”, as in ITIL the organization’s main goal is to facilitate customer outcomes. Other examples of stakeholder collaboration include: developers \(collaboration with other internal teams – like research\) or internal and external suppliers.
+Door de juiste mensen in de juiste rollen te betrekken, profiteren inspanningen van meer relevantie \(oordeel voor besluitvorming heeft meer waarde\) en wordt meer succes op de lange termijn gecreëerd. Inclusie is over het algemeen een beter beleid dan uitsluiting, aangezien enthousiaste bijdragen, creatieve oplossingen en belangrijke perspectieven uit onverwachte bronnen kunnen worden verkregen. Vereisten voor succes zijn informatie, begrip en vertrouwen.
 
-The contribution to improvement of each stakeholder group at each level should be understood, as should the most effective methods to engage with them. Expect different variations about the level and type of collaboration, depending on the relationship between the organization and “consumer”. Address the needs of involved stakeholders! Determining the type, method, and frequency of such messaging! An organized activity @communication is highly recommended.
+Identificeer en beheer alle betrokken belanghebbenden of groepen. De meest voor de hand liggende stakeholdergroep zijn de 'klanten', aangezien in ITIL het belangrijkste doel van de organisatie is om klantresultaten te vergemakkelijken. Andere voorbeelden van samenwerking met belanghebbenden zijn: ontwikkelaars \(samenwerking met andere interne teams - zoals onderzoek\) of interne en externe leveranciers.
 
-Stakeholders need a clear vision of the progress and workload! Never give the impression that nothing happens! Insufficient visibility leads to poor decision making and impacts the ability to improve internal capabilities. To avoid this, you will need critical \(and sincere!\) analysis of the workflow, bottlenecks and excess capacity.
+De bijdrage aan verbetering van elke stakeholdergroep op elk niveau moet worden begrepen, evenals de meest effectieve methoden om met hen om te gaan. Verwacht verschillende variaties over het niveau en type samenwerking, afhankelijk van de relatie tussen de organisatie en “consument”. Richt u op de behoeften van de betrokken belanghebbenden! Bepaal het type, de methode en de frequentie van dergelijke berichten! Een georganiseerde activiteit @communication wordt sterk aanbevolen.
 
-* Collaboration =/= consensus
-* Shout out loud – frequent communication is the way to go.
-* “Good” decisions can only be made with visibility.
+Stakeholders hebben een duidelijke visie nodig op de voortgang en werkdruk! Wek nooit de indruk dat er niets gebeurt! Onvoldoende zichtbaarheid leidt tot slechte besluitvorming en heeft invloed op het vermogen om interne capaciteiten te verbeteren. Om dit te voorkomen is een kritische \(en oprechte!\) Analyse van de workflow, knelpunten en overcapaciteit nodig.
 
-### 5. Think and work holistically.
+* Samenwerking = / = consensus
+* Schreeuw het hardop - veelvuldig communiceren is de beste keuze.
+* "Goede" beslissingen kunnen alleen worden genomen met zichtbaarheid.
 
-In a complex system, the alteration of one element can impact others. These impacts need to be identified, analyzed and planned for. Nothing stands alone – whether a service, practice, process or department. The result will suffer unless it works in an integrated way to handle its activities as a whole, rather than as separate parts.
+### 5. Denk en werk holistisch.
 
-Taking a holistic approach to ITIL concepts includes establishing an understanding of how all the parts of an organization work together \(four dimensions: organizations and people, information and technology, partners and/or suppliers, value streams and processes\). Demand is captured and translated into outcomes.
+In een complex systeem kan de wijziging van een element van invloed zijn op andere. Deze effecten moeten worden geïdentificeerd, geanalyseerd en gepland. Niets staat op zichzelf - of het nu gaat om een dienst, praktijk, proces of afdeling. Het resultaat zal eronder lijden, tenzij het op een geïntegreerde manier werkt om zijn activiteiten als geheel af te handelen, in plaats van als afzonderlijke onderdelen.
 
-* Recognize the complexity of every element.
-* Collaboration is key to working holistically.
-* Reach out for patterns in the needs of and interactions between elements.
-* Automation can facilitate working integrated.
+Een holistische benadering van ITIL-concepten omvat het verkrijgen van inzicht in hoe alle onderdelen van een organisatie samenwerken \(vier dimensies: organisaties en mensen, informatie en technologie, partners en / of leveranciers, waardestromen en processen\). De vraag wordt opgevangen en vertaald in resultaten.
 
-### 6. Keep it simple and practical.
+* Herken de complexiteit van elk element. 
+* Samenwerking is de sleutel tot holistisch werken.
+* Zoek naar patronen in de behoeften van en interacties tussen elementen.
+* Automatisering kan geïntegreerd werken vergemakkelijken.
 
-Always use the minimum number of steps to accomplish an objective. Result-based thinking should be used to produce practical solutions that deliver valuable outcomes. If a process, action or metric fails to provide value or produce a useful outcome, then eliminate it. Do not focus on every exception, this will automatically lead to over-complication. Instead, rules, workflows or processes should be designed that can be used to handle exceptions generally.
+### 6. Houd het simpel en praktisch.
 
-Value creation is your goal – keeping it simple and practical helps to understand the contribution. Establish and communicate a holistic view of the work. Individual teams or groups can understand how their work is being influenced by, and in turn influences, others.
+Gebruik altijd het minimum aantal stappen om een ​​doel te bereiken. Resultaatgericht denken moet worden gebruikt om praktische oplossingen te bedenken die waardevolle resultaten opleveren. Als een proces, actie of statistiek geen waarde oplevert of geen bruikbare uitkomst oplevert, elimineer deze dan. Concentreer u niet op elke uitzondering, dit leidt automatisch tot overcomplicaties. In plaats daarvan moeten regels, workflows of processen worden ontworpen die kunnen worden gebruikt om uitzonderingen in het algemeen af ​​te handelen.
 
-Keep your eyes open of conflicting objectives when designing, managing, or operating practices. For example, managers may want a lot of data \(quantity\), but service teams might be constrained in prioritizing the collection and detail of that data. Find a compromise between competing objectives.
+Waardecreatie is uw doel - door het simpel en praktisch te houden, krijgt u inzicht in de bijdrage. Breng een holistische kijk op het werk tot stand en communiceer deze. Individuele teams of groepen kunnen begrijpen hoe hun werk wordt beïnvloed door, en op hun beurt, anderen.
 
-* Ensure value.
-* Simplicity is key.
-* Set only a few rules to cover the major practices.
-* Respect the time and work of people involved.
-* Adoption is easier when it is not complicated.
-* Get the low-hanging fruits.
+Houd uw ogen open voor tegenstrijdige doelstellingen bij het ontwerpen, beheren of gebruiken van praktijken. Managers willen bijvoorbeeld veel gegevens \(kwantiteit\), maar serviceteams kunnen beperkt zijn in het geven van prioriteit aan het verzamelen en detailleren van die gegevens. Zoek een compromis tussen concurrerende doelstellingen.
 
-### 7. Optimize and automate.
+* Zorg voor waarde.
+* Eenvoud is de sleutel.
+* Stel slechts een paar regels in voor de belangrijkste praktijken.
+* Respecteer de tijd en het werk van de betrokken mensen.
+* Adoptie is gemakkelijker als het niet ingewikkeld is.
+* Ga voor het laaghangend fruit.
 
-Maximize the value of the work carried out by human and technical resources. Technology can help organizations to scale up and take on frequent and repetitive tasks. However, technology should not always be relied upon without the capability of human intervention, as automation for automation’s sake can increase costs and reduce robustness and resilience.
+### 7. Optimaliseer en automatiseer.
 
-Optimization intents to make something as effective and useful as it should be. Always optimize first before considering an automation. Consider that you have set constraint limits for optimization! E.g. Costs, time or resources could be wasted.
+Maximaliseer de waarde van het werk dat wordt uitgevoerd door menselijke en technische middelen. Technologie kan organisaties helpen om op te schalen en frequente en repetitieve taken op zich te nemen. Er moet echter niet altijd op technologie worden vertrouwd zonder de mogelijkheid van menselijke tussenkomst, aangezien automatisering ter wille van de automatisering de kosten kan verhogen en de robuustheid en veerkracht kan verminderen.
 
-The path to optimization follows these high-level steps:
+Optimalisatie is bedoeld om iets zo effectief en nuttig te maken als het zou moeten zijn. Optimaliseer altijd eerst voordat u een automatisering overweegt. Bedenk dat u beperkende limieten heeft ingesteld voor optimalisatie! Bijv. Er kunnen kosten, tijd of middelen worden verspild.
 
-* Declare the context in which the proposed optimization exists.
-* Judge the current state of the proposed optimization.
-* Focus for the desired outcome on simplification and value of an optimization. Set limits!
-* Ensure the optimization is for everyone involved acceptable,
-* Remember iterations – optimizations and everyone involved loves low-hanging fruits.
-* Monitor the impact/effect of optimizations.
+Het pad naar optimalisatie volgt deze stappen op hoog niveau:
 
-Automation typically refers to the use of technology to perform a step or series of steps correctly. Set automation in the context of standardization and streamlining of manual tasks. E.g. define rules to allow decisions without being reviewed individually. Stop human involvement and evaluation of each part of a process to achieve more efficiency. Automation is an opportunity for reduced costs, reduced human errors, and \(important!\) improving experiences for involved.
+* Verklaar de context waarin de voorgestelde optimalisatie bestaat. 
+* Beoordeel de huidige staat van de voorgestelde optimalisatie.
+* Focus voor het gewenste resultaat op vereenvoudiging en waarde van een optimalisatie. Grenzen stellen!
+* Zorg ervoor dat de optimalisatie voor alle betrokkenen acceptabel is.
+* Onthoud iteraties - optimalisaties en alle betrokkenen houden van laaghangend fruit. 
+* Bewaak de impact / het effect van optimalisaties.
 
-* Optimization &gt;&gt;&gt;&gt; Automation
-* Use automation to achieve better experiences, reduce errors and save costs and time.
-* Define your metrics.
-* Use the other guiding principles when applying this one!
+Automatisering verwijst doorgaans naar het gebruik van technologie om een ​​stap of reeks stappen correct uit te voeren. Zet automatisering in de context van standaardisatie en stroomlijning van handmatige taken. Bijv. regels definiëren om beslissingen mogelijk te maken zonder afzonderlijk te worden herzien. Stop menselijke betrokkenheid en evaluatie van elk onderdeel van een proces om meer efficiëntie te bereiken. Automatisering is een kans voor lagere kosten, minder menselijke fouten en \(belangrijk!\) Het verbeteren van ervaringen voor betrokkenen.
+
+* Optimalisatie &gt;&gt;&gt;&gt; Automatisering
+* Gebruik automatisering om betere ervaringen te krijgen, fouten te verminderen en kosten en tijd te besparen. 
+* Definieer uw statistieken. 
+* Gebruik de andere leidende principes bij het toepassen hiervan!
 

@@ -1,41 +1,41 @@
-# Teach me about Crucibles
+# Leer mij over Crucibles
 
-## What is a Crucible?
+## Wat is een Crucible?
 
-It's an NFT representing the LP you have subscribed. The act of creating one is referred to as "minting".
+Het is een NFT dat jouw LP positie vertegenwoordigt. Het proces om er een te maken wordt "minting" of munten \(het munten van\) genoemd.
 
-When a Crucible has LP subscribed to the Aludel the holder gains ⚗️ and ETH. The total rewards available is 50% of the ⚗️ created by the 1% inflation that occurs every 14 days, and the ETH raised during the initial Balancer pool. Crucibles with subscribed LP receive a fraction of the total rewards based on the fraction that their subscribed LP is of the total LP that has been subscribed and the length of time their LP has been subscribed versus the other LP.
+Wanneer een Crucible LP toegekend heeft aan de Aludel ontvangt de houder ⚗️ en ETH. Het totaal aan beloningen dat beschikbaar is, staat gelijk aan 50% van de ⚗️ dat aangemaakt wordt tijdens het 1% inflatie process en aan de hoeveelheid ETH dat is verzameld tijdens de intitiële Balancer pool. Dit gebeurt elke 14 dagen. Crucibles met toegekende LP ontvangen een fractie van de totale beloning, gebaseerd op de totale positie van de LP,  in verhouding tot de totale LP dat beschikbaar is gesteld. Tevens wordt de duratie van de LP ook in acht genomen in vergelijking tot andere LP posities.
 
-### What is an NFT?
+### Wat is een NFT?
 
-It stands for Non-Fungible Token. If that word is too big for you, you can think of "non-fungible" as meaning "unique".
+NFT staat voor "Non-Fungible Token". Simpel gezegd: "E
 
-NFTs are a direct contrast to coins:
+NFTs zijn een directe vertegenwoordiging van tokens:
 
-* Coins: 1⚗️ is 1⚗️, they have equivalent value and use
-* NFTs: 1 Crucible NFT is not another 1 Crucible NFT and it is very unlikely that any two Crucibles have equivalent value
+* Tokens: 1⚗️ is 1⚗️, ze hebben dezelfde waarde.
+* NFTs: 1 Crucible NFT is niet vergelijkbaar met een andere 1 Crucible NFT, en onwaarschijnlijk dat zij dezelfde waarde hebben.
 
-This is an important point to understand, because people have [already started listing](https://opensea.io/assets/0x54e0395cfb4f39bef66dbcd5bd93cca4e9273d56/620479970925497750675476517677400441094103376596) their Crucibles for sale on platforms such as OpenSea.
+Dit is belangrijk om te weten, omdat individuen inmiddels [Crucibels beschikbaar hebben gemaakt voor aankoop](https://opensea.io/assets/0x54e0395cfb4f39bef66dbcd5bd93cca4e9273d56/620479970925497750675476517677400441094103376596) op platformen zoals OpenSea.
 
-It's worth mentioning for the sake of clarity: if you mint a Crucible, you are still also staking ⚗️ in the Uniswap-V2 liquidity pool as well. You are effectively engaging in all 3 ways of potentially earning.
+Om het nogmaals duidelijk te maken: Wanneer je een Crucible maakt, stake je nogsteeds jouw ⚗️ in de Uniswap-V2 liquidity pool. Effectief maak je gebruik van 3 manieren om van beloningen te vergaren.
 
-## How do you mint a Crucible?
+## How munt je een Crucible?
 
-Originally the only method was getting to grips with the official CLI tool. Fortunately, community members have since created web-apps that makes the process a lot easier. Due to the extra risk of making mistakes whilst using the CLI tool it is no longer recommended to take that approach. 
+Oorspronkelijk was het alleen mogelijk met de officieële CLI tool. Gelukkig hebben communitymembers inmiddels web-apps gemaakt om het process eenvoudiger te maken. Aanzien de CLI methode extra risico's met zich mee brengt, raden wij aan om hier langer geen gebruik van te maken.
 
-Please use the guide below to mint a Crucible:
+Maak gebruk van de onderstaande guide om een Crucible te munten:
 
-* [Minting a Crucible on crucible.alchemist.wtf](guides-crucible.alchemist.wtf/)
+* [Een Crucible munten op crucible.alchemist.wtf](guides-crucible.alchemist.wtf/)
 
-## What is a Crucible worth?
+## Wat is een Crucible waard?
 
-The value of a Crucible is difficult to determine. The NFT nature of the Crucible could potentially make it have speculative value beyond the its immediate worth, but some Crucibles may be considered more special than others.
+De waarde van een Crucible is moeilijk vast te leggen. Vanwege het aard van een NFT kan een Crucible speculatieve waarden hebben hoger dan de originele waarde, maar sommige Crucibles worden als speciaal/uniek gezien.
 
-Speculation aside, however, what we do know is that a Crucible is created with some variable amount of LP tokens inside, which have an immediately measurable value. 
+Los van speculatie weten wij dat een Crucible is gemaakt op basis van een LP positie dat gelijk staat aan een bepaalde hoeveelheid, iets wat je direct kan berekenen.
 
-At a minimum, you could value a crucible based on what you would receive back for unsubscribing its LP contents and trading back to your fiat currency.
+Op z'n minst staat de waarde gelijk aan de hoeveelheid dat je ontvangt, nadat je de LP positie hebt geinned en teruggewisseld naar een fiatwaarde.
 
-Refer to [this section](teach-me-about-crucibles.md#how-can-i-check-how-many-lp-tokens-someone-elses-crucible-is-worth) below for methods to check the contents of a Crucible.
+In dit stuk hieronder \(link to check value\) geven wij enkele methoden om de inhoud van een Crucible to controleren.
 
 ## Should you mint a Crucible?
 

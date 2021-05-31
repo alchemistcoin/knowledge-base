@@ -1,34 +1,36 @@
-# The basic outline
+# In de basis
 
-There is a token called Alchemist. It has the ticker symbol "⚗️". It is also referred to as "mist" and "$MIST". Do not confuse it with [MUST](https://www.coingecko.com/en/coins/must) - despite the alembic it now displays it has no relation to Alchemist.
+Er is een token genaamd Alchemist. Zijn ticker symbool is "⚗️", maar ook wel bekend als "mist" en "$MIST". Verwar dit niet met [MUST](https://www.coingecko.com/en/coins/must), het enige wat overeenkomt is het symbool, maar verder is er geen connectie met of naar Alchemist.
 
-What is ⚗️ good for? I am not here to answer that. Please refer to the [official FAQ](faq.md)
+Waar is ⚗️ goed voor? Daarvoor ben ik hier niet. Zie daarvoor de officiële FAQ.
+
+Net als andere munten kan je ⚗️ staken en kan je het ultiem gebruiken om je [Crucible NFT te munten](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_gHtk22CITCclybwJZ/v/dutch-1/crucible/teach-me-about-crucibles) in het [Aludel programma](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_gHtk22CITCclybwJZ/v/dutch-1/the-basic-outline#3-aludel).
 
 You can stake ⚗️ as with other coins, and you can ultimately use it to [mint Crucible NFTs](crucible/teach-me-about-crucibles.md) in the [Aludel](the-basic-outline.md#3-aludel) program.
 
-## How could I increase my wealth using ⚗️?
+## Hoe kan ik mijn rijkdom vergroten met ⚗️?
 
-### 1. Speculation
+### 1. Speculatie
 
-The first way is to speculate on its value. In other words: you buy some and hope the price goes up and then sell it. Disclaimer: there is no guarantee the price goes up.
+Jouw eerste optie is speculeren over de waarde. Met andere woorden: je koopt ⚗️en je hoopt/verwacht dat de prijs omhoog gaat om vervolgens te verkopen. **Let wel:** er is **geen garantie** dat de prijs omhoog gaat.
 
 ### 2. Staking
 
 {% hint style="danger" %}
-Crucible only supports the **Uniswap V2** Liquidity Pool. Adding liquidity to the **Uniswap V3** pool is not compatible with the Rewards Program.
+Crucibles zijn werken niet samen met het **Uniswap V2** Liquidity Pool. Liquiditeit toevoegen aan een Uniswap V3 pool werkt niet met het Belonings Programma.
 {% endhint %}
 
-The second way is to stake it in a liquidity pool alongside an equal value portion of Ether \(ETH\). When you do so you receive Liquidity Pool tokens \(LP\) that represent your stake in that pool. Ultimately these LP tokens are used to withdraw your original ⚗️ and ETH from the pool when you decide you are finished with it.
+De tweede optie is het staken in een liquiditeits pool, met een gelijkwaardige verhouding in Ether \(ETH\). Wanneer je dit doet dan ontvang je Liquiditeit Pool \(LP\) tokens, die jouw stake vertegenwoordigen. Uiteindelijk heb je deze LP tokens nodig om de onderliggende positie van ⚗️ en ETH weer uit de pool te halen.
 
-The liquidity pool is used to facilitate trades between ⚗️ and ETH that other people wish to make. Every trade made incurs a small fee for the person making the trade. Whilst you hold LP tokens, you receive a portion of those fees, proportional to the LP you hold relative to the total LP. \(For example, if your LP makes up 1% of the total LP then you receive 1% of the pool fees\)
+Een liquiditeits pool wordt gebruikt om koop en verkopen te faciliteren tussen ⚗️ en ETH. Elke ruil actie kost een kleine "fee" voor de persoon wie de koop maakt. Wanneer je LP tokens hebt krijg je een portie van deze fees uitbetaald, proportioneel tot de totale pool en hoeveel LP jij zelf hebt. Bijvoorbeeld: met een positie van 1% v.d. pool, ontvang jij 1% van de pool fees\).
 
-This profiting from liquidity pool fees mechanism is no different to staking any other coin in any other liquidity pool. As such, it is susceptible to "impermanent loss" whereby as a staker you lose money by withdrawing your staked coins after their relative value has shifted since you subscribed them. If you are unfamiliar with this concept I recommend doing further research until you understand it - there are plenty of resources explaining it better than I could.
+Het profiteren van dit mechanisme is niet anders dan een andere staking optie met een andere token in een andere pool. Daarom heb je kans op "impermanent loss", waar de persoon die een positie staked verlies oploopt omdat de relatieve waarde sinds het staken van de tokens, is verschoven. Wanneer je onbekend bent met dit concept, dan raden wij je aan verder onderzoek te doen todat je dit begrijpt. Er zijn een hoop bronnen die het beter uitleggen dan ik aan jou kan doen.
 
 {% embed url="https://youtu.be/8XJ1MSTEuU0" caption="Please watch this video on \"Impermanent Loss\" before proceeding." %}
 
 ### 3. Aludel
 
-This is where the alchemy happens. "Aludel" is the name of the reward program where you can gain ⚗️ and ETH for subscribing to it with the LP tokens in to a Crucible.
+En dit is waar "the alchemy" happens. "Aludel" is de naam van het beloningsprogramma waar je ⚗️ en ETH krijgt, wanneer je hierop deelneemt met jouw LP tokens in een Crucible.
 
-You can learn more about crucibles on the "[Teach me about Crucibles](crucible/teach-me-about-crucibles.md)" page.
+Je kan meer over crucibles te weten komen op de "[Leer mij over Crucibles](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_gHtk22CITCclybwJZ/v/dutch-1/crucible/teach-me-about-crucibles)" pagina.
 

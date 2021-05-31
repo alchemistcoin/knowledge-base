@@ -1,49 +1,56 @@
-# Acquiring & Subscribing
+# Verkrijgen & Abonneren
 
-### 1. Getting $MIST ⚗️
+### 1. $MIST verkrijgen ⚗️
 
-Ever traded coins on Uniswap? If so you know how to do this already.
+Heb je al eerder op Uniswap gekocht? Dan weet je precies hoe je dit moet doen.
 
 {% hint style="warning" %}
-Due to low liquidity on **Uniswap V3**, extra slippage might mean you will not get the best price for your purchase. Please use our **Uniswap V2** link below to perform the token swap.
+Vanwege lage liquiditeit op **Uniswap V3** betekent het verhogen van de "slippage" niet direct dat je de beste prijs krijgt. Gebruik daarom **Uniswap V2** met de link hieronder, om de aankoop te doen.
 {% endhint %}
 
-1. Head to [Swap $MIST on Uniswap V2](https://app.uniswap.org/#/swap?outputCurrency=0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab&use=V2)
-2. Connect MetaMask wallet
-3. You should see something like this:
 
-    ![](https://i.imgur.com/5rzgvpf.png)
 
-4. Enter the amount of ⚗️ you wish to purchase, ensuring you have an equivalent value of ETH remaining to use for the subscribing
-5. Hit "Swap", make necessary approvals via MetaMask, wait for the transaction to complete
-   * I found that my first two attempts failed, seemingly because they weren't being processed fast enough for the price to remain stable before they finished
-   * MetaMask has the ability to let you speed up a transaction by locating it in the "Activity" tab and choosing to pay more gas for higher priority processing
-6. Navigate to [https://etherscan.io/address/](https://etherscan.io/address/) to view pending transactions and all tokens associated with your account.
-   * if you use MetaMask you can click the triple dots and then "View on Etherscan" to jump to it:
+1. Ga naar [Swap $MIST op mistX.io](http://swap.mist.alchemist.wtf)
+2. Verbind je MetaMask wallet/portemonnee
+3. Vervolgens zie je iets zoals hieronder
 
-     ![](https://i.imgur.com/jdzodQP.png)
-7. You should see your new ⚗️ displayed like the following:
+    ![](.gitbook/assets/swap%20%282%29.jpg)
+
+4. Voer het aantal ⚗️ in dat je wilt kopen en zorg dat je daarvoor volgende ETH beschikbaar hebt, ook voor het abonneren.
+5. Druk op "Swap" en keur de nodige aanvragen goed via MetaMask en wacht vervolgens tot je transactie is geslaagd.
+
+   * Ik ontdekte dat mijn eerste twee pogingen waren gefaald, omdat deze niet snel genoeg verwerkt waren omdat de prijs niet stabiel genoeg was, voordat de transactie slaagde.
+   * MetaMask heeft de mogelijkheid je transactie te versnellen \(speed up\) door de transactie te selecteren onder het tabje "Activity" en meer gas beschikbaar te stellen voor de transctie.
+
+6. Ga naar [https://etherscan.io/address/](https://etherscan.io/address/) on je huidige nog te verwerken transacties en al jouw tokens te bekijken, die bij jouw account horen.  
+
+
+   Als je MetaMask gebruikt, klik dan op de drie circels om een menu te openen, klik vervolgens op "View on Etherscan" om naar jouw Etherscan pagina te gaan.
+
+   ![](https://i.imgur.com/jdzodQP.png)
+
+7. Jouw ⚗️ kan je vervolgens op de volgende manier zien:
 
     ![](https://i.imgur.com/bF9wsrg.png)
 
-### 2. Subscribing $MIST ⚗️ to receive LP tokens
+### 2. $MIST ⚗️ abboneren om LP tokens te ontvangen
 
-Ever provided liquidity on Uniswap? If so you know how to do this already.
+Heb je al eerder liquiditeit beschikbaar gesteld op Uniswap? Dan weet je hoe je dit moet doen.
 
 {% hint style="danger" %}
-Crucible only supports the **Uniswap V2** Liquidity Pool.   
-Adding liquidity to the **Uniswap V3** pool is not compatible with the Rewards Program.
+Crucible ondersteunt alleen  **Uniswap V2** Liquidity Pool.   
+Liquiditeit toevoegen aan de **Uniswap V3** pool wordt niet door het belonings programma ondersteund.
 {% endhint %}
 
-1. Head to [Add LP to $MIST on Uniswap V2](https://app.uniswap.org/#/add/v2/0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab/ETH)
-   * Connect MetaMask wallet if not already done so
-2. You should see something like this:
+1. Ga naar "[Voeg LP toe $MIST op Uniswap V2](https://app.uniswap.org/#/add/v2/0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab/ETH)"
+   * Verbind MetaMask als je dat nog niet heb
+2. Vervolgens zie je iets zoals hieronder:
 
     ![](https://i.imgur.com/7paIEyF.png)
 
-3. Enter the amounts you want to stake. Both sides need to be equal value, so changing one will change the other. You most likely just want to click the "MAX" button on the ⚗️ side
-4. Hit "Stake" or "Supply", make necessary approvals via MetaMask, wait for the transaction to complete
-5. You should see your new LP tokens \(named UNI-V2\) on Etherscan again:
+3. Voer het aantal in dat je wilt staken. Dit gaat in een gelijkwaardige verhouding. Wanneer je één van de twee aanpast, weerspiegelt zich dat aan de andere waarde. Je zal waarschijnlijk op "MAX" willen klikken aan de kant van ⚗️
+4. Druk op "Stake" of "Supply", afhankelijk of het je eerste actie is of dat je meer LP toevoegt, en keur de nodige aanvragen in MetaMask goed. Wacht tot je transactie is verwerkt.
+5. Je ziet vervolgens je nieuwe LP tokens \(genaamd UNI-V2\) op Etherscan alsvolgt:
 
     ![](https://i.imgur.com/6hAoHGw.png)
 

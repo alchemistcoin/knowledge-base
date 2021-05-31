@@ -3,22 +3,22 @@
 ### **Videos 🎬📺**
 
 {% hint style="info" %}
-Please note some of the videos are out of date in regards to the current appearance of [alchemist.farm](https://alchemist.farm). Also, these videos are community made videos - but they can still be of assistance.
+Houd er rekening mee dat sommige video's verouderd zijn met betrekking tot het huidige uiterlijk van [alchemist.farm](https://alchemist.farm). Deze video's zijn ook door de community gemaakte video's, maar ze kunnen nog steeds van pas komen.
 {% endhint %}
 
 {% hint style="warning" %}
-References to Uniswap in the videos may be outdated. Please make sure you are using **Uniswap V2** for providing Liquidity as V3 is not supported.
+Verwijzingen naar Uniswap in de video's zijn mogelijk verouderd. Zorg ervoor dat je **Uniswap V2** gebruikt om liquiditeit beschikbaar te stellen, aangezien V3 niet wordt ondersteund. 
 
-If you are unsure how to switch between V3 and V2, please use our links in the [guide](../../acquiring-and-subscribing.md).
+Als je niet zeker weet hoe je tussen V3 en V2 moet schakelen, gebruik dan onze links in de [guide](../../acquiring-and-subscribing.md).
 {% endhint %}
 
-* [Make a Crucible](https://www.youtube.com/watch?v=Rl9Rf-3Sp-8)
-* [Get LP, then Make a Crucible](https://www.youtube.com/watch?v=Ga1qcQ6x3as)
-* [Get LP, then Make a Crucible, and become a Certified Alchemist on Discord](https://www.youtube.com/watch?v=k7MO1QpqCds)
-* [Crucible Transfer using Alchemist.farm and OpenSea.io](https://www.youtube.com/watch?v=i2MCYimelBM)
-* [Impermanent Loss - watch before staking LP](https://www.youtube.com/watch?v=8XJ1MSTEuU0)
+* [Maak een Crucible](https://www.youtube.com/watch?v=Rl9Rf-3Sp-8)
+* [Verkrijg LP, maak daarna een Crucible](https://www.youtube.com/watch?v=Ga1qcQ6x3as)
+* [Verkrijg LP, maak daarna een Crucible, en word een Certified Alchemist op Discord](https://www.youtube.com/watch?v=k7MO1QpqCds)
+* [Crucible overdracht via Alchemist.farm en OpenSea.io](https://www.youtube.com/watch?v=i2MCYimelBM)
+* [Impermanent Loss - bekijk dit voordat je LP staked](https://www.youtube.com/watch?v=8XJ1MSTEuU0)
 
-### **Images 🖼🎨**
+### **Afbeelding 🖼🎨**
 
 ![Processes to enter the Aludel Program](https://i.imgur.com/7sK0Jr2.png)
 
