@@ -40,3 +40,8 @@
 * [Instagram](https://www.instagram.com/thealchemistcoin/)
 * [Github](http://alchemist.wtf/)
 
+---
+
+* [Crucible](https://crucible.alchemist.wtf/)
+* [mistX](https://mistx.io/)
+
