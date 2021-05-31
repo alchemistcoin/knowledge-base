@@ -1,18 +1,22 @@
 # FAQ
 
-**¿Dónde puedo comprar/vender ⚗️ \($MIST\) ?**
+## **¿Dónde puedo comprar/vender ⚗️ \($MIST\) ?**
 
-[uniswap.alchemist.wtf](https://app.uniswap.org/#/swap?inputCurrency=0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab&use=V2)
+Recomendamos el uso de mistX.io, que puedes encontrar utilizando nuestro enlace
 
-**¿De quanto es la oferta total/circulante?**
+* [swap.mist.alchemist.wtf](http://swap.mist.alchemist.wtf/)
+
+Con el tiempo $MIST aparecerá en otros sitios de trading, cuando esto sucede estos lugares pueden ser identificados mediante el uso de [Coingecko](https://www.coingecko.com/en/coins/alchemist) o [CoinMarketCap](https://coinmarketcap.com/currencies/alchemist/).
+
+## **¿De quanto es la oferta total/circulante?**
 
 La oferta circulante y la oferta total son las mismas. Comenzó con 1.000.000, pero aumenta un 1% cada dos semanas. Puedes ver la oferta actual [aquí](https://etherscan.io/token/0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab).
 
-**¿Han planeado una venta previa/privada/pública?**
+## **¿Han planeado una venta previa/privada/pública?**
 
 No hay ventas. Hemos empezado con un Balancer pool y se depositaron todos los ETH recibidos en el programa de recompensas.
 
-**¿El token tiene inflación?**
+## **¿El token tiene inflación?**
 
 La inflación es actualmente de 1% cada dos semanas, pero puede modificarse hacia arriba o hacia abajo. Para evitar que se diluya tus ⚗️$mist por culpa de la inflación, depoistalos en el programa de recompensas de Aludel.
 
@@ -20,7 +24,7 @@ La asignación actual de los tokens de inflación es:
 
 50% al fondo de recompensas de Aludel, 25% al multisig de la comunidad de $mist y 25% a la tesorería de $mist.
 
-**¿Qué puedo hacer con mis ⚗️$mist?**
+## **¿Qué puedo hacer con mis ⚗️$mist?**
 
 Se estableció un programa de recompensas de proveedores de liquidez para el fondo de ⚗️$mist/ETH Uniswap. Este programa de recompensas se llama Aludel. \(Piensa en este como un smart contract de staking diseñado por nuestro guildmaster\).
 
