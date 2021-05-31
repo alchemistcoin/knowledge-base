@@ -32,6 +32,11 @@
 * [Alchemist Builders入职指南](join-us/alchemist-builders-onboarding-guide.md)
 * [切入点——7项ITIL指导原则\(thegostep\(s\);\)](join-us/where-to-start-the-7-itil-guiding-principles-thegostep-s.md)
 
+## TOOLS
+
+* [Crucible](https://crucible.alchemist.wtf/)
+* [mistX](http://swap.mist.alchemist.wtf/)
+
 ## Links 🔗 <a id="discussion"></a>
 
 * [Twitter](https://twitter.com/_alchemistcoin)
@@ -40,5 +45,4 @@
 * [Instagram](https://www.instagram.com/thealchemistcoin/)
 * [YouTube](https://www.youtube.com/channel/UCIs4LugynLei2TN__lJh-6Q)
 * [Github](http://alchemist.wtf/)
-* [MistX](http://swap.mist.alchemist.wtf/)
 
