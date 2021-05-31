@@ -16,6 +16,7 @@ Pentru a participa in Alchemist va rugam sa folositi doar link-urile oficiale.
 | [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) | Site-ul Crucible Nou |
 | [alchemist.farm](https://alchemist.farm) | Site-ul Crucible  |
 | [docs.alchemist.wtf](https://docs.alchemist.wtf) | Documentatia Alchemist |
+| [mistX.io](https://mistx.io/) | mistX  |
 
 ### Comunitatea Alchemist
 
@@ -26,6 +27,7 @@ Pentru a participa in Alchemist va rugam sa folositi doar link-urile oficiale.
 | [t.me/alchemistcoin](https://t.me/alchemistcoin) | Telegram \(Link-ul Aplicatie\) |
 | [web.telegram.org/\#/im?p=@alchemistcoin](https://web.telegram.org/#/im?p=@alchemistcoin) | Telegram \(Versiunea Web\) |
 | [instagram.com/thealchemistcoin](https://www.instagram.com/thealchemistcoin/) | Instagram |
+| [youtube.com/channel/UCIs4LugynLei2TN\_\_lJh-6Q](https://www.youtube.com/channel/UCIs4LugynLei2TN__lJh-6Q) | YouTube |
 | [alchemistcoin.medium.com](https://alchemistcoin.medium.com/) | Medium |
 
 
