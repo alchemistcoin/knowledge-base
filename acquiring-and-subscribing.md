@@ -1,18 +1,18 @@
 # 獲取和提供
 
-### 1. 獲取$MIST ⚗️
+### 1. 獲取$MIST ⚗️ 
 
-您在Uniswap上進行過代幣交易嗎？如果有的話，你已經知道如何做了。
+您在mistX.io上進行過代幣交易嗎？如果有的話，你已經知道如何做了。
 
 {% hint style="warning" %}
-由於**Uniswap V3**的流動性較低，額外的差價可能意味著你將無法獲得最佳的購買價格。請使用我們以下的**Uniswap V2**連結來進行代幣交易。
+我們建議使用 mistX.io 交易$MIST。但如果你選擇使用Uniswap, 請緊記由於**Uniswap V3**的流動性較低，額外的差價可能意味著你將無法獲得最佳的購買價格。請使用我們這個[Uniswap V2](https://app.uniswap.org/#/swap?outputCurrency=0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab&use=V2)連結來進行代幣交易。
 {% endhint %}
 
-1. [Uniswap V2交易 $MIST](https://app.uniswap.org/#/swap?outputCurrency=0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab&use=V2)
+1. 到 [mistX.io 交易$MIST](http://swap.mist.alchemist.wtf)
 2. 連接您的MetaMask錢包
 3. 您應該看到如下內容：
 
-    ![](https://i.imgur.com/5rzgvpf.png)
+    ![](.gitbook/assets/swap.jpg)
 
 4. 輸入您想購買⚗️的數量，請確保你有多於所需的ETH。\(給gas費和往後提供LP\)
 5. 點擊 "SWAP"，通過MetaMask進行必要的授權，等待交易完成。

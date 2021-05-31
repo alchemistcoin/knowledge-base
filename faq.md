@@ -4,9 +4,9 @@
 
 **我可以在哪交易 ⚗️ \($MIST\) ?**
 
-大部份的交易活動都在Uniswap進行的, 你可以使用以下的連結:
+我們建議使用 mistX.io, 你可以使用以下的連結:
 
-* [uniswap.alchemist.wtf](http://uniswap.alchemist.wtf)
+* [swap.mist.alchemist.wtf](http://swap.mist.alchemist.wtf/)
 
 你亦可能在 [Coingecko](https://www.coingecko.com/en/coins/alchemist) 或 [CoinMarketCap](https://coinmarketcap.com/currencies/alchemist/) 找到其他能夠買賣$MIST的交易網站。
 
