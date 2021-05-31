@@ -16,10 +16,10 @@ Recomandam sa folosesti mistX.io cand cumperi $MIST. Daca vrei sa folosesti Unis
 
     4. Introdu suma de ⚗️MIST pe care vrei sa o cumperi, asigurandu-te ca ai disponibila o suma de ETH echivalenta valorii de $MIST necesara pentru pentru oferta de lichiditate.
 
-    5. Fa Click “Swap”, fiind necesare aprobari in Metamask asteapta confirmarea tranzactiilor
+    5. Fa Click “Swap”, apoi fiind necesare aprobari in Metamask trebuie sa asteapti confirmarea tranzactiilor
 
 * Inainte de a reusi au fost doua incercari care au esuat, deoarece nu au fost procesate suficient de repede pentru ca pretul sa ramana acelasi la timpul confirmarii lor.
-* MetaMask-ul ofera posibilitatea sa accelerezi viteza de procesare a tranzactiei intrand in fila “Activty” si marind de aici taxa de gaz, astfel platesti o taxa de tranzactie mai mare care dar iti ofere prioritate la procesare.
+* MistX ofera o mai mare sansa de a procesa cu succes tranzacțiile făcând clic pe pictograma Setting și alegând să plătiți o taxă de tranzacție mai mare.
 
      6. Mergi la [https://etherscan.io/address/](https://etherscan.io/address/) pentru a vizualiza tranzactiile in așteptare si toti tokenii asociati contului tau
 
