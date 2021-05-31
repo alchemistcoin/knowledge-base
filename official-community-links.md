@@ -16,6 +16,7 @@
 | [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) | Latest Crucible Website |
 | [alchemist.farm](https://alchemist.farm) | Crucible Website |
 | [docs.alchemist.wtf](https://docs.alchemist.wtf) | Documentation |
+| [mistX.io](https://mistx.io/) | mistX |
 
 ### 社群
 
@@ -27,6 +28,7 @@
 | [web.telegram.org/\#/im?p=@alchemistcoin](https://web.telegram.org/#/im?p=@alchemistcoin) | Telegram \(Web Version\) |
 | [instagram.com/thealchemistcoin](https://www.instagram.com/thealchemistcoin/) | Instagram |
 | [alchemistcoin.medium.com](https://alchemistcoin.medium.com/) | Medium |
+| [youtube.com/channel/UCIs4LugynLei2TN\_\_lJh-6Q](https://www.youtube.com/channel/UCIs4LugynLei2TN__lJh-6Q) | Youtube |
 
 
 
