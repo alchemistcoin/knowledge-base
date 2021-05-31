@@ -31,6 +31,7 @@
 
 * [Ghidul de Integrare in Construirea Alchemist](join-us/alchemist-builders-onboarding-guide.md)
 * [Unde să încep? - Cele 7 principii directoare ITIL \(thegostep\(s\);\)\)!](join-us/where-to-start-the-7-itil-guiding-principles-thegostep-s.md)
+* [TOOLS](join-us/tools.md)
 
 ## TOOLS
 
@@ -45,4 +46,6 @@
 * [Instagram](https://www.instagram.com/thealchemistcoin/)
 * [YouTube](https://www.youtube.com/channel/UCIs4LugynLei2TN__lJh-6Q)
 * [Github](http://alchemist.wtf/)
+
+## TOOLS <a id="tools-1"></a>
 
