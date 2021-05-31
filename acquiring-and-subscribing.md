@@ -5,14 +5,16 @@
 Hai mai scambiato monete su Uniswap? Se la risposta è si, allora sai già cosa fare. 
 
 {% hint style="warning" %}
-A causa della bassa liquidità su **Uniswap V3**, l'oscillamento aggiuntivo può voler dire che non riceverai il miglior prezzo per il tuo acquisto. Per favore, usa il nostro link **Uniswap V2** sotto per scambiare il token. 
+Raccomandiamo di usare mistX.io per comprare o vendere $MIST. Tuttavia, se si decide di usare uniswap, a causa della bassa liquidità su **Uniswap V3**, l'oscillamento aggiuntivo può voler dire che non riceverai il miglior prezzo per il tuo acquisto. Per favore, usa il nostro link **Uniswap V2** sotto per scambiare il token. 
 {% endhint %}
 
-1. Vai su [Scambia  $MIST su Uniswap V2](https://app.uniswap.org/#/swap?outputCurrency=0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab&use=V2)
+1. Vai su [Scambia  $MIST su mistX.io](http://swap.mist.alchemist.wtf/)
 2. Connetti MetaMask wallet
 3. Dovresti riuscire a vedere questo:
 
-    ![](https://i.imgur.com/5rzgvpf.png)
+    ![](.gitbook/assets/swap.jpg)
+
+ 
 
 4. Digita l'importo di ⚗️ che vorresti comprare, assicurandoti di avere un valore equivalente di ETH rimanenti da usare per l'iscrizione
 5.  Premi "Swap", fai le approvazioni necessarie tramite MetaMask, aspetta il completamento della transazione
