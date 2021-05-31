@@ -30,7 +30,7 @@
 * [Crucible](https://crucible.alchemist.wtf/)
 * [mistX](https://mistx.io/)
 
----
+## LINKS
 
 * [Twitter](https://twitter.com/_alchemistcoin)
 * [Discord](http://discord.alchemist.wtf/)
