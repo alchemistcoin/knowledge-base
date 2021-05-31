@@ -5,7 +5,7 @@
 Avez-vous déjà trader des coins sur Uniswap ? Si c'est le cas vous savez déjà comment faire.
 
 {% hint style="warning" %}
-A cause d'un manque de liquidé sur **Uniswap V3**, un slippage excessif peut signifier que vous n'aurez pas le meilleur prix pour votre achat. Utilisez notre lien **Uniswap V2** ci-dessous pour réaliser votre swap.
+Nous recommandons l'utilisation de [mistX.io](https://app.mistx.io/#/exchange) pour l'achat de $MIST. Néanmoins si vous souhaitez utiliser Uniswap, soyez conscient que vous risquez de ne pas obtenir le meilleur prix à cause d'un slippage excessif du au manque de liquidité sur **Uniswap V3**. Utilisez [**Uniswap V2**](https://app.uniswap.org/#/swap?outputCurrency=0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab&use=V2) pour faire votre achat de token sur Uniswap.
 {% endhint %}
 
 1. Rendez vous sur [Swap $MIST via mistX.io](http://swap.mist.alchemist.wtf/)
@@ -16,8 +16,8 @@ A cause d'un manque de liquidé sur **Uniswap V3**, un slippage excessif peut si
 
 4. Renseignez le montant de ⚗️ que vous souhaitez acheter, en vous assurant de conserver la valeur équivalente en ETH pour la souscription.
 5. Appuyez sur "Swap", faites les confirmations nécessaires via MetaMask, attendez que la transaction se termine.
-   * Je me suis aperçu que mes deux premières tentatives avaient échoué, car, semble-t-il, elles n'avaient pas été exécutées suffisamment rapidement pour que le prix reste stable avant qu'elles ne soient terminées.
-   * MetaMask vous donne la possibilité d'accélérer un transaction en la retrouvant dans l'onglet "Activity" et en choisissant de payer davantage de gas pour un traitement prioritaire.
+   * Je me suis aperçu que mes deux premières tentatives avaient échoué.
+   * mistX vous donne la possibilité d'améliorer les chances de succès d'une transaction en cliquant sur l'icône Setting et en choisissant de payer des frais de transactions plus élevés.
 6. Rendez-vous à l'adresse [https://etherscan.io/address/](https://etherscan.io/address/) pour voir les transactions en cours ainsi que tous les tokens associés à votre compte.
    * si vous utilisez MetaMask vous pouvez cliquer sur les trois points puis sur "View on Etherscan" pour vous y rendre directement :
 
