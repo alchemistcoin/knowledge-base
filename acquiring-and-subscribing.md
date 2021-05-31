@@ -2,17 +2,17 @@
 
 ### 1. Pozyskiwanie $MIST ⚗️
 
-Czy kiedykolwiek handlowałeś monetami na Uniswap? Jeśli tak, to już wiesz, jak to zrobić.
+Czy kiedykolwiek handlowałeś monetami na mistX.io? Jeśli tak, to już wiesz, jak to zrobić.
 
 {% hint style="warning" %}
-Ze względu na niską płynność w **Uniswap V3** oraz dodatkowy poślizg \(extra slippage\) istnieje możliwość, że nie uzyskasz tam najlepszej ceny zakupu. Skorzystaj proszę z naszego linku **Uniswap V2** umieszonego poniżej, aby dokonać wymiany tokena.
+Zalecamy korzystanie z mistX.io podczas handlowania $MIST. Jeżeli jednak zdecydujesz się używać Uniswap to pamiętaj, że ze względu na niską płynność w **Uniswap V3** oraz dodatkowy poślizg \(extra slippage\) istnieje możliwość, że nie uzyskasz tam najlepszej ceny zakupu. Skorzystaj proszę z naszego linku [**Uniswap V2**](https://app.uniswap.org/#/swap?outputCurrency=0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab&use=V2) ****umieszonego poniżej, aby nabyć token.
 {% endhint %}
 
-1. Przejdź do [Wymień $MIST w Uniswap V2](https://app.uniswap.org/#/swap?outputCurrency=0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab&use=V2)
+1. Przejdź do [Wymień $MIST w mistX.io](http://swap.mist.alchemist.wtf/)
 2. Podłącz portfel MetaMask
 3. Powinieneś zobaczyć coś takiego:
 
-    ![](https://i.imgur.com/5rzgvpf.png)
+    ![](.gitbook/assets/image%20%2825%29.png)
 
 4. Wpisz ilość ⚗️ jaką chcesz kupić, upewniając się, że masz pozostawioną równowartościową ilość ETH do użycia w subskrypcji.
 5. Naciśnij "Swap", zatwierdź niezbędne zgodny za pomocą MetaMask i poczekaj na zakończenie transakcji
