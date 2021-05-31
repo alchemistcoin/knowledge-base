@@ -38,5 +38,7 @@
 * [Discord](http://discord.alchemist.wtf)
 * [Telegram](https://t.me/alchemistcoin)
 * [Instagram](https://www.instagram.com/thealchemistcoin/)
+* [YouTube](https://www.youtube.com/channel/UCIs4LugynLei2TN__lJh-6Q)
 * [Github](http://alchemist.wtf/)
+* [MistX](http://swap.mist.alchemist.wtf/)
 
