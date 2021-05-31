@@ -16,7 +16,6 @@ We recommand using mistX.io when trading $MIST. However, if you decide to use Un
 
 4. Enter the amount of ⚗️ you wish to purchase, ensuring you have an equivalent value of ETH remaining to use for the subscribing
 5. Hit "Swap", make necessary approvals via MetaMask, wait for the transaction to complete
-   * I found that my first two attempts failed.
    * mistX has the ability to let you increase the success rate of a transaction by clicking the Setting icon and choosing to pay a higher transaction fee.
 6. Navigate to [https://etherscan.io/address/](https://etherscan.io/address/) to view pending transactions and all tokens associated with your account.
    * if you use MetaMask you can click the triple dots and then "View on Etherscan" to jump to it:
