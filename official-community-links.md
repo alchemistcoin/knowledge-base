@@ -14,6 +14,7 @@ Por favor, utiliza sólo nuestra lista de enlaces oficiales cuando participe en 
 | [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) | Latest Crucible Website |
 | [alchemist.farm](https://alchemist.farm) | Crucible Website |
 | [docs.alchemist.wtf](https://docs.alchemist.wtf) | Documentation |
+| [mistx.io](https://mistx.io/) | MistX |
 
 ### Communidad
 

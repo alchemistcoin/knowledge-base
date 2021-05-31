@@ -5,14 +5,14 @@
 ¿Has comprado/vendido alguna vez cryptomonedas en Uniswap? Si es así, ya sabes cómo hacerlo.
 
 {% hint style="warning" %}
-Debido a la baja liquidez en **Uniswap V3**, el deslizamiento \(o slippage\) adicional podría significar que no obtendras el mejor precio por tu compra. Por favor, utilice nuestro enlace **Uniswap V2** para realizar el intercambio de tokens.
+Recomendamos el uso de mistX.io para comprar or vender $MIST. Sin embargo, si decides utilizar uniswap debido a la baja liquidez en **Uniswap V3**, el deslizamiento \(o slippage\) adicional podría significar que no obtendras el mejor precio por tu compra. Por favor, utilice nuestro **Uniswap V2** para realizar el intercambio de tokens.
 {% endhint %}
 
-1. Dirígete a [Swap $MIST en Uniswap V2](https://app.uniswap.org/#/swap?outputCurrency=0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab&use=V2)
+1. Dirígete a Swap [$MIST en mistX.io](http://swap.mist.alchemist.wtf/)
 2. Conecta tu MetaMask wallet
-3. Deberías ver algo así:
+3. Deberías ver algo así: 
 
-    ![](https://i.imgur.com/5rzgvpf.png)
+    ![](.gitbook/assets/swap.jpg)
 
 4. Introduce la cantidad de ⚗️ que deseas comprar, asegurándote de que te queda un valor equivalente de ETH para usar en el programa Aludel.
 5. Click "Swap" y realiza las aprobaciones necesarias a través de MetaMask, espera a que se  te complete la transacción
