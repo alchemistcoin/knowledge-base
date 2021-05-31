@@ -18,7 +18,7 @@ Recomandam sa folosesti mistX.io cand cumperi $MIST. Daca vrei sa folosesti Unis
 
     5. Fa Click “Swap”, apoi fiind necesare aprobari in Metamask trebuie sa asteapti confirmarea tranzactiilor
 
-* mistX ofera o mai mare sansa de a procesa cu succes tranzacțiile făcând clic pe pictograma Setting și alegând să plătiți o taxă de tranzacție mai mare.
+* mistX ofera o mai mare sansa de a procesa cu succes tranzacțiile făcând clic pe pictograma Setting și alegând să plătiți o taxă de tranzacție mai mare
 
      6. Mergi la [https://etherscan.io/address/](https://etherscan.io/address/) pentru a vizualiza tranzactiile in așteptare si toti tokenii asociati contului tau
 
