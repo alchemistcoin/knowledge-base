@@ -25,11 +25,17 @@
 * [Совместимости с кошельками](crucible/wallet-compatibility-ru.md)
 * [ЧАВО 📖](crucible/aludel-crucible-chavo.md)
 
+## TOOLS
+
+* [Crucible](https://crucible.alchemist.wtf/)
+* [mistX](https://mistx.io/)
+
 ---
 
 * [Twitter](https://twitter.com/_alchemistcoin)
 * [Discord](http://discord.alchemist.wtf/)
 * [Telegram](https://t.me/alchemistcoin)
 * [Instagram](https://www.instagram.com/thealchemistcoin/)
+* [YouTube](https://www.youtube.com/channel/UCIs4LugynLei2TN__lJh-6Q)
 * [GitHub](http://alchemist.wtf/)
 
