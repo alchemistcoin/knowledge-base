@@ -40,3 +40,9 @@
 * [Instagram](https://www.instagram.com/thealchemistcoin/)
 * [Github](http://alchemist.wtf/)
 
+---
+
+* [YouTube](https://www.youtube.com/channel/UCIs4LugynLei2TN__lJh-6Q)
+* [Crucible](https://crucible.alchemist.wtf/)
+* [mistX](https://mistx.io/)
+
