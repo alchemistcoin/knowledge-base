@@ -64,7 +64,11 @@ Crucible 只支持 **Uniswap V2** 流动资金池。向 **Uniswap V3** 资金池
 
 在同一个 Crucible 中累积更多的 LP 代币相对来说是更好的，因为它可以最大程度地减少gas成本。
 
-唯一要使用多个 Crucible 的情况是，您打算转让或出售拥有订阅的 Crucible 。
+唯一要使用多个 Crucible 的情况是：您打算转让或出售含有 LP 的 Crucible 。
+
+### 最多可以制造多少个 Crucible ？
+
+我们可以铸造无数个。请注意，当您访问 [etherscan ](https://etherscan.io/token/0x54e0395cfb4f39bef66dbcd5bd93cca4e9273d56)时, 请忽略"最大总供应量"中的"最大"一词，因为总量是无限的。etherscan 上显示的"最大总供应量"只是表示到目前为止所铸造的 Crucible 总量。
 
 ### **“领取奖励和退订 LP ” 是如何影响奖励倍数的?**
 
