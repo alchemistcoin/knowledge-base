@@ -8,7 +8,7 @@
 Recomendamos el uso de mistX.io para comprar or vender $MIST. Sin embargo, si decides utilizar uniswap debido a la baja liquidez en **Uniswap V3**, el deslizamiento \(o slippage\) adicional podría significar que no obtendras el mejor precio por tu compra. Por favor, utilice nuestro **Uniswap V2** para realizar el intercambio de tokens.
 {% endhint %}
 
-1. Dirígete a Swap [$MIST en mistX.io](http://swap.mist.alchemist.wtf/)
+1. Dirígete a Swap [$MIST en mistX.io](http://swap.alchemist.wtf/)
 2. Conecta tu MetaMask wallet
 3. Deberías ver algo así: 
 
