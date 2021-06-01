@@ -2,7 +2,7 @@
 
 ## Waar kan ik ⚗️ \($ MIST\) verkrijgen? 
 
-Het meeste activiteit vindt plaats op uniswap, gebruik onze link om er direct naar toe ta gaan:
+De meeste activiteit vindt plaats op [mistX.io](https://mistx.io/), gebruik onze link om direct naar de de swap pagina te gaan:
 
 * [swap.alchemist.wtf](http://swap.alchemist.wtf/)
 
