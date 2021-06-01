@@ -8,7 +8,7 @@
 我们建议使用 **mistX.io** 来交易 $MIST 。但如果您决定使用 Uniswap ，应注意，由于 Uniswap V3 的流动性较差，额外的滑点可能导致您无法以最优价格购买。因此请通过此 [Uniswap V2](https://app.uniswap.org/#/swap?outputCurrency=0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab&use=V2) 链接进行购买。
 {% endhint %}
 
-1. [在 mistX.io 上购买 $MIST](http://swap.mist.alchemist.wtf/)
+1. [在 mistX.io 上购买 $MIST](http://swap.alchemist.wtf/)
 2. 连接您的 MetaMask 钱包
 3. 您应该会看到如下所示：
 
