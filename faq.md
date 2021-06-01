@@ -2,9 +2,9 @@
 
 ## **Dove posso scambiare ⚗️ \($MIST\) ?** 
 
-Principalmente su Uniswap, di cui ti forniamo il nostro link:
+Ti consigliamo di usare mistX.io, che puoi trovare in questo link
 
-* [uniswap.alchemist.wtf](http://uniswap.alchemist.wtf)
+* [swap.mist.alchemist.wtf](http://swap.mist.alchemist.wtf/)
 
 Nel corso del tempo, $MIST è destinato a comparire sui siti di trading. Quando questo succede, puoi identificare questi siti [Coingeko](https://www.coingecko.com/en/coins/alchemist) or [CoinMarketCap](https://coinmarketcap.com/currencies/alchemist/).
 
