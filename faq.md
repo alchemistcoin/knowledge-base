@@ -4,7 +4,7 @@
 
 Recomendamos el uso de mistX.io, que puedes encontrar utilizando nuestro enlace
 
-* [swap.mist.alchemist.wtf](http://swap.mist.alchemist.wtf/)
+* [swap.alchemist.wtf](http://swap.alchemist.wtf/)
 
 Con el tiempo $MIST aparecerá en otros sitios de trading, cuando esto sucede estos lugares pueden ser identificados mediante el uso de [Coingecko](https://www.coingecko.com/en/coins/alchemist) o [CoinMarketCap](https://coinmarketcap.com/currencies/alchemist/).
 
