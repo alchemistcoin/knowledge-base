@@ -28,6 +28,6 @@ Après avoir obtenu l'accès du wallet contenant votre Crucible, vous pouvez dev
 6. Vous verrez le message suivant et pourrez alors retourner sur Discord ![](https://i.imgur.com/WVIelT9.png)
 7. Collab.Land vous enverra le message suivant, et si vous possédez véritablement un Crucible, le bot mettra à jour votre rôle. ![](https://i.imgur.com/1UMmipM.png)
 8. Votre nom devrait maintenant apparaître en rouge dans le chat du Discord.
-9. Si vous faites un clic-gauche sur votre nom de Discord vous devriez voir le rôle "certified alchimist" entouré en rouge. ![](https://i.imgur.com/KTO91Q1.png)
+9. Si vous faites un clic-gauche sur votre nom de Discord vous devriez voir le rôle "certified alchimist" entouré en rouge, si toutefois vous n'avez pas d'autre\(s\) rôle\(s\) sur le serveur. ![](https://i.imgur.com/KTO91Q1.png)
 10. Félicitations, vous êtes désormais un Certified Alchemist! 🧙‍♂️⚗
 
