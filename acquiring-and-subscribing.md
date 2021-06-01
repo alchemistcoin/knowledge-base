@@ -8,7 +8,7 @@ Da li ste ikada trgovali coinima na mistx.io? Ako jeste onda već znate kako se 
 Kada trgujete $MIST tokenima preporučujemo vam da koristite mistx.io menjačnicu. Ali ako se odlučite za Uniswap obratite paznju da zbog niske likvidnosti na **Uniswap V3**, dodatni slippage će značiti da nećete dobiti baš najbolju cenu za svoju porudžbinu. Zato vas molimo da koristite naš **Uniswap V2** link, za zamenu tokena.
 {% endhint %}
 
-1. Idite na [mistx.io menjacnicu za $MIST](http://swap.mist.alchemist.wtf)
+1. Idite na [mistx.io menjacnicu za $MIST](http://swap.alchemist.wtf/)
 2. Povežite MetaMask wallet.
 3. Sada bi trebalo da vidite nešto kao:
 

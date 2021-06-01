@@ -4,7 +4,7 @@
 
 Preporucujemo da koristite mistX.io, a njega možeš da pronađeš na linku
 
-* [uniswap.alchemist.wtf](http://swap.mist.alchemist.wtf/)
+* [swap.alchemist.wtf](http://swap.alchemist.wtf/)
 
 Vremenom $MIST će se pojaviti i na drugim sajtovima za trgovinu, a kada se to dogodi oni će moći da se pronađu preko [Coingeko](https://www.coingecko.com/en/coins/alchemist) ili [CoinMarketCap](https://coinmarketcap.com/currencies/alchemist/).
 
