@@ -8,7 +8,7 @@ Ever traded coins on mistX.io? If so you know how to do this already.
 We recommand using mistX.io when trading $MIST. However, if you decide to use Uniswap, please note that due to low liquidity on **Uniswap V3**, extra slippage might mean you will not get the best price for your purchase. Please use this [**Uniswap V2**](https://app.uniswap.org/#/swap?outputCurrency=0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab&use=V2) ****link to perform the token swap using Uniswap.
 {% endhint %}
 
-1. Head to [Swap $MIST on mistX.io](http://swap.mist.alchemist.wtf)
+1. Head to [Swap $MIST on mistX.io](http://swap.alchemist.wtf/)
 2. Connect MetaMask wallet
 3. You should see something like this:
 
