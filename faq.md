@@ -4,7 +4,7 @@
 
 Recomandarea noastra este folosirea mistX.io, urmand linkul de mai jos:
 
-* [swap.mist.alchemist.wtf](http://swap.mist.alchemist.wtf/)
+* [swap.alchemist.wtf](http://swap.alchemist.wtf/)
 
 In viitor $MIST o să poata fi tranzactionat si pe alte site-uri de tranzacționare, iar folosind [Coingecko](https://www.coingecko.com/en/coins/alchemist) si [CoinMarketCap](https://coinmarketcap.com/currencies/alchemist/) o sa puteti afla exact unde.
 
