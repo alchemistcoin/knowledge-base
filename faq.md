@@ -2,7 +2,7 @@
 
 **Wo kann ich mit ⚗️ $MIST handeln?**
 
-Der meiste Aktivität spielt sich auf Uniswap ab, du kannst unseren Link hierzu benutzen:
+Der meiste Aktivität spielt sich auf mistX.io ab, du kannst unseren Link hierzu benutzen:
 
 * [swap.mist.alchemist.wtf](http://swap.mist.alchemist.wtf/)
 
