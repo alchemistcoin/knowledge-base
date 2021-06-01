@@ -4,7 +4,7 @@
 
 Основная торговая активность происходит на Uniswap, вы можете найти это по нашей ссылке
 
-* [uniswap.alchemist.wtf](http://uniswap.alchemist.wtf)
+* [swap.alchemist.wtf](http://swap.alchemist.wtf/)
 
 Со временем $MIST будет торговаться на других площадках тоже. Вы можете следить за обновлениями на сайте [Coingeko](https://www.coingecko.com/en/coins/alchemist) или [CoinMarketCap](https://coinmarketcap.com/currencies/alchemist/).
 
