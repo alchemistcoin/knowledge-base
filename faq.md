@@ -4,7 +4,7 @@
 
 Çoğu işlem Uniswap'te gerçekleşir, bunu bağlantımızı kullanarak bulabilirsiniz.
 
-* [uniswap.alchemist.wtf](http://uniswap.alchemist.wtf)
+* [swap.alchemist.wtf](http://swap.alchemist.wtf/)
 
 Zamanla diğer borsalarda da $MIST bulunacaktır, bu borsaları [Coingecko](https://www.coingecko.com/en/coins/alchemist) veya [CoinMarketCap](https://coinmarketcap.com/currencies/alchemist/) üzerinden görebilirsiniz.
 
