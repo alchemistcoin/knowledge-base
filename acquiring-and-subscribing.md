@@ -8,7 +8,7 @@ Czy kiedykolwiek handlowałeś monetami na mistX.io? Jeśli tak, to już wiesz, 
 Zalecamy korzystanie z mistX.io podczas handlowania $MIST. Jeżeli jednak zdecydujesz się używać Uniswap to pamiętaj, że ze względu na niską płynność w **Uniswap V3** oraz dodatkowy poślizg \(extra slippage\) istnieje możliwość, że nie uzyskasz tam najlepszej ceny zakupu. Skorzystaj proszę z naszego linku [**Uniswap V2**](https://app.uniswap.org/#/swap?outputCurrency=0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab&use=V2) ****umieszonego poniżej, aby nabyć token.
 {% endhint %}
 
-1. Przejdź do [Wymień $MIST w mistX.io](http://swap.mist.alchemist.wtf/)
+1. Przejdź do [Wymień $MIST w mistX.io](http://swap.alchemist.wtf/)
 2. Podłącz portfel MetaMask
 3. Powinieneś zobaczyć coś takiego:
 
@@ -16,8 +16,7 @@ Zalecamy korzystanie z mistX.io podczas handlowania $MIST. Jeżeli jednak zdecyd
 
 4. Wpisz ilość ⚗️ jaką chcesz kupić, upewniając się, że masz pozostawioną równowartościową ilość ETH do użycia w subskrypcji.
 5. Naciśnij "Swap", zatwierdź niezbędne zgodny za pomocą MetaMask i poczekaj na zakończenie transakcji
-   * Okazało się, że moje pierwsze dwie próby zakończyły się niepowodzeniem, najwyraźniej dlatego, że nie były przetworzone na tyle szybko, aby cena pozostała stabilna przed zakończeniem transakcji
-   * MetaMask ma opcję przyśpieszenia transakcji poprzez odnalezienie transakcji na karcie "Activity" i wybranie opcji zapłaty większej ilości gazu za przetwarzanie o wyższym priorytecie.
+   * mistX posiada opcję zwiększenia prawdopodobieństwa sukcesu transakcji, można to zrobić klikając w ikonę ustawień, a następnie wybierając wyższą opłatę transakcyjną.
 6. Przejdź do [https://etherscan.io/address/](https://etherscan.io/address/), aby wyświetlić oczekujące transakcje i wszystkie tokeny powiązane z Twoim kontem
    * Jeżeli używasz MetaMask, możesz kliknąć ikonę trzech ustawionych pionowo kropek, a następnie wybrać „View on Etherscan”, aby trafić do powyższej wspomnianej strony:
 
