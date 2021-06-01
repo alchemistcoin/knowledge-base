@@ -16,7 +16,6 @@ Nous recommandons l'utilisation de [mistX.io](https://app.mistx.io/#/exchange) p
 
 4. Renseignez le montant de ⚗️ que vous souhaitez acheter, en vous assurant de conserver la valeur équivalente en ETH pour la souscription.
 5. Appuyez sur "Swap", faites les confirmations nécessaires via MetaMask, attendez que la transaction se termine.
-   * Je me suis aperçu que mes deux premières tentatives ont échoué.
    * mistX vous donne la possibilité d'améliorer les chances de succès d'une transaction en cliquant sur l'icône Setting et en choisissant de payer des frais de transactions plus élevés.
 6. Rendez-vous à l'adresse [https://etherscan.io/address/](https://etherscan.io/address/) pour voir les transactions en cours ainsi que tous les tokens associés à votre compte.
    * si vous utilisez MetaMask vous pouvez cliquer sur les trois points puis sur "View on Etherscan" pour vous y rendre directement :
