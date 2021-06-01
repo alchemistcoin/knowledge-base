@@ -2,11 +2,11 @@
 
 ## **Gde mogu da trgujem ⚗️ \($MIST\) ?**
 
-Uglavnom se sve događa na Uniswap-u, a njega možeš da pronađeš na linku
+Preporucujemo da koristite mistX.io, a njega možeš da pronađeš na linku
 
-* [uniswap.alchemist.wtf](http://uniswap.alchemist.wtf)
+* [uniswap.alchemist.wtf](http://swap.mist.alchemist.wtf/)
 
-Vremenom $MIST će se pojaviti i na drugim sajtovima za trgovinu, a kada se to dogodi oni će moći da se pronađu preko [Coingecko](https://www.coingecko.com/en/coins/alchemist) ili [CoinMarketCap](https://coinmarketcap.com/currencies/alchemist/).
+Vremenom $MIST će se pojaviti i na drugim sajtovima za trgovinu, a kada se to dogodi oni će moći da se pronađu preko [Coingeko](https://www.coingecko.com/en/coins/alchemist) ili [CoinMarketCap](https://coinmarketcap.com/currencies/alchemist/).
 
 ## **Šta je ukupna \(total\), a šta količina tokena u opticaju \(circulating\)?**
 

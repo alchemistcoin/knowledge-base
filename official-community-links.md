@@ -1,4 +1,4 @@
-# Oficijalni Community linkovi 🔗
+# Oficijalni Community linkovi
 
 {% hint style="warning" %}
 Ako se odlučite da koritite eksterne sourceve, proverite prvo da li se oni poklapaju sa našim oficijalnim linkovima. **Ako link ne postoji na ovoj listi, onda on nije naš.**
@@ -10,10 +10,11 @@ Molimo vas da koritite našu listu zvaničnih linkova, kada uzimate učešće u 
 
 | Site | Description |
 | :--- | :--- |
-| [alchemist.wtf](http://alchemist.wtf) | GitHub Repozitorijum |
-| [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) | Najnoviji Crucible Websajt |
-| [alchemist.farm](https://alchemist.farm) | Crucible Websajt |
-| [docs.alchemist.wtf](https://docs.alchemist.wtf) | Dokumentacija |
+| [alchemist.wtf](http://alchemist.wtf) | GitHub Repository |
+| [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) | Latest Crucible Website |
+| [alchemist.farm](https://alchemist.farm) | Crucible Website |
+| [docs.alchemist.wtf](https://docs.alchemist.wtf) | Documentation |
+| [mistX.io](https://mistx.io/) | mistX |
 
 ## Community
 
@@ -24,5 +25,6 @@ Molimo vas da koritite našu listu zvaničnih linkova, kada uzimate učešće u 
 | [t.me/alchemistcoin](https://t.me/alchemistcoin) | Telegram \(App Link\) |
 | [web.telegram.org/\#/im?p=@alchemistcoin](https://web.telegram.org/#/im?p=@alchemistcoin) | Telegram \(Web Version\) |
 | [instagram.com/thealchemistcoin](https://www.instagram.com/thealchemistcoin/) | Instagram |
+| [youtube.com/channel/UCIs4LugynLei2TN\_\_lJh-6Q](https://www.youtube.com/channel/UCIs4LugynLei2TN__lJh-6Q) | YouTube |
 | [alchemistcoin.medium.com](https://alchemistcoin.medium.com/) | Medium |
 
