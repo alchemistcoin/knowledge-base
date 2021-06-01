@@ -1,4 +1,4 @@
-# Acquisition & Souscription
+# Achat & Souscription
 
 ### 1. Où puis-je acheter du $MIST ⚗️
 

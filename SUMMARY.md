@@ -8,7 +8,7 @@
 ---
 
 * [L' essentiel](the-basic-outline.md)
-* [Acquisition & Souscription](acquiring-and-subscribing.md)
+* [Achat & Souscription](acquiring-and-subscribing.md)
 * [FAQ](faq.md)
 
 ## Crucible
