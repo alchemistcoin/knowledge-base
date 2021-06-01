@@ -5,7 +5,7 @@
 您是否在 Uniswap 上交易过代币？如果有，我想您已经知道该怎么做了。
 
 {% hint style="warning" %}
-请使用下面的 **mistX.io** 链接来交易代币。
+我们建议使用 **mistX.io** 来交易 $MIST 。但如果您决定使用 Uniswap ，应注意，由于 Uniswap V3 的流动性较差，额外的滑点可能导致您无法以最优价格购买。因此请通过此 [Uniswap V2](https://app.uniswap.org/#/swap?outputCurrency=0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab&use=V2) 链接进行购买。
 {% endhint %}
 
 1. [在 mistX.io 上购买 $MIST](http://swap.mist.alchemist.wtf/)
@@ -16,8 +16,7 @@
 
 4. 输入您想购买的 ⚗️ 数量，并确保您有足够的 ETH（后续提供 LP 的费用）。
 5. 点击 " SWAP "，通过 MetaMask 进行必要的授权，并等待交易完成。
-   * 我发现我前两次交易都失败了
-   * MetaMask 可以选择加速交易，您可以在" Activity "选项中找到相关功能，并支付更多的 gas 费用，以便获得更优先的处理。mistX 可以通过点击设置图标并选择支付更高的交易费用来提高交易的成功率。
+   * mistX 可以通过点击设置图标并选择支付更高的交易费用来提高交易的成功率。
 6. 前往 [https://etherscan.io/address/](https://etherscan.io/address/) 查看您的账户，您可以看到待处理的交易以及您持有的所有代币。
    * 如果您使用的是 MetaMask ，可以点击三点样式的图标，并点击" View on Etherscan "进行跳转：
 
