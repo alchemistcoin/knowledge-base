@@ -8,7 +8,7 @@ Heb je al eerder op mistX.io gekocht? Dan weet je precies hoe je dit moet doen.
 We raden aan om mistX.io te gebruiken bij het kopen en verkrijgen van $MIST. Als je echter besluit om Uniswap te gebruiken, houd er dan rekening mee dat vanwege de lage liquiditeit op **Uniswap V3**, extra slippage kan betekenen dat je niet de beste prijs voor uw aankoop krijgt. Gebruik daarom deze [**Uniswap V2**](https://app.uniswap.org/#/swap?outputCurrency=0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab&use=V2) link, om de aankoop te doen.
 {% endhint %}
 
-1. Ga naar [Swap $MIST op mistX.io](http://swap.mist.alchemist.wtf)
+1. Ga naar [Swap $MIST op mistX.io](http://swap.alchemist.wtf/)
 2. Verbind je MetaMask wallet/portemonnee
 3. Vervolgens zie je iets zoals hieronder
 
