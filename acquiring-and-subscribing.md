@@ -2,7 +2,7 @@
 
 ### 1. Où puis-je acheter du $MIST ⚗️
 
-Avez-vous déjà trader des coins sur Uniswap ? Si c'est le cas vous savez déjà comment faire.
+Avez-vous déjà trader des coins sur mistX.io ? Si c'est le cas vous savez déjà comment faire.
 
 {% hint style="warning" %}
 Nous recommandons l'utilisation de [mistX.io](https://app.mistx.io/#/exchange) pour l'achat de $MIST. Néanmoins si vous souhaitez utiliser Uniswap, soyez conscient que vous risquez de ne pas obtenir le meilleur prix à cause d'un slippage excessif du au manque de liquidité sur **Uniswap V3**. Utilisez [**Uniswap V2**](https://app.uniswap.org/#/swap?outputCurrency=0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab&use=V2) pour faire votre achat de token sur Uniswap.
