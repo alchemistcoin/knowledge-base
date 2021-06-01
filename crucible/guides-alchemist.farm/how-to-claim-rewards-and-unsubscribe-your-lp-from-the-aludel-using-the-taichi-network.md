@@ -1,4 +1,4 @@
-# How claim je beloningen en hoe onttrek je LP uit de Aludel via het TaiChi network
+# Hoe claim je beloningen en hoe onttrek je LP uit de Aludel via het TaiChi network
 
 {% hint style="info" %}
 De reden waarom het TaiChi netwerk wordt gebruikt is om te voorkomen dat je transactie wordt front-runned door bots, wanneer je onttrekt/beloningen claimt.

@@ -1,38 +1,36 @@
 # Hoe mint ik een Crucible?
 
-## Swapping and Subscribing $MIST ⚗️ to mint a Crucible
+## $MIST ruilen en abonneren ⚗️ om een Crucible te minten
 
-First of all, you need to have $MIST and subscribe it to the Uniswap-V2 Liquidity pool.
+Allereerst moet je $MIST hebben en je abonneren op de Uniswap-V2 Liquidity-pool. Als je dit nog niet hebt gedaan, raadpleeg dan onze 2-delige gids over: [Verkrijgen & Abonneren](../../acquiring-and-subscribing.md)
 
-If you have not done this already, please refer to our 2-part guide on [Acquiring & Subscribing](../../acquiring-and-subscribing.md).
-
-## Minting a Crucible using LP tokens
+## Een smeltkroes minten met LP-tokens
 
 {% hint style="warning" %}
-**Important information:** 
+**Belangrijke informatie:**
 
-Do not use Brave browser as it is not compatible with the process at this time and your transaction will fail, resulting in lost fees. 
+Gebruik de Brave-browser niet omdat deze op dit moment niet compatibel is met het proces en uw transactie zal mislukken, wat resulteert in verloren kosten. 
 
-We do not recommend using a hardware wallet at this time as many do not currently support EIP-712 signing. When they fix this, we can implement it.
+We raden het gebruik van een hardware-wallet op dit moment af, aangezien velen momenteel geen EIP-712-ondertekening ondersteunen. 
 
-We do not recommend you do this on a mobile
+Als ze dit oplossen, kunnen we het implementeren. We raden je aan dit niet op een mobiel te doen.
 {% endhint %}
 
-### Step by Step guide
+### Stap voor stap
 
-1. Firstly head to [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)
-2. Connect a wallet using the "Connect Wallet" button. For this example we will use Metamask
+1. Gan naar [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)
+2. Verbind een wallet met de knop "Connect Wallet. Voor dit voorbeeld gebruiken we Metamask
 
    ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.48.31.png) - or - ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.48.38.png) 
 
-3. You should see something like this:
+3. Je zou zoiets als dit moeten zien:
 
     ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.49.57.png) 
 
-4. Enter the amount of LP you wish you put into the Crucible. You probably wish to click "Max" to enter your full amount  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.01.png)  
-5. Hit "Mint a Crucible", make necessary approvals via MetaMask, wait for the transaction to complete. **Note: There should be 2 signing requests and a transaction request, if they do not pop up you might have to open MetaMask.**  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.05.png)  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.16.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.20.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.28.png) 
-6. Once you have Confirmed your transaction you should receive the following prompts, click to view your transaction. Once your transaction has been confirmed, please move to the next step. ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.02.png)![](../../.gitbook/assets/screenshot-2021-05-07-at-13.24.50.png) 
-7. Now your transaction is confirmed, you can close the pop-up above and Click on the "Crucibles" tab, this should show your newly minted crucible  ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.01.22.png) 
+4. Voer de hoeveelheid LP in die je in de Crucible wilt doen. Je wilt waarschijnlijk op "Max" klikken om je volledige saldo in te voeren  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.01.png)  
+5. Druk op "Mint a Crucible", maak de nodige goedkeuringen via MetaMask, wacht tot de transactie is voltooid. **Let op:** er zouden 2 ondertekeningsverzoeken en een transactieverzoek moeten zijn, als ze niet verschijnen, moet je MetaMask mogelijk openen. ****![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.05.png)  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.16.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.20.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.28.png) 
+6. Nadat je je transactie hebt bevestigd, ontvang je de volgende prompts, klik om je transactie te bekijken. Zodra je transactie is bevestigd, ga dan naar de volgende stap. ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.02.png)![](../../.gitbook/assets/screenshot-2021-05-07-at-13.24.50.png) 
+7. Nu je transactie is bevestigd, kan je de bovenstaande pop-up sluiten en op het tabblad "Crucibles" klikken, dit zou je nieuw geslagen crucible moeten tonen ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.01.22.png) 
 
-## **Congratulations, if you've made it this far, you're now an Alchemist**
+## Gefeliciteerd, als je zover bent gekomen, ben je nu een alchemist
 

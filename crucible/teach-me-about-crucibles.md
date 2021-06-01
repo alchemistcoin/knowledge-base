@@ -19,7 +19,7 @@ Dit is belangrijk om te weten, omdat individuen inmiddels [Crucibels beschikbaar
 
 Om het nogmaals duidelijk te maken: Wanneer je een Crucible maakt, stake je nogsteeds jouw ⚗️ in de Uniswap-V2 liquidity pool. Effectief maak je gebruik van 3 manieren om van beloningen te vergaren.
 
-## How munt je een Crucible?
+## Hoe munt je een Crucible?
 
 Oorspronkelijk was het alleen mogelijk met de officieële CLI tool. Gelukkig hebben communitymembers inmiddels web-apps gemaakt om het process eenvoudiger te maken. Aanzien de CLI methode extra risico's met zich mee brengt, raden wij aan om hier langer geen gebruik van te maken.
 
@@ -37,57 +37,57 @@ Op z'n minst staat de waarde gelijk aan de hoeveelheid dat je ontvangt, nadat je
 
 In dit stuk hieronder \(link to check value\) geven wij enkele methoden om de inhoud van een Crucible to controleren.
 
-## Should you mint a Crucible?
+## Moet je een Crucible munten?
 
-That is for you to decide. Ensure you understand what could gain, what you could lose, and then weigh up whether you think it's a good choice for you.
+Dat is aan jou om te beslissen. Zorg ervoor dat je begrijpt wat je kan winnen en wat je kan verliezen, en weeg vervolgens af of je denkt dat dit een goede keuze is.
 
-#### The cost of minting
+#### De kosten
 
-When dealing with Ethereum based tokens and contracts you will face gas fees at almost every stage. 
+Wanneer je te maken heeft met op Ethereum gebaseerde tokens en contracten, krijg je in bijna elke fase te maken met "gas fees" \(gas kosten\).
 
-Gas prices continuously fluctuate and this plays a major role on how much gas you are expected to pay, for this reason we are unable to give an indication.
+Gasprijzen fluctueren continu en dit speelt een grote rol bij hoeveel gas je verwacht te betalen, daarom kunnen wij geen indicatie geven.
 
-We can say however, that you should take into account the value of your LP tokens against the cost of gas when you are about to submit a transaction to mint a crucible.
+We kunnen echter wel zeggen dat je rekening moet houden met de waarde van je LP-tokens ten opzichte van de gaskosten wanneer je op het punt staat een transactie in te dienen om een crucible te munten.
 
-#### The tools
+#### Het gereedschap
 
-Our guides have been based on our wallet of choice, MetaMask![](../.gitbook/assets/metamask-fox.svg). If you need advise regarding the use of other wallets, pop into our [discord](http://discord.alchemist.wtf) channel and the community will be happy to answer.
+Onze guides zijn gebaseerd op onze favoriete portemonnee, MetaMask. Als je advies nodig hebt over het gebruik van andere wallets, ga dan naar ons [discord](http://discord.alchemist.wtf)-kanaal en de community zal je graag antwoorden.
 
 {% hint style="warning" %}
-MetaMask will not recognise or display your Crucible tokens until you [add the token addresses](faq.md#why-cant-i-see-my-mist-in-my-wallet) to the application. 
+MetaMask zal je Crucible-tokens niet herkennen of weergeven totdat je de [token adressen](faq.md#why-cant-i-see-my-mist-in-my-wallet) aan de toepassing toevoegt.
 {% endhint %}
 
-## What wallets can I use to store my Crucible?
+## Welke wallets kan ik gebruiken om mijn Crucible in op te slaan?
 
-Crucibles are ERC-721 tokens and signing these transactions are not supported by all Wallet Applications. 
+Crucibles zijn ERC-721-tokens en het ondertekenen van deze transacties wordt niet door alle Wallet-applicaties ondersteund. 
 
-Please refer to our [wallet compatibility guide.](wallet-compatibility.md)
+ Raadpleeg onze [wallet guide](wallet-compatibility.md) voor ondersteuning.
 
-## How much LP tokens do I need to create a Crucible?
+## Hoeveel LP-tokens heb ik nodig om een Crucible te maken?
 
-Community members have successfully minted a Crucible with as low as 0.1 LP tokens.
+Communityleden hebben met succes een Crucible gemint met slechts 0.1 LP-tokens. 
 
-Of course, a Crucible still costs gas to mint, so please take into consideration this cost when creating one with minimal LP.
+Natuurlijk kost een Crucible nog steeds gas om te minten, dus houd rekening met deze kosten bij het maken van één met minimale LP. 
 
-Remember, you earn rewards proportional to your LP share of the total LP staked in the Aludel.
+Onthoud dat je beloningen verdient die evenredig zijn aan je LP-aandeel van de totale LP die in de Aludel is ingezet.
 
-## Can I create multiple Crucibles?
+## Kan ik meerdere Crucibles maken?
 
-Yes. Many users in the community have already minted multiple Crucibles.
-
-Whether this is beneficial or not, this is up to you to decide.
+Ja. Veel gebruikers in de community hebben al meerdere Crucibles gemint.  
+   
+Of dit voordelig is of niet, dit is aan jou om te beslissen.
 
 ## How can I check how many LP tokens someone else's Crucible is worth?
 
-You can take the take the Crucible's token ID, convert it into hexadecimal \(if it is in decimal\) and then search for the address on [etherscan.io](https://etherscan.io).
+Je kan de token-ID van de Crucible nemen, deze omzetten in hexadecimaal \(als het in decimalen is\) en vervolgens naar het adres zoeken op [etherscan.io](https://etherscan.io).
 
-This will display what the contents are and the history of transactions that have occurred within the Crucible.
+Dit zal weergeven wat de inhoud is en de geschiedenis van transacties die binnen de Crucible hebben plaatsgevonden.
 
-If you can't see any tokens displayed for it, then it's most likely empty.
+Als je geen tokens kan zien die ervoor worden weergegeven, is deze waarschijnlijk leeg.
 
-## How do I view my tokens on MetaMask ![](../.gitbook/assets/metamask-fox.svg) ?
+## Hoe bekijk ik mijn tokens op MetaMask ![](../.gitbook/assets/metamask-fox.svg) ?
 
-Refer to [our FAQ ](faq.md#why-cant-i-see-my-mist-in-my-wallet)on the addresses that you need to add to your wallet to be able to see the token.
+Raadpleeg onze [FAQ](faq.md#why-cant-i-see-my-mist-in-my-wallet) \(veelgestelde vragen\) over de adressen die je aan je portemonnee moet toevoegen om de token\(s\) te kunnen zien.
 
 \*\*\*\*
 

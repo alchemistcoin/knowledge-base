@@ -6,8 +6,6 @@ Waar is ⚗️ goed voor? Daarvoor ben ik hier niet. Zie daarvoor de officiële 
 
 Net als andere munten kan je ⚗️ staken en kan je het ultiem gebruiken om je [Crucible NFT te munten](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_gHtk22CITCclybwJZ/v/dutch-1/crucible/teach-me-about-crucibles) in het [Aludel programma](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_gHtk22CITCclybwJZ/v/dutch-1/the-basic-outline#3-aludel).
 
-You can stake ⚗️ as with other coins, and you can ultimately use it to [mint Crucible NFTs](crucible/teach-me-about-crucibles.md) in the [Aludel](the-basic-outline.md#3-aludel) program.
-
 ## Hoe kan ik mijn rijkdom vergroten met ⚗️?
 
 ### 1. Speculatie

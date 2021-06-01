@@ -1,49 +1,50 @@
 # Wat kan ik met mijn nieuwe Crucible doen?
 
-There are a number of things you can do with your newly minted crucible, below are the most common things that you can do using crucible.alchemist.wtf
+Er zijn een aantal dingen die je kan doen met je nieuwe crucible, hieronder staan de meest voorkomende dingen die je kan doen op [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)
 
-* [Checking your rewards](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
-* [Increasing your LP Subscription](what-can-i-do-with-my-new-crucible.md#increasing-your-lp-subscription)
-* [Checking how much LP you've subscribed to your Crucible](what-can-i-do-with-my-new-crucible.md#checking-how-much-lp-youve-subscribed-to-your-crucible)
-* [Transferring your Crucible to another wallet](what-can-i-do-with-my-new-crucible.md#transferring-your-crucible-to-another-wallet)
-* [Locating and Copying your Crucible Address](what-can-i-do-with-my-new-crucible.md#locating-and-copying-your-crucible-address)
+* [Controleer je beloningen](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
+* [Verhoog je LP positie](what-can-i-do-with-my-new-crucible.md#increasing-your-lp-subscription)
+* [Ccheck hoeveel LP je hebt geabonneneerd in je Crucible](what-can-i-do-with-my-new-crucible.md#checking-how-much-lp-youve-subscribed-to-your-crucible)
+* [Je Crucible naar een andere wallet verzenden](what-can-i-do-with-my-new-crucible.md#transferring-your-crucible-to-another-wallet)
+* [Je Crucible Adres vinden en kopiëren.](what-can-i-do-with-my-new-crucible.md#locating-and-copying-your-crucible-address)
 
-## Checking your rewards
+## Je beloningen controleren
 
-1. Open [crucible.alchemist.wtf](https://crucible.alchemist.wtf/), connect your wallet and visit "Your Crucibles" tab.
-2. Once on the "Your Crucibles" tab, expand the details on the Crucible you wish to view using the downwards facing arrow: ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.58.png) 
-3. Your Crucible should now show you some more information, such as how much MIST or ETH you have earned in rewards ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.42.png) 
-4. If you want to see more detailed rewards, click on the "Manage Crucible" button  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.04.png) 
-5. You should now be shown a more complex list of statistics under the tab "Rewards", including information about the reward multiplier, the value of your position and your subscribed & unsubscribed LP.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.22.png) 
+1. Ga naar [crucible.alchemist.wtf](https://crucible.alchemist.wtf/), verbind je wallet en ga naar het tabblad "Your Crucibles".
+2. Eenmaal op het tabblad "Your Crucibles" klap de details van de Crucible uit die u wilt bekijken met behulp van de naar beneden gerichte pijl: ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.58.png) 
+3. Je Crucible zou je nu wat meer informatie moeten laten zien, zoals hoeveel MIST of ETH je hebt verdiend aan beloningen ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.42.png) 
+4. Als je meer gedetailleerde beloningen wilt zien, klik dan op de knop "Manage Crucible" ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.04.png) 
+5. Je zou nu een complexere lijst met statistieken moeten zien onder het tabblad "Rewards", inclusief informatie over de beloningsvermenigvuldiger, de waarde van je positie en je geabonneerde en afgemelde LP.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.22.png) 
 
-## Increasing your LP Subscription
+## Je LP-abonnement verhogen
 
-1. Follow steps 1 - 5 from [Checking your Rewards](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
-2. Click the "Increase LP Subscription" button  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.36.png)
-3. Specify how much LP you wish to increase your subscription by and press "Increase Subscription"  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.48.png) 
-4. Sign 2 signature requests and confirm the transaction request. ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.59.png)![](../../.gitbook/assets/screenshot-2021-05-07-at-12.52.17.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.52.27.png) 
-5. Your LP should now be submitted to be subscribed to the Crucible, you can view your transaction using either of the prompts that appear after your transaction has been submitted  ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.02.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.24.50.png) 
-6. Once the transactions are complete, your Crucible should represent your newly submitted LP.
+1. Volg stap 1 - 5 van [Je beloningen controleren](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
+2. Klik op de "Increase LP Subscription" knop ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.36.png)
+3. Geef aan met hoeveel LP je je abonnement wilt verhogen en druk op "Increase Subscription"  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.48.png) 
+4. Onderteken 2 handtekeningverzoeken en bevestig het transactieverzoek.![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.59.png)![](../../.gitbook/assets/screenshot-2021-05-07-at-12.52.17.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.52.27.png) 
+5. Je LP moet nu worden ingediend om te worden geabonneerd op de Crucible, je kan de transactie bekijken met een van de prompts die verschijnen nadat je transactie is ingediend  ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.02.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.24.50.png) 
+6. Zodra de transacties zijn voltooid, moet je Crucible je nieuw ingediende LP vertegenwoordigen.
 
-## Checking how much LP you've subscribed to your Crucible
+## Controleren hoeveel LP je hebt geabonneerd op je Crucible
 
-1. Follow steps 1 - 5 from [Checking your Rewards](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
-2. You should be able to see your "Subscribed Crucible LP" and "Unsubscribed Crucible LP"
+1. Volg stap 1 - 5 van [Je beloningen controleren](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
+2. Je zou nu "Subscribe Crucible LP" en "Unsubscribe Crucible LP" moeten kunnen zien
 
-## Transferring your Crucible to another wallet
+## Je Crucible overzetten naar een andere wallet
 
-1. Follow steps 1 - 5 from [Checking your Rewards](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
-2. Locate your Crucible summary that is currently open  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.42.png)
-3. Locate the Paper Plane icon on the right hand side of your Crucible and click on it ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.44.png) 
-4. Enter the wallet address you wish to send the Crucible to in the "Recipient Address" field \(Must be ERC-721 Compatible\) and press "Transfer Crucible" ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.56.17.png) 
-5. You will get prompted to confirm the transfer, make sure the wallet address is correct before submitting it.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.56.27.png) 
-6. The Crucible will now be on its way to its new wallet, use the links in the notifications to monitor the transaction.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.05.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.02.png) 
+1. Volg stap 1 - 5 van [Je beloningen controleren](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
+2. Zoek je Crucible die momenteel is geopend ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.42.png)
+3. Zoek het Papieren vliegtuig-pictogram aan de rechterkant van je Crucible en klik erop ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.44.png) 
+4. Voer het portemonnee-adres in waarnaar je de Crucible wilt verzenden in het veld "Recipient Address" \(moet ERC-721-compatibel zijn\) en druk op "Transfer Crucible" ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.56.17.png) 
+5. Je wordt gevraagd om de overdracht te bevestigen, zorg ervoor dat het portemonnee-adres correct is voordat je het verzendt.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.56.27.png) 
+6. De Crucible is nu onderweg naar zijn nieuwe adres, gebruik de links in de meldingen om de transactie te volgen.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.05.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.02.png) 
 
-## Locating and Copying your Crucible Address
+## Je Crucible-adres vinden en kopiëren
 
-1. Follow steps 1 - 5 from [Checking your Rewards](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
-2. Locate your Crucible summary that is currently open  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.42.png)
-3. Locate the copy icon to the left of the Paper Plane, click this and your Crucible address will now be in your Clipboard. ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.48.png)
+1. Volg stap 1 - 5 van [Je beloningen controleren](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
+
+2. Zoek je Crucible die momenteel is geopend  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.42.png)
+3. Zoek het kopieerpictogram links van het papieren vliegtuigje, klik hierop en je Crucible-adres staat nu op je klembord. ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.48.png)
 
 #### 
 

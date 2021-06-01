@@ -18,10 +18,10 @@
 * [Guides: crucible.alchemist.wtf](crucible/guides-crucible.alchemist.wtf/README.md)
   * [Hoe mint ik een Crucible?](crucible/guides-crucible.alchemist.wtf/how-do-i-mint-a-crucible.md)
   * [Wat kan ik met mijn nieuwe Crucible doen?](crucible/guides-crucible.alchemist.wtf/what-can-i-do-with-my-new-crucible.md)
-  * [Beloning claimen & LP onttrekken](crucible/guides-crucible.alchemist.wtf/claiming-rewards-and-unsubscribing-your-lp.md)
+  * [Beloning claimen & LP afmelden](crucible/guides-crucible.alchemist.wtf/claiming-rewards-and-unsubscribing-your-lp.md)
 * [Guides: alchemist.farm](crucible/guides-alchemist.farm/README.md)
   * [Ik heb een Crucible gemunt, wat nu?](crucible/guides-alchemist.farm/i-minted-a-crucible-now-what.md)
-  * [How claim je beloningen en hoe onttrek je LP uit de Aludel via het TaiChi network](crucible/guides-alchemist.farm/how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md)
+  * [Hoe claim je beloningen en hoe onttrek je LP uit de Aludel via het TaiChi network](crucible/guides-alchemist.farm/how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md)
   * [Visual Guides 🎞](crucible/guides-alchemist.farm/visual-guides.md)
 * [Hoe word ik een "Certified Alchemist" op Discord 💬](crucible/how-to-become-a-certified-alchemist-on-discord.md)
 * [Wallet Ondersteuning](crucible/wallet-compatibility.md)
@@ -32,10 +32,10 @@
 * [Alchemist Builders Onboarding Gids](join-us/alchemist-builders-onboarding-guide.md)
 * [Waar begin je? – De 7 ITIL leidende principes \(thegostep\(s\);\)\)!](join-us/where-to-start-the-7-itil-guiding-principles-thegostep-s.md)
 
-## TOOLS
+## Tools
 
+* [mistX](http://mistx.io/)
 * [Crucible](https://crucible.alchemist.wtf/)
-* [mistX](https://mistx.io/)
 
 ## Links 🔗 <a id="discussion"></a>
 

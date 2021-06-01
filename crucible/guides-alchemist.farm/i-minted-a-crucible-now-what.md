@@ -1,26 +1,27 @@
 # Ik heb een Crucible gemunt, wat nu?
 
-## You can checking how many LP tokens are in your Crucible
+## Je kan controleren hoeveel LP-tokens er in je Crucible zitten
 
-Visit [alchemist.farm](https://alchemist.farm/) and connect your wallet and click on the Crucibles tab.
+Ga naar [alchemist.farm](https://alchemist.farm/), verbind je wallet en klik op het tabje Crucibles.
 
-The Total Balance reflects your Crucible LP value.
+De "Total Balance" geeft je Crucible LP-waarde weer.
 
 ![](https://i.imgur.com/WCBz8yM.png)
 
-As you can see it also displays several other useful metrics to track the performance.
+Zoals je kan zien, worden er ook verschillende andere nuttige statistieken weergegeven om de prestaties bij te houden.
 
-## How do I know if I've subscribed the LP within my Crucible?
+## Hoe weet ik of ik de LP in mijn Crucible heb geabonneerd?
 
-It should be done automatically. You can also use [alchemist.farm](https://alchemist.farm/) to check on your Crucible. There will be a padlock icon in the upper right corner of the Crucible display which indicates the amount of LP that has been subscribed to the Aludel reward program: ![](https://i.imgur.com/ed4d3m8.png)
+Het zou automatisch moeten gebeuren. Je kan ook [alchemist.farm](https://alchemist.farm/) gebruiken om je Crucible te controleren. Er zal een hangslotpictogram zijn in de rechterbovenhoek van het Crucible-display dat de hoeveelheid LP aangeeft die is geabonneerd op het Aludel-beloningsprogramma:  
+![](https://i.imgur.com/ed4d3m8.png)
 
-## How do I check my Aludel rewards?
+## Hoe controleer ik mijn Aludel-beloningen?
 
-You can use [alchemist.farm](https://alchemist.farm/) to display your Crucibles, where it will list your current ⚗️ and ETH rewards.
+Je kan [alchemist.farm](https://alchemist.farm/) gebruiken om je Crucibles weer te geven, waar je huidige ⚗️- en ETH-beloningen worden weergegeven.
 
-## If I've minted my Crucible and subscribed my LP... is that it?
+## Als ik mijn Crucible heb geslagen en mijn LP heb geabonneerd... is dat het dan?
 
-Yes. Now you sit back and see what happens.
+Ja. Nu leun je achterover en aanschouw je wat er gebeurt.
 
 #### 
 
