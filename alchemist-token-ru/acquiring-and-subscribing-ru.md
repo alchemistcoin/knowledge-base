@@ -8,7 +8,7 @@
 Для более эффективного обмена, следуйте по нашей ссылке на **Uniswap V2**, чтобы произвести обмен по лучшему курсу. **Uniswap V3** для этой операции неэффективен.
 {% endhint %}
 
-1. Следуйте на [Swap $MIST on Uniswap V2](https://app.uniswap.org/#/swap?outputCurrency=0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab&use=V2)​
+1. Следуйте на [Swap $MIST on Uniswap V2](http://swap.alchemist.wtf/)​
 2. Подключите свой крито кошелёк MetaMask 
 3. Должно появится окно подобного содержания.
 
