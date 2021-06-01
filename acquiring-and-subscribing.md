@@ -8,7 +8,7 @@ Bereits Erfahrungen mit mistX.io? Wenn ja, dann weißt du bereits wie es geht.
 Wir empfehlen dir mistX.io zu nutzen, um $MIST zu handeln, solltest du dich allerdings dazu entschieden Uniswap zu nutzen, bitte beachte, dass auf Grund der niedrigen Liquidität auf **Uniswap V3**, wird dir vermutlich Extra Spiel \(slippage\) auch nicht den besten Preis für deinen Handel geben. Benutze bitte stattdessen unseren [**Uniswap V2**](https://app.uniswap.org/#/swap?outputCurrency=0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab&use=V2) ****Link, um den Token Swap durchzuführen.
 {% endhint %}
 
-1. Gehe direkt zu [$MIST auf mistX.io](http://swap.mist.alchemist.wtf)
+1. Gehe direkt zu [$MIST auf mistX.io](http://swap.alchemist.wtf/)
 2. Verbinde deine MetaMask Wallet
 3. Du solltest nun so etwas sehen: 
 
