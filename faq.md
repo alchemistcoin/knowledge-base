@@ -4,7 +4,7 @@
 
 Het meeste activiteit vindt plaats op uniswap, gebruik onze link om er direct naar toe ta gaan:
 
-* [uniswap.alchemist.wtf](http://uniswap.alchemist.wtf)
+* [swap.alchemist.wtf](http://swap.alchemist.wtf/)
 
 Overtijd is de kans groot dat $MIST ook op andere tradingsites beschikbaar is. Als dat het geval is dan kan je dat controlerne met [Coingeko](https://www.coingecko.com/en/coins/alchemist) of [CoinMarketCap](https://coinmarketcap.com/currencies/alchemist/).
 

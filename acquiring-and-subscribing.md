@@ -10,7 +10,7 @@ Vanwege lage liquiditeit op **Uniswap V3** betekent het verhogen van de "slippag
 
 
 
-1. Ga naar [Swap $MIST op mistX.io](http://swap.mist.alchemist.wtf)
+1. Ga naar [Swap $MIST op mistX.io](http://swap.alchemist.wtf/)
 2. Verbind je MetaMask wallet/portemonnee
 3. Vervolgens zie je iets zoals hieronder
 
