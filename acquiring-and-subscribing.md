@@ -8,7 +8,7 @@ Hai mai scambiato monete su mistX.io? Se la risposta è si, allora sai già cosa
 Ti consigliamo di usare mistX.io per comprare o vendere $MIST. Tuttavia, se decidi di usare Uniswap a causa della bassa liquidità su **Uniswap V3**, l'oscillamento aggiuntivo può voler dire che non riceverai il miglior prezzo per il tuo acquisto. Puoi usare il nostro link **Uniswap V2** sotto per scambiare i token. 
 {% endhint %}
 
-1. Vai su [Scambia  $MIST su mistX.io](http://swap.mist.alchemist.wtf/)
+1. Vai su [Scambia  $MIST su mistX.io](http://swap.alchemist.wtf/)
 2. Connetti MetaMask wallet
 3. Dovresti riuscire a vedere questo:
 
