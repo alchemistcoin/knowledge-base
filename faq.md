@@ -6,7 +6,7 @@
 
 我們建議使用 mistX.io, 你可以使用以下的連結:
 
-* [swap.mist.alchemist.wtf](http://swap.mist.alchemist.wtf/)
+* [swap.alchemist.wtf](http://swap.alchemist.wtf/)
 
 你亦可能在 [Coingecko](https://www.coingecko.com/en/coins/alchemist) 或 [CoinMarketCap](https://coinmarketcap.com/currencies/alchemist/) 找到其他能夠買賣$MIST的交易網站。
 
