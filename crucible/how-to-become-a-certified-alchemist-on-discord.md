@@ -1,6 +1,6 @@
 # 如何成为 Discord 上的 " Certified Alchemist "？💬
 
-若您拥有一个 Crucible ，就可以在我们的 [Discord 频道](https://discord.com/invite/qWQQMMKjKe)上成为一名 Certified Alchemist\(认证炼金术士\)🧙‍♂️⚗。
+若您拥有一个 Crucible ，就可以在我们的 [Discord 频道](https://discord.com/invite/qWQQMMKjKe)上成为一名 Certified Alchemist\(认证炼金术士\)🧙‍♂️⚗。One perk of becoming a certified alchemist is that it allows you to take part in discord votes and competitions.
 
 如果您的 Crucible 是直接在网站上铸造的，请直接阅读[**第二部分**](how-to-become-a-certified-alchemist-on-discord.md#di-er-bu-fen)\*\*\*\*
 
