@@ -1,6 +1,6 @@
 # Kako da postanem "Certifikovani Alchemist" na Discord-u 💬
 
-Ako posedujete Crucible, možete da postanete Certifikovani Alchemist na našem [Discord channel](https://discord.com/invite/qWQQMMKjKe) 🧙‍♂️⚗
+Ako posedujete Crucible, možete da postanete Certifikovani Alchemist na našem [Discord channel](https://discord.com/invite/qWQQMMKjKe) 🧙‍♂️⚗. One perk of becoming a certified alchemist is that it allows you to take part in discord votes and competitions.
 
 Ako su vaši Crucible-i mintovani na online site-u, molim vas da skoknete na [**Deo 2**](how-to-become-a-certified-alchemist-on-discord.md#deo-2)
 
