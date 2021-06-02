@@ -1,6 +1,6 @@
 # Hoe word ik een "Certified Alchemist" op Discord 💬
 
-Als u een Crucible bezit dan kan je een gecertificeerde alchemist worden op onze [Discord kanaal](https://discord.com/invite/qWQQMMKjKe) 🧙‍♂️⚗
+Als u een Crucible bezit dan kan je een gecertificeerde alchemist worden op onze [Discord kanaal](https://discord.com/invite/qWQQMMKjKe) 🧙‍♂️⚗. One perk of becoming a certified alchemist is that it allows you to take part in discord votes and competitions.
 
 Als je Crucible is gemint met behulp van de online site, ga dan naar: [**Deel 2**](how-to-become-a-certified-alchemist-on-discord.md#part-2)\*\*\*\*
 
