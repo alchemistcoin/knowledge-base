@@ -1,6 +1,6 @@
 # Jak zostać Certyfikowanym Alchemikiem \("Certified Alchemist"\) na Discordzie 💬
 
-Jeśli posiadasz Crucible, możesz zostać Certyfikowanych Alchemikiem \(Certified Alchemist\) na naszym [kanale Discord](https://discord.com/invite/qWQQMMKjKe) 🧙‍♂️⚗
+Jeśli posiadasz Crucible, możesz zostać Certyfikowanych Alchemikiem \(Certified Alchemist\) na naszym [kanale Discord](https://discord.com/invite/qWQQMMKjKe) 🧙‍♂️⚗.  One perk of becoming a certified alchemist is that it allows you to take part in discord votes and competitions.
 
 Jeśli Twój Crucible został wybity przy użyciu strony internetowej, przejdź do [**Część 2**](how-to-become-a-certified-alchemist-on-discord.md#czesc-2)\*\*\*\*
 
