@@ -16,6 +16,7 @@
 | [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) | новая версия сайта Crucible |
 | [alchemist.farm](https://alchemist.farm) | предыдущая версия сайта Crucible  |
 | [docs.alchemist.wtf](https://docs.alchemist.wtf) | Документация |
+| [mistX.io](https://mistx.io/) | mistX  |
 
 ### Сообщество
 
@@ -26,5 +27,6 @@
 | [t.me/alchemistcoin](https://t.me/alchemistcoin) | Telegram \(App Link\) |
 | [web.telegram.org/\#/im?p=@alchemistcoin](https://web.telegram.org/#/im?p=@alchemistcoin) | Telegram \(Web Version\) |
 | [instagram.com/thealchemistcoin](https://www.instagram.com/thealchemistcoin/) | Instagram |
+| [youtube.com/channel/UCIs4LugynLei2TN\_\_lJh-6Q](https://www.youtube.com/channel/UCIs4LugynLei2TN__lJh-6Q) | YouTube |
 | [alchemistcoin.medium.com](https://alchemistcoin.medium.com/) | Medium |
 
