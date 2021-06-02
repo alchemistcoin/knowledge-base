@@ -1,6 +1,6 @@
 # Wie man ein "zertifizierter Alchemist" auf dem Discord Server wird 💬
 
-Wenn du ein Crucible besitzt, kannst du ein zertifizierter Alchemist auf unserem [Discord](https://discord.com/invite/qWQQMMKjKe) 🧙‍♂️⚗ werden.
+Wenn du ein Crucible besitzt, kannst du ein zertifizierter Alchemist auf unserem [Discord](https://discord.com/invite/qWQQMMKjKe) 🧙‍♂️⚗ werden. Ein Vorteil besteht darin, dass du an Discord Abstimmungen und Wettbewerben teilnehmen kannst.
 
 Sollte dein Crucible über eine Website gemintet worden sein, so kannst du direkt zu [**Teil 2**](how-to-become-a-certified-alchemist-on-discord.md#teil-2) ****springen.
 
