@@ -1,6 +1,6 @@
 # 如何成為 Discord 上的"Certified Alchemist" 💬
 
-如果您擁有一個Crucible，您可以在我們的Discord頻道上成為一名Certified Alchemist（受認證的煉金術師）🧙‍♂️⚗。One perk of becoming a certified alchemist is that it allows you to take part in discord votes and competitions.
+如果您擁有一個Crucible，您可以在我們的Discord頻道上成為一名Certified Alchemist（受認證的煉金術師）🧙‍♂️⚗。成為 Certified Alchemist 的其中一個好處是您可以參與 Discord 上的各類投票和比賽活動。
 
 如果您的Crucible是使用網站鑄造的，請跳到[**第二部份**](how-to-become-a-certified-alchemist-on-discord.md#part-2)
 
