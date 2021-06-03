@@ -32,7 +32,7 @@ The guide below is designed to step you through that process.
     If you do not have enough ETH in your wallet for the transaction, you will receive a message as below.  
     ![](../../.gitbook/assets/5.png)  
 
-11. If your transaction is successful you will get the message below. ![](../../.gitbook/assets/6.png)  Due to the nature of bundling transactions, it's possible the transaction may not be successful on your first attempt. If this is the case, please try again. ![](../../.gitbook/assets/7.png)
+11. If your transaction is successful you will get the message below. ![](../../.gitbook/assets/6.png)  Due to the nature of bundling transactions, it's possible the transaction may not be successful on your first attempt. If this is the case, please try again by returning to step 7. The gas fee will only be charged if there is a successful transaction. If the transaction fails, you will not be charged. ![](../../.gitbook/assets/7.png)
 
 
 
