@@ -50,7 +50,7 @@ Crucible 只支持 **Uniswap V2** 流动资金池。向 **Uniswap V3** 资金池
 * 然后，您将会收到 Collab.Land bot 发来的一条消息，点击消息跳转至网站
 * 连接您放置 ⚗️$mist 的钱包进行签名授权
 * 完成之后机器人会给您发信息并更新您的角色
-* 关闭机器人并返回主 Alchemist 频道，点开个人头像，您将会看到角色已被更新，此时您已成为一名认证 Alchemist!
+* 关闭机器人并返回主 Alchemist 频道，点开个人头像，您将会看到角色已被更新，此时您已成为一名认证 Alchemist !
 
 ### **我该如何领取奖励?**
 
@@ -58,11 +58,11 @@ Crucible 只支持 **Uniswap V2** 流动资金池。向 **Uniswap V3** 资金池
 
 ### **放入 Crucible 的 LP 代币的多少与否很重要吗?**
 
-您放入的 LP 代币越多，提供的流动性就越高，因此您获得奖励池的比重就越大。没有最低的LP要求，但我们建议您在考虑这一点时注意以太坊Gas的成本。
+您放入的 LP 代币越多，提供的流动性就越高，因此您获得奖励池的比重就越大。没有最低的 LP 要求，但我们建议您在考虑这一点时注意以太坊Gas的成本。
 
 ### **同时拥有多个 Crucible 更好，还是在一个 Crucible 中拥有更高的订阅量更好?**
 
-在同一个 Crucible 中累积更多的 LP 代币相对来说是更好的，因为它可以最大程度地减少gas成本。
+在同一个 Crucible 中累积更多的 LP 代币相对来说是更好的，因为它可以最大程度地减少 gas 成本。
 
 唯一要使用多个 Crucible 的情况是：您打算转让或出售含有 LP 的 Crucible 。
 
@@ -76,11 +76,11 @@ Crucible 只支持 **Uniswap V2** 流动资金池。向 **Uniswap V3** 资金池
 
 ### **如何查看我在此期间获得了多少奖励?**
 
-您可以在 [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) 或 [alchemist.farm](https://alchemist.farm) 上查看 Crucible 的累积奖励，并使用 [apy.vision](https://apy.vision/) 或 [croco.finance](https://croco.finance/) 来查看Uniswap LP所累积的费用。
+您可以在 [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) 或 [alchemist.farm](https://alchemist.farm) 上查看 Crucible 的累积奖励，并使用 [apy.vision](https://apy.vision/) 或 [croco.finance](https://croco.finance/) 来查看 Uniswap LP 所累积的费用。
 
 ### **我可以在现有的 Crucible 中添加更多的 LP 吗?**
 
-可以。您向当前的Crucible中添加更多LP时，所产生的gas费用比最初铸造Crucible时要低得多。由于每次订阅都是独立的，因此您添加的任何LP都会有其独立的奖励倍数。
+可以。您向当前的 Crucible 中添加更多LP时，所产生的 gas 费用比最初铸造 Crucible 时要低得多。由于每次订阅都是独立的，因此您添加的任何LP都会有其独立的奖励倍数。
 
 ### **“领取奖励和退订 LP ”是否会从 Crucible 中移除我的 LP ?**
 
