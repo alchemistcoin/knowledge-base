@@ -4,34 +4,44 @@ U nekom trenutku ćeš poželeti da prikupiš svoje nagrade i otkažeš pretplet
 
 Vodič koji sledi će ti pokazati kako da prođeš kroz ceo proces korak po korak:
 
-{% hint style="warning" %}
-Prvo što treba da uradiš je da se prebaciš na TaiChi mrežu kako bi zaštitio svoju transakciju od botova prilikom odjave / polaganja prava na nagrade.
-
-Ovaj potez je obavezan i u nastavku su date instrukcije kako to da uradiš:
-{% endhint %}
-
 1. Otvori [crucible.alchemist.wtf](https://crucible.alchemist.wtf/), poveži svoj wallet i poseti "Your Crucibles" tab.
 2. Kada pređeš na "Your Crucibles" tab, proširi detalje o Crucible-u, sa kojeg želiš da skineš nagradu i otkažeš pretplatu LP tokena, tako što ćeš da klikneš na strelicu koja je okrenuta na dole:
-3. Tvoj Crucible bi sada trebao da ti prikaže dodatne informacije, na primer koliko MIST ili ETH si zaradio u nagradama ! \[\] \(../../.Gitbook/assets/screenshot-2021-05-07-at-12.50.42.png\)
-4. Klikni na "Manage Crucible" dugme   
-5. Sada bi trebalo da se prikaže još kompleksnija statistika, u okviru "Rewards" taba.   
-6. Klikni na "Claim rewards and unsubscribe" u dnu strane   
-7. **Pre nego što nastaviš dalje sa sledećim korakom,** moraćeš da povežeš svoj wallet sa TaiChi Network-om, zato pogledaj [ovaj link za povezivanje wallet-a](https://github.com/Taichi-Network/docs/blob/master/sendPriveteTx_tutorial.md), napravili smo animirani tutorial, koji je dat u nastavku, koji te vodi kroz ceo proces, korak po korak.   
-8. Proveri da li MetaMask prikazuje TaiChi mrežu kao što je to prikazano ispod.
 
-   ![](https://i.imgur.com/kszVVbq.png)
+   ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.58.png)
 
-9. Sada se vrati na website i upiši koliko LP tokena otkazuješ sa pretplate i klikni na "Claim rewards and unsubscribe LP". 
-10. Ako si pogrešio nešto kod 7 ili 8 koraka, pojaviće se greška. Ako vidiš da se greška pojavila idi ponovo na korak 7 i pokušaj ponovo.   
-11. Sada će se pojaviti pop up box sa MetaMask koji te pita za “Signature Request”, a ti onda klikni na “sign”.   
-12. Sledeće što ćeš da vidiš je Metamaskova notifikacija o transfer fondu, kao što je to prikazano dole. **Savetujemo ti da proveriš GAS troškove tako što ćeš da klikneš EDIT dugme. Neki korisnici su prijavili da je po default-u postavljena najsporija opcija, što u mnogome usporava kompletiranje transakcije. Ako smatraš da su GAS troškovi preveliki, iskoristi** [**ethereumprice.org/gas/**](https://ethereumprice.org/gas/) **koji će ti pomoći da doneseš odluku.**
-13. Sada će transakcija biti poslata na TaiChi network. Sada nemoj da se uspaničiš, jer nećeš odmah moći da vidiš svoju transakciju na Etherscan-u! Transakcija će se pojaviti tek kada prođe kroz TaiChi Network.
-14. Ako želiš da proveriš da li tvoja transakcija prolazi na TaiChi-ju, možeš da pejstuješ heš transakcije u [taichi.network](https://taichi.network/) kako bi ispratio proces.  **Obeveštenje:** The TaiChi network je nešto sporija od Ethereum network-a.
-15. Kada transakcija prođe i bude kompletirana ti treba da se vratiš na ethereum network da bi video Crucible.
+3. Tvoj Crucible bi sada trebao da ti prikaže dodatne informacije, na primer koliko MIST ili ETH si zaradio u nagradama 
 
-    ![](https://i.imgur.com/fcPY6Zp.png)
+   ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.58.png)
 
-16. Klikni na refresh i videćeš Crucible sa LP tokenima koji su skinuti.
+4. Klikni na "Manage Crucible" dugme  
 
-\*\*\*\*
+   ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.42.png)
+
+5. Sada bi trebalo da se prikaže još kompleksnija statistika, u okviru "Rewards" taba.   ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.22.png)
+6. Klikni na "Claim rewards and unsubscribe" u dnu strane  
+
+   ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.05.52.png)
+
+7. Upiši koliko LP tokena otkazuješ sa pretplate i klikni na "Claim rewards and unsubscribe LP". ![](../../.gitbook/assets/1.png)
+8. Sada će se pojaviti pop up box sa MetaMask koji te pita za “Signature Request”, a ti onda klikni na “sign”. 
+
+   ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MZtVtOEMQShtte8TrMq%2F-MbH1zJp7tqPw-lQpaLe%2F-MbH22XqtTl2UAgHIht_%2F2.png?alt=media&token=7b5ea3a1-22e4-4bc3-acb1-f9056c58bc45) 
+
+   prvi zahtev za potpis
+
+    ​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MZtVtOEMQShtte8TrMq%2F-MbH1zJp7tqPw-lQpaLe%2F-MbH2O5igLoCvWCXyyC4%2F3.png?alt=media&token=b5d6186d-2f67-40a8-b73c-4b8706d4eb24) 
+
+   drugi zahtev za potpis
+
+9. Cena Gasa ce biti automatski izracunata na sajtu u odnosu na trenutnu cenu gasa. Ova cena ce biti izabrana u vase ime kao deo transakcije za preuzimanje nagrada
+10. Dobices poruku da je tvoje preuzimanje zapoceto preko Flashbots-a. Time su transakcije zasticene od frontrunner-a. Ovaj proces moze trajati i do pet minuta.
+
+    ![](../../.gitbook/assets/4.png)
+
+  
+  
+    Ukoliko nemas dovoljno ETH-a u novcaniku dobicete ovakvu poruku.  
+    ![](../../.gitbook/assets/5.png)
+
+11. Ukoliko je transakcija uspesna dobicete ovakvu poruku. ![](../../.gitbook/assets/6.png)  Zbog prirode gomilanja transakcija moguce je da transakcija nece biti uspesna prvi put. Ako se to dogodi pokusajte ponovo. Provizija za gas ce biti naplacena samo ako je transakcija uspela. ![](../../.gitbook/assets/7.png)
 

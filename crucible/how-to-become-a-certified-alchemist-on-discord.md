@@ -1,6 +1,6 @@
 # Kako da postanem "Certifikovani Alchemist" na Discord-u 💬
 
-Ako posedujete Crucible, možete da postanete Certifikovani Alchemist na našem [Discord channel](https://discord.com/invite/qWQQMMKjKe) 🧙‍♂️⚗. One perk of becoming a certified alchemist is that it allows you to take part in discord votes and competitions.
+Ako posedujete Crucible, možete da postanete Certifikovani Alchemist na našem [Discord channel](https://discord.com/invite/qWQQMMKjKe) 🧙‍♂️⚗. Jedna od privilegija sertifikovanih alhemičara je učestvovanje u glasanju i takmičenjima na diskordu.
 
 Ako su vaši Crucible-i mintovani na online site-u, molim vas da skoknete na [**Deo 2**](how-to-become-a-certified-alchemist-on-discord.md#deo-2)
 
@@ -14,7 +14,7 @@ Ako su vaši Crucible-i mintovani tako što ste koristili [command line](https:/
 
 ## **Deo 2**
 
-Nakon što ste pristupili novčaniku u kojem se nalaze vaši Crucible-i, možete da postanete sertifikovani alhemičar sledeći ove korake:
+Nakon što ste pristupili novčaniku u kojem se nalaze vaši Crucible-i, možete da postanete sertifikovani alhemičar sledeći ove korake:
 
 1. Na [_\#welcome_](http://discord.alchemist.wtf) kanalu napišite komandu **!join**
 2. Dobićete privatnu poruku od Collab.Land
