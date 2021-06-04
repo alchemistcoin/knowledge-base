@@ -11,11 +11,11 @@ Vodič koji sledi će ti pokazati kako da prođeš kroz ceo proces korak po kora
 
 3. Tvoj Crucible bi sada trebao da ti prikaže dodatne informacije, na primer koliko MIST ili ETH si zaradio u nagradama 
 
-   ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.58.png)
+   ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.42.png)
 
 4. Klikni na "Manage Crucible" dugme  
 
-   ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.42.png)
+   ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.04.png)
 
 5. Sada bi trebalo da se prikaže još kompleksnija statistika, u okviru "Rewards" taba.   ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.22.png)
 6. Klikni na "Claim rewards and unsubscribe" u dnu strane  
