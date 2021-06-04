@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Что такое Alchemist?](README.md)
-* [Представляем mistX](predstavlyaem-mistx.md)
 * [Официальные ссылки сообщества](official-community-links-ru.md)
 
 ## Alchemist Token ⚗️ $MIST <a id="alchemist-token-ru"></a>
