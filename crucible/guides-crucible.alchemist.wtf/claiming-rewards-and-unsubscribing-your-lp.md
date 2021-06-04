@@ -2,45 +2,32 @@
 
 Wenn du dich irgendwann dazu entscheiden solltest, dass du du deine Belohnungen erhalten und deine LP Token nicht mehr teilnehmen lassen möchtest, dann hilft dir die untenstehende Anleitung Schritt für Schritt dabei, den Prozess zu meistern.
 
-{% hint style="warning" %}
-Um dich vor Front-Run Bots zu schützen, musst du zum TaiChi Netzwerk wechseln, wenn du nicht mehr teilnehmen möchtest bzw. deine Belohnungen abholst.
-
-Dieser Prozess ist verpflichtend und Anweisungen hierzu findest du in den weiteren Schritten.
-{% endhint %}
-
 1. Öffne [crucible.alchemist.wtf](https://crucible.alchemist.wtf/), verbinde deine Wallet und klicke auf den "Your Crucibles" Reiter.
-2. Sobald du auf dem Reiter "Your Crucibles" angekommen bis, kannst du diesen ausfahren, in dem du auf den nach unten gerichteten Pfeil drückst, um so die Details einzusehen:
+2. Sobald du auf dem Reiter "Your Crucibles" angekommen bis, kannst du diesen ausfahren, in dem du auf den nach unten gerichteten Pfeil drückst, um so die Details einzusehen: ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.58.png) 
+3. Dein Crucible sollte nun mehr Informationen anzeigen, etwa wie viele MIST und ETH du verdienst hast. ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.42.png)  
+4. Wenn du noch mehr Details sehen möchtest, drücke bitte auf den "Manage Crucible" Button. ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.04.png)  
+5. Nun wird dir eine komplexere Liste mit Statistiken unter dem Reiter "Rewards" angezeigt.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.22.png)  
+6. Klicke auf "Claim rewards and unsubscribe" am unteren Ende des Fensters. ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.05.52.png)  
+7. Gebe ein wie viele LP Token du nicht mehr teilnehmen lassen möchtest und klicke anschließend auf "Claim rewards and unsubscribe LP". ![](../../.gitbook/assets/1.png)  
+8. Du wirst daraufhin nun 2 aufpoppende Metamask Unterschriftsanfragen erhalten, die du beide bitte mit jeweils einem Klick auf “sign” bestätigst.  
+   ![](../../.gitbook/assets/2.png)   
+   Die erste Signaturanfrage
 
   
-   ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.58.png) 
+   ![](../../.gitbook/assets/3.png)  
+    Die zweite Signaturanfrage
 
-3. Dein Crucible sollte nun mehr Informationen anzeigen, etwa wie viele MIST und ETH du verdienst hast. ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.42.png) 
-4. Wenn du noch mehr Details sehen möchtest, drücke bitte auf den "Manage Crucible" Button. 
+9. Die Kosten für die Gebühr werden automatisch durch die Website basierend auf den aktuellen Gaspreisen errechnet. Diese wird in deinem Namen im Rahmen der Transaktion für die Einforderung von Prämien übermittelt.
 
-  
-   ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.04.png) 
+10. Du wirst nun eine Mitteilung erhalten, dass deine Einforderung an Flashbots übermittelt wurde. Dies dient dazu, dass deine Belohnungen nicht gefrontrunned werden. Der Prozess kann bis zum Abschluss 5 Minuten benötigen.
 
-5. Nun wird dir eine komplexere Liste mit Statistiken unter dem Reiter "Rewards" angezeigt.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.22.png) 
-6. Klicke auf "Claim rewards and unsubscribe" am unteren Ende des Fensters.![](../../.gitbook/assets/screenshot-2021-05-07-at-13.05.52.png) 
-7. **Bevor du mit dem nächsten Schritt fortfährst,** musst du deine Wallet mit dem TaiChi Netzwerk verbinden. Siehe hierzu diesen Link mit [Verbindungsdetails und Anweisungen](https://github.com/Taichi-Network/docs/blob/master/sendPriveteTx_tutorial.md). Um es anschaulicher zu machen, haben wir eine Animation angefügt, die dir dabei hilft den Prozess besser zu verstehen.  ![](../../.gitbook/assets/taichi-network-add.gif) 
-8. Stelle anschließend sicher, dass MetaMask das TaiChi Netzwerk wie folgt anzeigt:
+    ![](../../.gitbook/assets/4.png)  
+    Solltest du nicht genügend ETH in deiner Wallet haben, so wirst du nachfolgende Nachricht erhalten.  
+    ![](../../.gitbook/assets/5.png)
 
-   ![](https://i.imgur.com/kszVVbq.png)
+11. Sollte deine Transaktion erfolgreich sein, wirst du folgende Nachricht erhalten. ![](../../.gitbook/assets/6.png) Aufgrund der Art der Bündelung von Transaktionen ist es möglich, dass die Transaktion beim ersten Versuch nicht erfolgreich ist. Wenn dies der Fall ist, versuche es bitte erneut. Die Gasgebühr wird nur bei einer erfolgreichen Transaktion abgerechnet. Wenn die Transaktion hingegen fehlschlägt, wirst du nichts bezahlen müssen. ![](../../.gitbook/assets/7.png)
 
-9. Kehre nun zurück zur Webseite und gebe die Höhe deiner zukünftig nicht mehr teilnehmenden LP Token in das Eingabefeld ein und drücke anschließend auf "Claim rewards and unsubscribe LP". ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.06.00.png) 
-10. Solltest du die Schritte 7 und 8 nicht korrekt ausgeführt haben, wirst du eine Fehlermeldung sehen. Wenn dies geschieht, gehe zurück und führe die vorherigen Anweisungen erneut durch.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.06.44.png) 
-11. Du solltest nun eine Popup Box von Metamask erhalten, die dich darum bittet zu unterzeichnen, drücke auf "sign" oder "unterzeichnen".  ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.11.35.png) 
-12. Als nächstes sollte die Transaktionsmitteilung von Metamask \(siehe unten\) erscheinen. **Wir empfehlen dir, dass du zuvor über den EDIT Button, die erlaubten Gas Gebühren überprüfst und gegeben Falls anpasst. Einige Nutzer haben uns in Kenntnis gesetzt, dass standmäßig die langsamste Option gesetzt ist. Dies führt zu deutlich verzögerten Transkationen und deren Komplementierung. Falls du besorgt bist, dass die Gasgebühren zu hoch sind, benutzte bitte** [**ethereumprice.org/gas/**](https://ethereumprice.org/gas/)**, um zu entscheiden, wann der beste Zeitpunkt ist.**
 
-    ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.11.44.png) 
-
-13. Die Transaktion wird nun an das TaiChi Netzwerk gesandt. Du wirst nicht in der Lage sein, diese Transaktion über Etherscan nachzuvollziehen - aber bitte keine Panik! Sobald die Transaktion durch das TaiChi Netzwerk durchgeführt und bestätigt wurde, ist sie auch dort wiederzufinden.
-14. Solltest du die Transaktion über das TaiChi Netzwerk überprüfen wollen, so nutze bitte hierzu die Seite [taichi.network](https://taichi.network/), um den Fortschritt zu sehen.  **Anmerkung:** Das TaiChi Netzwerk ist für gewöhnlich etwas langsamer als das Ethereum Netzwerk.
-15. Sobald deine Transaktion erfolgreich durchgeführt wurde, musst du wieder das Netzwerk wechseln, um dein Crucible zu sehen.
-
-    ![](https://i.imgur.com/fcPY6Zp.png) 
-
-16. Aktualisiere die Webseite und du wirst nun dein Crucible ohne teilnehmenden LP Token sehen.
 
 \*\*\*\*
 
