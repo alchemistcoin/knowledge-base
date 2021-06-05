@@ -3,7 +3,7 @@
 ### **Videos 🎬📺**
 
 {% hint style="info" %}
-Veuillez noter que certaines des vidéos sont obsolètes par rapport à l'apparence actuelle de [alchemist.farm](https://alchemist.farm). Notez également que ces vidéos ont été réalisées par la communauté - néanmoins elles peuvent tout de même vous aider.
+Veuillez noter que certaines des vidéos sont obsolètes par rapport à l'apparence actuelle de [crucible.alchemist.wtf](https://crucible.alchemist.wtf/). Notez également que ces vidéos ont été réalisées par la communauté - néanmoins elles peuvent tout de même vous aider.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -12,6 +12,7 @@ Les références à Uniswap dans ces vidéos peuvent être obsolètes. Assurez v
 Si vous n'êtes pas certains de savoir comment passer de la V3 à la V2, utilisez nos liens dans le [mode d'emploi](../../acquiring-and-subscribing.md).
 {% endhint %}
 
+* [Alchemist YouTube Channel](https://www.youtube.com/channel/UCIs4LugynLei2TN__lJh-6Q)
 * [Faire un Crucible](https://www.youtube.com/watch?v=Rl9Rf-3Sp-8)
 * [Récupérer des LP, puis faire un Crucible](https://www.youtube.com/watch?v=Ga1qcQ6x3as)
 * [Récupérer des LP, faire un Crucible, et devenir un Alchimiste Certifié sur Discord](https://www.youtube.com/watch?v=k7MO1QpqCds)
