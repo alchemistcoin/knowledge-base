@@ -15,9 +15,8 @@ Dokładność tych informacji może się zmieniać w czasie i należy traktować
         <p><em>crucible.alchemist.wtf</em>
         </p>
       </th>
-      <th style="text-align:center">Wybijanie (Minting)</th>
-      <th style="text-align:center">Anulowanie subskrypcji i przegl&#x105;danie Crucible (Unsubscribing &amp;
-        Viewing Crucibles)</th>
+      <th style="text-align:center">Wybijanie</th>
+      <th style="text-align:center">Anulowanie subskrypcji i przegl&#x105;danie Crucible</th>
     </tr>
   </thead>
   <tbody>
