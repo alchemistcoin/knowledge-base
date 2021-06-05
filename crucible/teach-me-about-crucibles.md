@@ -19,7 +19,7 @@ Dit is belangrijk om te weten, omdat individuen inmiddels [Crucibles beschikbaar
 
 Om het nogmaals duidelijk te maken: Wanneer je een Crucible maakt, stake je nogsteeds jouw ⚗️ in de Uniswap-V2 liquidity pool. Effectief maak je gebruik van 3 manieren om van beloningen te vergaren.
 
-## Hoe munt je een Crucible?
+## Hoe mint je een Crucible?
 
 Oorspronkelijk was het alleen mogelijk met de officieële CLI tool. Gelukkig hebben communitymembers inmiddels web-apps gemaakt om het process eenvoudiger te maken. Aanzien de CLI methode extra risico's met zich mee brengt, raden wij aan om hier niet langer meer gebruik van te maken.
 
