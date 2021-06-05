@@ -9,7 +9,7 @@ Please note some of the videos are out of date in regards to the current appeara
 {% hint style="warning" %}
 References to Uniswap in the videos may be outdated. Please make sure you are using **Uniswap V2** for providing Liquidity as V3 is not supported.
 
-If you are unsure how to switch between V3 and V2, please use our links in the [guide](../../alchemist-token/acquiring-and-subscribing.md).
+If you are unsure how to switch between V3 and V2, please use our links in the [guide](../alchemist-token/acquiring-and-subscribing.md).
 {% endhint %}
 
 * [Make a Crucible](https://www.youtube.com/watch?v=Rl9Rf-3Sp-8)
