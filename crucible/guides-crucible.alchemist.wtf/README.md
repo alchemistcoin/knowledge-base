@@ -1,10 +1,5 @@
 # Guides: crucible.alchemist.wtf
 
-{% hint style="info" %}
-**Guides below are for community site** [**crucible.alchemist.wtf**](https://crucible.alchemist.wtf/)  
-Please [click here](../guides-alchemist.farm/) if you are using [alchemist.farm](https://alchemist.farm/)
-{% endhint %}
-
 ### Contents
 
 1. [How do I mint a Crucible?](how-do-i-mint-a-crucible.md)

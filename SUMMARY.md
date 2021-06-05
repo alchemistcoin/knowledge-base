@@ -19,12 +19,9 @@
   * [How do I mint a Crucible?](crucible/guides-crucible.alchemist.wtf/how-do-i-mint-a-crucible.md)
   * [What can I do with my new Crucible?](crucible/guides-crucible.alchemist.wtf/what-can-i-do-with-my-new-crucible.md)
   * [Claiming Rewards & Unsubscribing your LP](crucible/guides-crucible.alchemist.wtf/claiming-rewards-and-unsubscribing-your-lp.md)
-* [Guides: alchemist.farm](crucible/guides-alchemist.farm/README.md)
-  * [I have minted a Crucible, now what?](crucible/guides-alchemist.farm/i-minted-a-crucible-now-what.md)
-  * [כיצד לתבוע תגמולים ולהסיר את ההרשמה TaiChi -באמצעות רשת ה Aludel -שלך מ LP  ל](crucible/guides-alchemist.farm/how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md)
-  * [Visual Guides 🎞](crucible/guides-alchemist.farm/visual-guides.md)
 * [How to Become a "Certified Alchemist" on Discord 💬](crucible/how-to-become-a-certified-alchemist-on-discord.md)
 * [Wallet Compatibility](crucible/wallet-compatibility.md)
+* [Visual Guides 🎞](crucible/visual-guides.md)
 * [FAQ 📖](crucible/faq.md)
 
 ## Join us
