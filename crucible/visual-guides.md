@@ -12,6 +12,7 @@
 如果您不知道如何在V3和V2之間切換，請使用我們[指南](../acquiring-and-subscribing.md)中的鏈接。
 {% endhint %}
 
+* [Alchemist YouTube Channel](https://www.youtube.com/channel/UCIs4LugynLei2TN__lJh-6Q)
 * [製作一個 Crucible](https://www.youtube.com/watch?v=Rl9Rf-3Sp-8)​
 * [獲取LP，然後製作一個Crucible](https://www.youtube.com/watch?v=Ga1qcQ6x3as)
 * [Get 取得LP, 然後製作一個 ](https://www.youtube.com/watch?v=k7MO1QpqCds)[Crucible並成為Discord上得到認證的煉金術師\(Certified Alchemist](https://www.youtube.com/watch?v=k7MO1QpqCds)\)
