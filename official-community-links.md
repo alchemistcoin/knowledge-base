@@ -13,6 +13,7 @@
 | [alchemist.wtf](http://alchemist.wtf) | गिटहब रिपॉजिटरी |
 | [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) | क्रूसिबल वेबसाइट |
 | [docs.alchemist.wtf](https://docs.alchemist.wtf) | दस्तावेज़ीकरण |
+|  | mistX.io |
 
 ### कम्युनिटी
 
