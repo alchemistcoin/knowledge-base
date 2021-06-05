@@ -9,7 +9,7 @@
 {% hint style="warning" %}
 視頻中提到的Uniswap可能已經過時。請確保你使用的是**Uniswap V2**來提供流動性，因為V3不被支持。
 
-如果您不知道如何在V3和V2之間切換，請使用我們[指南](../../acquiring-and-subscribing.md)中的鏈接。
+如果您不知道如何在V3和V2之間切換，請使用我們[指南](../acquiring-and-subscribing.md)中的鏈接。
 {% endhint %}
 
 * [製作一個 Crucible](https://www.youtube.com/watch?v=Rl9Rf-3Sp-8)​

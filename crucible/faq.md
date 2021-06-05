@@ -66,7 +66,7 @@ Crucibles 只能由**Uniswap V2** LP代幣鑄造。 請確保你將代幣添加�
 
 **我該如何領取獎勵?**
 
-當您“申領獎勵並退訂 LP ”時，所有的獎勵都將收到。請注意，這也會重置您的獎勵乘數。執行此操作時，您需要使用Taichi網絡，以防你的獎勵被機器人搶先。請參閱[指南](guides-alchemist.farm/how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md)。
+當您“申領獎勵並退訂 LP ”時，所有的獎勵都將收到。請注意，這也會重置您的獎勵乘數。執行此操作時，您需要使用Taichi網絡，以防你的獎勵被機器人搶先。請參閱[指南]()。
 
 
 
