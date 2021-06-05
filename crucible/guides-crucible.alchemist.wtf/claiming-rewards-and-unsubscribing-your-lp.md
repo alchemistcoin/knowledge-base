@@ -5,13 +5,13 @@
 以下的指南旨在引導你完成這個過程。 
 
 1. 打開 [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)連接你的錢包並按"Your Crucibles"標簽。
-2. 進入“Your Crucibles”選項卡後，在您想從其取消訂閱/領取獎勵的 Crucibles 點擊向下的箭頭展開詳細資料
+2. 進入“Your Crucibles”選項卡後，在您想從其取消訂閱/領取獎勵的 Crucibles 點擊向下的箭頭展開詳細資料。
 
   
    ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.58.png) 
 
-3. 現在會顯示更多Crucible的資料，例如你在獎勵中獲得了多少MIST或ETH ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.42.png) 
-4. 點擊“Manage crucible”按鈕
+3. 現在會顯示更多Crucible的資料，例如你在獎勵中獲得了多少MIST或ETH。 ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.42.png) 
+4. 點擊“Manage crucible”按鈕。
 
   
    ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.04.png) 
@@ -21,13 +21,13 @@
   
     ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.22.png) 
 
-6. 點擊頁面底部的 "Claim rewards and unsubscribe"\(領取獎勵並且退訂\)
+6. 點擊頁面底部的 "Claim rewards and unsubscribe"\(領取獎勵並且退訂\)。
 
   
    ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.05.52.png) 
 
-7. 在欄中填入您想退訂的LP數量，並點擊 "Claim rewards and unsubscribe LP"![](../../.gitbook/assets/1.png)
-8. 現在您會見到 MetaMask 彈出兩個框，進行簽名請求\(Signature Request\)，兩次都選擇點擊"簽名"\(Sign\) 
+7. 在欄中填入您想退訂的LP數量，並點擊 "Claim rewards and unsubscribe LP"。![](../../.gitbook/assets/1.png)
+8. 現在您會見到 MetaMask 彈出兩個框，進行簽名請求\(Signature Request\)，兩次都選擇點擊"簽名"\(Sign\) :
 
 ![](../../.gitbook/assets/2.png)
 
@@ -40,7 +40,7 @@
 
 9.     網站會根據當前 gas 價格自動計算出 gas 費用，並在領取獎勵時，從獎勵中抽取這費用。
 
-10.   現在您會收到如下信息，這表明您的交易正在通過 Flashbots 提交。這樣做是為了保護您的獎勵不會被人搶先交易\(frontrunners\)。整個過程可能需要5分鐘
+10.   現在您會收到如下信息，這表明您的交易正在通過 Flashbots 提交。這樣做是為了保護您的獎勵不會被人搶先交易\(frontrunners\)。整個過程可能需要5分鐘。
 
 ![](../../.gitbook/assets/4.png)  
   
