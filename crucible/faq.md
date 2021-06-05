@@ -9,18 +9,18 @@ Crucible ondersteunt alleen de **Uniswap V2** Liquidity Pool. Het toevoegen van 
 {% hint style="warning" %}
 **Preventieve maatregelen**
 
-Gebruik de Brave-browser niet omdat deze op dit moment niet compatibel is met het proces en je transactie zal mislukken, wat resulteert in verloren kosten. 
+Gebruik de Brave-browser niet omdat deze op dit moment niet compatibel is met het proces en je transactie zal mislukken, wat resulteert in verloren kosten.
 
-We raden het gebruik van een hardware-wallet op dit moment af, aangezien velen momenteel geen EIP-712-ondertekening ondersteunen. 
+We raden het gebruik van een hardware-wallet op dit moment af, aangezien velen momenteel geen EIP-712-ondertekening ondersteunen.
 
-Als ze dit oplossen, kunnen we het implementeren. Sommige gebruikers hebben problemen met Trustwallet gemeld. 
+Als ze dit oplossen, kunnen we het implementeren. Sommige gebruikers hebben problemen met Trustwallet gemeld.
 
 We raden je aan dit niet op een mobiel te doen.
 {% endhint %}
 
 Gebruik een van de onderstaande guides om een Crucible te minten
 
-* [Een Crucible minten op crucible.alchemist.wtf](guides-crucible.alchemist.wtf/)
+* [Een Crucible minten op crucible.alchemist.wtf](https://github.com/alchemistcoin/knowledge-base/tree/2ce9a4bb08dbfd6a60c60194b178a061998205e8/crucible/guides-crucible.alchemist.wtf)
 
 ## Waarom kan ik mijn ⚗️Mist niet in mijn wallet zien?
 
@@ -32,7 +32,7 @@ Voeg het contract adres **`0xcd6bcca48069f8588780dfa274960f15685aee0e`** toe om 
 
 ## Waarom zie ik mijn Crucible niet in mijn wallet?
 
-Voeg het contract adres  **`0x54e0395CFB4f39beF66DBCd5bD93Cca4E9273D56`**  toe om je Crucible\(s\) te zien.
+Voeg het contract adres **`0x54e0395CFB4f39beF66DBCd5bD93Cca4E9273D56`** toe om je Crucible\(s\) te zien.
 
 ## Wat zijn de beloningen voor het abonneren op de Aludel**?**
 
@@ -51,7 +51,7 @@ Je kunt de beloningspool [hier](https://etherscan.io/address/0x04108d6e9a51bec51
 
 ## Hoe claim ik de beloningen?
 
-Alle beloningen worden ontvangen wanneer je klikt op "Claim Rewards and Unsubscribe LP". Wees voorzichtig, dit stelt ook je beloningsvermenigvuldiger opnieuw in. 
+Alle beloningen worden ontvangen wanneer je klikt op "Claim Rewards and Unsubscribe LP". Wees voorzichtig, dit stelt ook je beloningsvermenigvuldiger opnieuw in.
 
 Je moet Taichi Network gebruiken om dit te doen om te voorkomen dat bots je beloningen frontrunnen. Zie deze [guide](guides-alchemist.farm/how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md).
 
@@ -61,7 +61,7 @@ Hoe meer LP-tokens u krijgt, hoe hoger de hoeveelheid liquiditeit die je hebt ve
 
 ### Is het voordeliger om meer Crucibles of een hoger abonnement in één Crucible te hebben?
 
-Het is bijna altijd beter om LP in een enkele Crucible te verzamelen, omdat dit de gaskosten minimaliseert. 
+Het is bijna altijd beter om LP in een enkele Crucible te verzamelen, omdat dit de gaskosten minimaliseert.
 
 De enige keer dat u meerdere Crucibles zou gebruiken, is als je een Crucible met een actief abonnement erop wilt overdragen / verkopen.
 
@@ -93,9 +93,7 @@ Ja, het eigendom van de NFT \(en de geabonneerde LP-tokens\) kan worden overgedr
 
 Nee, niet zolang de beloningen niet worden uitgeschreven van de Aludel.
 
-
-
 ### Bekijk deze video over “Impermanent loss” voordat je verder gaat
 
-{% embed url="https://youtu.be/8XJ1MSTEuU0" %}
+{% embed url="https://youtu.be/8XJ1MSTEuU0" caption="" %}
 

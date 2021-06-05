@@ -23,5 +23,3 @@ Je kan [alchemist.farm](https://alchemist.farm/) gebruiken om je Crucibles weer 
 
 Ja. Nu leun je achterover en aanschouw je wat er gebeurt.
 
-#### 
-
