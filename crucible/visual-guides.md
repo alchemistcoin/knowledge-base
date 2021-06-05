@@ -3,7 +3,7 @@
 ### 視頻 🎬📺 
 
 {% hint style="info" %}
-請註意，有些視頻已經過期，與[alchemist.farm](https://alchemist.farm)目前的外觀不符。另外，這些視頻是社群製作的視頻--但它們仍然可以起到幫助作用。
+請註意，有些視頻已經過期，與[crucible.alchemist.wtf](http://crucible.alchemist.wtf/)目前的外觀不符。另外，這些視頻是社群製作的視頻--但它們仍然可以起到幫助作用。
 {% endhint %}
 
 {% hint style="warning" %}
