@@ -20,7 +20,7 @@ Ghidul de mai jos este conceput sa te conduca prin pasii acestui proces.
    prima cerere de semnatura
 
   
-   ![](../../.gitbook/assets/3.png)  
+   ![](../../.gitbook/assets/3%20%281%29%20%283%29.png)  
     a doua cerere de semnatura  
 
 
@@ -29,16 +29,16 @@ Ghidul de mai jos este conceput sa te conduca prin pasii acestui proces.
 9. Costul de tranzactie gas va fi calculat automat de platforma noastra pe baza ratei actuale a gas. Aceasta va fi trimisă în numele tau ca parte a tranzacției de solicitare a recompensei.
 10. Urmeaza sa primesti un mesaj care va indica faptul că cererea ta este trimisă acum prin Flashbots. Aceasta este pentru a vă proteja recompensele de robotii frontrunners. Procesul poate dura pana la 5 minute.
 
-    ![](../../.gitbook/assets/4.png)  
+    ![](../../.gitbook/assets/4%20%281%29.png)  
   
     Daca nu ai suficient ETH pentru tranzacție în wallet, vei primi un mesaj asa cum vezi mai jos.  
-    ![](../../.gitbook/assets/5.png)
+    ![](../../.gitbook/assets/edlin%20%281%29.png)
 
  11. Daca tranzacția ta s-a realizat cu succes, vei primi mesajul de mai jos.  
-       ![](../../.gitbook/assets/6.png)   
+       ![](../../.gitbook/assets/6%20%281%29.png)   
   
 Datorita naturii tranzacțiilor trimise in grup, este posibil ca tranzacția sa nu aiba succes la prima ta încercare. Daca se intampla astfel, incerca din nou. Avantajul este ca taxa pentru gaz se va percepe doar daca tranzacția reușeste. Daca tranzacția eșueaza, tu nu vei fi taxat.  
-       ![](../../.gitbook/assets/7.png)
+       ![](../../.gitbook/assets/7%20%281%29.png)
 
  
 
