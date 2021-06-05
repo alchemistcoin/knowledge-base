@@ -12,6 +12,7 @@ References to Uniswap in the videos may be outdated. Please make sure you are us
 If you are unsure how to switch between V3 and V2, please use our links in the [guide](../alchemist-token/acquiring-and-subscribing.md).
 {% endhint %}
 
+* [Alchemist YouTube Channel](https://www.youtube.com/channel/UCIs4LugynLei2TN__lJh-6Q)
 * [Make a Crucible](https://www.youtube.com/watch?v=Rl9Rf-3Sp-8)
 * [Get LP, then Make a Crucible](https://www.youtube.com/watch?v=Ga1qcQ6x3as)
 * [Get LP, then Make a Crucible, and become a Certified Alchemist on Discord](https://www.youtube.com/watch?v=k7MO1QpqCds)
