@@ -54,7 +54,7 @@ Le pool de récompenses est visible [ici](https://etherscan.io/address/0x04108d6
 
 ## **Comment puis-je récupérer les récompenses?**
 
-Vous pouvez récupérer toutes vos récompenses en appuyant sur “Claim Rewards and Unsubscribe LP”. Attention, cela réinitialise également votre multiplicateur de récompense. Vous devrez utiliser le réseau Taichi pour empêcher les bots de “front-run” vos récompenses. Consultez ce [mode d'emploi](guides-alchemist.farm/how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md).
+Vous pouvez récupérer toutes vos récompenses en appuyant sur “Claim Rewards and Unsubscribe LP”. Attention, cela réinitialise également votre multiplicateur de récompense. Vous devrez utiliser le réseau Taichi pour empêcher les bots de “front-run” vos récompenses. Consultez ce [mode d'emploi]().
 
 ## **Le nombre de jetons LP mis dans le Crucible importe-t-il ?** 
 
