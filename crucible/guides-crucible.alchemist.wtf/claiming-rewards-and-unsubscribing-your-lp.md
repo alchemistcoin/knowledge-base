@@ -22,7 +22,7 @@ Vodič koji sledi će ti pokazati kako da prođeš kroz ceo proces korak po kora
 
    ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.05.52.png)
 
-7. Upiši koliko LP tokena otkazuješ sa pretplate i klikni na "Claim rewards and unsubscribe LP". ![](../../.gitbook/assets/1%20%282%29%20%282%29.png)
+7. Upiši koliko LP tokena otkazuješ sa pretplate i klikni na "Claim rewards and unsubscribe LP". ![](../../.gitbook/assets/1%20%282%29%20%282%29%20%282%29.png)
 8. Sada će se pojaviti pop up box sa MetaMask koji te pita za “Signature Request”, a ti onda klikni na “sign”. 
 
    ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MZtVtOEMQShtte8TrMq%2F-MbH1zJp7tqPw-lQpaLe%2F-MbH22XqtTl2UAgHIht_%2F2.png?alt=media&token=7b5ea3a1-22e4-4bc3-acb1-f9056c58bc45) 
@@ -36,12 +36,12 @@ Vodič koji sledi će ti pokazati kako da prođeš kroz ceo proces korak po kora
 9. Cena Gasa ce biti automatski izracunata na sajtu u odnosu na trenutnu cenu gasa. Ova cena ce biti izabrana u vase ime kao deo transakcije za preuzimanje nagrada
 10. Dobices poruku da je tvoje preuzimanje zapoceto preko Flashbots-a. Time su transakcije zasticene od frontrunner-a. Ovaj proces moze trajati i do pet minuta.
 
-    ![](../../.gitbook/assets/4%20%281%29%20%281%29.png)
+    ![](../../.gitbook/assets/4%20%281%29%20%282%29.png)
 
   
   
     Ukoliko nemas dovoljno ETH-a u novcaniku dobicete ovakvu poruku.  
     ![](../../.gitbook/assets/edlin%20%281%29.png)
 
-11. Ukoliko je transakcija uspesna dobicete ovakvu poruku. ![](../../.gitbook/assets/6%20%281%29%20%281%29.png)  Zbog prirode gomilanja transakcija moguce je da transakcija nece biti uspesna prvi put. Ako se to dogodi pokusajte ponovo. Provizija za gas ce biti naplacena samo ako je transakcija uspela. ![](../../.gitbook/assets/7%20%281%29.png)
+11. Ukoliko je transakcija uspesna dobicete ovakvu poruku. ![](../../.gitbook/assets/6%20%281%29%20%281%29%20%281%29.png)  Zbog prirode gomilanja transakcija moguce je da transakcija nece biti uspesna prvi put. Ako se to dogodi pokusajte ponovo. Provizija za gas ce biti naplacena samo ako je transakcija uspela. ![](../../.gitbook/assets/7%20%281%29.png)
 
