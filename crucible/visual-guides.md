@@ -3,7 +3,7 @@
 ### **Videos \(en inglès\) 🎬📺**
 
 {% hint style="info" %}
-Por favor, ten en cuenta que algunos de los vídeos no están actualizados con respecto a la apariencia actual de [alchemist.farm](https://alchemist.farm/). Además, estos videos son hechos por la comunidad - pero aún pueden ayudar. 
+Por favor, ten en cuenta que algunos de los vídeos no están actualizados con respecto a la apariencia actual de [crucible.alchemist.wtf](http://crucible.alchemist.wtf/). Además, estos videos son hechos por la comunidad - pero aún pueden ayudar. 
 {% endhint %}
 
 {% hint style="warning" %}
