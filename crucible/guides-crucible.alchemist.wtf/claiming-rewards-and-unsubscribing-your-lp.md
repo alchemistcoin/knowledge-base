@@ -13,21 +13,21 @@ Le mode d'emploi ci-dessous vous guidera pas à pas dans ce process.
 7. Renseignez le champ avec la quantité de LP que vous souhaitez désengager puis cliquez sur "Claim rewards and unsubscribe LP".  
 
 
-   1. ![](../../.gitbook/assets/1%20%282%29%20%282%29.png)
+   1. ![](../../.gitbook/assets/1%20%282%29%20%282%29%20%282%29.png)
 
  
 
 8. Deux pop-up Metamask s'affichent successivement vous demandant une "Signature Request" cliquez sur "Sign" à chaque fois.  
 
 
-   ![](../../.gitbook/assets/2%20%282%29%20%281%29.png)   
+   ![](../../.gitbook/assets/2%20%282%29%20%282%29%20%281%29.png)   
    Première "Signature Request"
 
   
 
 
 
-   ![](../../.gitbook/assets/3%20%281%29%20%285%29%20%283%29.png)  
+   ![](../../.gitbook/assets/3%20%281%29%20%285%29%20%281%29%20%284%29.png)  
    Seconde "Signature Request"
 
   
@@ -36,12 +36,12 @@ Le mode d'emploi ci-dessous vous guidera pas à pas dans ce process.
 
 10. Vous recevrez alors un message vous indiquant que votre demande est actuellement soumise via Flashbots, ceci pour protéger vos récompenses des frontrunners. Le process peut prendre jusqu'à 5 minutes.
 
-    ![](../../.gitbook/assets/4%20%281%29%20%281%29.png)  
+    ![](../../.gitbook/assets/4%20%281%29%20%282%29.png)  
   
     Si vous n'avez pas suffisamment d'ETH dans votre wallet pour la transaction, vous recevrez le message suivant.  
     ![](../../.gitbook/assets/edlin%20%281%29.png)  
 
-11. Si votre transaction réussit vous recevrez le message suivant ![](../../.gitbook/assets/6%20%281%29%20%281%29.png)  En raison de la nature des transactions groupées \(bundling transactions\), il est possible que la transaction ne soit pas réussie lors de votre première tentative. Si c'est le cas, veuillez réessayer. Les frais de gas ne seront facturés que si la transaction est réussie. Si la transaction échoue, vous ne serez pas facturé. ![](../../.gitbook/assets/7%20%281%29.png)
+11. Si votre transaction réussit vous recevrez le message suivant ![](../../.gitbook/assets/6%20%281%29%20%281%29%20%281%29.png)  En raison de la nature des transactions groupées \(bundling transactions\), il est possible que la transaction ne soit pas réussie lors de votre première tentative. Si c'est le cas, veuillez réessayer. Les frais de gas ne seront facturés que si la transaction est réussie. Si la transaction échoue, vous ne serez pas facturé. ![](../../.gitbook/assets/7%20%281%29.png)
 
 \*\*\*\*
 
