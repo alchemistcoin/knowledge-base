@@ -13,7 +13,7 @@
 | [alchemist.wtf](http://alchemist.wtf) | GitHub Repository |
 | [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) | Crucible Website |
 | [docs.alchemist.wtf](https://docs.alchemist.wtf) | Documentation |
-| [swap.mist.alchemist.wtf](http://swap.mist.alchemist.wtf/) | MistX |
+| [mistX.io](https://mistx.io/) | mistX Website |
 
 ### 社区
 
