@@ -11,8 +11,7 @@
 | **वेबसाइट्स** | विवरण |
 | :--- | :--- |
 | [alchemist.wtf](http://alchemist.wtf) | गिटहब रिपॉजिटरी |
-| [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) | क्रूसिबल की नवीनतम वेबसाइट |
-| [alchemist.farm](https://alchemist.farm) | क्रूसिबल वेबसाइट |
+| [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) | क्रूसिबल वेबसाइट |
 | [docs.alchemist.wtf](https://docs.alchemist.wtf) | दस्तावेज़ीकरण |
 
 ### कम्युनिटी
