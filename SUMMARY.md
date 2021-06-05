@@ -22,9 +22,9 @@
 * [गाइड्स: alchemist.farm](crucible/guides-alchemist.farm/README.md)
   * [मेने क्रूसिबल मिंट कर लिया है, अब आगे?](crucible/guides-alchemist.farm/i-minted-a-crucible-now-what.md)
   * [अपने रिवार्ड्स को क्लेम एवं अपने एलपी \(लिक्विडिटी पूल\) की ऐलूडेल से ताइची नेटवर्क पर सदस्यता](crucible/guides-alchemist.farm/how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md)
-  * [विजुअल गाइड्स  ��](crucible/guides-alchemist.farm/visual-guides.md)
 * [डिस्कॉर्ड में प्रमाणित अल्केमिस्ट कैसे बनें  💬](crucible/how-to-become-a-certified-alchemist-on-discord.md)
 * [वॉलेट संगतता](crucible/wallet-compatibility.md)
+* [विजुअल गाइड्स  ��](crucible/visual-guides.md)
 * [सामान्य प्रश्न 📖](crucible/faq.md)
 
 ## Join us
