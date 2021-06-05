@@ -30,7 +30,7 @@ We recommend using mistX.io when trading $MIST.  However, if you decide to use U
 2. Connect MetaMask wallet
 3. You should see something like this:
 
-    ![](.gitbook/assets/swap.jpg)
+    ![](.gitbook/assets/swap%20%282%29%20%281%29.jpg)
 
 4.  Enter the amount of ⚗️ you wish to purchase, ensuring you have an equivalent value of ETH remaining to use for the subscribing
 5. Hit "Swap", make necessary approvals via MetaMask, wait for the transaction to complete
