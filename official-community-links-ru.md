@@ -13,10 +13,9 @@
 | Сайт | Описание |
 | :--- | :--- |
 | [alchemist.wtf](http://alchemist.wtf) | Репозиторий GitHub |
-| [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) | новая версия сайта Crucible |
-| [alchemist.farm](https://alchemist.farm) | предыдущая версия сайта Crucible  |
+| [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) | Crucible Веб-сайт |
 | [docs.alchemist.wtf](https://docs.alchemist.wtf) | Документация |
-| [mistX.io](https://mistx.io/) | mistX  |
+| [mistX.io](https://mistx.io/) | mistX Веб-сайт |
 
 ### Сообщество
 
