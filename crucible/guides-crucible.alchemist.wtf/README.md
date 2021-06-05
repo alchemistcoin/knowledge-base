@@ -1,11 +1,5 @@
 # 指南: crucible.alchemist.wtf
 
-{% hint style="info" %}
-**以下是社区网站** [**crucible.alchemist.wtf**](https://crucible.alchemist.wtf/) **的指南。**
-
-如果您使用的是 [alchemist.farm](https://alchemist.farm/) ，请点击[这里]()。
-{% endhint %}
-
 ### 目录
 
 1. [如何铸造 Crucible ?](how-do-i-mint-a-crucible.md)
