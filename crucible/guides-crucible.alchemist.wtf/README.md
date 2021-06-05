@@ -1,10 +1,5 @@
 # Kılavuz: crucible.alchemist.wtf
 
-{% hint style="info" %}
-**Aşağıdaki kılavuzlar topluluk sitesi içindir.** [**crucible.alchemist.wtf**](https://crucible.alchemist.wtf/)  
-****[alchemist.farm](https://alchemist.farm/) kullanıyorsanız lütfen [buraya]() tıklayın
-{% endhint %}
-
 ### İçerikler
 
 1. [Bir Crucible nasıl oluşturabilirim?](how-do-i-mint-a-crucible.md)
