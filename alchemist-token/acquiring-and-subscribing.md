@@ -12,7 +12,7 @@ Wir empfehlen dir mistX.io zu nutzen, um $MIST zu handeln, solltest du dich alle
 2. Verbinde deine MetaMask Wallet
 3. Du solltest nun so etwas sehen: 
 
-    ![](../.gitbook/assets/swap%20%282%29%20%282%29%20%281%29.jpg)
+    ![](../.gitbook/assets/swap%20%282%29%20%282%29%20%282%29%20%281%29.jpg)
 
 4. Gib die Anzahl an ⚗️ ein, die du gerne kaufen möchtest und stelle sicher, dass du genug ETH als Äquivalent übrig hast für die folgende Liquiditätsbereitstellung.
 5. Drücke auf "Swap", bestätige die aufpoppenden MetaMask Meldungen und Unterschriften und warte bis die Transaktion erfolgreich abgeschlossen wurde.
