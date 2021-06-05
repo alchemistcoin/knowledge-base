@@ -11,10 +11,9 @@ Utilisez seulement notre liste de liens officiels lorsque vous interagissez avec
 | Site | Description |
 | :--- | :--- |
 | [alchemist.wtf](http://alchemist.wtf) | GitHub |
-| [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) | Site web Crucible \(le plus récent\) |
-| [alchemist.farm](https://alchemist.farm) | Site web Crucible |
+| [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) | Site web Crucible |
 | [docs.alchemist.wtf](https://docs.alchemist.wtf) | Documentation |
-| [mistX.io](https://mistx.io/) | mistX |
+| [mistX.io](https://mistx.io/) | Site web mistX |
 
 ### Community
 
