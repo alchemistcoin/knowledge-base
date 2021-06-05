@@ -11,9 +11,9 @@ Alchemist'e katılırken lütfen yalnızca listelerde bulunan resmi bağlantıla
 | Site | Açıklama |
 | :--- | :--- |
 | [alchemist.wtf](http://alchemist.wtf) | GitHub Repository |
-| [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) | Güncel Crucible Websitesi |
-| [alchemist.farm](https://alchemist.farm) | Crucible Website |
+| [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) | Crucible Websitesi |
 | [docs.alchemist.wtf](https://docs.alchemist.wtf) | Dokümantasyon |
+| [mistx.io](https://mistx.io/) | mistX Websitesi |
 
 ### Topluluk
 
