@@ -20,9 +20,9 @@
 * [Гайд: alchemist.farm](crucible/guides-alchemist.farm-ru/README.md)
   * [У меня есть Crucible, что дальше?](crucible/guides-alchemist.farm-ru/i-minted-a-crucible-now-what-ru.md)
   * [Как получить вознаграждения и отменить подписку токенов ПЛ из Aludel используя сеть TaiChi](crucible/guides-alchemist.farm-ru/kak-poluchit-voznagrazhdenie-i-otmenit-podpisku-lp-tokenov-iz-aludel-ispolzuya-set-taichi.md)
-  * [Визуальные инструкции](crucible/guides-alchemist.farm-ru/visual-guides-ru.md)
 * [Как получить роль "сертифицированного алхимика" в дискорде 💬](crucible/how-to-become-a-certified-alchemist-on-discord-ru.md)
 * [Совместимости с кошельками](crucible/wallet-compatibility-ru.md)
+* [Визуальные инструкции](crucible/visual-guides-ru.md)
 * [ЧАВО 📖](crucible/aludel-crucible-chavo.md)
 
 ## JOIN US
