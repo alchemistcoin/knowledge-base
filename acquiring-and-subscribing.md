@@ -12,7 +12,7 @@ Recomandam sa folosesti mistX.io cand cumperi $MIST. Daca vrei sa folosesti Unis
 2. Conecteaza walletul MetaMask
 3. Ar trebui sa vezi asa ceva:
 
-    ![](.gitbook/assets/swap%20%282%29%20%281%29.jpg)
+    ![](.gitbook/assets/swap%20%282%29%20%282%29%20%281%29.jpg)
 
     4. Introdu suma de ⚗️MIST pe care vrei sa o cumperi, asigurandu-te ca ai disponibila o suma de ETH echivalenta valorii de $MIST necesara pentru pentru oferta de lichiditate.
 
