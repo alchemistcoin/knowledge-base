@@ -13,10 +13,9 @@ Gebruik alleen de officiële lijst met links, wanneer je werkt met of deelneemt 
 | Website | Beschrijving |
 | :--- | :--- |
 | [alchemist.wtf](http://alchemist.wtf) | GitHub Repository |
-| [mistx.io](http://mistx.io/) | mistX DEX |
-| [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) | Meest Recente Crucible Website |
-| [alchemist.farm](https://alchemist.farm) | Crucible Website |
+| [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) | Crucible Website |
 | [docs.alchemist.wtf](https://docs.alchemist.wtf) | Documentatie |
+| [mistx.io](http://mistx.io/) | mistX DEX |
 
 ### Community
 
