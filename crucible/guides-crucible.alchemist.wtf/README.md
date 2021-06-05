@@ -1,11 +1,5 @@
 # Guías: crucible.alchemist.wtf
 
-{% hint style="info" %}
-**Las siguientes guías son para la página comunitaria**[ **crucible.alchemist.wtf**](https://crucible.alchemist.wtf/)
-
-Por favor, haga [clic aquí](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_VHiL63dIBNcjxTUwi/v/spanish/crucible/guides-alchemist.farm) si está utilizando [alchemist.farm](https://alchemist.farm/)
-{% endhint %}
-
 ### Contents
 
 1. [¿Cómo se crea un Crucible?](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_VHiL63dIBNcjxTUwi/v/spanish/crucible/guides-crucible.alchemist.wtf/how-do-i-mint-a-crucible)
