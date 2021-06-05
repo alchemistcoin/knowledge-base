@@ -3,7 +3,7 @@
 ### **Videos 🎬📺**
 
 {% hint style="info" %}
-Please note some of the videos are out of date in regards to the current appearance of [crucible.alchemist.wtf](guides-crucible.alchemist.wtf/). Also, these videos are community made videos - but they can still be of assistance.
+Please note some of the videos are out of date in regards to the current appearance of [crucible.alchemist.wtf](https://crucible.alchemist.wtf/). Also, these videos are community made videos - but they can still be of assistance.
 {% endhint %}
 
 {% hint style="warning" %}
