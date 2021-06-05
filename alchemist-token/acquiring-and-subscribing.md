@@ -12,7 +12,7 @@ Ti consigliamo di usare mistX.io per comprare o vendere $MIST. Tuttavia, se deci
 2. Connetti MetaMask wallet
 3. Dovresti riuscire a vedere questo:
 
-    ![](../.gitbook/assets/swap%20%282%29%20%282%29%20%281%29.jpg)
+    ![](../.gitbook/assets/swap%20%282%29%20%282%29%20%282%29%20%281%29.jpg)
 
  
 
