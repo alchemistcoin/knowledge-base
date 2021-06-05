@@ -2,11 +2,11 @@
 
 ## Waar kan ik ⚗️ \($ MIST\) verkrijgen? 
 
-De meeste activiteit vindt plaats op [mistX.io](https://mistx.io/), gebruik onze link om direct naar de de swap pagina te gaan:
+We raden het gebruik van misX.io aan, gebruik onze link om direct naar de de swap pagina te gaan:
 
 * [swap.alchemist.wtf](http://swap.alchemist.wtf/)
 
-Overtijd is de kans groot dat $MIST ook op andere tradingsites beschikbaar is. Als dat het geval is dan kan je dat controlerne met [Coingeko](https://www.coingecko.com/en/coins/alchemist) of [CoinMarketCap](https://coinmarketcap.com/currencies/alchemist/).
+Overtijd is de kans groot dat $MIST ook op andere tradingsites beschikbaar is. Als dat het geval is dan kan je dat controleren met [Coingeko](https://www.coingecko.com/en/coins/alchemist) of [CoinMarketCap](https://coinmarketcap.com/currencies/alchemist/).
 
 ## **Wat is het totaal- en circulerende aanbod?**
 
