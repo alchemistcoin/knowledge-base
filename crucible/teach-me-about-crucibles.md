@@ -1,4 +1,4 @@
-# Leer mij over Crucibles
+# Uitleg over Crucibles
 
 ## Wat is een Crucible?
 
@@ -8,20 +8,20 @@ Wanneer een Crucible LP toegekend heeft aan de Aludel ontvangt de houder ⚗️ 
 
 ### Wat is een NFT?
 
-NFT staat voor "Non-Fungible Token". Simpel gezegd: "E
+NFT staat voor "Non-Fungible Token". Simpel gezegd, betekend "Non-Fungible": Niet vervangbaar of uniek.
 
 NFTs zijn een directe vertegenwoordiging van tokens:
 
 * Tokens: 1⚗️ is 1⚗️, ze hebben dezelfde waarde.
 * NFTs: 1 Crucible NFT is niet vergelijkbaar met een andere 1 Crucible NFT, en onwaarschijnlijk dat zij dezelfde waarde hebben.
 
-Dit is belangrijk om te weten, omdat individuen inmiddels [Crucibels beschikbaar hebben gemaakt voor aankoop](https://opensea.io/assets/0x54e0395cfb4f39bef66dbcd5bd93cca4e9273d56/620479970925497750675476517677400441094103376596) op platformen zoals OpenSea.
+Dit is belangrijk om te weten, omdat individuen inmiddels [Crucibles beschikbaar hebben gemaakt voor aankoop](https://opensea.io/assets/0x54e0395cfb4f39bef66dbcd5bd93cca4e9273d56/620479970925497750675476517677400441094103376596) op platformen zoals OpenSea.
 
 Om het nogmaals duidelijk te maken: Wanneer je een Crucible maakt, stake je nogsteeds jouw ⚗️ in de Uniswap-V2 liquidity pool. Effectief maak je gebruik van 3 manieren om van beloningen te vergaren.
 
 ## Hoe munt je een Crucible?
 
-Oorspronkelijk was het alleen mogelijk met de officieële CLI tool. Gelukkig hebben communitymembers inmiddels web-apps gemaakt om het process eenvoudiger te maken. Aanzien de CLI methode extra risico's met zich mee brengt, raden wij aan om hier langer geen gebruik van te maken.
+Oorspronkelijk was het alleen mogelijk met de officieële CLI tool. Gelukkig hebben communitymembers inmiddels web-apps gemaakt om het process eenvoudiger te maken. Aanzien de CLI methode extra risico's met zich mee brengt, raden wij aan om hier niet langer meer gebruik van te maken.
 
 Maak gebruk van de onderstaande guide om een Crucible te munten:
 

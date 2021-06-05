@@ -14,7 +14,7 @@
 ## Crucible
 
 * [Voordat je begint](crucible/getting-started.md)
-* [Leer mij over Crucibles](crucible/teach-me-about-crucibles.md)
+* [Uitleg over Crucibles](crucible/teach-me-about-crucibles.md)
 * [Guides: crucible.alchemist.wtf](crucible/guides-crucible.alchemist.wtf/README.md)
   * [Hoe mint ik een Crucible?](crucible/guides-crucible.alchemist.wtf/how-do-i-mint-a-crucible.md)
   * [Wat kan ik met mijn nieuwe Crucible doen?](crucible/guides-crucible.alchemist.wtf/what-can-i-do-with-my-new-crucible.md)
