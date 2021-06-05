@@ -14,16 +14,16 @@ De onderstaande gids is bedoeld om je door dat proces heen te leiden.
 4. Klik op de "Manage Crucible" knop ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.04.png) 
 5. Je zou nu een complexere lijst met statistieken moeten zien onder het tabblad "Rewards".  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.22.png) 
 6. Klik op "Claim rewards and unsubscribe" onderaan de pagina. ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.05.52.png) 
-7. Vul in de promt in hoeveel LP je wilt afmelden en klik op "Claim rewards and unsubscribe LP". ![](../../.gitbook/assets/promt.png) 
+7. Vul in de promt in hoeveel LP je wilt afmelden en klik op "Claim rewards and unsubscribe LP". ![](../../.gitbook/assets/1.png) 
 8. Je krijgt nu twee pup-ups van MetaMask die je om een "Sginature Request" vragen. Klik allebei de keren op "sign".   
 
-   ![](../../.gitbook/assets/1st-sginature.png)   
+   ![](../../.gitbook/assets/2%20%282%29.png)   
 
    Eerste "Signature Request"
 
 
 
-   ![](../../.gitbook/assets/2st-sig.png)
+   ![](../../.gitbook/assets/3%20%281%29.png)
 
    Tweede "Signature Request"
 
@@ -31,7 +31,7 @@ De onderstaande gids is bedoeld om je door dat proces heen te leiden.
 
 10. Je krijgt nu een melding dat je claim is ingediend via "Flashbots". Dit is om je beloningen te beschermen tegen "Frontrunners". Dit proces kan tot 5 minuten duren.
 
-    ![](../../.gitbook/assets/f.png) 
+    ![](../../.gitbook/assets/4.png) 
 
 
 
@@ -41,13 +41,13 @@ De onderstaande gids is bedoeld om je door dat proces heen te leiden.
 
 11. Als je transactie succesvol is krijg je deze melding:
 
-    ![](../../.gitbook/assets/succes.png) 
+    ![](../../.gitbook/assets/6.png) 
 
 
 
     Vanwege de aard van het bundelen van transacties, is het mogelijk dat je transactie op de eerste poging niet lukt. Als dit gebeurd, probeer het dan opnieuw. The "gas" kosten worden alleen betaald als de transactie succesvol is. Als de transactie faalt betaal je niks.
 
-    ![](../../.gitbook/assets/7%20%281%29.png) 
+    ![](../../.gitbook/assets/7%20%281%29%20%281%29.png) 
 
 
 

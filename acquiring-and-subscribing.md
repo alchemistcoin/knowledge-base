@@ -2,7 +2,7 @@
 
 ### 1. $MIST verkrijgen ⚗️
 
-Heb je al eerder op mistX.io gekocht? Dan weet je precies hoe je dit moet doen.
+Heb je al eerder iets op mistX.io gekocht? Dan weet je precies hoe je dit moet doen.
 
 {% hint style="warning" %}
 We raden aan om mistX.io te gebruiken bij het kopen en verkrijgen van $MIST. Als je echter besluit om Uniswap te gebruiken, houd er dan rekening mee dat vanwege de lage liquiditeit op **Uniswap V3**, extra slippage kan betekenen dat je niet de beste prijs voor uw aankoop krijgt. Gebruik daarom deze [**Uniswap V2**](https://app.uniswap.org/#/swap?outputCurrency=0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab&use=V2) link, om de aankoop te doen.
@@ -12,14 +12,14 @@ We raden aan om mistX.io te gebruiken bij het kopen en verkrijgen van $MIST. Als
 2. Verbind je MetaMask wallet/portemonnee
 3. Vervolgens zie je iets zoals hieronder
 
-    ![](.gitbook/assets/swap%20%282%29.jpg)
+    ![](.gitbook/assets/swap%20%282%29%20%282%29.jpg)
 
 4. Voer het aantal ⚗️ in dat je wilt kopen en zorg dat je daarvoor volgende ETH beschikbaar hebt, ook voor het abonneren.
 5. Druk op "Swap" en keur de nodige aanvragen goed via MetaMask en wacht vervolgens tot je transactie is geslaagd.
 
    * MetaMask heeft de mogelijkheid je transactie te versnellen \(speed up\) door de transactie te selecteren onder het tabje "Activity" en meer gas beschikbaar te stellen voor de transctie.
 
-6. Ga naar [https://etherscan.io/address/](https://etherscan.io/address/) on je huidige nog te verwerken transacties en al jouw tokens te bekijken, die bij jouw account horen.  
+6. Ga naar [https://etherscan.io/address/](https://etherscan.io/address/) on je huidige nog te verwerken transacties en al de tokens die bij jouw account horen te bekijken.  
 
 
    Als je MetaMask gebruikt, klik dan op de drie circels om een menu te openen, klik vervolgens op "View on Etherscan" om naar jouw Etherscan pagina te gaan.
@@ -29,28 +29,6 @@ We raden aan om mistX.io te gebruiken bij het kopen en verkrijgen van $MIST. Als
 7. Jouw ⚗️ kan je vervolgens op de volgende manier zien:
 
     ![](https://i.imgur.com/bF9wsrg.png)
-
-8. Ga naar [Swap $MIST op mistX.io](http://swap.alchemist.wtf/)
-9. Verbind je MetaMask wallet/portemonnee
-10. Vervolgens zie je iets zoals hieronder
-
-     ![](.gitbook/assets/swap%20%282%29.jpg)
-
-11. Voer het aantal ⚗️ in dat je wilt kopen en zorg dat je daarvoor volgende ETH beschikbaar hebt, ook voor het abonneren.
-12. Druk op "Swap" en keur de nodige aanvragen goed via MetaMask en wacht vervolgens tot je transactie is geslaagd.
-
-    * MetaMask heeft de mogelijkheid je transactie te versnellen \(speed up\) door de transactie te selecteren onder het tabje "Activity" en meer gas beschikbaar te stellen voor de transctie.
-
-13. Ga naar [https://etherscan.io/address/](https://etherscan.io/address/) on je huidige nog te verwerken transacties en al jouw tokens te bekijken, die bij jouw account horen.  
-
-
-    Als je MetaMask gebruikt, klik dan op de drie circels om een menu te openen, klik vervolgens op "View on Etherscan" om naar jouw Etherscan pagina te gaan.
-
-    ![](https://i.imgur.com/jdzodQP.png)
-
-14. Jouw ⚗️ kan je vervolgens op de volgende manier zien:
-
-     ![](https://i.imgur.com/bF9wsrg.png)
 
 ### 2. $MIST ⚗️ abboneren om LP tokens te ontvangen
 
