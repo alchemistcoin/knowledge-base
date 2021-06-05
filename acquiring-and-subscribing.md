@@ -12,7 +12,7 @@ Zalecamy korzystanie z mistX.io podczas handlowania $MIST. Jeżeli jednak zdecyd
 2. Podłącz portfel MetaMask
 3. Powinieneś zobaczyć coś takiego:
 
-    ![](.gitbook/assets/image%20%2825%29%20%285%29%20%281%29.png)
+    ![](.gitbook/assets/image%20%2825%29%20%285%29%20%285%29%20%281%29.png)
 
 4. Wpisz ilość ⚗️ jaką chcesz kupić, upewniając się, że masz pozostawioną równowartościową ilość ETH do użycia w subskrypcji.
 5. Naciśnij "Swap", zatwierdź niezbędne zgodny za pomocą MetaMask i poczekaj na zakończenie transakcji
