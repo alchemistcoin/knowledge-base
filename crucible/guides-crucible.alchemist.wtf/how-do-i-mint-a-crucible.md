@@ -4,7 +4,7 @@
 
 Pre svega, potrebno je da poseduješ određenu količinu $MIST-a i izvršiš pretplatu na Uniswap-V2 Liquidity pool.
 
-Ako to nisi uradio već do sada, pogledaj drugi deo našeg vodiča na [Acquiring & Subscribing](../../acquiring-and-subscribing.md).
+Ako to nisi uradio već do sada, pogledaj drugi deo našeg vodiča na [Acquiring & Subscribing](../../alchemist-token/acquiring-and-subscribing.md).
 
 ## Mintovanje Crucible-a koristeći LP tokene
 

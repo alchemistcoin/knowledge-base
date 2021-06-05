@@ -5,11 +5,9 @@
 
 ## Alchemist Token ⚗️ $MIST <a id="alchemist-token"></a>
 
----
-
-* [Osnovni koncepti](the-basic-outline.md)
-* [Sticanje & pretplata](acquiring-and-subscribing.md)
-* [FAQ](faq.md)
+* [Osnovni koncepti](alchemist-token/the-basic-outline.md)
+* [Sticanje & pretplata](alchemist-token/acquiring-and-subscribing.md)
+* [FAQ](alchemist-token/faq.md)
 
 ## Crucible
 

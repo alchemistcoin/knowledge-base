@@ -4,7 +4,7 @@ Ovde se radi o tokenu koji se zove Alchemist. Njegov ticker simbol je "⚗️". 
 
 Za šta je ⚗️ dobar? Ja nisam ovde da vam na to odgovorim. Molim vas da za to pogledate poglavlje [official FAQ](faq.md)
 
-Ako želite možete da stekujete ⚗️ kao i neke druge koine, i tako učestvujete u [mint Crucible NFTs](crucible/teach-me-about-crucibles.md), u okviru [Aludel](the-basic-outline.md#3-aludel) programa.
+Ako želite možete da stekujete ⚗️ kao i neke druge koine, i tako učestvujete u [mint Crucible NFTs](../crucible/teach-me-about-crucibles.md), u okviru [Aludel](the-basic-outline.md#3-aludel) programa.
 
 ## Kako da povećam svoje blagostanje koristeći ⚗️?
 
