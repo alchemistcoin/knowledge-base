@@ -11,10 +11,9 @@ Prosimy o korzystanie wyłącznie z naszej oficjalnej listy linków podczas udzi
 | Strona internetowa | Opis |
 | :--- | :--- |
 | [alchemist.wtf](http://alchemist.wtf) | Repozytorium GitHub |
-| [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) | Najnowsza strona internetowa Crucible |
-| [alchemist.farm](https://alchemist.farm) | Strona internetowa Crucible |
+| [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) | Strona internetowa Crucible |
 | [docs.alchemist.wtf](https://docs.alchemist.wtf) | Dokumentacja |
-| [mistX.io](https://mistx.io/) | mistX |
+| [mistX.io](https://mistx.io/) | Strona internetowa mistX |
 
 ### Społeczność
 
