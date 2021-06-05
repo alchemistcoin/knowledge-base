@@ -25,6 +25,10 @@
 * [Совместимости с кошельками](crucible/wallet-compatibility-ru.md)
 * [ЧАВО 📖](crucible/aludel-crucible-chavo.md)
 
+## JOIN US
+
+* [Руководство по зачислению в ряды создателей Алхимиков](join-us/rukovodstvo-po-zachisleniyu-v-ryady-sozdatelei-alkhimikov.md)
+
 ## TOOLS
 
 * [Crucible](https://crucible.alchemist.wtf/)
