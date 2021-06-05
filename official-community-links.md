@@ -15,7 +15,7 @@
 | [alchemist.wtf](http://alchemist.wtf) | GitHub Repository |
 | [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) | Crucible Website |
 | [docs.alchemist.wtf](https://docs.alchemist.wtf) | Documentation |
-| [mistX.io](https://mistx.io/) | mistX |
+| [mistX.io](https://mistx.io/) | mistX Website |
 
 ### 社群
 
