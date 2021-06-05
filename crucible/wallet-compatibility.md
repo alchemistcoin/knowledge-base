@@ -10,8 +10,6 @@ Dokładność tych informacji może się zmieniać w czasie i należy traktować
   <thead>
     <tr>
       <th style="text-align:left">Portfel</th>
-      <th style="text-align:center">Pod&#x142;&#x105;czenie portfela do <em>alchemist.farm</em>
-      </th>
       <th style="text-align:center">
         <p>Pod&#x142;&#x105;czenie portfela do</p>
         <p><em>crucible.alchemist.wtf</em>
@@ -20,14 +18,11 @@ Dokładność tych informacji może się zmieniać w czasie i należy traktować
       <th style="text-align:center">Wybijanie (Minting)</th>
       <th style="text-align:center">Anulowanie subskrypcji i przegl&#x105;danie Crucible (Unsubscribing &amp;
         Viewing Crucibles)</th>
-      <th style="text-align:center">Sie&#x107; TaiChi</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left">MetaMask *zalecany</td>
-      <td style="text-align:center">&#x2714;&#xFE0F;</td>
-      <td style="text-align:center">&#x2714;&#xFE0F;</td>
       <td style="text-align:center">&#x2714;&#xFE0F;</td>
       <td style="text-align:center">&#x2714;&#xFE0F;</td>
       <td style="text-align:center">&#x2714;&#xFE0F;</td>
@@ -37,37 +32,27 @@ Dokładność tych informacji może się zmieniać w czasie i należy traktować
       <td style="text-align:center">&#x2714;&#xFE0F;</td>
       <td style="text-align:center">&#x2714;&#xFE0F;</td>
       <td style="text-align:center">&#x2714;&#xFE0F;</td>
-      <td style="text-align:center">&#x2714;&#xFE0F;</td>
-      <td style="text-align:center">-</td>
     </tr>
     <tr>
       <td style="text-align:left">Coinbase</td>
       <td style="text-align:center">&#x2714;&#xFE0F;</td>
-      <td style="text-align:center">-</td>
       <td style="text-align:center">&#x2714;&#xFE0F;</td>
-      <td style="text-align:center">-</td>
-      <td style="text-align:center">-</td>
+      <td style="text-align:center">&#x2714;&#xFE0F;</td>
     </tr>
     <tr>
       <td style="text-align:left">Crypto.com Defi Wallet</td>
       <td style="text-align:center">&#x2714;&#xFE0F;</td>
       <td style="text-align:center">&#x2714;&#xFE0F;</td>
-      <td style="text-align:center">&#x2714;&#xFE0F;</td>
-      <td style="text-align:center">-</td>
       <td style="text-align:center">-</td>
     </tr>
     <tr>
       <td style="text-align:left">Coinomi</td>
       <td style="text-align:center">&#x2714;&#xFE0F;</td>
       <td style="text-align:center">&#x2714;&#xFE0F;</td>
-      <td style="text-align:center">&#x2714;&#xFE0F;</td>
-      <td style="text-align:center">-</td>
       <td style="text-align:center">-</td>
     </tr>
     <tr>
       <td style="text-align:left">Portfele sprz&#x119;towe (Hardware Wallets)</td>
-      <td style="text-align:center">-</td>
-      <td style="text-align:center">-</td>
       <td style="text-align:center">-</td>
       <td style="text-align:center">-</td>
       <td style="text-align:center">-</td>
