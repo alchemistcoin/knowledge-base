@@ -1,10 +1,5 @@
 # गाइड्स: crucible.alchemist.wtf
 
-{% hint style="info" %}
-**नीचे दिए गए गाइड्स कम्युनिटी साइट के लिए हैं**  [**crucible.alchemist.wtf**](https://crucible.alchemist.wtf/)  
-**अगर आप** [alchemist.farm](https://alchemist.farm/) **का उपयोग कर रहे हैं , तो** [click here](../guides-alchemist.farm/)\([**यहाँ क्लिक**](https://crucible.alchemist.wtf/)\) **कीजिये**
-{% endhint %}
-
 ### **लेख-सूची**
 
 1. [मैं एक क्रूसिबल को मिंट कैसे कर सकता हूँ?](how-do-i-mint-a-crucible.md)
