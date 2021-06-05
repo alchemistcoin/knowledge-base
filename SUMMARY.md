@@ -22,9 +22,9 @@
 * [Mode d'emploi : alchemist.farm](crucible/guides-alchemist.farm/README.md)
   * [J'ai minté un Crucible, et maintenant ?](crucible/guides-alchemist.farm/i-minted-a-crucible-now-what.md)
   * [Comment récupérer les récompenses et désengager votre LP de l'Aludel en utilisant le réseau TaiChi](crucible/guides-alchemist.farm/how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md)
-  * [Modes d'emploi visuels 🎞](crucible/guides-alchemist.farm/visual-guides.md)
 * [Comment devenir "Certified Alchemist" sur Discord 💬](crucible/how-to-become-a-certified-alchemist-on-discord.md)
 * [Compatibilité des Wallets](crucible/wallet-compatibility.md)
+* [Modes d'emploi visuels 🎞](crucible/visual-guides.md)
 * [FAQ 📖](crucible/faq.md)
 
 ## Nous rejoindre <a id="join-us"></a>

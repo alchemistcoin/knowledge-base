@@ -9,7 +9,7 @@ Veuillez noter que certaines des vidéos sont obsolètes par rapport à l'appare
 {% hint style="warning" %}
 Les références à Uniswap dans ces vidéos peuvent être obsolètes. Assurez vous d'utiliser **Uniswap V2** pour fournir de la liquidité étant donné que le V3 n'est pas supportée.
 
-Si vous n'êtes pas certains de savoir comment passer de la V3 à la V2, utilisez nos liens dans le [mode d'emploi](../../acquiring-and-subscribing.md).
+Si vous n'êtes pas certains de savoir comment passer de la V3 à la V2, utilisez nos liens dans le [mode d'emploi](../acquiring-and-subscribing.md).
 {% endhint %}
 
 * [Alchemist YouTube Channel](https://www.youtube.com/channel/UCIs4LugynLei2TN__lJh-6Q)

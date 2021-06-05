@@ -8,5 +8,5 @@
 
 1. [J'ai minté un Crucible, et maintenant ?](i-minted-a-crucible-now-what.md)
 2. [Comment récupérer les récompenses et désengager votre LP de l'Aludel en utilisant le réseau TaiChi](how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md)
-3. [Modes d'emploi visuels 🎞](visual-guides.md)
+3. [Modes d'emploi visuels 🎞](../visual-guides.md)
 
