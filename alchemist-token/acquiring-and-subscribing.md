@@ -12,7 +12,7 @@ Recomendamos el uso de mistX.io para comprar or vender $MIST. Sin embargo, si de
 2. Conecta tu MetaMask wallet
 3. Deberías ver algo así: 
 
-    ![](.gitbook/assets/swap.jpg)
+    ![](../.gitbook/assets/swap%20%282%29%20%281%29.jpg)
 
 4. Introduce la cantidad de ⚗️ que deseas comprar, asegurándote de que te queda un valor equivalente de ETH para usar en el programa Aludel.
 5. Click "Swap" y realiza las aprobaciones necesarias a través de MetaMask, espera a que se  te complete la transacción
