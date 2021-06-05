@@ -25,7 +25,7 @@ Oorspronkelijk was het alleen mogelijk met de officieële CLI tool. Gelukkig heb
 
 Maak gebruk van de onderstaande guide om een Crucible te munten:
 
-* [Een Crucible munten op crucible.alchemist.wtf](guides-crucible.alchemist.wtf/)
+* [Een Crucible minten op crucible.alchemist.wtf](guides-crucible.alchemist.wtf/)
 
 ## Wat is een Crucible waard?
 
@@ -37,7 +37,7 @@ Op z'n minst staat de waarde gelijk aan de hoeveelheid dat je ontvangt, nadat je
 
 In dit stuk hieronder \(link to check value\) geven wij enkele methoden om de inhoud van een Crucible to controleren.
 
-## Moet je een Crucible munten?
+## Moet je een Crucible minten?
 
 Dat is aan jou om te beslissen. Zorg ervoor dat je begrijpt wat je kan winnen en wat je kan verliezen, en weeg vervolgens af of je denkt dat dit een goede keuze is.
 
