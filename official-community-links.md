@@ -13,10 +13,9 @@ Pentru a participa in Alchemist recomandam sa folositi doar link-urile oficiale.
 | Site | Description |
 | :--- | :--- |
 | [alchemist.wtf](http://alchemist.wtf) | Registrul de Date GitHub |
-| [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) | Site-ul Crucible Nou |
-| [alchemist.farm](https://alchemist.farm) | Site-ul Crucible  |
+| [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) | Site-ul Crucible  |
 | [docs.alchemist.wtf](https://docs.alchemist.wtf) | Documentatia Alchemist |
-| [mistX.io](https://mistx.io/) | mistX  |
+| [mistX.io](https://mistx.io/) | Site-ul mistX  |
 
 ### Comunitatea Alchemist
 
