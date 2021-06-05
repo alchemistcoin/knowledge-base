@@ -17,7 +17,7 @@ De nauwkeurigheid van deze informatie kan in de loop van de tijd veranderen en m
         <p><em>crucible.alchemist.wtf</em>
         </p>
       </th>
-      <th style="text-align:center">Munten</th>
+      <th style="text-align:center">Minten</th>
       <th style="text-align:center">Afmelden &amp; Crucibles Bekijken</th>
       <th style="text-align:center">TaiChi Network</th>
     </tr>

@@ -1,4 +1,4 @@
-# Ik heb een Crucible gemunt, wat nu?
+# Ik heb een Crucible gemint, wat nu?
 
 ## Je kan controleren hoeveel LP-tokens er in je Crucible zitten
 
@@ -19,7 +19,7 @@ Het zou automatisch moeten gebeuren. Je kan ook [alchemist.farm](https://alchemi
 
 Je kan [alchemist.farm](https://alchemist.farm/) gebruiken om je Crucibles weer te geven, waar je huidige ⚗️- en ETH-beloningen worden weergegeven.
 
-## Als ik mijn Crucible heb geslagen en mijn LP heb geabonneerd... is dat het dan?
+## Als ik mijn Crucible heb gemint en mijn LP heb geabonneerd... is dat het dan?
 
 Ja. Nu leun je achterover en aanschouw je wat er gebeurt.
 
