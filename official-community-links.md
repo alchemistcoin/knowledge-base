@@ -13,7 +13,7 @@ Please only use our list of official links when taking part in the Alchemist.
 | [alchemist.wtf](http://alchemist.wtf) | GitHub Repository |
 | [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) | Crucible Website |
 | [docs.alchemist.wtf](https://docs.alchemist.wtf) | Documentation |
-| [mistX.io](https://mistx.io/) | mistX  |
+| [mistX.io](https://mistx.io/) | mistX Website |
 
 ### Community
 
