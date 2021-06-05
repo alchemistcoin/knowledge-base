@@ -2,7 +2,7 @@
 
 {% hint style="info" %}
 **Aşağıdaki kılavuzlar topluluk sitesi içindir.** [**crucible.alchemist.wtf**](https://crucible.alchemist.wtf/)  
-****[alchemist.farm](https://alchemist.farm/) kullanıyorsanız lütfen [buraya](../guides-alchemist.farm/) tıklayın
+****[alchemist.farm](https://alchemist.farm/) kullanıyorsanız lütfen [buraya]() tıklayın
 {% endhint %}
 
 ### İçerikler
