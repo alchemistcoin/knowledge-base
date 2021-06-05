@@ -10,8 +10,6 @@ The accuracy of this information may change over time and is only to be used as 
   <thead>
     <tr>
       <th style="text-align:left">Wallet</th>
-      <th style="text-align:center">Connect wallet <em>alchemist.farm</em>
-      </th>
       <th style="text-align:center">
         <p>Connect Wallet</p>
         <p><em>crucible.alchemist.wtf</em>
@@ -19,14 +17,11 @@ The accuracy of this information may change over time and is only to be used as 
       </th>
       <th style="text-align:center">Minting</th>
       <th style="text-align:center">Unsubscribing &amp; Viewing Crucibles</th>
-      <th style="text-align:center">TaiChi Network</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left">MetaMask *recommended</td>
-      <td style="text-align:center">&#x2714;&#xFE0F;</td>
-      <td style="text-align:center">&#x2714;&#xFE0F;</td>
       <td style="text-align:center">&#x2714;&#xFE0F;</td>
       <td style="text-align:center">&#x2714;&#xFE0F;</td>
       <td style="text-align:center">&#x2714;&#xFE0F;</td>
@@ -36,37 +31,27 @@ The accuracy of this information may change over time and is only to be used as 
       <td style="text-align:center">&#x2714;&#xFE0F;</td>
       <td style="text-align:center">&#x2714;&#xFE0F;</td>
       <td style="text-align:center">&#x2714;&#xFE0F;</td>
-      <td style="text-align:center">&#x2714;&#xFE0F;</td>
-      <td style="text-align:center">-</td>
     </tr>
     <tr>
       <td style="text-align:left">Coinbase</td>
       <td style="text-align:center">&#x2714;&#xFE0F;</td>
-      <td style="text-align:center">-</td>
       <td style="text-align:center">&#x2714;&#xFE0F;</td>
-      <td style="text-align:center">-</td>
-      <td style="text-align:center">-</td>
+      <td style="text-align:center">&#x2714;&#xFE0F;</td>
     </tr>
     <tr>
       <td style="text-align:left">Crypto.com Defi Wallet</td>
       <td style="text-align:center">&#x2714;&#xFE0F;</td>
       <td style="text-align:center">&#x2714;&#xFE0F;</td>
-      <td style="text-align:center">&#x2714;&#xFE0F;</td>
-      <td style="text-align:center">-</td>
       <td style="text-align:center">-</td>
     </tr>
     <tr>
       <td style="text-align:left">Coinomi</td>
       <td style="text-align:center">&#x2714;&#xFE0F;</td>
       <td style="text-align:center">&#x2714;&#xFE0F;</td>
-      <td style="text-align:center">&#x2714;&#xFE0F;</td>
-      <td style="text-align:center">-</td>
       <td style="text-align:center">-</td>
     </tr>
     <tr>
       <td style="text-align:left">Hardware Wallets</td>
-      <td style="text-align:center">-</td>
-      <td style="text-align:center">-</td>
       <td style="text-align:center">-</td>
       <td style="text-align:center">-</td>
       <td style="text-align:center">-</td>
