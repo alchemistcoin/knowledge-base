@@ -4,7 +4,7 @@ C'è un token chiamato Alchemist. É rappresentato dal simbolo "⚗️". Viene a
 
 Cosa puoi fare con ⚗️? Non te lo diremo qui. Ci pensano le [ FAQ](faq.md) officiali. 
 
-Puoi bloccare ⚗️ inseime ad  altre monete \(staking\) e lo puoi usare anche per [coniare Crucible NFTs](crucible/teach-me-about-crucibles.md) nel programma [Aludel](the-basic-outline.md#3-aludel). 
+Puoi bloccare ⚗️ inseime ad  altre monete \(staking\) e lo puoi usare anche per [coniare Crucible NFTs](../crucible/teach-me-about-crucibles.md) nel programma [Aludel](the-basic-outline.md#3-aludel). 
 
 
 
