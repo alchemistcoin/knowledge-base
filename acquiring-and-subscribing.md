@@ -12,7 +12,7 @@ Nous recommandons l'utilisation de [mistX.io](https://app.mistx.io/#/exchange) p
 2. Connectez votre wallet MetaMask
 3. Vous devriez voir ce type d'interface :
 
-    ![](.gitbook/assets/swap%20%282%29%20%281%29.jpg)
+    ![](.gitbook/assets/swap%20%282%29%20%282%29%20%281%29.jpg)
 
 4. Renseignez le montant de ⚗️ que vous souhaitez acheter, en vous assurant de conserver la valeur équivalente en ETH pour la souscription.
 5. Appuyez sur "Swap", faites les confirmations nécessaires via MetaMask, attendez que la transaction se termine.
