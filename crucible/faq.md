@@ -18,9 +18,9 @@ Als ze dit oplossen, kunnen we het implementeren. Sommige gebruikers hebben prob
 We raden je aan dit niet op een mobiel te doen.
 {% endhint %}
 
-Gebruik een van de onderstaande guides om een Crucible te munten
+Gebruik een van de onderstaande guides om een Crucible te minten
 
-* [Een Crucible munten op crucible.alchemist.wtf](guides-crucible.alchemist.wtf/)
+* [Een Crucible minten op crucible.alchemist.wtf](guides-crucible.alchemist.wtf/)
 
 ## Waarom kan ik mijn ⚗️Mist niet in mijn wallet zien?
 
