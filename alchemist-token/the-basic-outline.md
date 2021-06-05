@@ -4,7 +4,7 @@ Exista un token numit Alchemist, care are simbolul „⚗️”. Acest token se 
 
 Pentru ce este bun ⚗️MIST? Acest articol nu isi propune sa raspunda la intrebarea asta. Va rugam sa consultati [Intrebari Frecvente](faq.md).
 
-Puteti sa puneti in stake ⚗️MIST ca și în cazul altor monede dar o puteti folosi mai ales pentru a [crea NFT-uri Crucible ](crucible/teach-me-about-crucibles.md)pentru programul de recompensa  [Aludel](the-basic-outline.md#3-aludel) .
+Puteti sa puneti in stake ⚗️MIST ca și în cazul altor monede dar o puteti folosi mai ales pentru a [crea NFT-uri Crucible ](../crucible/teach-me-about-crucibles.md)pentru programul de recompensa  [Aludel](the-basic-outline.md#3-aludel) .
 
 ## Cum as putea creste capitalul folosind ⚗️MIST?
 
@@ -32,5 +32,5 @@ Modalitatea de a profita de comisioane ale fondului de lichiditati este aceasi c
 
 In Aludel se produce alchimia. “Aludel” este numele programului de recompensa unde tu poti castiga ⚗️MIST si ETH atunci cand aplici pentru acest program folosind tokenul LP detinut in Crucible NFT.
 
-Poti invata mai multe despre Crucible in pagina "[Invata-ma despre Crucible NFT](crucible/teach-me-about-crucibles.md)"
+Poti invata mai multe despre Crucible in pagina "[Invata-ma despre Crucible NFT](../crucible/teach-me-about-crucibles.md)"
 

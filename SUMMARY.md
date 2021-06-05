@@ -5,11 +5,9 @@
 
 ## Alchemist Token ⚗️ $MIST <a id="alchemist-token"></a>
 
----
-
-* [Cadrul General de Baza](the-basic-outline.md)
-* [Obtine ⚗️ & Ofera Lichiditate](acquiring-and-subscribing.md)
-* [Intrebari Frecvente](faq.md)
+* [Cadrul General de Baza](alchemist-token/the-basic-outline.md)
+* [Obtine ⚗️ & Ofera Lichiditate](alchemist-token/acquiring-and-subscribing.md)
+* [Intrebari Frecvente](alchemist-token/faq.md)
 
 ## Crucible
 

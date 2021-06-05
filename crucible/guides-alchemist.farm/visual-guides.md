@@ -9,7 +9,7 @@ Luati in considerare ca unele videoclipuri nu sunt actualizate în ceea ce prive
 {% hint style="warning" %}
 Referințele la Uniswap din videoclipuri pot fi neactualizate. Vă rugăm să vă asigurați că utilizați Uniswap V2 pentru a furniza lichiditate, deoarece V3 nu este acceptat.
 
-Daca nu esti sigur cum aa schimbi intre UniSwap V3 si V2 foloseste link-urile din acest [ghid](../../acquiring-and-subscribing.md).
+Daca nu esti sigur cum aa schimbi intre UniSwap V3 si V2 foloseste link-urile din acest [ghid]().
 {% endhint %}
 
 * [Creeaza un NFT Crucible](https://www.youtube.com/watch?v=Rl9Rf-3Sp-8)
