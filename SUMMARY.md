@@ -18,7 +18,7 @@
 * [Guides: crucible.alchemist.wtf](crucible/guides-crucible.alchemist.wtf/README.md)
   * [Hoe mint ik een Crucible?](crucible/guides-crucible.alchemist.wtf/how-do-i-mint-a-crucible.md)
   * [Wat kan ik met mijn nieuwe Crucible doen?](crucible/guides-crucible.alchemist.wtf/what-can-i-do-with-my-new-crucible.md)
-  * [Beloning claimen & LP afmelden](crucible/guides-crucible.alchemist.wtf/claiming-rewards-and-unsubscribing-your-lp.md)
+  * [Beloningen claimen & LP afmelden](crucible/guides-crucible.alchemist.wtf/claiming-rewards-and-unsubscribing-your-lp.md)
 * [Guides: alchemist.farm](crucible/guides-alchemist.farm/README.md)
   * [Ik heb een Crucible gemunt, wat nu?](crucible/guides-alchemist.farm/i-minted-a-crucible-now-what.md)
   * [Hoe claim je beloningen en hoe onttrek je LP uit de Aludel via het TaiChi network](crucible/guides-alchemist.farm/how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md)
