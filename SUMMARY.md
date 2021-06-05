@@ -17,13 +17,9 @@
   * [¿Cómo se crea un Crucible?](crucible/guides-crucible.alchemist.wtf/how-do-i-mint-a-crucible.md)
   * [¿Qué puedo hacer con mi nuevo Crucible?](crucible/guides-crucible.alchemist.wtf/what-can-i-do-with-my-new-crucible.md)
   * [¿Cómo reclamo las recompensas y cancelo la suscripción del LP?](crucible/guides-crucible.alchemist.wtf/claiming-rewards-and-unsubscribing-your-lp.md)
-* [Guías: alchemist.farm](crucible/guides-alchemist.farm/README.md)
-  * [¿Cómo se crea un Crucible?](crucible/guides-alchemist.farm/how-to-i-mint-a-crucible.md)
-  * [¿Qué puedo hacer con mi nuevo Crucible?](crucible/guides-alchemist.farm/i-minted-a-crucible-now-what.md)
-  * [Cómo reclamar las recompensas y desabonar tus token LP del programa Aludel utilizando la red Taichi](crucible/guides-alchemist.farm/how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md)
-  * [Guías visuales 🎞](crucible/guides-alchemist.farm/visual-guides.md)
 * [Cómo convertirse en un "Alquimista Certificado" en Discord 💬](crucible/how-to-become-a-certified-alchemist-on-discord.md)
 * [Compatibilidad de los Wallets](crucible/wallet-compatibility.md)
+* [Guías visuales 🎞](crucible/visual-guides.md)
 * [FAQ 📖](crucible/faq-new.md)
 
 ## Join us
