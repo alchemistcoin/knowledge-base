@@ -9,7 +9,7 @@
 {% hint style="warning" %}
 视频中提到的 Uniswap 可能也已过时。请确保你使用的是 **Uniswap V2** 来提供流动性，因为 V3 不支持参予奖励计划。
 
-如果您不知道如何在 V3 和 V2 之间切换，请直接使用我们[指南](../../acquiring-and-subscribing.md)中的链接。
+如果您不知道如何在 V3 和 V2 之间切换，请直接使用我们[指南](../acquiring-and-subscribing.md)中的链接。
 {% endhint %}
 
 * [制作一个 Crucible](https://www.youtube.com/watch?v=Rl9Rf-3Sp-8)
