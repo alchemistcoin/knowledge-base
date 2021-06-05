@@ -4,7 +4,7 @@
 
 Zunächst benötigst du $MIST und stellst Liquidität zum Uniswap-V2 LP bereit.
 
-Wenn du dies noch nicht getan hast, siehe unsere zweiteilige Anleitung zum Thema [Beschaffung und Teilnahme](../../acquiring-and-subscribing.md).
+Wenn du dies noch nicht getan hast, siehe unsere zweiteilige Anleitung zum Thema [Beschaffung und Teilnahme](../../alchemist-token/acquiring-and-subscribing.md).
 
 ## Minten eines Crucibles mit Hilfe von LP Token
 

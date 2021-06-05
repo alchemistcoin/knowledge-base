@@ -30,5 +30,5 @@ Der Mechanismus dahinter ist der Selbige wie mit jedem anderen Coin in einem bel
 
 Hier kommt Alchemie ins Spiel. "Aludel" ist der Name des Belohnungsprogramms, in dem du sowohl ⚗️ als auch ETH für deine Teilnahme mit deinen LP Token im Crucible verdienst.
 
-Du kannst mehr über das Crucible in folgendem Artikel lernen: "[Erkläre mir das Crucible](crucible/teach-me-about-crucibles.md)".
+Du kannst mehr über das Crucible in folgendem Artikel lernen: "[Erkläre mir das Crucible](../crucible/teach-me-about-crucibles.md)".
 

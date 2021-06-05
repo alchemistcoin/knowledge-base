@@ -8,24 +8,24 @@ Wenn du dich irgendwann dazu entscheiden solltest, dass du du deine Belohnungen 
 4. Wenn du noch mehr Details sehen möchtest, drücke bitte auf den "Manage Crucible" Button. ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.04.png)  
 5. Nun wird dir eine komplexere Liste mit Statistiken unter dem Reiter "Rewards" angezeigt.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.22.png)  
 6. Klicke auf "Claim rewards and unsubscribe" am unteren Ende des Fensters. ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.05.52.png)  
-7. Gebe ein wie viele LP Token du nicht mehr teilnehmen lassen möchtest und klicke anschließend auf "Claim rewards and unsubscribe LP". ![](../../.gitbook/assets/1.png)  
+7. Gebe ein wie viele LP Token du nicht mehr teilnehmen lassen möchtest und klicke anschließend auf "Claim rewards and unsubscribe LP". ![](../../.gitbook/assets/1%20%282%29.png)  
 8. Du wirst daraufhin nun 2 aufpoppende Metamask Unterschriftsanfragen erhalten, die du beide bitte mit jeweils einem Klick auf “sign” bestätigst.  
    ![](../../.gitbook/assets/2.png)   
    Die erste Signaturanfrage
 
   
-   ![](../../.gitbook/assets/3.png)  
+   ![](../../.gitbook/assets/3%20%281%29%20%283%29.png)  
     Die zweite Signaturanfrage
 
 9. Die Kosten für die Gebühr werden automatisch durch die Website basierend auf den aktuellen Gaspreisen errechnet. Diese wird in deinem Namen im Rahmen der Transaktion für die Einforderung von Prämien übermittelt.
 
 10. Du wirst nun eine Mitteilung erhalten, dass deine Einforderung an Flashbots übermittelt wurde. Dies dient dazu, dass deine Belohnungen nicht gefrontrunned werden. Der Prozess kann bis zum Abschluss 5 Minuten benötigen.
 
-    ![](../../.gitbook/assets/4.png)  
+    ![](../../.gitbook/assets/4%20%281%29.png)  
     Solltest du nicht genügend ETH in deiner Wallet haben, so wirst du nachfolgende Nachricht erhalten.  
-    ![](../../.gitbook/assets/5.png)
+    ![](../../.gitbook/assets/edlin%20%281%29.png)
 
-11. Sollte deine Transaktion erfolgreich sein, wirst du folgende Nachricht erhalten. ![](../../.gitbook/assets/6.png) Aufgrund der Art der Bündelung von Transaktionen ist es möglich, dass die Transaktion beim ersten Versuch nicht erfolgreich ist. Wenn dies der Fall ist, versuche es bitte erneut. Die Gasgebühr wird nur bei einer erfolgreichen Transaktion abgerechnet. Wenn die Transaktion hingegen fehlschlägt, wirst du nichts bezahlen müssen. ![](../../.gitbook/assets/7.png)
+11. Sollte deine Transaktion erfolgreich sein, wirst du folgende Nachricht erhalten. ![](../../.gitbook/assets/6%20%281%29.png) Aufgrund der Art der Bündelung von Transaktionen ist es möglich, dass die Transaktion beim ersten Versuch nicht erfolgreich ist. Wenn dies der Fall ist, versuche es bitte erneut. Die Gasgebühr wird nur bei einer erfolgreichen Transaktion abgerechnet. Wenn die Transaktion hingegen fehlschlägt, wirst du nichts bezahlen müssen. ![](../../.gitbook/assets/7%20%281%29.png)
 
 
 

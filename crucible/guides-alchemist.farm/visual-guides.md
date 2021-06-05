@@ -9,7 +9,7 @@ Bitte beachte, dass einige Videos nicht den aktuellen Stand der [alchemist.farm]
 {% hint style="warning" %}
 Referenzen im Bezug auf Uniswap im Video könnten möglichweise nicht mehr aktuell sein. Bitte stelle sicher, dass du den **Uniswap V2** Pool nutzt, um die Liquidität bereit zustellen. Uniswap V3 wird nicht unterstützt.
 
-Wenn du unsicher sein solltest, wie du zwischen V3 und V2 wechseln kannst, siehe bitte hierzu unsere Links in der [Anleitung](../../acquiring-and-subscribing.md).
+Wenn du unsicher sein solltest, wie du zwischen V3 und V2 wechseln kannst, siehe bitte hierzu unsere Links in der [Anleitung](../../alchemist-token/acquiring-and-subscribing.md).
 {% endhint %}
 
 * [Erstelle ein Crucible](https://www.youtube.com/watch?v=Rl9Rf-3Sp-8)
