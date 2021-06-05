@@ -12,7 +12,7 @@ We raden aan om mistX.io te gebruiken bij het kopen en verkrijgen van $MIST. Als
 2. Verbind je MetaMask wallet/portemonnee
 3. Vervolgens zie je iets zoals hieronder
 
-    ![](.gitbook/assets/swap%20%282%29%20%282%29.jpg)
+    ![](../.gitbook/assets/swap%20%282%29%20%282%29%20%282%29.jpg)
 
 4. Voer het aantal ⚗️ in dat je wilt kopen en zorg dat je daarvoor volgende ETH beschikbaar hebt, ook voor het abonneren.
 5. Druk op "Swap" en keur de nodige aanvragen goed via MetaMask en wacht vervolgens tot je transactie is geslaagd.

@@ -9,7 +9,7 @@ Houd er rekening mee dat sommige video's verouderd zijn met betrekking tot het h
 {% hint style="warning" %}
 Verwijzingen naar Uniswap in de video's zijn mogelijk verouderd. Zorg ervoor dat je **Uniswap V2** gebruikt om liquiditeit beschikbaar te stellen, aangezien V3 niet wordt ondersteund. 
 
-Als je niet zeker weet hoe je tussen V3 en V2 moet schakelen, gebruik dan onze links in de [guide](../../acquiring-and-subscribing.md).
+Als je niet zeker weet hoe je tussen V3 en V2 moet schakelen, gebruik dan onze links in de [guide](../../alchemist-token/acquiring-and-subscribing.md).
 {% endhint %}
 
 * [Maak een Crucible](https://www.youtube.com/watch?v=Rl9Rf-3Sp-8)
