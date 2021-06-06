@@ -24,7 +24,7 @@
 
 ## JOIN US
 
-* [Руководство по зачислению в ряды создателей Alchemist](join-us/rukovodstvo-po-zachisleniyu-v-ryady-sozdatelei-alkhimikov.md)
+* [Гайд по зачислению в ряды создателей Alchemist](join-us/rukovodstvo-po-zachisleniyu-v-ryady-sozdatelei-alkhimikov.md)
 * [7 Руководящих принципов ITIL \(thegostep\(s\);\)\)!](join-us/7-rukovodyashikh-principov-itil-thegostep-s.md)
 
 ## TOOLS
