@@ -20,5 +20,5 @@ Alchemist olmak öğrenmek ve pratik yapmayı gerektirir. Gerçek bir alchemist 
 
 **Web sitesi var mı?**
 
-Henüz yok ama bize yardım etmekle ilgileniyorsanız, [\#the-lab](https://discord.gg/UQB4MwG4c8) kanalına bir göz atın.
+[crucible.alchemist.wtf](https://crucible.alchemist.wtf/)
 
