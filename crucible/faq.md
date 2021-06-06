@@ -53,8 +53,6 @@ Je kunt de beloningspool [hier](https://etherscan.io/address/0x04108d6e9a51bec51
 
 Alle beloningen worden ontvangen wanneer je klikt op "Claim Rewards and Unsubscribe LP". Wees voorzichtig, dit stelt ook je beloningsvermenigvuldiger opnieuw in.
 
-Je moet Taichi Network gebruiken om dit te doen om te voorkomen dat bots je beloningen frontrunnen. Zie deze [guide]().
-
 ## Maakt het uit hoeveel LP-tokens er in de Crucible gaan?
 
 Hoe meer LP-tokens u krijgt, hoe hoger de hoeveelheid liquiditeit die je hebt verstrekt, dus hoe groter het percentage van de beloningspool dat je ontvangt. Er is geen minimum LP vereist, maar we raden je aan rekening te houden met de kosten van ethereumgas wanneer je dit overweegt.
@@ -71,7 +69,7 @@ Every time you put LP tokens in the Aludel reward program, it keeps track of how
 
 ## Kan ik op de een of andere manier zien hoeveel beloningen ik in de tussentijd heb verdiend?**?**
 
-Je kunt de verzamelde beloning voor je Crucible zien door de gebruikersinterface te gebruiken bij [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) of [alchemist.farm](https://alchemist.farm/) en de verzamelde Uniswap LP-vergoedingen met [apy.vision](https://apy.vision/) of [croco.finance](https://croco.finance/dashboard/).
+Je kunt de verzamelde beloning voor je Crucible zien door de gebruikersinterface te gebruiken bij [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) en de verzamelde Uniswap LP-vergoedingen met [apy.vision](https://apy.vision/) of [croco.finance](https://croco.finance/dashboard/).
 
 ## Kan ik meer LP toevoegen aan een bestaande Crucible?
 
@@ -87,7 +85,7 @@ Nee, hij maakt hem alleen leeg. Je behoudt de lege Crucible.
 
 ## Kan ik de Crucible NFT overzetten naar een andere portemonnee?
 
-Ja, het eigendom van de NFT \(en de geabonneerde LP-tokens\) kan worden overgedragen naar elke ERC721-compatibele portemonnee. Dit kan via de knop "Transfer Crucible" op [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) of [alchemist.farm](https://alchemist.farm/).
+Ja, het eigendom van de NFT \(en de geabonneerde LP-tokens\) kan worden overgedragen naar elke ERC721-compatibele portemonnee. Dit kan via de knop "Transfer Crucible" op [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)
 
 ## Als ik mijn Crucible van de ene wallet naar de andere overzet, wordt de vermenigvuldiger dan gereset?
 
