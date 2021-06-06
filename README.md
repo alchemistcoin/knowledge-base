@@ -18,5 +18,5 @@ Ontmoet de andere alchemisten op discord en bied je vaardigheden aan in het \#bo
 
 #### **Is er een website?**
 
-Nog niet. Als je geïnteresseerd bent om te helpen bij het bouwen ervan, bekijk dan [het lab](https://discord.com/invite/UQB4MwG4c8) op Discord.
+[crucible.alchemist.wtf](https://crucible.alchemist.wtf/)
 
