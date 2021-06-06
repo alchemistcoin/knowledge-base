@@ -15,7 +15,7 @@ The guide below is designed to step you through that process.
 5. You should now be shown a more complex list of statistics under the tab "Rewards".  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.22.png)  
 6. Click "Claim rewards and unsubscribe" at the bottom of the page. ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.05.52.png)  
 7. Fill in the prompt with how much LP you wish to unsubscribe and Click "Claim rewards and unsubscribe LP". ![](../../.gitbook/assets/1%20%282%29%20%282%29%20%282%29.png)  
-8. You will now get two pop up boxes from MetaMask asking you for a “Signature Request.” Click “sign” both times.  
+8. You will now get two pop up boxes from MetaMask asking you for a “Signature Request”. Click “sign” both times.  
    ![](../../.gitbook/assets/2%20%282%29%20%282%29%20%281%29.png)   
    1st Signature Request
 
