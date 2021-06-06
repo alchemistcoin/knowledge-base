@@ -53,7 +53,7 @@ Fondul de recompensa poate fi vazut [aici.](https://etherscan.io/address/0x04108
 
 ## **Cum pot solicita recompensele?**
 
-Toate recompensele asociate contului tau vor fi incasate atunci cand soliciti de pe butonul "Claim Rewards and Unsubscribe LP". Trebuie sa stii ca solicitarea recompenselor reseteaza factorul de multiplicare a recompenselor. Va trebui sa folosesti reteaua Taichi cand retragi recompensele pentru a preveni robotii sa intre in fata recompenselor voastre. Vezi acest ghid [ghid]().
+Toate recompensele asociate contului tau vor fi incasate atunci cand soliciti de pe butonul "Claim Rewards and Unsubscribe LP". Trebuie sa stii ca solicitarea recompenselor reseteaza factorul de multiplicare a recompenselor. 
 
 ## Contează câti tokeni LP intră în **Crucible?**
 
@@ -71,7 +71,7 @@ De fiecare data cand puneti tokenii LP in programul de recompense Aludel, progra
 
 ## **Pot in vre-un fel sa vad recompensele pe care le-am acumulat intre timp?**
 
-Poti vedea recompensele acumulate pentru NFT-urile tale Crucible folosind interfata pentru useri atat de pe [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) cat si de pe [alchemist.farm](https://alchemist.farm/) iar recompensele acumulate din Uniswap corespondente tokenilor LP detinuti le poti verifica folosind [apy.vision](https://apy.vision/) sau [croco.finance](https://croco.finance/)
+Poti vedea recompensele acumulate pentru NFT-urile tale Crucible folosind interfata pentru useri atat de pe [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) iar recompensele acumulate din Uniswap corespondente tokenilor LP detinuti le poti verifica folosind [apy.vision](https://apy.vision/) sau [croco.finance](https://croco.finance/)
 
 ## **Pot adauga mai multi tokeni LP unui NFT Crucible existent?**
 
@@ -87,7 +87,7 @@ Nu se distruge, doar ca NFT-ul Crucible va ramane gol de valoarea LP continuta a
 
 ## **Pot sa trasfer NFT-ul Crucible pe alt wallet?**
 
-Da, proprietatea asupra NFT-ului Crucible \(și a tokenilor LP alocati\) poate fi transferată către orice portofel compatibil ERC721. Acest lucru se poate face prin intermediul butonului „Transfer Crucible” de pe [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) sau de pe [alchemist.farm](https://alchemist.farm/)
+Da, proprietatea asupra NFT-ului Crucible \(și a tokenilor LP alocati\) poate fi transferată către orice portofel compatibil ERC721. Acest lucru se poate face prin intermediul butonului „Transfer Crucible” de pe [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)
 
 ## **Daca eu transfer NFT-ul Crucible de pe un wallet pe alt wallet se va reseta multiplicatorul de recompensa?**
 
