@@ -18,5 +18,5 @@ Vino sa intalnesti alti alchimisti la [discord.alchemist.wtf](http://discord.alc
 
 **Exista un website?**
 
-Nu inca. Daca esti interesant sa ajuti la construierea unuia, anunta-ti intentia in Discord [aici](https://discord.gg/UQB4MwG4c8).
+[crucible.alchemist.wtf](https://crucible.alchemist.wtf/)
 
