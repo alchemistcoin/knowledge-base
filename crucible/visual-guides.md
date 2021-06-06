@@ -25,7 +25,7 @@
 
 ![&#x5982;&#x4F55;&#x53C3;&#x8207;Aludel&#x734E;&#x52F5;&#x8A08;&#x5283; ](https://i.imgur.com/7sK0Jr2.png)
 
-![Aludel&#x80CC;&#x5F8C;&#x7684;&#x7406;&#x5FF5;](https://i.imgur.com/sutIhed.png)
+![Aludel&#x80CC;&#x5F8C;&#x7684;&#x7406;&#x5FF5;](../.gitbook/assets/visual-guide-2-after.jpg)
 
 
 
