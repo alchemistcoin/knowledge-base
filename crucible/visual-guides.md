@@ -23,7 +23,7 @@
 
 ![&#x5982;&#x4F55;&#x53C2;&#x4E0E; Aludel](https://i.imgur.com/7sK0Jr2.png)
 
-![Aludel &#x80CC;&#x540E;&#x7684;&#x539F;&#x7406;](https://i.imgur.com/sutIhed.png)
+![The idea behind the Audel](../.gitbook/assets/visual-guide-2-after.jpg)
 
 
 
