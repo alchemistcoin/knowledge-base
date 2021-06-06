@@ -23,7 +23,7 @@ Als je niet zeker weet hoe je tussen V3 en V2 moet schakelen, gebruik dan onze l
 
 ![Processes to enter the Aludel Program](https://i.imgur.com/7sK0Jr2.png)
 
-![The idea behind the Audel](https://i.imgur.com/sutIhed.png)
+![The idea behind the Audel](../.gitbook/assets/visual-guide-2-after.jpg)
 
 
 
