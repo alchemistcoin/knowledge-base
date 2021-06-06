@@ -16,7 +16,7 @@ Si vous n'êtes pas certains de savoir comment passer de la V3 à la V2, utilise
 * [Faire un Crucible](https://www.youtube.com/watch?v=Rl9Rf-3Sp-8)
 * [Récupérer des LP, puis faire un Crucible](https://www.youtube.com/watch?v=Ga1qcQ6x3as)
 * [Récupérer des LP, faire un Crucible, et devenir un Alchimiste Certifié sur Discord](https://www.youtube.com/watch?v=k7MO1QpqCds)
-* [Transférer un Crucible en utilisant Alchemist.farm et OpenSea.io](https://www.youtube.com/watch?v=i2MCYimelBM)
+* [Transférer un Crucible en utilisant Alchemist website et OpenSea.io](https://www.youtube.com/watch?v=i2MCYimelBM)
 * [Pertes impermanentes - à regarder avant de staker des LP](https://www.youtube.com/watch?v=8XJ1MSTEuU0)
 
 ### **Images 🖼🎨**
