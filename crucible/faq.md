@@ -72,7 +72,7 @@ Every time you put LP tokens in the Aludel reward program, it keeps track of how
 
 ## **Can I somehow see how much rewards I have acquired in the meantime?**
 
-You can see the accumulated reward for your crucible by using the UI at either [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) or [alchemist.farm](https://alchemist.farm/) and the accumulated Uniswap LP fees using [apy.vision](https://apy.vision/) or [croco.finance](https://croco.finance/)
+You can see the accumulated reward for your crucible by using the UI at [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) and the accumulated Uniswap LP fees using [apy.vision](https://apy.vision/) or [croco.finance](https://croco.finance/)
 
 ## **Can I add more LP to an existing Crucible?**
 
@@ -88,7 +88,7 @@ No, it only empties it. You retain the empty Crucible.
 
 ## **Can I transfer the Crucible NFT to another wallet?**
 
-Yes, the ownership of the NFT \(and the Subscribed LP tokens\) can be transferred to any ERC721 compatible wallet. This can be done via the "Transfer Crucible" button on [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) or [alchemist.farm](https://alchemist.farm/)
+Yes, the ownership of the NFT \(and the Subscribed LP tokens\) can be transferred to any ERC721 compatible wallet. This can be done via the "Transfer Crucible" button on [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)
 
 ## **If I transfer my Crucible from one wallet to another will that reset the multiplier?**
 
@@ -111,7 +111,7 @@ LP jetonlarınızın miktarı ve süresi Katılım Aludel ödül programındaki 
 
 **~ Aşağıdakileri cep telefonu / akıllı telefon üzerinden yapmanızı önermiyoruz:**
 
-1. Bir pota basmak için şu web sitesine gidin: [alchemist.wtf](https://crucible.alchemist.wtf/).
+1. Bir pota basmak için şu web sitesine gidin: [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)
 2. Metamask cüzdanınızı bağlayın.
 3. Pota’nıza katılmak istediğiniz LP Jeton miktarını girin.
 4. “Mint Crucible ve Subscription LP to Aludel” e basın \(Crucible’ınızı kabartın ve LP’nizle Aludel’e katılın\). Açılan metamaskınızda 2 istek alacaksınız, imzalayın ve onay için bekleyin.
@@ -164,7 +164,7 @@ LP jetonlarının Aludel ödül programına katılmasına her izin verdiğinizde
 
 **Şimdiye kadar kaç ödül kazandığımı bir şekilde görebilir miyim?**
 
-Şimdiye kadar kazanılan ödüller, [alchemist.farm](https://alchemist.farm/)’daki kullanıcı arayüzünden görüntülenebilir. Şimdiye kadar kazanılan Uniswap LP ücretleri [apy.vision](https://apy.vision/) veya [croco.finance](https://croco.finance/) aracılığıyla görülebilir.
+Şimdiye kadar kazanılan ödüller, [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) daki kullanıcı arayüzünden görüntülenebilir. Şimdiye kadar kazanılan Uniswap LP ücretleri [apy.vision](https://apy.vision/) veya [croco.finance](https://croco.finance/) aracılığıyla görülebilir.
 
 **Önceden oluşturduğum Crucible’ıma daha fazla LP jetonu ekleyebilir miyim?**
 
@@ -180,7 +180,7 @@ Hayır, sadece boş. Boş bir potaya sahip olacaksınız.
 
 **Crucible NFT’yi başka bir cüzdana gönderebilir miyim?**
 
-Evet, NFT’nin \(ve dolayısıyla katılan / hisseli LP belirteçlerinin\) bulundurulması, herhangi bir ERC721 uyumlu cüzdana gönderilebilir. Bu, [alchemist.farm](https://alchemist.farm/) 'da “Pota Aktar” işlevi kullanılarak yapılabilir.
+Evet, NFT’nin \(ve dolayısıyla katılan / hisseli LP belirteçlerinin\) bulundurulması, herhangi bir ERC721 uyumlu cüzdana gönderilebilir. Bu, [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) 'da “Pota Aktar” işlevi kullanılarak yapılabilir.
 
 **Crucible’ımı bir cüzdandan diğerine aktarmak ödül çarpanını sıfırlar mı?**
 
@@ -196,7 +196,7 @@ Hayır, sadece boş. Boş bir potaya sahip olacaksınız.
 
 **Crucible NFT’yi başka bir cüzdana gönderebilir miyim?**
 
-Evet, NFT’nin \(ve dolayısıyla katılan / hisseli LP belirteçlerinin\) bulundurulması, herhangi bir ERC721 uyumlu cüzdana gönderilebilir. Bu, [alchemist.farm](https://alchemist.farm/) 'da " Crucible Aktar" işlevi kullanılarak yapılabilir.
+Evet, NFT’nin \(ve dolayısıyla katılan / hisseli LP belirteçlerinin\) bulundurulması, herhangi bir ERC721 uyumlu cüzdana gönderilebilir. Bu, [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) 'da " Crucible Aktar" işlevi kullanılarak yapılabilir.
 
 **Crucible’ımı bir cüzdandan diğerine aktarmak ödül çarpanını sıfırlar mı?**
 
