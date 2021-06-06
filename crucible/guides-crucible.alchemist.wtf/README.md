@@ -1,10 +1,5 @@
 # Anleitungen: crucible.alchemist.wtf
 
-{% hint style="info" %}
-**Folgende Anleitungen sind für die Community Webseite** [**crucible.alchemist.wtf**](https://crucible.alchemist.wtf/)  
-Bitte [klicke hier](../guides-alchemist.farm/), wenn du [alchemist.farm](https://alchemist.farm/) benutzen möchtest.
-{% endhint %}
-
 ### Inhalt
 
 1. [Wie erstelle ich ein Crucible?](how-do-i-mint-a-crucible.md)
