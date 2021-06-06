@@ -20,9 +20,9 @@
 * [Guides: alchemist.farm](crucible/guides-alchemist.farm/README.md)
   * [Ik heb een Crucible gemint, wat nu?](crucible/guides-alchemist.farm/i-minted-a-crucible-now-what.md)
   * [Hoe claim je beloningen en hoe onttrek je LP uit de Aludel via het TaiChi network](crucible/guides-alchemist.farm/how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md)
-  * [Visual Guides 🎞](crucible/guides-alchemist.farm/visual-guides.md)
 * [Hoe word ik een "Certified Alchemist" op Discord 💬](crucible/how-to-become-a-certified-alchemist-on-discord.md)
 * [Wallet Ondersteuning](crucible/wallet-compatibility.md)
+* [Visual Guides 🎞](crucible/visual-guides.md)
 * [FAQ 📖](crucible/faq.md)
 
 ## Join us
