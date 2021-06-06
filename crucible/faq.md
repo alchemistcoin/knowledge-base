@@ -54,7 +54,7 @@ You can see the reward pool [here.](https://etherscan.io/address/0x04108d6e9a51b
 
 ## **How do I claim the rewards?**
 
-All rewards are received when you "Claim Rewards and Unsubscribe LP". Be careful, this also resets your reward multiplier. You will need to use Taichi Network when doing this to prevent bots from front-running your rewards. See this [guide]().
+All rewards are received when you "Claim Rewards and Unsubscribe LP". Be careful, this also resets your reward multiplier. 
 
 ## **Does it matter how many LP tokens go into the Crucible?**
 
@@ -72,7 +72,7 @@ Every time you put LP tokens in the Aludel reward program, it keeps track of how
 
 ## **Can I somehow see how much rewards I have acquired in the meantime?**
 
-You can see the accumulated reward for your crucible by using the UI at either [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) or [alchemist.farm](https://alchemist.farm/) and the accumulated Uniswap LP fees using [apy.vision](https://apy.vision/) or [croco.finance](https://croco.finance/)
+You can see the accumulated reward for your crucible by using the UI at either [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) and the accumulated Uniswap LP fees using [apy.vision](https://apy.vision/) or [croco.finance](https://croco.finance/)
 
 ## **Can I add more LP to an existing Crucible?**
 
@@ -88,7 +88,7 @@ No, it only empties it. You retain the empty Crucible.
 
 ## **Can I transfer the Crucible NFT to another wallet?**
 
-Yes, the ownership of the NFT \(and the Subscribed LP tokens\) can be transferred to any ERC721 compatible wallet. This can be done via the "Transfer Crucible" button on [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) or [alchemist.farm](https://alchemist.farm/)
+Yes, the ownership of the NFT \(and the Subscribed LP tokens\) can be transferred to any ERC721 compatible wallet. This can be done via the "Transfer Crucible" button on [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)
 
 ## **If I transfer my Crucible from one wallet to another will that reset the multiplier?**
 
@@ -152,7 +152,7 @@ No, as long as the rewards are not unsubscribed from the Aludel.
 
 **?כיצד אוכל לתבוע את התגמולים**
 
-"Claim Rewards and Unsubscribe LP" כל התגמולים מתקבלים כאשר אתה לוחץ על .היזהר, זה גם מאפס את מכפיל התגמול שלך כאשר אתה עושה זאת בכדי למנוע מבוטים להריץ את התגמולים שלך מראש TaiChi יהיה עליך להשתמש ברשת [guide]() ראה מדריך זה
+"Claim Rewards and Unsubscribe LP" כל התגמולים מתקבלים כאשר אתה לוחץ על .היזהר, זה גם מאפס את מכפיל התגמול שלך כאשר אתה עושה זאת בכדי למנוע מבוטים להריץ את 
 
 **?Crucible -נכנסים ל LP tokens האם זה משנה כמה**
 
@@ -172,7 +172,7 @@ No, as long as the rewards are not unsubscribed from the Aludel.
 
 **?האם אני יכול איכשהו לראות כמה תגמולים רכשתי בינתיים**
 
-שלך באמצעות ממשק המשתמש באתר crucible אתה יכול לראות את התגמולים המצטברים עבור ה [alchemist.farm](https://alchemist.farm)  
+שלך באמצעות ממשק המשתמש באתר crucible אתה יכול לראות את התגמולים המצטברים עבור ה [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)  
 :באמצעות אחד מהאתרים כאן Unuswap שנצברו על ידי LP -ובעמלות ה [apy.vision](https://apy.vision/) [croco.finance](https://croco.finance/)
 
 **?הקיים Crucible -ל LP האם אוכל להוסיף עוד**
@@ -191,7 +191,7 @@ No, as long as the rewards are not unsubscribed from the Aludel.
 
 **?לארנק אחר Crucible NFT -האם אוכל להעביר את ה**
 
-ERC721 -לכל ארנק תואם ל \(הרשומים LP -ואסימוני ה\) NFT -כן, ניתן להעביר את הבעלות על ה שנמצא כאן "Transfer Crucible" ניתן לעשות זאת באמצעות כפתור [alchemist.farm](https://alchemist.farm/)
+ERC721 -לכל ארנק תואם ל \(הרשומים LP -ואסימוני ה\) NFT -כן, ניתן להעביר את הבעלות על ה שנמצא כאן "Transfer Crucible" ניתן לעשות זאת באמצעות כפתור [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)
 
 **?שלי מארנק אחד למשנהו האם זה יאפס את המכפיל Crucible -אם אני מעביר את ה**
 
