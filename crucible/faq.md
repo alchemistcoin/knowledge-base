@@ -56,7 +56,7 @@ Pulę nagród możesz zobaczyć [tutaj.](https://etherscan.io/address/0x04108d6e
 
 ## **Jak odebrać nagrody?**
 
-Wszystkie nagrody otrzymasz, gdy użyjesz opcji "Claim Rewards and Unsubscribe LP". Uważaj, to resetuje również mnożnik nagród. Będziesz musiał w tym celu skorzystać z Taichi Network, aby uniemożliwić botom przejmowanie Twoich nagród. Zobacz ten [przewodnik]().
+Wszystkie nagrody otrzymasz, gdy użyjesz opcji "Claim Rewards and Unsubscribe LP". Uważaj, to resetuje również mnożnik nagród.
 
 ## **Czy ma znaczenie jak dużo tokenów LP trafia do Crucible?**
 
@@ -74,7 +74,7 @@ Za każdym razem, gdy umieszczasz tokeny LP w programie nagród Aludel, program 
 
 ## **Czy mogę w międzyczasie sprawdzić jak dużą nagrodę zdobyłem?**
 
-Możesz zobaczyć zgromadzoną nagrodę za swój Crucible używając interfejsu użytkownika na [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) lub [alchemist.farm](https://alchemist.farm), a skumulowane opłaty za Uniswap LP możesz sprawdzić za pomocą [apy.vision](https://apy.vision/) lub [croco.finance](https://croco.finance/)
+Możesz zobaczyć zgromadzoną nagrodę za swój Crucible używając interfejsu użytkownika na [crucible.alchemist.wtf](https://crucible.alchemist.wtf/), a skumulowane opłaty za Uniswap LP możesz sprawdzić za pomocą [apy.vision](https://apy.vision/) lub [croco.finance](https://croco.finance/)
 
 ## **Czy mogę dodać więcej LP do istniejącego Crucible?**
 
@@ -90,7 +90,7 @@ Nie, tylko go opróżnia. Zachowujesz pusty Crucible.
 
 ## **Czy mogę przenieść Crucible NFT do innego portfela?**
 
-Tak, własność NFT \(i subskrybowanych tokenów LP\) można przenieść na dowolny portfel zgodny z ERC721. Można to zrobić za pomocą przycisku "Transfer Crucible" na [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) lub [alchemist.farm](https://alchemist.farm/)
+Tak, własność NFT \(i subskrybowanych tokenów LP\) można przenieść na dowolny portfel zgodny z ERC721. Można to zrobić za pomocą przycisku "Transfer Crucible" na [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)
 
 ## **Jeśli przeniosę swój Crucible z jednego portfela do innego, czy spowoduje to zresetowanie mnożnika?**
 
