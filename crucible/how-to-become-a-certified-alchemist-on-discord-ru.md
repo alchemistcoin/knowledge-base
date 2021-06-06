@@ -4,7 +4,7 @@
 
 Если ваш Crucible был создан с помощью [Alchemist.farm](https://alchemist.farm/), переходите ко [**2й части данной инструкции.** ](https://docs.alchemist.wtf/mist/crucible/how-to-become-a-certified-alchemist-on-discord#part-2)\*\*\*\*
 
-Если ваш Crucible был создан с помощью [командной строки](https://github.com/alchemistcoin/alchemist), то вам сперва надо войти в MetaMask используя мнемоническую фразу, которую вы получили во время создания Crucible. Подробные инструкции указаны в [1й части инструкции ниже.](https://docs.alchemist.wtf/mist/crucible/how-to-become-a-certified-alchemist-on-discord#part-1)
+Если ваш Crucible был создан с помощью [командной строки](https://github.com/alchemistcoin/alchemist), то вам сперва надо войти в MetaMask используя мнемоническую фразу, которую вы получили во время создания Crucible. Подробные инструкции указаны в [**1й части инструкции ниже.**](https://docs.alchemist.wtf/mist/crucible/how-to-become-a-certified-alchemist-on-discord#part-1)\*\*\*\*
 
 ## 1 часть
 
