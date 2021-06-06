@@ -19,5 +19,5 @@
 
 **האם קיים אתר אינטרנט ?**
 
-Discord -ב [the lab](https://discord.gg/UQB4MwG4c8) עדיין לא. אם אתה מעוניין לעזור בבניית האתר, בדוק את
+[crucible.alchemist.wtf](https://crucible.alchemist.wtf/)
 
