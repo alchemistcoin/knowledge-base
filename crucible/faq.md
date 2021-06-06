@@ -59,7 +59,7 @@ Nagradni fond možete da pogledate [ovde.](https://etherscan.io/address/0x04108d
 
 ## **Kako da pokupim svoje nagrade?**
 
-Sve nagrade se prikupljaju kada se ode na "Claim Rewards and Unsubscribe LP". Budite pažljivi, to će takođe resetovati vaš nagradni multiplikator. Potrebno je da koristite Taichi mrežu kada to radite da bi ste sprecili botove da preduhitre vase nagrade. Pogledajte to u [vodiču]().
+Sve nagrade se prikupljaju kada se ode na "Claim Rewards and Unsubscribe LP". Budite pažljivi, to će takođe resetovati vaš nagradni multiplikator.
 
 ## **Da li je važno koliko LP tokena ide u Crucible?**
 
@@ -77,7 +77,7 @@ Svaki put kada stavite LP tokene u nagradni program Aludel, on prati koliko dugo
 
 ## **Da li postoji način da vidim koliku nagradu sam prikupio u međuvremenu?**
 
-Možete da pogledate prikupljenu nagradu za vaš crucible, koristeći UI na [alchemist.farm](https://alchemist.farm) i akumulirani Uniswap LP zaradu koristeći [apy.vision](https://apy.vision/) or [croco.finance](https://croco.finance/)
+Možete da pogledate prikupljenu nagradu za vaš crucible, koristeći UI na[ crucible.alchemist.wtf](https://crucible.alchemist.wtf/) i akumulirani Uniswap LP zaradu koristeći [apy.vision](https://apy.vision/) or [croco.finance](https://croco.finance/)
 
 ## **Mogu li da dodam još LP tokena na postojeći Crucible?**
 
@@ -93,7 +93,7 @@ Ne, samo ga isprazni. Vama ostaje prazan Crucible.
 
 ## **Mogu li da prebacim Crucible NFT na neki drugi novčanik?**
 
-Da, vlasništvo nad NFT-om \(kao i pretplaćenim LP tokenima\) mogu da budu prebačeni na bilo koji ERC721 kompatibilni novčanik. To može da se uradi preko "Transfer Crucible" dugmeta na [alchemist.farm](https://alchemist.farm/)
+Da, vlasništvo nad NFT-om \(kao i pretplaćenim LP tokenima\) mogu da budu prebačeni na bilo koji ERC721 kompatibilni novčanik. To može da se uradi preko "Transfer Crucible" dugmeta na [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)
 
 ## **Ako prebacim svoj Crucible sa jednog na drugi novčanik, da li će to resetovati moj nagradni multiplikator?**
 
