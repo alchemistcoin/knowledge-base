@@ -16,7 +16,7 @@
 * [​Создание C​rucible](https://www.youtube.com/watch?v=Rl9Rf-3Sp-8)
 * [​Получение токенов ПЛ и создание Crucible​](https://www.youtube.com/watch?v=Ga1qcQ6x3as)
 * ​[Получение токенов ПЛ и создание Crucible​ и получение роли "сертифицированный алхимик" в дискорде](https://www.youtube.com/watch?v=k7MO1QpqCds)
-* [Перемещение Crucible с помощью Alchemist.farm и OpenSea.io ](https://www.youtube.com/watch?v=i2MCYimelBM)
+* [Перемещение Crucible с помощью Alchemist website и OpenSea.io ](https://www.youtube.com/watch?v=i2MCYimelBM)
 * [Непостоянные потери - обязательно просмотреть перед предоставлением ликвидности](https://www.youtube.com/watch?v=8XJ1MSTEuU0)​
 
 ### **Изображения 🖼🎨** <a id="images"></a>
