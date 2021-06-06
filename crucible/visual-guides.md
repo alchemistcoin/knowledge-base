@@ -23,5 +23,5 @@ Ako niste sigurni kako da se prebacite izmedju verzija V3 i V2, molim vas da kor
 
 ![Processes to enter the Aludel Program](https://i.imgur.com/7sK0Jr2.png)
 
-![The idea behind the Audel](https://i.imgur.com/sutIhed.png)
+![The idea behind the Audel](../.gitbook/assets/visual-guide-2-after.jpg)
 
