@@ -16,7 +16,7 @@
 * [製作一個 Crucible](https://www.youtube.com/watch?v=Rl9Rf-3Sp-8)​
 * [獲取LP，然後製作一個Crucible](https://www.youtube.com/watch?v=Ga1qcQ6x3as)
 * [Get 取得LP, 然後製作一個 ](https://www.youtube.com/watch?v=k7MO1QpqCds)[Crucible並成為Discord上得到認證的煉金術師\(Certified Alchemist](https://www.youtube.com/watch?v=k7MO1QpqCds)\)
-* [使用Alchemist.farm and OpenSea.io轉移Crucible](https://www.youtube.com/watch?v=i2MCYimelBM)
+* [使用Alchemist website and OpenSea.io轉移Crucible](https://www.youtube.com/watch?v=i2MCYimelBM)
 * [Impermanent Loss暫時性損失 - 在押LP之前請觀看](https://www.youtube.com/watch?v=8XJ1MSTEuU0)
 
 ### 圖片 🖼🎨
