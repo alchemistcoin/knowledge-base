@@ -12,6 +12,7 @@ Reference ka Uniswap-u u klipovima mogu biti zastarele. Molim vas budite sigurni
 Ako niste sigurni kako da se prebacite izmedju verzija V3 i V2, molim vas da koristite linkove iz [vodiča](../../acquiring-and-subscribing.md).
 {% endhint %}
 
+* [Alchemist YouTube Channel](https://www.youtube.com/channel/UCIs4LugynLei2TN__lJh-6Q)
 * [Make a Crucible](https://www.youtube.com/watch?v=Rl9Rf-3Sp-8)
 * [Get LP, then Make a Crucible](https://www.youtube.com/watch?v=Ga1qcQ6x3as)
 * [Get LP, then Make a Crucible, and become a Certified Alchemist on Discord](https://www.youtube.com/watch?v=k7MO1QpqCds)
