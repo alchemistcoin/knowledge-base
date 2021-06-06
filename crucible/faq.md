@@ -59,7 +59,7 @@ Nagradni fond možete da pogledate [ovde.](https://etherscan.io/address/0x04108d
 
 ## **Kako da pokupim svoje nagrade?**
 
-Sve nagrade se prikupljaju kada se ode na "Claim Rewards and Unsubscribe LP". Budite pažljivi, to će takođe resetovati vaš nagradni multiplikator. Potrebno je da koristite Taichi mrežu kada to radite da bi ste sprecili botove da preduhitre vase nagrade. Pogledajte to u [vodiču](guides-alchemist.farm/how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md).
+Sve nagrade se prikupljaju kada se ode na "Claim Rewards and Unsubscribe LP". Budite pažljivi, to će takođe resetovati vaš nagradni multiplikator. Potrebno je da koristite Taichi mrežu kada to radite da bi ste sprecili botove da preduhitre vase nagrade. Pogledajte to u [vodiču]().
 
 ## **Da li je važno koliko LP tokena ide u Crucible?**
 

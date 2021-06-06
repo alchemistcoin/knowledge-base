@@ -17,12 +17,9 @@
   * [Kako da mintujem Crucible?](crucible/guides-crucible.alchemist.wtf/how-do-i-mint-a-crucible.md)
   * [Šta mogu da uradim sa svojim novim Crucible-om?](crucible/guides-crucible.alchemist.wtf/what-can-i-do-with-my-new-crucible.md)
   * [Preuzimanje nagrade & otkazivanje pretplate LP](crucible/guides-crucible.alchemist.wtf/claiming-rewards-and-unsubscribing-your-lp.md)
-* [Vodič: alchemist.farm](crucible/guides-alchemist.farm/README.md)
-  * [Imam mintovane Crucible, i šta sad?](crucible/guides-alchemist.farm/i-minted-a-crucible-now-what.md)
-  * [Kako da preuzmete nagradu i odjavite vaš LP token sa Aludel-a koristeći Taichi mrežu\_](crucible/guides-alchemist.farm/how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md)
-  * [Vizuelni vodiči 🎞](crucible/guides-alchemist.farm/visual-guides.md)
 * [Kako da postanem "Certifikovani Alchemist" na Discord-u 💬](crucible/how-to-become-a-certified-alchemist-on-discord.md)
 * [Kompatibilnost wallet-a](crucible/wallet-compatibility.md)
+* [Vizuelni vodiči 🎞](crucible/visual-guides.md)
 * [FAQ 📖](crucible/faq.md)
 
 ## Join us
