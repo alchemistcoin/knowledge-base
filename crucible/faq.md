@@ -72,7 +72,7 @@ Chaque fois que vous mettez des tokens LP dans le programme de récompense Alude
 
 ## **Puis-je voir d'une manière ou d'une autre le montant de récompenses que j'ai acquis entre-temps ?**
 
-Vous pouvez voir les récompenses accumulées par votre Crucible en utilisant l’interface utilisateur [alchemist.farm](https://alchemist.farm/) et les frais Uniswap LP accumulés en utilisant [apy.vision](https://apy.vision/) ou [croco.finance](https://croco.finance/)
+Vous pouvez voir les récompenses accumulées par votre Crucible en utilisant l’interface utilisateur [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) et les frais Uniswap LP accumulés en utilisant [apy.vision](https://apy.vision/) ou [croco.finance](https://croco.finance/)
 
 ## **Puis-je ajouter des LP à un Crucible existant ?**
 
@@ -88,7 +88,7 @@ Non, cela ne fait que le vider. Vous conservez le Crucible vide.
 
 ## **Puis-je transférer le Crucible NFT vers un autre portefeuille ?**
 
-Oui, la propriété du NFT \(et des jetons LP souscrits\) peut être transférée vers n'importe quel portefeuille compatible avec ERC721. Cela peut être fait via le bouton “Transfer Crucible” sur [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) ou [alchemist.farm](https://alchemist.farm/)
+Oui, la propriété du NFT \(et des jetons LP souscrits\) peut être transférée vers n'importe quel portefeuille compatible avec ERC721. Cela peut être fait via le bouton “Transfer Crucible” sur [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)
 
 ## **Si je transfère mon Crucible d'un portefeuille à un autre, cela ré-initialisera-t-il le multiplicateur ?**
 
