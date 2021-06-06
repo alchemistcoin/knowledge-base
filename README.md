@@ -18,5 +18,5 @@
 
 **क्या इसकी कोई वेबसाइट है?**
 
-फ़िलहाल नहीं. अगर आप वेबसाइट बनाने में हमारी मदद करना चाहते हैं, तो डिस्कॉर्ड पर इस [लैब](https://discord.gg/UQB4MwG4c8) को देखिये.
+[crucible.alchemist.wtf](https://crucible.alchemist.wtf/)
 
