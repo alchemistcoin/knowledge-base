@@ -20,5 +20,5 @@ Dođi i upoznaj ostale alhemičare na [discord.alchemist.wtf](http://discord.alc
 
 ## **Da li postoji Web sajt?**
 
-Još uvek - ne. Ako si zainteresovan da pomogneš u izgradnji jednog takvog, proveri šta se dešava na [the lab](https://discord.gg/UQB4MwG4c8) na Discord.
+[crucible.alchemist.wtf](https://crucible.alchemist.wtf/)
 
