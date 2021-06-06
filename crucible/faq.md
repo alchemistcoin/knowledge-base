@@ -74,7 +74,7 @@ Jedes Mal wenn du LP Token im Aludel Belohnungsprogramm teilnehmen lässt, wird 
 
 ## **Kann ich irgendwie sehen wie viele Belohnungen ich bislang verdient habe?**
 
-Die bislang verdienten Belohnungen sind über die Benutzeroberfläche auf entweder [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) oder [alchemist.farm](https://alchemist.farm/) einsehbar. Die bislang verdienten Uniswap LP Gebühren sind sichtbar über [apy.vision](https://apy.vision) oder [croco.finance](https://croco.finance).
+Die bislang verdienten Belohnungen sind über die Benutzeroberfläche auf entweder [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) einsehbar. Die bislang verdienten Uniswap LP Gebühren sind sichtbar über [apy.vision](https://apy.vision) oder [croco.finance](https://croco.finance).
 
 ## **Kann ich mehr LP Token zu meinem bereits erstellten Crucible hinzufügen?**
 
@@ -90,7 +90,7 @@ Nein, es wird lediglich geleert. Du wirst ein leeres Crucible dein Eigen nennen.
 
 ## **Kann ich das Crucible NFT an eine andere Wallet senden?**
 
-Ja, der Besitz des NFT \(und damit auch mit die teilnehmenden LP Token\) kann an jede ERC721 kompatible Wallet gesendet werden. Dies kann über die Funktion "Transfer Crucible" auf [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) oder [alchemist.farm](https://alchemist.farm/) durchgeführt werden. 
+Ja, der Besitz des NFT \(und damit auch mit die teilnehmenden LP Token\) kann an jede ERC721 kompatible Wallet gesendet werden. Dies kann über die Funktion "Transfer Crucible" auf [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) durchgeführt werden. 
 
 ## **Wird der Transfer meines Crucibles von einer Wallet zu einer anderen den Belohnungsmultiplikator zurücksetzen?**
 
