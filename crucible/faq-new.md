@@ -72,7 +72,7 @@ Cada vez que pones tokens LP en el programa de recompensas de Aludel, este lleva
 
 ## **¿Puedo ver de alguna manera cuántas recompensas he adquirido mientras tanto?**
 
-Puedes ver la recompensa acumulada de tu Crucible usando la IU en [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) o [alchemist.farm](https://alchemist.farm/) y las comisiones de LP acumuladas de Uniswap usando en [apy.vision](https://apy.vision/) o [croco.finance](https://croco.finance/)
+Puedes ver la recompensa acumulada de tu Crucible usando la IU en [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) y las comisiones de LP acumuladas de Uniswap usando en [apy.vision](https://apy.vision/) o [croco.finance](https://croco.finance/)
 
 ## **¿Puedo añadir más LP a un Crucible existente?**
 
@@ -88,7 +88,7 @@ No, sólo lo vacía. Conservas el Crucible vacío.
 
 ## **¿Puedo transferir el NFT del Crucible a otro wallet?**
 
-Sí, la propiedad del NFT \(y los tokens LP depositado\) puede transferirse a cualquier wallet compatible con ERC721. Esto puede hacerse a través del botón "Transfer Crucible" en [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) o [alchemist.farm](https://alchemist.farm/)
+Sí, la propiedad del NFT \(y los tokens LP depositado\) puede transferirse a cualquier wallet compatible con ERC721. Esto puede hacerse a través del botón "Transfer Crucible" en [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)
 
 ## **Si transfiero mi Crucible de un wallet a otro, ¿se reiniciará el multiplicador?**
 
