@@ -92,7 +92,7 @@ Crucibles 只能由**Uniswap V2** LP代幣鑄造。 請確保你將代幣添加�
 
 **我能以某種方式看到我獲得了多少獎勵嗎?**
 
-您可以在 [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) 或者 [alchemist.farm](https://alchemist.farm/) 上查看Crucible 的累積獎勵，並使用[apy.vision](https://apy.vision/) 或 [croco.finance](https://croco.finance/)來查看Uniswap LP累積的費用。
+您可以在 [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)上查看Crucible 的累積獎勵，並使用[apy.vision](https://apy.vision/) 或 [croco.finance](https://croco.finance/)來查看Uniswap LP累積的費用。
 
 
 
@@ -116,7 +116,7 @@ Crucibles 只能由**Uniswap V2** LP代幣鑄造。 請確保你將代幣添加�
 
 **我可以將 Crucible NFT 轉移到另一個錢包嗎?**
 
-可以。你可以將 NFT（和當中訂閱了的 LP 代幣）的擁有權轉移到任何跟 ERC721 兼容的錢包。這可以通過 [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) 或者 [alchemist.farm](https://alchemist.farm/)上的 “轉移 Crucible” \(Transfer Crucible\) 按鈕來完成這項操作。
+可以。你可以將 NFT（和當中訂閱了的 LP 代幣）的擁有權轉移到任何跟 ERC721 兼容的錢包。這可以通過 [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) 上的 “轉移 Crucible” \(Transfer Crucible\) 按鈕來完成這項操作。
 
 
 
