@@ -3,7 +3,7 @@
 ### **Videoclipuri 🎬📺**
 
 {% hint style="info" %}
-Luati in considerare ca unele videoclipuri nu sunt actualizate în ceea ce privește stadiul actual al site-ului [alchemist.farm](https://alchemist.farm). De asemenea, aceste videoclipuri sunt realizate de comunitate - totuși va sunt de ajutor.
+Luati in considerare ca unele videoclipuri nu sunt actualizate în ceea ce privește stadiul actual al site-ului [crucible.alchemist.wtf](https://crucible.alchemist.wtf/). De asemenea, aceste videoclipuri sunt realizate de comunitate - totuși va sunt de ajutor.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -12,10 +12,11 @@ Referințele la Uniswap din videoclipuri pot fi neactualizate. Vă rugăm să v�
 Daca nu esti sigur cum aa schimbi intre UniSwap V3 si V2 foloseste link-urile din acest [ghid]().
 {% endhint %}
 
+* [Alchemist YouTube Channel](https://www.youtube.com/channel/UCIs4LugynLei2TN__lJh-6Q)
 * [Creeaza un NFT Crucible](https://www.youtube.com/watch?v=Rl9Rf-3Sp-8)
 * [Obtine LP, apoi Creaza un NFT Crucible](https://www.youtube.com/watch?v=Ga1qcQ6x3as)
 * [Obtine LP, apoi creeaza un NFT Crucible si devino un Alchimist Certificat in Discord](https://www.youtube.com/watch?v=k7MO1QpqCds)
-* [Transfera un NFT Crucible folosind Alchemist.farm si OpenSea.io](https://www.youtube.com/watch?v=i2MCYimelBM)
+* [Transfera un NFT Crucible folosind Alchemist website si OpenSea.io](https://www.youtube.com/watch?v=i2MCYimelBM)
 * [Pierderea Impermanenta - vezi inainte sa pui in stake LP](https://www.youtube.com/watch?v=8XJ1MSTEuU0)
 
 ### **Imagini 🖼🎨**

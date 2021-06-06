@@ -53,7 +53,7 @@ Fondul de recompensa poate fi vazut [aici.](https://etherscan.io/address/0x04108
 
 ## **Cum pot solicita recompensele?**
 
-Toate recompensele asociate contului tau vor fi incasate atunci cand soliciti de pe butonul "Claim Rewards and Unsubscribe LP". Trebuie sa stii ca solicitarea recompenselor reseteaza factorul de multiplicare a recompenselor. Va trebui sa folosesti reteaua Taichi cand retragi recompensele pentru a preveni robotii sa intre in fata recompenselor voastre. Vezi acest ghid [ghid](guides-alchemist.farm/how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md).
+Toate recompensele asociate contului tau vor fi incasate atunci cand soliciti de pe butonul "Claim Rewards and Unsubscribe LP". Trebuie sa stii ca solicitarea recompenselor reseteaza factorul de multiplicare a recompenselor. Va trebui sa folosesti reteaua Taichi cand retragi recompensele pentru a preveni robotii sa intre in fata recompenselor voastre. Vezi acest ghid [ghid]().
 
 ## Contează câti tokeni LP intră în **Crucible?**
 

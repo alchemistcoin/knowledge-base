@@ -17,12 +17,9 @@
   * [Cum pot creea un NFT Crucible?](crucible/guides-crucible.alchemist.wtf/how-do-i-mint-a-crucible.md)
   * [Ce pot sa fac cu noul meu NFT Crucible?](crucible/guides-crucible.alchemist.wtf/what-can-i-do-with-my-new-crucible.md)
   * [Revendica Recompensele & Retrage LP](crucible/guides-crucible.alchemist.wtf/claiming-rewards-and-unsubscribing-your-lp.md)
-* [Ghid: alchemist.farm](crucible/guides-alchemist.farm/README.md)
-  * [Am creat un Crucible, ce urmeaza acum?](crucible/guides-alchemist.farm/i-minted-a-crucible-now-what.md)
-  * [Cum sa revendicati recompensele si sa retrageti LP-ul din Aludel utilizand reteaua Taichi](crucible/guides-alchemist.farm/how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md)
-  * [Ghiduri Vizuale 🎞](crucible/guides-alchemist.farm/visual-guides.md)
 * [Cum poti deveni un Alchimist Certificat in Discord 💬](crucible/how-to-become-a-certified-alchemist-on-discord.md)
 * [Wallete-le Compatibile](crucible/wallet-compatibility.md)
+* [Ghiduri Vizuale 🎞](crucible/visual-guides.md)
 * [Intrebari Frecvente 📖 FAQ New](crucible/faq-new.md)
 
 ## Join us
