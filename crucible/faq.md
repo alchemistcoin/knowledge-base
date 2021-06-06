@@ -56,7 +56,7 @@ Pulę nagród możesz zobaczyć [tutaj.](https://etherscan.io/address/0x04108d6e
 
 ## **Jak odebrać nagrody?**
 
-Wszystkie nagrody otrzymasz, gdy użyjesz opcji "Claim Rewards and Unsubscribe LP". Uważaj, to resetuje również mnożnik nagród. Będziesz musiał w tym celu skorzystać z Taichi Network, aby uniemożliwić botom przejmowanie Twoich nagród. Zobacz ten [przewodnik](guides-alchemist.farm/how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md).
+Wszystkie nagrody otrzymasz, gdy użyjesz opcji "Claim Rewards and Unsubscribe LP". Uważaj, to resetuje również mnożnik nagród. Będziesz musiał w tym celu skorzystać z Taichi Network, aby uniemożliwić botom przejmowanie Twoich nagród. Zobacz ten [przewodnik]().
 
 ## **Czy ma znaczenie jak dużo tokenów LP trafia do Crucible?**
 
