@@ -18,5 +18,5 @@ Alchemist 是從[@thegostep](https://twitter.com/thegostep)發的一條推文 [t
 
 **有網站嗎？**
 
-暫時還沒有，如果您有興趣幫忙開發一個，請查看 Discord 上的[實驗室](https://discord.gg/UQB4MwG4c8)。
+[crucible.alchemist.wtf](https://crucible.alchemist.wtf/)
 
