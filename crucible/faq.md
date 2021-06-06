@@ -54,7 +54,7 @@ You can see the reward pool [here.](https://etherscan.io/address/0x04108d6e9a51b
 
 ## **How do I claim the rewards?**
 
-All rewards are received when you "Claim Rewards and Unsubscribe LP". Be careful, this also resets your reward multiplier. You will need to use Taichi Network when doing this to prevent bots from front-running your rewards. See this [guide]().
+All rewards are received when you "Claim Rewards and Unsubscribe LP". Be careful, this also resets your reward multiplier. 
 
 ## **Does it matter how many LP tokens go into the Crucible?**
 
@@ -146,7 +146,7 @@ Görünür olması için bu sözleşme adresini **0x54e0395CFB4f39beF66DBCd5bD93
 
 **Ödülleri nasıl alırım?**
 
-**Tüm** ödüller, artık katılmadığınız anda verilecektir. Ancak lütfen dikkatli olun, katılımınızın herhangi bir şekilde sonlandırılması, katılımınız süresince çarpanın sıfırlanmasıyla sonuçlanacaktır. Artık katılmak istemiyorsanız, önde gelenlerden kaçınmak için TaiChi ağını kullanmanız gerekir. Bu [Kılavuz](https://hackmd.io/@alchemistcoin/ryb7a36Lu) 'a bir göz atın.
+**Tüm** ödüller, artık katılmadığınız anda verilecektir. Ancak lütfen dikkatli olun, katılımınızın herhangi bir şekilde sonlandırılması, katılımınız süresince çarpanın sıfırlanmasıyla sonuçlanacaktır.
 
 **Crucible’ı oluştururken kaç LP jetonunun kullanıldığı önemli mi?**
 
