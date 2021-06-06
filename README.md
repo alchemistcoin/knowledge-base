@@ -20,5 +20,5 @@ Wir würden dich gerne auf unserem [Discord](http://discord.alchemist.wtf/) den 
 
 **Gibt es eine Website?**
 
-Noch nicht. Wenn du Interesse hast uns hierbei zu helfen, schau doch einmal im [\#the-lab](https://discord.gg/UQB4MwG4c8) Channel auf unserem Discord vorbei.
+[crucible.alchemist.wtf](https://crucible.alchemist.wtf/)
 
