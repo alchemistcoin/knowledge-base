@@ -3,7 +3,7 @@
 ## **Videos 🎬📺**
 
 {% hint style="info" %}
-Imajte na umu da su na nekim klipovima prikazane zastarele verzije [alchemist.farm](https://alchemist.farm). Takođe, ovi video snimci su napravili članovi naše zajednice - ali idalje mogu biti od pomoci.
+Imajte na umu da su na nekim klipovima prikazane zastarele verzije[ crucible.alchemist.wtf](https://crucible.alchemist.wtf/). Takođe, ovi video snimci su napravili članovi naše zajednice - ali idalje mogu biti od pomoci.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -15,7 +15,7 @@ Ako niste sigurni kako da se prebacite izmedju verzija V3 i V2, molim vas da kor
 * [Make a Crucible](https://www.youtube.com/watch?v=Rl9Rf-3Sp-8)
 * [Get LP, then Make a Crucible](https://www.youtube.com/watch?v=Ga1qcQ6x3as)
 * [Get LP, then Make a Crucible, and become a Certified Alchemist on Discord](https://www.youtube.com/watch?v=k7MO1QpqCds)
-* [Crucible Transfer using Alchemist.farm and OpenSea.io](https://www.youtube.com/watch?v=i2MCYimelBM)
+* [Crucible Transfer using Alchemist website and OpenSea.io](https://www.youtube.com/watch?v=i2MCYimelBM)
 * [Impermanent Loss - watch before staking LP](https://www.youtube.com/watch?v=8XJ1MSTEuU0)
 
 ## **Images 🖼🎨**
