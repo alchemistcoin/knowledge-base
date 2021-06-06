@@ -54,7 +54,7 @@ Puedes ver el conjunto de recompensas [aquí](https://etherscan.io/address/0x041
 
 ## **¿Cómo reclamo las recompensas?**
 
-Todas las recompensas se reciben cuando pulse "Claim Rewards and Unsubscribe LP". Ten cuidado, esto también reinicia tu multiplicador de recompensas. Tendrás que usar la Red Taichi cuando hagas esto para evitar que los bots se adelanten \("front-run"\) a tus recompensas. Consulta esta [guía]().
+Todas las recompensas se reciben cuando pulse "Claim Rewards and Unsubscribe LP". Ten cuidado, esto también reinicia tu multiplicador de recompensas. 
 
 ## **¿Importa cuántos tokens de LP entran en el Crucible?**
 
