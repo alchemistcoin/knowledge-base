@@ -53,7 +53,7 @@ Je kunt de beloningspool [hier](https://etherscan.io/address/0x04108d6e9a51bec51
 
 Alle beloningen worden ontvangen wanneer je klikt op "Claim Rewards and Unsubscribe LP". Wees voorzichtig, dit stelt ook je beloningsvermenigvuldiger opnieuw in.
 
-Je moet Taichi Network gebruiken om dit te doen om te voorkomen dat bots je beloningen frontrunnen. Zie deze [guide](guides-alchemist.farm/how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md).
+Je moet Taichi Network gebruiken om dit te doen om te voorkomen dat bots je beloningen frontrunnen. Zie deze [guide]().
 
 ## Maakt het uit hoeveel LP-tokens er in de Crucible gaan?
 
