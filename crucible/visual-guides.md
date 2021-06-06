@@ -23,7 +23,7 @@ Si vous n'êtes pas certains de savoir comment passer de la V3 à la V2, utilise
 
 ![Process d&apos;entr&#xE9;e dans le programme Aludel](https://i.imgur.com/7sK0Jr2.png)
 
-![L&apos;id&#xE9;e de l&apos;Aludel](https://i.imgur.com/sutIhed.png)
+![L&apos;id&#xE9;e de l&apos;Aludel](../.gitbook/assets/visual-guide-2-after.jpg)
 
 
 
