@@ -1,10 +1,5 @@
 # Guides: crucible.alchemist.wtf
 
-{% hint style="info" %}
-**De onderstaande guides zijn voor de communitysite** [**crucible.alchemist.wtf**](https://crucible.alchemist.wtf/)  
-Klik [hier](../guides-alchemist.farm/) als je [alchemist.farm](https://alchemist.farm/) gebruikt.
-{% endhint %}
-
 ### Inhoud
 
 1. [Hoe mint ik een Crucible?](how-do-i-mint-a-crucible.md)
