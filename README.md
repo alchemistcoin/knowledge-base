@@ -18,5 +18,5 @@ Alchemist\(炼金术士\) 起源于 [@thegostep](https://twitter.com/thegostep) 
 
 **有网站吗？**
 
-我们暂时还没有，如果您有兴趣帮忙开发一个，请查看 Discord 上的[实验室](https://discord.gg/UQB4MwG4c8)。
+[crucible.alchemist.wtf](https://crucible.alchemist.wtf/)
 
