@@ -54,7 +54,7 @@ Puoi vedere la pool di riconpense [qui](https://etherscan.io/address/0x04108d6e9
 
 ## **Come chiedo le ricompense?**
 
-Tutte le ricompense sono ricevute cliccando "Claim Rewards and Unsubscribe LP". Presta attenzione, perchè ciò andrà a resettare il tuo moltiplicatore di ricompense. Dovrai usare la rete Taichi per questo processo per prevenire che i bot superino le tue ricompense. Dai uno sguardo a questa [guida](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-Ma-zK1H1lQ4_Nz_pBOb/v/italian/crucible/guides-alchemist.farm/how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network).
+Tutte le ricompense sono ricevute cliccando "Claim Rewards and Unsubscribe LP". Presta attenzione, perchè ciò andrà a resettare il tuo moltiplicatore di ricompense. 
 
 ##  **Ha importanza la quantità di token LP che si trova nel Crucible?**
 
