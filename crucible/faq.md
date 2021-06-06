@@ -52,7 +52,7 @@ Du kannst einen Blick auf den Belohnungspool [hier](https://etherscan.io/address
 
 ## **Wie erhalte ich die Belohnungen?**
 
-**Alle** Belohnungen werden ausgeschüttet, sobald du nicht mehr teilnimmst. Aber sei bitte vorsichtig, jede Beendigung deiner Teilnahme führt dazu, dass der Multiplikator für die Dauer deiner Teilnahme zurückgesetzt wird. Wenn du nicht mehr teilnehmen möchtest, musst du, um Frontrunner zu vermeiden, das TaiChi Netzwerk verwenden. Schau dir hierzu diese [Anleitung für crucible.alchemist.wtf](guides-crucible.alchemist.wtf/claiming-rewards-and-unsubscribing-your-lp.md) oder diese [Anleitung für alchemist.farm]() an.
+**Alle** Belohnungen werden ausgeschüttet, sobald du nicht mehr teilnimmst. Aber sei bitte vorsichtig, jede Beendigung deiner Teilnahme führt dazu, dass der Multiplikator für die Dauer deiner Teilnahme zurückgesetzt wird. 
 
 ## **Spielt es eine Rolle wie viele LP Token bei der Erstellung des Crucible verwendet werden?**
 
