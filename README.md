@@ -22,5 +22,5 @@ Alchemist начался с [твита](https://twitter.com/thegostep/status/13
 
 **Есть ли у Alchemist официальный сайт?** 
 
-Еще нет. Если вы заинтересованы в оказании помощи по его созданию, загляните в лабораторию в [Discord](https://discord.gg/UQB4MwG4c8).
+[crucible.alchemist.wtf](https://crucible.alchemist.wtf/)
 
