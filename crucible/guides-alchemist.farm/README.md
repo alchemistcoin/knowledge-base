@@ -9,5 +9,5 @@ Proszę [kliknij tutaj](../guides-crucible.alchemist.wtf/) jeżeli używasz [cru
 
 1. [Wybiłem Crucible, co dalej?](i-minted-a-crucible-now-what.md)
 2. [Jak użyć opcji Claim Rewards and Unsubscribe your LP z programu Aludel używając sieci TaiChi](how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md)
-3. [Przewodniki wizualne 🎞](visual-guides.md)
+3. [Przewodniki wizualne 🎞](../visual-guides.md)
 

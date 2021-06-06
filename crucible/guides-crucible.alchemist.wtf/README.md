@@ -1,10 +1,5 @@
 # Przewodniki: crucible.alchemist.wtf
 
-{% hint style="info" %}
-**Poniższe przewodniki dotyczą społecznościowej witryny** [**crucible.alchemist.wtf**](https://crucible.alchemist.wtf/)  
-Proszę [kliknij tutaj](../guides-alchemist.farm/) jeżeli używasz [alchemist.farm](https://alchemist.farm/)
-{% endhint %}
-
 ### Zawartość
 
 1. [Jak wybić Crucible?](how-do-i-mint-a-crucible.md)

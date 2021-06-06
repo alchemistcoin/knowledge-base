@@ -22,9 +22,9 @@
 * [Przewodniki: alchemist.farm](crucible/guides-alchemist.farm/README.md)
   * [Wybiłem Crucible, co dalej?](crucible/guides-alchemist.farm/i-minted-a-crucible-now-what.md)
   * [Jak użyć opcji Claim Rewards and Unsubscribe your LP z programu Aludel używając sieci TaiCh](crucible/guides-alchemist.farm/how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md)
-  * [Przewodniki wizualne 🎞](crucible/guides-alchemist.farm/visual-guides.md)
 * [Jak zostać Certyfikowanym Alchemikiem \("Certified Alchemist"\) na Discordzie 💬](crucible/how-to-become-a-certified-alchemist-on-discord.md)
 * [Zgodność Portfela](crucible/wallet-compatibility.md)
+* [Przewodniki wizualne 🎞](crucible/visual-guides.md)
 * [FAQ 📖 - Sekcja pytań i odpowiedzi](crucible/faq.md)
 
 ## Dołącz do nas <a id="join-us"></a>
