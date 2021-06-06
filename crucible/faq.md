@@ -76,7 +76,7 @@ Crucible 只支持 **Uniswap V2** 流动资金池。向 **Uniswap V3** 资金池
 
 ### **如何查看我在此期间获得了多少奖励?**
 
-您可以在 [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) 或 [alchemist.farm](https://alchemist.farm) 上查看 Crucible 的累积奖励，并使用 [apy.vision](https://apy.vision/) 或 [croco.finance](https://croco.finance/) 来查看 Uniswap LP 所累积的费用。
+您可以在 [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) 上查看 Crucible 的累积奖励，并使用 [apy.vision](https://apy.vision/) 或 [croco.finance](https://croco.finance/) 来查看 Uniswap LP 所累积的费用。
 
 ### **我可以在现有的 Crucible 中添加更多的 LP 吗?**
 
@@ -92,7 +92,7 @@ Crucible 只支持 **Uniswap V2** 流动资金池。向 **Uniswap V3** 资金池
 
 ### **我可以将 Crucible NFT 转至另一个钱包吗？**
 
-可以。NFT\(和当中订阅的LP代币\)的所有权可以转移到任何与 ERC-721 兼容的钱包。您可以通过 [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) 或 [alchemist.farm](https://alchemist.farm/) 上的 “转移 Crucible ” 选项来完成这项操作。
+可以。NFT\(和当中订阅的LP代币\)的所有权可以转移到任何与 ERC-721 兼容的钱包。您可以通过 [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) 上的 “转移 Crucible ” 选项来完成这项操作。
 
 ### **如果我将 Crucible 从一个钱包转移到另一个钱包，会重置奖励倍数吗?**
 
