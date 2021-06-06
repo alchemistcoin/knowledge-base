@@ -18,5 +18,5 @@ Przyjdź i spotkaj się z innymi alchemikami na [discord.alchemist.wtf](http://d
 
 **Czy istnieje witryna internetowa?**
 
-Jeszcze nie. Jeśli jesteś zainteresowany pomocą w jej tworzeniu, zajrzyj do [the lab](https://discord.gg/UQB4MwG4c8) na Discordzie.
+[crucible.alchemist.wtf](https://crucible.alchemist.wtf/)
 
