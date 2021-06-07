@@ -3,7 +3,7 @@
 Na podstawie ograniczonej liczby testów i opinii użytkowników opracowaliśmy poniższą tabelę zgodności.
 
 {% hint style="info" %}
-Dokładność tych informacji może się zmieniać w czasie i należy traktować je jedynie jako wskazówkę.
+Dokładność poniższych informacji może zmieniać się w czasie i należy traktować je jedynie jako wskazówkę.
 {% endhint %}
 
 <table>
