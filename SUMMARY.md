@@ -31,6 +31,7 @@
 
 * [Crucible](https://crucible.alchemist.wtf/)
 * [mistX](https://mistx.io/)
+* [Copper](https://copperlaunch.com/)
 
 ## LINKS 🔗
 
