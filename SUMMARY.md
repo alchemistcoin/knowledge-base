@@ -33,6 +33,7 @@
 
 * [क्रूसिबल](https://crucible.alchemist.wtf/)
 * [मिस्टX](https://mistx.io/)
+* [Copper](https://copperlaunch.com/)
 
 ## Links 🔗 <a id="discussion"></a>
 
