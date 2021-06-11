@@ -26,7 +26,7 @@
   
    ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.05.52.png) 
 
-7. 在欄中填入您想退訂的LP數量，並點擊 "Claim rewards and unsubscribe LP"。![](../../.gitbook/assets/1%20%282%29%20%282%29%20%282%29.png)
+7. 在欄中填入您想退訂的LP數量，並點擊 "Claim rewards and unsubscribe LP"。![](../../.gitbook/assets/1.png)
 8. 現在您會見到 MetaMask 彈出兩個框，進行簽名請求\(Signature Request\)，兩次都選擇點擊"簽名"\(Sign\) :
 
 ![](../../.gitbook/assets/2%20%282%29%20%282%29%20%281%29.png)
@@ -49,7 +49,7 @@
 
 
 11.   如果成功交易，您會收到如下信息:  
-![](../../.gitbook/assets/6%20%281%29%20%281%29%20%281%29.png)  
+![](../../.gitbook/assets/6.png)  
   
 由於通過Flashbots提交的交易是被捆綁在一起的，特點是您第一次嘗試時可能會交易失敗。如遇此種情況，請再次嘗試。請放心，只有在交易成功的情況下才會收取 gas 費用。交易失敗是不會被扣除費用的。  
 ![](../../.gitbook/assets/7%20%281%29.png)
