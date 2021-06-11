@@ -14,6 +14,7 @@ Alchemist'e katılırken lütfen yalnızca listelerde bulunan resmi bağlantıla
 | [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) | Crucible Websitesi |
 | [docs.alchemist.wtf](https://docs.alchemist.wtf) | Dokümantasyon |
 | [mistx.io](https://mistx.io/) | mistX Websitesi |
+| [copperlaunch.com](https://copperlaunch.com/) | Copper Websitesi |
 
 ### Topluluk
 
