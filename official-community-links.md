@@ -14,6 +14,7 @@ Utilisez seulement notre liste de liens officiels lorsque vous interagissez avec
 | [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) | Site web Crucible |
 | [docs.alchemist.wtf](https://docs.alchemist.wtf) | Documentation |
 | [mistX.io](https://mistx.io/) | Site web mistX |
+| [copperlaunch.com](https://copperlaunch.com/) | Site web Copper |
 
 ### Community
 
