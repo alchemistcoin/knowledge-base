@@ -29,8 +29,9 @@
 
 ## Tools
 
-* [mistX](http://mistx.io/)
 * [Crucible](https://crucible.alchemist.wtf/)
+* [mistX](http://mistx.io/)
+* [Copper](https://copperlaunch.com/)
 
 ## Links 🔗 <a id="discussion"></a>
 

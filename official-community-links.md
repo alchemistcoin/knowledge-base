@@ -16,6 +16,7 @@ Gebruik alleen de officiële lijst met links, wanneer je werkt met of deelneemt 
 | [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) | Crucible Website |
 | [docs.alchemist.wtf](https://docs.alchemist.wtf) | Documentatie |
 | [mistx.io](http://mistx.io/) | mistX DEX |
+| [copperlaunch.com](https://copperlaunch.com/) | Copper Website |
 
 ### Community
 
