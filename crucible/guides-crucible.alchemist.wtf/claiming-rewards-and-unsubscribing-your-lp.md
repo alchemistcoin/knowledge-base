@@ -6,7 +6,7 @@ The guide below is designed to step you through that process.
 
 Please note that after unsubscribing your LP, you will no longer receive rewards. To receive rewards please subscribe your LP again using the "Increase LP subscription" button.
 
-1. Open [crucible.alchemist.wtf](https://crucible.alchemist.wtf/), connect your wallet and visit "Your Crucibles" tab. 
+1. To Claim your Rewards and Unsubscribe your LP open [crucible.alchemist.wtf](https://crucible.alchemist.wtf/), connect your wallet and visit "Your Crucibles" tab. 
 2. Once on the "Your Crucibles" tab, expand the details on the Crucible you wish to claim rewards from and unsubscribe LP by clicking the downwards facing arrow:
 
   
