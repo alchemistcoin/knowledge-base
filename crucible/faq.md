@@ -168,6 +168,8 @@ LP jetonlarının Aludel ödül programına katılmasına her izin verdiğinizde
 
 Şimdiye kadar kazanılan ödüller, [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) daki kullanıcı arayüzünden görüntülenebilir. Şimdiye kadar kazanılan Uniswap LP ücretleri [apy.vision](https://apy.vision/) veya [croco.finance](https://croco.finance/) aracılığıyla görülebilir.
 
+![croco.finance](../.gitbook/assets/untitled.png)
+
 **Önceden oluşturduğum Crucible’ıma daha fazla LP jetonu ekleyebilir miyim?**
 
 Evet. Daha fazla LP jetonu eklemek için katlanılan gaz maliyetleri, Crucible’ı oluştururken \(Nane\) olduğundan önemli ölçüde daha düşük olacaktır. Her katılım birbirinden bağımsızdır, her ek LP jetonu kendi çarpanını alacaktır.
