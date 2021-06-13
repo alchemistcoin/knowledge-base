@@ -2,6 +2,8 @@
 
 Existe un token llamado Alchemist. Tiene el símbolo de ticker "⚗️". También se le conoce como "mist" y "$MIST". No lo confundas con [MUST](https://www.coingecko.com/en/coins/must). A pesar de compartir alambique como ticker no tiene ninguna relación con Alchemist.
 
+![](../.gitbook/assets/mm_mi21st.png)
+
 ¿Para qué sirve ⚗️\($MIST\)? No estamos aquí para responder a eso. Por favor, consulta las [preguntas frecuentes oficiales](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_QLkkM0Xn_w82Zeivz/v/spanish/faq).
 
 Puedes "stake" ⚗️\($MIST\) como con otras cryptomonedas, y puedes utilizar tus ⚗️\($MIST\) para [crear un Crucible NFT](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_QLkkM0Xn_w82Zeivz/v/spanish/crucible/teach-me-about-crucibles) y apuntarlo en el [programa Aludel](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_QLkkM0Xn_w82Zeivz/v/spanish/the-basic-outline#3-aludel). Desde ahora, ⚗️\($MIST\) = $MIST = ⚗️.
