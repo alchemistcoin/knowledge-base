@@ -67,9 +67,11 @@ De enige keer dat u meerdere Crucibles zou gebruiken, is als je een Crucible met
 
 Every time you put LP tokens in the Aludel reward program, it keeps track of how long those tokens are Subscribed. The Aludel applies a reward multiplier which starts at 1x and increases to 10x over 60 days. When you claim a partial amount, the Aludel first claims from the Subscription with the lowest multiplier \(Last In, First Out\).
 
+![](../.gitbook/assets/untitled%20%281%29.png)
+
 ## Kan ik op de een of andere manier zien hoeveel beloningen ik in de tussentijd heb verdiend?**?**
 
-Je kunt de verzamelde beloning voor je Crucible zien door de gebruikersinterface te gebruiken bij [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) en de verzamelde Uniswap LP-vergoedingen met [apy.vision](https://apy.vision/) of [croco.finance](https://croco.finance/dashboard/).
+Je kunt de verzamelde beloning voor je Crucible zien door de gebruikersinterface te gebruiken bij [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) en de verzamelde Uniswap LP-vergoedingen met [apy.vision](https://apy.vision/) of [croco.finance](https://croco.finance/dashboard/) \(Uniswap LP fees earned will show as ⚗️, and WETH or ETH\).
 
 ![croco.finance](../.gitbook/assets/untitled.png)
 
