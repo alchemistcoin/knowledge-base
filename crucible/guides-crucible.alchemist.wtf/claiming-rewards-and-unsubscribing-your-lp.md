@@ -14,31 +14,40 @@
 4. "Manage Crucible" बटन को दबाइये.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.04.png) 
 5. अब आपको "Rewards" टैब के अंतर्गत आंकड़ों की अधिक जटिल सूची दिखाई जानी चाहिए  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.22.png) 
 6. पृष्ठ के निचले भाग में "Claim rewards and unsubscribe" पर क्लिक कीजिये. ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.05.52.png) 
-7. आगे बढ़ने से पहले, आपको अपना वॉलेट ताइची नेटवर्क पर कनेक्ट करना होगा, कृपया [कनेक्शन विवरण और निर्देशों](https://github.com/Taichi-Network/docs/blob/master/sendPriveteTx_tutorial.md)
+7. Fill in the prompt with how much LP you wish to unsubscribe and Click "Claim rewards and unsubscribe LP".  
+   ![](../../.gitbook/assets/1.png)   
 
-   \([this link for connection details and instructions](https://github.com/Taichi-Network/docs/blob/master/sendPriveteTx_tutorial.md)\), के लिए इस लिंक को देखें, हमने आपको यह प्रक्रिया समझाने के लिए नीचे एक एनिमेटेड ट्यूटोरियल बनाया है.  
-   ![](../../.gitbook/assets/taichi-network-add.gif) 
 
-8. यह सुनिश्चित कर लेना की मेटामास्क ताइची नेटवर्क दिखा रहा है.
+   8. You will now get two pop up boxes from MetaMask asking you for a “Signature Request”. Click “sign” both times.  
+   ![](../../.gitbook/assets/2%20%282%29%20%282%29%20%281%29.png)   
+   1st Signature Request
 
-   ![](https://i.imgur.com/kszVVbq.png)
+  
+   ![](../../.gitbook/assets/3%20%281%29%20%285%29%20%281%29%20%284%29.png)  
+    2nd Signature Request  
 
-9. अब वेबसाइट कर लौटिए और जितना एलपी आप अनसब्सक्राइब करना चाहते हैं उससे लिखये और फिर "Claim rewards and unsubscribe LP" पर क्लिक कीजिये. ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.06.00.png) 
-10. अगर आप चरण 7-8 को सही ढंग से नहीं कर पाए हैं तो आपको एक एरर दिखाई देगा. अगर आपको यह एरर दिखाई देता है, तो कृपया चरण 7 पर वापस जाइये और उसे करने की फिर कोशिश कीजिये .  ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.06.44.png) 
-11. अब आपको मेटामास्क द्वारा एक पॉप अप बॉक्स दिखाई देगा जो आपसे “Signature Request”\(सिग्नेचर रिक्वेस्ट\) मांगेगा. “sign”\(साइन\) पर क्लिक कीजिये.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.11.35.png) 
-12. आगे आपको मेटामास्क से एक ट्रांसफर फंड्स का नोटिफिकेशन बॉक्स दिखाई देगा जैसा की नीचे दिखाया गया है. हमारा यह सुझाव है कि आप "एडिट" बटन को क्लिक करके गैस फी चेक कर लीजिये. 
 
-    कुछ उपयोगकर्ताओं ने डिफ़ॉल्ट ऑप्शन सबसे धीमे होने की सूचना दी है जिससे आपकी ट्रैन्ज़ैक्शन को पूरा होने में देरी हो सकती है.अगर आप गैस फीस के अधिक होने को लेकर चिंतित हैं, तो आप [ethereumprice.org/gas/](https://ethereumprice.org/gas/) का उपयोग कर सकते हैं जो आपको सबसे कम गैस फीस होने पर निर्णय लेने में आपकी मदद कर सकता है.
+   9. The cost of Gas will be automatically calculated by the website based on the current rate of gas. This will be submitted on your behalf as part of the claim rewards transaction.
 
-    ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.11.44.png) 
 
-13. अब इस ट्रैन्ज़ैक्शन को ताइची नेटवर्क पर भेजा जाएगा. घबराइए नहीं अगर आप इस ट्रैन्ज़ैक्शन को इथरस्कैन पर ना देख पाएं. जब आपकी ट्रैन्ज़ैक्शन पूरी हो जाती है, तब यह आपको वहां दिखाई देगा.
-14. अगर आप अपनी ट्रैन्ज़ैक्शन को ताइची पर पूरा होते देखना चाहते हैं, तो आप अपना ‘ ट्रैन्ज़ैक्शन हैश ’ [taichi.network](https://taichi.network/) पर दाल सकते हैं जिससे आप ट्रैन्ज़ैक्शन की प्रगति होते देख सकते हैं .  ध्यान दें की ताइची नेटवर्क इथेरियम नेटवर्क से थोड़ा धीमा होगा
-15. ट्रैन्ज़ैक्शन पूरी होने पर, आपको क्रूसिबल को देखने के लिए इथेरियम नेटवर्क पर वापस जाना होगा.
 
-    ![](https://i.imgur.com/fcPY6Zp.png) 
+   10. You will now get a message indicating that your claim is now being submitted via Flashbots. This is to protect your rewards from frontrunners. The process may take up to 5 minutes to complete.
 
-16. 'रिफ्रेश' को क्लिक कीजिये और अब आप एलपी टोकनस के बिना क्रूसिबल को देख पाएंगे.
+   ![](../../.gitbook/assets/4%20%281%29%20%282%29.png)  
+  
+   If you do not have enough ETH in your wallet for the transaction, you will receive a message as below.  
+   ![](../../.gitbook/assets/edlin%20%281%29.png)  
 
-\*\*\*\*
+
+   11. If your transaction is successful you will get the message below.  
+   ![](../../.gitbook/assets/6.png)  
+  
+   Due to the nature of bundling transactions, it's possible the transaction may not be successful on your first attempt. If this is the case, please try again. The gas fee will only be charged if there is a successful transaction. If the transaction fails, you will not be charged.  
+   ![](../../.gitbook/assets/7%20%281%29.png)
+
+
+
+
+
+   \*\*\*\*
 
