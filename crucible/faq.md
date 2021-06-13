@@ -76,6 +76,8 @@ Jedes Mal wenn du LP Token im Aludel Belohnungsprogramm teilnehmen lässt, wird 
 
 Die bislang verdienten Belohnungen sind über die Benutzeroberfläche auf entweder [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) einsehbar. Die bislang verdienten Uniswap LP Gebühren sind sichtbar über [apy.vision](https://apy.vision) oder [croco.finance](https://croco.finance).
 
+![croco.finance](../.gitbook/assets/untitled.png)
+
 ## **Kann ich mehr LP Token zu meinem bereits erstellten Crucible hinzufügen?**
 
 Ja. Die anfallenden Gaskosten werden für das Hinzufügen von weiteren LP Token deutlich geringer sein, als bei der Erstellung \(Minting\) des Crucibles. Jede Teilnahme ist unabhängig von einander, jeder weitere LP Token wird seinen eigenen Multiplikator erhalten.
