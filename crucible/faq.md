@@ -78,6 +78,8 @@ Every time you put LP tokens in the Aludel reward program, it keeps track of how
 
 You can see the accumulated reward for your crucible by using the UI at either [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) and the accumulated Uniswap LP fees using [apy.vision](https://apy.vision/) or [croco.finance](https://croco.finance/)
 
+![croco.finance](../.gitbook/assets/untitled.png)
+
 ## **Can I add more LP to an existing Crucible?**
 
 Yes. The gas for adding more LPs to your current Crucible will be much lower than when you initially minted a Crucible. Each Subscription event is independent, so any LP you add will start their own multiplier independently.
@@ -178,6 +180,8 @@ No, as long as the rewards are not unsubscribed from the Aludel.
 
 שלך באמצעות ממשק המשתמש באתר crucible אתה יכול לראות את התגמולים המצטברים עבור ה [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)  
 :באמצעות אחד מהאתרים כאן Unuswap שנצברו על ידי LP -ובעמלות ה [apy.vision](https://apy.vision/) [croco.finance](https://croco.finance/)
+
+![croco.finance](../.gitbook/assets/untitled.png)
 
 **?הקיים Crucible -ל LP האם אוכל להוסיף עוד**
 
