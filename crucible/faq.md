@@ -71,6 +71,8 @@ Every time you put LP tokens in the Aludel reward program, it keeps track of how
 
 Je kunt de verzamelde beloning voor je Crucible zien door de gebruikersinterface te gebruiken bij [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) en de verzamelde Uniswap LP-vergoedingen met [apy.vision](https://apy.vision/) of [croco.finance](https://croco.finance/dashboard/).
 
+![croco.finance](../.gitbook/assets/untitled.png)
+
 ## Kan ik meer LP toevoegen aan een bestaande Crucible?
 
 Ja. De kosten voor het toevoegen van meer LP's aan je huidige Crucible zal veel lager zijn dan toen je in eerste instantie een Crucible hebt gemunt. Elke abonnementsgebeurtenis is onafhankelijk, dus elke LP die je toevoegt, begint onafhankelijk met zijn eigen vermenigvuldiger.
