@@ -5,54 +5,47 @@ En cualquier momento puedes decidir que estás listo para reclamar tus recompens
 Las intrucciones siguiente estan diseñadas para guiarte a través de ese proceso.
 
 {% hint style="warning" %}
-Antecedentes: La razón por la que necesitarás hacer esto es para protegerte de ser adelantado por los bots cuando te desinscribe/das de baja del programa Aludel.
-{% endhint %}
-
-{% hint style="warning" %}
 Este paso es obligatorio y las instrucciones se incluyen en los pasos siguientes
 {% endhint %}
 
 1. Ir a [crucible.alchemist.wtf](https://crucible.alchemist.wtf/), conecte tu wallet y haz clic "Your Crucibles" tab.
 2. Una vez en la pestaña "Your Crucible", amplíe los detalles del Crucible que deseas ver utilizando la flecha que mira hacia abajo:
 
-  
-   ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.58.png) 
+   ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.58.png)   
 
 3. Tu Crucible debería mostrarte más información, como la cantidad de MIST o ETH que has ganado en recompensas
 
-  
-   ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.42.png) 
+   ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.42.png)   
 
 4. Haz clic en el botón "Manage Crucible"
 
-  
-   ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.04.png) 
+   ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.04.png)   
 
 5. Ahora debería aparecer una lista más compleja de estadísticas en la pestaña "Rewards".
 
+    ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.22.png)   
+
+6. Haz clic en "Claim rewards and unsubscribe" al final de la pagina ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.05.52.png)  
+7. Fill in the prompt with how much LP you wish to unsubscribe and Click "Claim rewards and unsubscribe LP".  
+   ![](../../.gitbook/assets/1.png)   
+
+
+   1. You will now get two pop up boxes from MetaMask asking you for a “Signature Request”. Click “sign” both times.  
+      ![](../../.gitbook/assets/2%20%282%29%20%282%29%20%281%29.png)   
+      1st Signature Request
+
   
-    ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.22.png) 
+      ![](../../.gitbook/assets/3%20%281%29%20%285%29%20%281%29%20%284%29.png)  
+       2nd Signature Request  
 
-6. Haz clic en "Claim rewards and unsubscribe" al final de la pagina ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.05.52.png) 
-7. **Antes de continuar con el siguiente paso**, tendrás que conectar tu wallet a la Red TaiChi, por favor, consulte este [enlace para los detalles de conexión y las instrucciones](https://github.com/Taichi-Network/docs/blob/master/sendPriveteTx_tutorial.md), hemos hecho un tutorial animado a continuación para guiarte a través de este proceso. ![](../../.gitbook/assets/taichi-network-add.gif) 
-8. Asegúrate de que MetaMask está mostrando la red TaiChi como abajo.
+   2. The cost of Gas will be automatically calculated by the website based on the current rate of gas. This will be submitted on your behalf as part of the claim rewards transaction.
 
-   ![](https://i.imgur.com/kszVVbq.png)
+   3. You will now get a message indicating that your claim is now being submitted via Flashbots. This is to protect your rewards from frontrunners. The process may take up to 5 minutes to complete.
 
-9. Ahora vuelva a la página web y rellene la solicitud con la cantidad de LP que deseas dar de baja y haz clic en "Claim rewards and unsubscribe LP". ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.06.00.png) 
-10. Si no has hecho el paso 7-8 correctamente verás un error, si ves este error, por favor vuelve al paso 7 e inténtalo de nuevo. ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.06.44.png) 
-11. Ahora aparecerá una ventana de diálogo de MetaMask pidiéndote una "Signature Request" haga clic en "sign" ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.11.35.png) 
-12. A continuación obtendrás un cuadro de notificación de transferencia de fondos de MetaMask como se muestra a continuación. **Te sugerimos que compruebes la tasa de gas haciendo clic en el botón EDITAR. Algunos usuarios han informado de que la opción la más lenta esta, a veces, selectionada automaticamente, lo que puede retrasar la finalización de tu transacción. Si te preocupa que las tasas de gas sean demasiado altas, utilice** [**ethereumprice.org/gas/**](https://ethereumprice.org/gas/) **para ayudar a decidir cuándo pueden producirse las tasas de gas más bajas**
+      ![](../../.gitbook/assets/4%20%281%29%20%282%29.png)  
+  
+      If you do not have enough ETH in your wallet for the transaction, you will receive a message as below.  
+      ![](../../.gitbook/assets/edlin%20%281%29.png)  
 
-![](../../.gitbook/assets/screenshot-2021-05-07-at-13.11.44.png) 
-
-1. La transacción se enviará ahora a la red Taichi. No podras ver esta transacción en etherscan, así que no te asustes. Aparecerá allí una vez que la transacción se haya realizado.
-2. Si quieres comprobar que tu transacción se está realizando en Taichi, puedes pegar el hash de la transacción en [https://taichi.network/](https://taichi.network/) para ver el progreso. **Nota:** La red Taichi será un poco más lenta que la red Ethereum.
-3. Una vez que la transacción ha pasado y se ha completado tendras que cambiar de nuevo a la red ethereum para ver el Crucible 
-
-   ![](https://i.imgur.com/fcPY6Zp.png) 
-
-4. Haz clic en actualizar y ahora verás el Crucible con las fichas de LP eliminadas.
-
-\*\*\*\*
+   4. If your transaction is successful you will get the message below. ![](../../.gitbook/assets/6.png)  Due to the nature of bundling transactions, it's possible the transaction may not be successful on your first attempt. If this is the case, please try again. The gas fee will only be charged if there is a successful transaction. If the transaction fails, you will not be charged. ![](../../.gitbook/assets/7%20%281%29.png)
 
