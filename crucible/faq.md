@@ -70,9 +70,13 @@ Le seul cas où vous pourriez être amené à utiliser plusieurs Crucibles est l
 
 Chaque fois que vous mettez des tokens LP dans le programme de récompense Aludel, celui-ci garde en mémoire la durée de souscription de ces jetons. L'Aludel applique un multiplicateur de récompense qui débute à 1x et augmente jusqu’à 10x après 60 jours. Lorsque vous réclamez un montant partiel, l'Aludel réclame prioritairement la souscription avec le multiplicateur le plus bas \(“Last in, First Out”\).
 
+![](../.gitbook/assets/untitled%20%281%29.png)
+
 ## **Puis-je voir d'une manière ou d'une autre le montant de récompenses que j'ai acquis entre-temps ?**
 
-Vous pouvez voir les récompenses accumulées par votre Crucible en utilisant l’interface utilisateur [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) et les frais Uniswap LP accumulés en utilisant [apy.vision](https://apy.vision/) ou [croco.finance](https://croco.finance/)
+Vous pouvez voir les récompenses accumulées par votre Crucible en utilisant l’interface utilisateur [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) et les frais Uniswap LP accumulés en utilisant [apy.vision](https://apy.vision/) ou [croco.finance](https://croco.finance/) \(Uniswap LP fees earned will show as ⚗️, and WETH or ETH\).
+
+![croco.finance](../.gitbook/assets/untitled.png)
 
 ## **Puis-je ajouter des LP à un Crucible existant ?**
 
