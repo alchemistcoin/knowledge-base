@@ -72,9 +72,11 @@ Jedynym przypadkiem, w którym mógłbyś użyć wielu Crucible, jest zamiar prz
 
 Za każdym razem, gdy umieszczasz tokeny LP w programie nagród Aludel, program śledzi, jak długo te tokeny są subskrybowane. Aludel stosuje mnożnik nagrody, który zaczyna się od 1x i rośnie do 10x w ciągu 60 dni. Kiedy ubiegasz się o wypłatę częściowej kwoty, Aludel najpierw odbiera subskrypcję z najniższym mnożnikiem \(Last In, First Out\).
 
+![](../.gitbook/assets/untitled%20%281%29.png)
+
 ## **Czy mogę w międzyczasie sprawdzić jak dużą nagrodę zdobyłem?**
 
-Możesz zobaczyć zgromadzoną nagrodę za swój Crucible używając interfejsu użytkownika na [crucible.alchemist.wtf](https://crucible.alchemist.wtf/), a skumulowane opłaty za Uniswap LP możesz sprawdzić za pomocą [apy.vision](https://apy.vision/) lub [croco.finance](https://croco.finance/)
+Możesz zobaczyć zgromadzoną nagrodę za swój Crucible używając interfejsu użytkownika na [crucible.alchemist.wtf](https://crucible.alchemist.wtf/), a skumulowane opłaty za Uniswap LP możesz sprawdzić za pomocą [apy.vision](https://apy.vision/) lub [croco.finance](https://croco.finance/) \(Uniswap LP fees earned will show as ⚗️, and WETH or ETH\).
 
 ![croco.finance](../.gitbook/assets/untitled.png)
 
