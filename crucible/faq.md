@@ -74,9 +74,11 @@ An unlimited number of crucibles can be created. Please note that if you visit [
 
 Every time you put LP tokens in the Aludel reward program, it keeps track of how long those tokens are Subscribed. The Aludel applies a reward multiplier which starts at 1x and increases to 10x over 60 days. When you claim a partial amount, the Aludel first claims from the Subscription with the lowest multiplier \(Last In, First Out\).
 
+![](../.gitbook/assets/untitled%20%281%29.png)
+
 ## **Can I somehow see how much rewards I have acquired in the meantime?**
 
-You can see the accumulated reward for your crucible by using the UI at either [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) and the accumulated Uniswap LP fees using [apy.vision](https://apy.vision/) or [croco.finance](https://croco.finance/)
+You can see the accumulated reward for your crucible by using the UI at either [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) and the accumulated Uniswap LP fees earned using [apy.vision](https://apy.vision/) or [croco.finance](https://croco.finance/) \(Uniswap LP fees earned will show as ⚗️, and WETH or ETH\)
 
 ![croco.finance](../.gitbook/assets/untitled.png)
 
@@ -176,10 +178,12 @@ No, as long as the rewards are not unsubscribed from the Aludel.
 
 ,Aludel לתוכנית התגמול של LP בכל פעם שמכניסים אסימונים של .זה עוקב אחרי משך הזמן שרשומים לאסימונים האלה .מתחיל מכפיל תגמול שמתחיל פי 1 ומגדיל פי 10 מעל 60 יום Aludel -ה .\(Last In, First Out\) תובע תחילה מהמנוי עם המכפיל הנמוך ביותר Aludel כאשר תובעים סכום חלקי
 
+![](../.gitbook/assets/untitled%20%281%29.png)
+
 **?האם אני יכול איכשהו לראות כמה תגמולים רכשתי בינתיים**
 
 שלך באמצעות ממשק המשתמש באתר crucible אתה יכול לראות את התגמולים המצטברים עבור ה [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)  
-:באמצעות אחד מהאתרים כאן Unuswap שנצברו על ידי LP -ובעמלות ה [apy.vision](https://apy.vision/) [croco.finance](https://croco.finance/)
+:באמצעות אחד מהאתרים כאן Unuswap שנצברו על ידי LP -ובעמלות ה [apy.vision](https://apy.vision/) [croco.finance](https://croco.finance/) \(Uniswap LP fees earned will show as ⚗️, and WETH or ETH\)
 
 ![croco.finance](../.gitbook/assets/untitled.png)
 
