@@ -66,6 +66,10 @@ It’s almost always better to accumulate LP in a single Crucible as it minimize
 
 The only time you would use multiple Crucibles is if you aim to transfer / sell a Crucible with some active Subscription on it.
 
+## What is the maximum number of crucibles that can be created? 
+
+An unlimited number of crucibles can be created. Please note that if you visit [etherscan, ](https://etherscan.io/token/0x54e0395cfb4f39bef66dbcd5bd93cca4e9273d56)please disregard the word "Max" in "Max Total Supply" because the supply is unlimited. The "Max Total Supply" shown on etherscan simply indicates the total number crucibles created so far.
+
 ## **How does "Claim Rewards and Unsubscribe LP" impact the reward multiplier?**
 
 Every time you put LP tokens in the Aludel reward program, it keeps track of how long those tokens are Subscribed. The Aludel applies a reward multiplier which starts at 1x and increases to 10x over 60 days. When you claim a partial amount, the Aludel first claims from the Subscription with the lowest multiplier \(Last In, First Out\).
