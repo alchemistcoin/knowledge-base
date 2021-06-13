@@ -76,6 +76,8 @@ Za każdym razem, gdy umieszczasz tokeny LP w programie nagród Aludel, program 
 
 Możesz zobaczyć zgromadzoną nagrodę za swój Crucible używając interfejsu użytkownika na [crucible.alchemist.wtf](https://crucible.alchemist.wtf/), a skumulowane opłaty za Uniswap LP możesz sprawdzić za pomocą [apy.vision](https://apy.vision/) lub [croco.finance](https://croco.finance/)
 
+![croco.finance](../.gitbook/assets/untitled.png)
+
 ## **Czy mogę dodać więcej LP do istniejącego Crucible?**
 
 Tak. Ilość gazu potrzebnego do dodania LP do obecnego Crucible będzie znacznie niższa niż podczas pierwszego wybicia Crucible. Każde wydarzenie związane z subskrypcją jest niezależne, więc każdy dodany LP będzie niezależnie rozpoczynał swój własny mnożnik.
