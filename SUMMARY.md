@@ -20,7 +20,7 @@
 * [Cum poti deveni un Alchimist Certificat in Discord 💬](crucible/how-to-become-a-certified-alchemist-on-discord.md)
 * [Wallete-le Compatibile](crucible/wallet-compatibility.md)
 * [Ghiduri Vizuale 🎞](crucible/visual-guides.md)
-* [Intrebari Frecvente 📖 FAQ New](crucible/faq-new.md)
+* [Intrebari Frecvente 📖 FAQ](crucible/faq-new.md)
 
 ## Join us
 

@@ -1,4 +1,4 @@
-# Intrebari Frecvente 📖 FAQ New
+# Intrebari Frecvente 📖 FAQ
 
 
 
@@ -72,6 +72,8 @@ De fiecare data cand puneti tokenii LP in programul de recompense Aludel, progra
 ## **Pot in vre-un fel sa vad recompensele pe care le-am acumulat intre timp?**
 
 Poti vedea recompensele acumulate pentru NFT-urile tale Crucible folosind interfata pentru useri atat de pe [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) iar recompensele acumulate din Uniswap corespondente tokenilor LP detinuti le poti verifica folosind [apy.vision](https://apy.vision/) sau [croco.finance](https://croco.finance/)
+
+![croco.finance](../.gitbook/assets/untitled.png)
 
 ## **Pot adauga mai multi tokeni LP unui NFT Crucible existent?**
 
