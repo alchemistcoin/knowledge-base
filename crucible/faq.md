@@ -75,9 +75,11 @@ Samo u situaciji kada želite da prenesete ili prodate Crucible sa aktivnom pret
 
 Svaki put kada stavite LP tokene u nagradni program Aludel, on prati koliko dugo su vaši tokeni u pretplati. Aludel koristi nagradni multiplikator tako što počinje sa uvećanjem 1x i povećava se 10x svakih 60 dana. Kada pokupite deo količine tokena, Aludel skine sa pretplate traženu količinu sa najmanjom multiplikacijom, po principu što je poslednje stavljeno, prvo se skida \(Last In, First Out\).
 
+![](../.gitbook/assets/untitled%20%281%29.png)
+
 ## **Da li postoji način da vidim koliku nagradu sam prikupio u međuvremenu?**
 
-Možete da pogledate prikupljenu nagradu za vaš crucible, koristeći UI na[ crucible.alchemist.wtf](https://crucible.alchemist.wtf/) i akumulirani Uniswap LP zaradu koristeći [apy.vision](https://apy.vision/) or [croco.finance](https://croco.finance/)
+Možete da pogledate prikupljenu nagradu za vaš crucible, koristeći UI na[ crucible.alchemist.wtf](https://crucible.alchemist.wtf/) i akumulirani Uniswap LP zaradu koristeći [apy.vision](https://apy.vision/) or [croco.finance](https://croco.finance/) \(Uniswap LP fees earned will show as ⚗️, and WETH or ETH\).
 
 ![croco.finance](../.gitbook/assets/untitled.png)
 
