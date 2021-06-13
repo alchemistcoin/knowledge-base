@@ -1,6 +1,6 @@
 # Richiedere ricompense e disiscrivere i tuoi token LP
 
- Ad un certo punto ti sentirai pronto per richiedere le tue ricompense e disiscrivere i tuoi token LP dal Crucible. 
+Ad un certo punto ti sentirai pronto per richiedere le tue ricompense e disiscrivere i tuoi token LP dal Crucible. 
 
  La guida sottostante è stata creata proprio per guidarti in questo processo. 
 
