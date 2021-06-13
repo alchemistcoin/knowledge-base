@@ -1,10 +1,8 @@
 # In de basis
 
-Er is een token genaamd Alchemist. Zijn ticker symbool is "⚗️", maar ook wel bekend als "mist" en "$MIST". Verwar dit niet met [MUST](https://www.coingecko.com/en/coins/must), het enige wat overeenkomt is het symbool, maar verder is er geen connectie met of naar Alchemist.
+Er is een token genaamd Alchemist. Zijn ticker symbool is "⚗️",  Het staat ook wel bekend als "mist" en "$MIST". Verwar dit niet met [Mist \(MIST\)](https://www.coingecko.com/en/coins/mist), [Alchemist DeFi Mist \(MIST\)](https://www.coingecko.com/en/coins/alchemist-defi-mist), en [Cometh \(MUST\)](https://coinmarketcap.com/currencies/cometh/) - Ondanks het alambiek symbool ⚗️ en de gelijke namen, hebben deze drie tokens niks met Alchemist \(MIST\) te maken.
 
-Waar is ⚗️ goed voor? Daarvoor ben ik hier niet. Zie daarvoor de officiële FAQ.
-
-Net als andere munten kan je ⚗️ staken en kan je het ultiem gebruiken om je [Crucible NFT te munten](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_gHtk22CITCclybwJZ/v/dutch-1/crucible/teach-me-about-crucibles) in het [Aludel programma](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_gHtk22CITCclybwJZ/v/dutch-1/the-basic-outline#3-aludel).
+Waar is ⚗️ goed voor? Net als andere munten kan je ⚗️ staken en kan je het ultiem gebruiken om je [Crucible NFT te munten](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_gHtk22CITCclybwJZ/v/dutch-1/crucible/teach-me-about-crucibles) in het [Aludel programma](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_gHtk22CITCclybwJZ/v/dutch-1/the-basic-outline#3-aludel).
 
 ## Hoe kan ik mijn rijkdom vergroten met ⚗️?
 
