@@ -74,6 +74,8 @@ Ogni volta che metti dei token LP nel Programma di Ricompense Aludel, questo tie
 
 Puoi vedere le ricompense accumulate per il tuo Crucible inserendo UI su [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) e le commissioni accumulate di token LP su Uniswap su [apy.vision](https://apy.vision/) oppure [croco.finance](https://croco.finance/)
 
+![croco.finance](../.gitbook/assets/untitled.png)
+
 ## **Posso aggiungere** più token LP su un **Crucible esistente?**
 
 Sì. Il gas per aggiungere altri token LP al tuo Crucibel attuale sarà molto più basso di quando hai coniato un Crucibel all'inizio. Ogni sottoscrizione è indipendente, quindi ogni token LP che aggiungi farà partire il proprio moltiplicatore in modo indipendente.
