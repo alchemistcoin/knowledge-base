@@ -88,11 +88,13 @@ Crucibles 只能由**Uniswap V2** LP代幣鑄造。 請確保你將代幣添加�
 
 每次您把 LP 代幣放入  Aludel 獎勵計劃時，它會跟踪這些代幣訂閱了多長時間。 Aludel 是應用獎勵乘數的方式，從1倍開始，在60天內增加到10倍。當您領取部分金額時，Aludel 會率先退訂當中最低乘數的訂閱\(後進先出\)。
 
- ****
+![](../.gitbook/assets/untitled%20%281%29.png)
 
-**我能以某種方式看到我獲得了多少獎勵嗎?**
+ **我能以某種方式看到我獲得了多少獎勵嗎?**
 
-您可以在 [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)上查看Crucible 的累積獎勵，並使用[apy.vision](https://apy.vision/) 或 [croco.finance](https://croco.finance/)來查看Uniswap LP累積的費用。
+您可以在 [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)上查看Crucible 的累積獎勵，並使用[apy.vision](https://apy.vision/) 或 [croco.finance](https://croco.finance/)來查看Uniswap LP累積的費用 \(Uniswap LP fees earned will show as ⚗️, and WETH or ETH\)。
+
+![croco.finance](../.gitbook/assets/untitled.png)
 
 
 
