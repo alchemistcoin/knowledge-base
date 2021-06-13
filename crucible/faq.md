@@ -70,9 +70,11 @@ L'unica occasione nella quale vorresti avere più Crucible è se vuoi trasferire
 
 Ogni volta che metti dei token LP nel Programma di Ricompense Aludel, questo tiene traccia del tempo di sottoscrizione di quei token. Aludel applica un moltiplicatore di ricompense che inizia a 1x e aumenta fino a 10x in 60 giorni. Quando rivendichi un importo parziale, Aludel rivendica prima la sottoscrizione con il moltiplicatore più basso \(Last In, First Out, ovvero l'ultimo che entra è il primo che esce\).
 
+![](../.gitbook/assets/untitled%20%281%29.png)
+
 ## **Posso vedere quante ricompense ho accumulato finora?**
 
-Puoi vedere le ricompense accumulate per il tuo Crucible inserendo UI su [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) e le commissioni accumulate di token LP su Uniswap su [apy.vision](https://apy.vision/) oppure [croco.finance](https://croco.finance/)
+Puoi vedere le ricompense accumulate per il tuo Crucible inserendo UI su [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) e le commissioni accumulate di token LP su Uniswap su [apy.vision](https://apy.vision/) oppure [croco.finance](https://croco.finance/) \(Uniswap LP fees earned will show as ⚗️, and WETH or ETH\).
 
 ![croco.finance](../.gitbook/assets/untitled.png)
 
