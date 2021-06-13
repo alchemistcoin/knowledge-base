@@ -11,7 +11,7 @@ Este paso es obligatorio y las instrucciones se incluyen en los pasos siguientes
 1. Ir a [crucible.alchemist.wtf](https://crucible.alchemist.wtf/), conecte tu wallet y haz clic "Your Crucibles" tab.
 2. Una vez en la pestaña "Your Crucible", amplíe los detalles del Crucible que deseas ver utilizando la flecha que mira hacia abajo:
 
-   ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.58.png)   
+   ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.58.png) 
 
 3. Tu Crucible debería mostrarte más información, como la cantidad de MIST o ETH que has ganado en recompensas
 
