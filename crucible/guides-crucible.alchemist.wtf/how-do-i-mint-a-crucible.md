@@ -4,7 +4,7 @@
 
 În primul rând, trebuie să aveți $MIST și să îl alocati fondului de lichiditate Uniswap-V2 
 
-Dacă nu ați făcut deja acest lucru, este nevoie să consultați ghidul nostru în două părți privind achiziționarea $MIST și alocarea lui pentru fondul de lichiditate urmand ghidul: [Obtine & Ofera Lichiditate.]()
+Dacă nu ați făcut deja acest lucru, este nevoie să consultați ghidul nostru în două părți privind achiziționarea $MIST și alocarea lui pentru fondul de lichiditate urmand ghidul: [Obtine & Ofera Lichiditate.](../../alchemist-token/acquiring-and-subscribing.md)
 
 ## Creeaza un NFT Crucible folosind tokeni LP
 
