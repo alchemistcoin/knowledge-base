@@ -1,6 +1,8 @@
 # המתווה הבסיסי
 
-יש אסימון שנקרא Alchemist. הוא מזוהה עם הסמל הזה "⚗️". הוא מכונה גם "mist" ו "MIST$". אל תבלבל את זה עם [MUST](https://www.coingecko.com/en/coins/must) - על אף האלמבי שהוא מציג כעת אין לו שום קשר ל- Alchemist.
+There is a token called [Alchemist](https://etherscan.io/token/0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab). It has the ticker symbol "⚗️". It is also referred to as "mist" and "$MIST". Do not confuse it with [Mist \(MIST\)](https://www.coingecko.com/en/coins/mist), [Alchemist DeFi Mist \(MIST\)](https://www.coingecko.com/en/coins/alchemist-defi-mist), and [Cometh \(MUST\)](https://coinmarketcap.com/currencies/cometh/) - despite the alembic symbol ⚗️ and similar names, these three tokens have no relation to Alchemist \(MIST\).
+
+יש אסימון שנקרא [Alchemist](https://etherscan.io/token/0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab). הוא מזוהה עם הסמל הזה "⚗️". הוא מכונה גם "mist" ו "MIST$". אל תבלבל את זה עם [Cometh \(MUST\)](https://coinmarketcap.com/currencies/cometh/) - על אף האלמבי שהוא מציג כעת אין לו שום קשר ל- Alchemist.
 
 בשביל מה ⚗️ טוב? אני לא כאן כדי לענות על זה. אנא עיין כאן[offici](faq.md)[al FAQ](faq.md)
 
