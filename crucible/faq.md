@@ -74,9 +74,13 @@ Crucible 只支持 **Uniswap V2** 流动资金池。向 **Uniswap V3** 资金池
 
 每次您将 LP 代币参与至 Aludel 时，系统就会跟踪记录这些代币订阅的时长。Aludel 采用的是奖励倍数的方式，从1倍开始，在60天内增加到10倍。当您领取其中部分金额时， Aludel 会率先退订当中最低倍数的订阅\(后进先出\)。
 
+![](../.gitbook/assets/untitled%20%281%29.png)
+
 ### **如何查看我在此期间获得了多少奖励?**
 
-您可以在 [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) 上查看 Crucible 的累积奖励，并使用 [apy.vision](https://apy.vision/) 或 [croco.finance](https://croco.finance/) 来查看 Uniswap LP 所累积的费用。
+您可以在 [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) 上查看 Crucible 的累积奖励，并使用 [apy.vision](https://apy.vision/) 或 [croco.finance](https://croco.finance/) 来查看 Uniswap LP 所累积的费用 \(Uniswap LP fees earned will show as ⚗️, and WETH or ETH\)。
+
+![croco.finance](../.gitbook/assets/untitled.png)
 
 ### **我可以在现有的 Crucible 中添加更多的 LP 吗?**
 
