@@ -166,9 +166,11 @@ Birden fazla Crucible oluşturmanın tek gerekçesi, amacınızın Crucible’ı
 
 LP jetonlarının Aludel ödül programına katılmasına her izin verdiğinizde, bu jetonların ne kadar süredir yatırıldığı arka planda kaydedilir. Adudel bir ödül çarpanı kullanır; bu, 60 gün sonra 1x ile 10x arasında başlar. Toplam tutarın bir kısmını geri çekerseniz, Aludel önce en düşük çarpanı olan son bölümü alır \(en sonda, önce çıkar\)
 
+![](../.gitbook/assets/untitled%20%281%29.png)
+
 **Şimdiye kadar kaç ödül kazandığımı bir şekilde görebilir miyim?**
 
-Şimdiye kadar kazanılan ödüller, [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) daki kullanıcı arayüzünden görüntülenebilir. Şimdiye kadar kazanılan Uniswap LP ücretleri [apy.vision](https://apy.vision/) veya [croco.finance](https://croco.finance/) aracılığıyla görülebilir.
+Şimdiye kadar kazanılan ödüller, [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) daki kullanıcı arayüzünden görüntülenebilir. Şimdiye kadar kazanılan Uniswap LP ücretleri [apy.vision](https://apy.vision/) veya [croco.finance](https://croco.finance/) aracılığıyla görülebilir \(Uniswap LP fees earned will show as ⚗️, and WETH or ETH\).
 
 ![croco.finance](../.gitbook/assets/untitled.png)
 
