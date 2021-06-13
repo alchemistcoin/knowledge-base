@@ -69,9 +69,11 @@ Unica varianta recomandata de noi pentru a creea mai multe NFT-uri Crucible este
 
 De fiecare data cand puneti tokenii LP in programul de recompense Aludel, programul ține evidența timpului în care aceste jetoane sunt alocate. Aludel aplică un multiplicator de recompensă care începe de la 1x și crește la 10x în 60 de zile. Când solicitati o sumă parțială, Aludel solicită mai întâi Abonamentul cu cel mai mic multiplicator \(Ultimul Intrat, Primul Iesit\).
 
+![](../.gitbook/assets/untitled%20%281%29.png)
+
 ## **Pot in vre-un fel sa vad recompensele pe care le-am acumulat intre timp?**
 
-Poti vedea recompensele acumulate pentru NFT-urile tale Crucible folosind interfata pentru useri atat de pe [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) iar recompensele acumulate din Uniswap corespondente tokenilor LP detinuti le poti verifica folosind [apy.vision](https://apy.vision/) sau [croco.finance](https://croco.finance/)
+Poti vedea recompensele acumulate pentru NFT-urile tale Crucible folosind interfata pentru useri atat de pe [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) iar recompensele acumulate din Uniswap corespondente tokenilor LP detinuti le poti verifica folosind [apy.vision](https://apy.vision/) sau [croco.finance](https://croco.finance/) \(Uniswap LP fees earned will show as ⚗️, and WETH or ETH\).
 
 ![croco.finance](../.gitbook/assets/untitled.png)
 
