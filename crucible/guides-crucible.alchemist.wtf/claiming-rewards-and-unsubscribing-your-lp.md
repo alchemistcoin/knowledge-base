@@ -10,7 +10,7 @@ Ghidul de mai jos este conceput sa te conduca prin pasii acestui proces.
 ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.58.png)
 
 1. In fila "Your Crucible" ar trebui sa poti vedea mai multe informatii, cum ar fi cati $MIST sau ETH ai castigat ca recompensa in Aludel.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.42.png)  
-2. Click pe butonul "Manage Crucible" ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.04.png)  
+2. Click pe butonul "Manage Crucible"  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.04.png)  
 3. Vei vedea o lista mai complexa de statistici sub fila "Rewards".  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.22.png)  
 4. Click pe "Claim rewards and unsubscribe" din partea dreapta jos a paginii. ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.05.52.png)  
 5. Selectati cantitatea de LP pe doriți sa o retrageti din NFT-ul Crucible, faceți clic pe „Claim rewards and unsubscribe LP”.  ![](../../.gitbook/assets/a.png)  
