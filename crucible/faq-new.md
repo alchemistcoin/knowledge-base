@@ -70,9 +70,13 @@ El único caso en el que se utilizarían varios Crucible es si se pretende trans
 
 Cada vez que pones tokens LP en el programa de recompensas de Aludel, este lleva la cuenta del tiempo que esos tokens están depositos. Aludel aplica un multiplicador de recompensa que comienza en 1x y aumenta hasta 10x en 60 días. Cuando reclamas una cantidad parcial, el Aludel reclama primero los tokens LP del depósito con el multiplicador más bajo \("Last In, First Out"\).
 
+![](../.gitbook/assets/untitled%20%281%29.png)
+
 ## **¿Puedo ver de alguna manera cuántas recompensas he adquirido mientras tanto?**
 
-Puedes ver la recompensa acumulada de tu Crucible usando la IU en [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) y las comisiones de LP acumuladas de Uniswap usando en [apy.vision](https://apy.vision/) o [croco.finance](https://croco.finance/)
+Puedes ver la recompensa acumulada de tu Crucible usando la IU en [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) y las comisiones de LP acumuladas de Uniswap usando en [apy.vision](https://apy.vision/) o [croco.finance](https://croco.finance/) \(Uniswap LP fees earned will show as ⚗️, and WETH or ETH\).
+
+![croco.finance](../.gitbook/assets/untitled.png)
 
 ## **¿Puedo añadir más LP a un Crucible existente?**
 
