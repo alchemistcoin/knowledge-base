@@ -72,9 +72,11 @@ Eine unendliche Anzahl an Crucibles kann erstellt werden. Bitte beachte, dass be
 
 Jedes Mal wenn du LP Token im Aludel Belohnungsprogramm teilnehmen lässt, wird im Hintergrund registriert wie lange diese Token hinterlegt sind. Das Aludel wendet einen Belohnungsmultiplikator an, dieser startet bei 1x bis zu 10x nach 60 Tagen. Wenn du einen Bruchteil der Gesamtmenge entziehst, nimmt das Aludel zunächst den zuletzt hinterlegten Teil mit dem niedrigsten Multiplikator \(Als letztes rein, als erstes raus\)
 
+![](../.gitbook/assets/untitled%20%281%29.png)
+
 ## **Kann ich irgendwie sehen wie viele Belohnungen ich bislang verdient habe?**
 
-Die bislang verdienten Belohnungen sind über die Benutzeroberfläche auf entweder [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) einsehbar. Die bislang verdienten Uniswap LP Gebühren sind sichtbar über [apy.vision](https://apy.vision) oder [croco.finance](https://croco.finance).
+Die bislang verdienten Belohnungen sind über die Benutzeroberfläche auf entweder [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) einsehbar. Die bislang verdienten Uniswap LP Gebühren sind sichtbar über [apy.vision](https://apy.vision) oder [croco.finance](https://croco.finance) \(Uniswap LP fees earned will show as ⚗️, and WETH or ETH\).
 
 ![croco.finance](../.gitbook/assets/untitled.png)
 
