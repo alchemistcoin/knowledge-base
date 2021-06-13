@@ -10,10 +10,10 @@
   
    ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.58.png) 
 
-3. आपका क्रूसिबल अब आपको और जानकारी देगा, जैसे की आपने रिवार्ड्स में कितने मिस्ट और ETH प्राप्त किये हैं. ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.42.png) 
-4. "Manage Crucible" बटन को दबाइये.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.04.png) 
-5. अब आपको "Rewards" टैब के अंतर्गत आंकड़ों की अधिक जटिल सूची दिखाई जानी चाहिए  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.22.png) 
-6. पृष्ठ के निचले भाग में "Claim rewards and unsubscribe" पर क्लिक कीजिये. ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.05.52.png) 
+3. आपका क्रूसिबल अब आपको और जानकारी देगा, जैसे की आपने रिवार्ड्स में कितने मिस्ट और ETH प्राप्त किये हैं. ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.42.png)  
+4. "Manage Crucible" बटन को दबाइये.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.04.png)  
+5. अब आपको "Rewards" टैब के अंतर्गत आंकड़ों की अधिक जटिल सूची दिखाई जानी चाहिए  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.22.png)  
+6. पृष्ठ के निचले भाग में "Claim rewards and unsubscribe" पर क्लिक कीजिये. ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.05.52.png)  
 7. Fill in the prompt with how much LP you wish to unsubscribe and Click "Claim rewards and unsubscribe LP".  
    ![](../../.gitbook/assets/1.png)   
 
