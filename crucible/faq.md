@@ -79,6 +79,8 @@ Svaki put kada stavite LP tokene u nagradni program Aludel, on prati koliko dugo
 
 Možete da pogledate prikupljenu nagradu za vaš crucible, koristeći UI na[ crucible.alchemist.wtf](https://crucible.alchemist.wtf/) i akumulirani Uniswap LP zaradu koristeći [apy.vision](https://apy.vision/) or [croco.finance](https://croco.finance/)
 
+![croco.finance](../.gitbook/assets/untitled.png)
+
 ## **Mogu li da dodam još LP tokena na postojeći Crucible?**
 
 Da. Gas troškovi za dodavanje LP tokena na postojeći Crucible biće dosta niži nego kada mintujete početni Crucible. Svaka posebna pretplata je nezavisna od predhodnih i količina LP tokena biće multiplikovana nezavisno od drugih pretplata.
