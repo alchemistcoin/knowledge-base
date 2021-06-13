@@ -10,7 +10,11 @@
 4. Нажмите кнопку "Manage Crucible" ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.04.png) 
 5. Вам будет представлена более развернутая информация во вкладке "Rewards" ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.22.png) 
 6. Внизу данного окна нажмите кнопку "Claim rewards and unsubscribe"   ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.05.52.png) 
-7. Введите количество токенов ПЛ, которые вы хотите отписать и нажмите "Claim rewards and unsubscribe LP" ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.06.00.png) 
+7. Введите количество токенов ПЛ, которые вы хотите отписать и нажмите "Claim rewards and unsubscribe LP"  
+
+
+   ![](../../.gitbook/assets/1.png)
+
 8. Появятся два всплывающих окна MetaMask, в которых вам будет предложено подписать транзакцию. Нажмите "SIGN"  в обоих случаях. Поочередно должны появиться окна подобного содержания.
 
   
