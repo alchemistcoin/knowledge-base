@@ -4,6 +4,10 @@
 
 Le mode d'emploi ci-dessous vous guidera pas à pas dans ce process. 
 
+{% hint style="info" %}
+Please note that after claiming your rewards and unsubscribing your LP, you will no longer receive rewards from the Aludel reward program. To receive rewards again please follow the guide below, then withdraw your LP using the "Withdraw unsubscribed LP" button, and then subscribe your LP using the "Increase LP subscription" button.
+{% endhint %}
+
 1. Ouvrez [crucible.alchemist.wtf](https://crucible.alchemist.wtf/), connectez votre wallet et ouvrez l'onlget "Your Crucibles".
 2. Une fois sur l'onglet "Your Crucibles", affichez les détails du Crucible pour lequel vous souhaitez récupérer les récompenses et désengager les LP, en cliquant sur la flèche pointant vers les bas. ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.58.png) 
 3. Votre Crucible devrait maintenant vous afficher davantage d'informations, telles que le nombre de MIST ou d'ETH gagnés en récompenses. ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.42.png) 
