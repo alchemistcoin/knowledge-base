@@ -2,6 +2,8 @@
 
 Istnieje token o nazwie Alchemist. Jego symbol giełdowy to "⚗️". Określany jest również jako "mist" lub "$MIST". Nie myl go z [Mist \(MIST\)](https://www.coingecko.com/en/coins/mist), [Alchemist DeFi Mist \(MIST\)](https://www.coingecko.com/en/coins/alchemist-defi-mist), ani z [Cometh \(MUST\)](https://coinmarketcap.com/currencies/cometh/)  - te trzy tokeny, poza symbolem alembika ⚗️ i podobnymi nazwami, nie mają nic wspólnego z Alchemist \(MIST\).
 
+![](.gitbook/assets/mm_mi21st.png)
+
 Do czego służy ⚗️? Nie jestem tutaj, aby na to pytanie odpowiedzieć. Zapoznaj się z [oficjalnym FAQ](faq.md)
 
 Możesz stakować  ⚗️ tak jak inne monety,  a ostatecznie możesz go użyć do [wybicia Crucible NFTs](crucible/teach-me-about-crucibles.md) w programie [Aludel](the-basic-outline.md#3-aludel).

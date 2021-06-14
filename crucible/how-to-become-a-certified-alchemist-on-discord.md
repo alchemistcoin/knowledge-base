@@ -1,6 +1,6 @@
 # Jak zostać Certyfikowanym Alchemikiem \("Certified Alchemist"\) na Discordzie 💬
 
-Jeśli posiadasz Crucible, możesz zostać Certyfikowanych Alchemikiem \(Certified Alchemist\) na naszym [kanale Discord](https://discord.com/invite/qWQQMMKjKe) 🧙‍♂️⚗.  Rola Certyfikowanego Alchemika umożliwia głosowanie i udział w konkursach organizowanych na discordzie.
+Jeśli posiadasz Crucible, możesz zostać Certyfikowanych Alchemikiem \(Certified Alchemist\) na naszym [kanale Discord](https://discord.com/invite/qWQQMMKjKe) 🧙‍♂️⚗️.  Rola Certyfikowanego Alchemika umożliwia głosowanie i udział w konkursach organizowanych na discordzie.
 
 Jeśli Twój Crucible został wybity przy użyciu strony internetowej, przejdź do [**Część 2**](how-to-become-a-certified-alchemist-on-discord.md#czesc-2)\*\*\*\*
 
@@ -29,5 +29,5 @@ Po uzyskaniu dostępu do portfela zawierającego Twój Crucible, możesz zostać
 7. Collab.Land wyśle do Ciebie następującą wiadomość i jeżeli naprawdę posiadasz Crucible to bot zaktualizuje Twoją rolę ![](https://i.imgur.com/1UMmipM.png)
 8. Kolor czcionki Twojego imienia w okienku czatu Discord  powinien być teraz czerwony
 9. Jeśli klikniesz lewym przyciskiem na swoje imię na Discordzie, powinieneś zobaczyć rolę "certified alchemist" zaznaczoną na czerwono ![](https://i.imgur.com/KTO91Q1.png)
-10. Gratulacje, jesteś teraz Certyfikowanych Alchemikiem 🧙‍♂️⚗
+10. Gratulacje, jesteś teraz Certyfikowanych Alchemikiem 🧙‍♂️⚗️
 
