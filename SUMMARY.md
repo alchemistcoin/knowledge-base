@@ -17,7 +17,7 @@
   * [¿Cómo se crea un Crucible?](crucible/guides-crucible.alchemist.wtf/how-do-i-mint-a-crucible.md)
   * [¿Qué puedo hacer con mi nuevo Crucible?](crucible/guides-crucible.alchemist.wtf/what-can-i-do-with-my-new-crucible.md)
   * [¿Cómo reclamo las recompensas y cancelo la suscripción del LP?](crucible/guides-crucible.alchemist.wtf/claiming-rewards-and-unsubscribing-your-lp.md)
-* [Cómo convertirse en un "Alquimista Certificado" en Discord ��](crucible/how-to-become-a-certified-alchemist-on-discord.md)
+* [Cómo convertirse en un "Alquimista Certificado" en Discord 💬](crucible/how-to-become-a-certified-alchemist-on-discord.md)
 * [Compatibilidad de los Wallets](crucible/wallet-compatibility.md)
 * [Guías visuales 🎞](crucible/visual-guides.md)
 * [FAQ 📖](crucible/faq-new.md)

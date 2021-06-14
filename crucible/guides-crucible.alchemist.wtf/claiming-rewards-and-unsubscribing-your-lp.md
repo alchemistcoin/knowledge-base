@@ -4,6 +4,10 @@ En cualquier momento puedes decidir que estás listo para reclamar tus recompens
 
 Las intrucciones siguiente estan diseñadas para guiarte a través de ese proceso.
 
+{% hint style="info" %}
+Please note that after claiming your rewards and unsubscribing your LP, you will no longer receive rewards from the Aludel reward program. To receive rewards again please follow the guide below, then withdraw your LP using the "Withdraw unsubscribed LP" button, and then subscribe your LP using the "Increase LP subscription" button.
+{% endhint %}
+
 {% hint style="warning" %}
 Este paso es obligatorio y las instrucciones se incluyen en los pasos siguientes
 {% endhint %}
