@@ -1,7 +1,7 @@
 # Discord'da Nasıl "Certified Alchemist" Olunur 💬
 
-If you own a Crucible, you can become a Certified Alchemist on our [Discord channel](https://discord.com/invite/qWQQMMKjKe) 🧙‍♂️⚗. One perk of becoming a certified alchemist is that it allows you to take part in discord votes and competitions.  
-Bir Crucible'a sahipseniz, [Discord kanalında](https://discord.com/invite/qWQQMMKjKe) 🧙‍♂️⚗ Certified Alchemist olabilirsiniz. Sertifikalı bir Alchemist olmanın bir avantajı, discord oylamalarına ve yarışmalara katılmanıza olanak sağlamasıdır.
+If you own a Crucible, you can become a Certified Alchemist on our [Discord channel](https://discord.com/invite/qWQQMMKjKe) 🧙‍♂️⚗️. One perk of becoming a certified alchemist is that it allows you to take part in discord votes and competitions.  
+Bir Crucible'a sahipseniz, [Discord kanalında](https://discord.com/invite/qWQQMMKjKe) 🧙‍♂️⚗️. Certified Alchemist olabilirsiniz. Sertifikalı bir Alchemist olmanın bir avantajı, discord oylamalarına ve yarışmalara katılmanıza olanak sağlamasıdır.
 
 If your Crucible was minted using the online site, please jump to [**Bölüm 2**](how-to-become-a-certified-alchemist-on-discord.md#part-2)  
 ****Crucible'ınız çevrimiçi site kullanılarak oluşturulduysa, lütfen [**Bölüm 2**](how-to-become-a-certified-alchemist-on-discord.md#part-2)'ye geçin.
@@ -29,5 +29,5 @@ Potanızı içeren cüzdana erişim kazandıktan sonra, aşağıdaki adımları 
 7. Collab.Land size aşağıdaki mesajı gönderecek ve gerçekten bir Crucible'a sahipseniz, bot rolünüzü güncelleyecektir. ![](https://i.imgur.com/1UMmipM.png)
 8. Discord sohbet ekranında adınızın yazı tipi rengi artık kırmızı renk olmalıdır.
 9. Discord adınıza sol tıkladıysanız, kırmızı daire içine alınmış rol sertifikalı simyacı görmelisiniz. ![](https://i.imgur.com/KTO91Q1.png)
-10. Tebrikler, artık sertifikalı bir Simyagersiniz! 🧙‍♂️⚗
+10. Tebrikler, artık sertifikalı bir Simyagersiniz! 🧙‍♂️⚗️
 

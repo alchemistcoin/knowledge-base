@@ -2,6 +2,8 @@
 
 Alchemist adında bir token bulunmakta. Tickerı "⚗️" imbik simgesidir. Aynı zamanda "mist" ve "$MIST" olarak da anılır. [MUST](https://www.coingecko.com/en/coins/must) ile karıştırmayın - sembolü imbik olmasına rağmen Alchemist ile hiçbir ilişkisi yoktur.
 
+![](.gitbook/assets/mm_mi21st.png)
+
 ⚗️ ne işe yarar? Buna cevap vermek için burada değilim. Lütfen [resmi SSS](faq.md)'e bakın.
 
 Diğer coinlerde olduğu gibi ⚗️ stake edebilir ve nihayetinde [Aludel](the-basic-outline.md#3-aludel) programında [Crucible NFT'leri oluşturmak](crucible/teach-me-about-crucibles.md) için kullanabilirsiniz.
