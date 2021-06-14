@@ -80,7 +80,7 @@
 
 **क्या में किसी तरह अपने प्राप्त की हुए रिवार्ड्स को देख सकता हूँ?**
 
-अपने क्रूसिबल के लिए प्राप्त किये हुए रिवॉर्ड को देखने के लिए, आप [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) पर UI का उपयोग कर सकते हैं और संचित युनिस्वैप एलपी फीस को देखने के लिए, [apy.vision](https://apy.vision/) या [croco.finance](https://croco.finance/) का उपयोग कर सकते हैं \(Uniswap LP fees earned will show as ⚗️, and WETH or ETH\).
+अपने क्रूसिबल के लिए प्राप्त किये हुए रिवॉर्ड को देखने के लिए, आप [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) पर UI का उपयोग कर सकते हैं और संचित युनिस्वैप एलपी फीस को देखने के लिए, [apy.vision](https://apy.vision/) या [croco.finance](https://croco.finance/) का उपयोग कर सकते हैं \(कमाया हुआ Uniswap LP फीस ⚗️, और WETH या ETH, के रूप में दिखाई देगा\).
 
 ![croco.finance](../.gitbook/assets/untitled.png)
 
