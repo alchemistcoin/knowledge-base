@@ -5,7 +5,7 @@
 Инструкция ниже призвана помочь вам.
 
 {% hint style="info" %}
-Please note that after claiming your rewards and unsubscribing your LP, you will no longer receive rewards from the Aludel reward program. To receive rewards again please follow the guide below, then withdraw your LP using the "Withdraw unsubscribed LP" button, and then subscribe your LP using the "Increase LP subscription" button.
+Пожалуйста, обратите внимание, что после получения наград и отмены подписки токенов ПЛ, вы больше не будете получать награды по программе вознаграждений Aludel. Для того, чтобы опять начать получать вознаграждения, пожалуйста, следуйте инструкции ниже, затем снимите ваши ПЛ токены, используя кнопку "Withdraw unsubscribed LP". Далее подпишите ПЛ токены, используя кнопку "Increase LP subscription".
 {% endhint %}
 
 1. Откройте [crucible.alchemist.wtf](https://crucible.alchemist.wtf/), подключите MetaMask и зайдите во вкладку "Your Crucibles".
