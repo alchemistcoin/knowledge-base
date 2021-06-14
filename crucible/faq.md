@@ -74,7 +74,7 @@ Chaque fois que vous mettez des tokens LP dans le programme de récompense Alude
 
 ## **Puis-je voir d'une manière ou d'une autre le montant de récompenses que j'ai acquis entre-temps ?**
 
-Vous pouvez voir les récompenses accumulées par votre Crucible en utilisant l’interface utilisateur [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) et les frais Uniswap LP accumulés en utilisant [apy.vision](https://apy.vision/) ou [croco.finance](https://croco.finance/) \(Uniswap LP fees earned will show as ⚗️, and WETH or ETH\).
+Vous pouvez voir les récompenses accumulées par votre Crucible en utilisant l’interface utilisateur [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) et les frais Uniswap LP accumulés en utilisant [apy.vision](https://apy.vision/) ou [croco.finance](https://croco.finance/) \(les frais de Uniswap LP gagnés s'affichent en ⚗️, et WETH ou ETH\).
 
 ![croco.finance](../.gitbook/assets/untitled.png)
 
