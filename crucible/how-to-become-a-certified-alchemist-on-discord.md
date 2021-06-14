@@ -1,6 +1,6 @@
 # Hoe word ik een "Certified Alchemist" op Discord 💬
 
-Als u een Crucible bezit dan kan je een gecertificeerde alchemist worden op onze [Discord kanaal](https://discord.com/invite/qWQQMMKjKe) 🧙‍♂️⚗. Een van de voordelen van een gecertificeerde alchemist zijn is dat je kunt stemmen in Discord en deel kan nemen aan de wedstrijden.
+Als u een Crucible bezit dan kan je een gecertificeerde alchemist worden op onze [Discord kanaal](https://discord.com/invite/qWQQMMKjKe) 🧙‍♂️⚗️. Een van de voordelen van een gecertificeerde alchemist zijn is dat je kunt stemmen in Discord en deel kan nemen aan de wedstrijden.
 
 Als je Crucible is gemint met behulp van de online site, ga dan naar: [**Deel 2**](how-to-become-a-certified-alchemist-on-discord.md#part-2)\*\*\*\*
 
@@ -29,5 +29,5 @@ Nadat je toegang hebt gekregen tot de wallet met je Crucible, dan kan je een gec
 7. Collab.Land stuurt je het volgende bericht en als je echt een Crucible bezit, zal de bot je rol updaten ![](https://i.imgur.com/1UMmipM.png)
 8. De letterkleur van je naam zou nu de kleur rood moeten zijn op het Discord-chatscherm \(indien je geen andere rollen hebt\)
 9. Als je met de linkermuisknop op je Discord-naam klikt, dan zie je de rol "certified alchemist" rood omcirkeld. ![](https://i.imgur.com/KTO91Q1.png)
-10. Gefeliciteerd, je bent nu een Gecertificeerde Alchemist!🧙‍♂️⚗
+10. Gefeliciteerd, je bent nu een Gecertificeerde Alchemist!🧙‍♂️⚗️
 
