@@ -5,7 +5,7 @@
 नीचे दी गयी गाइड यह करने में आपकी मदद कर सकता है.
 
 {% hint style="info" %}
-Please note that after claiming your rewards and unsubscribing your LP, you will no longer receive rewards from the Aludel reward program. To receive rewards again please follow the guide below, then withdraw your LP using the "Withdraw unsubscribed LP" button, and then subscribe your LP using the "Increase LP subscription" button.
+कृपया ध्यान दें कि अपने पुरस्कारों का दावा करने और अपने एलपी की सदस्यता समाप्त करने के बाद, आपको अब एलुडेल पुरस्कार कार्यक्रम से पुरस्कार प्राप्त नहीं होंगे. फिर से पुरस्कार प्राप्त करने के लिए कृपया नीचे दी गई मार्गदर्शिका का पालन करें, फिर "Withdraw unsubscribed LP" बटन का उपयोग करके अपना एलपी वापस लें, और फिर "Increase LP subscription" बटन का उपयोग करके अपने एलपी की सदस्यता लें.
 {% endhint %}
 
 1. [crucible.alchemist.wtf](https://crucible.alchemist.wtf/), को खोलिये, अपना वॉलेट कनेक्ट कीजिये और "Your crucibles" टैब पर जाइये.
