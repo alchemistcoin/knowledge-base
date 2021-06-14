@@ -76,7 +76,7 @@ Jedes Mal wenn du LP Token im Aludel Belohnungsprogramm teilnehmen lässt, wird 
 
 ## **Kann ich irgendwie sehen wie viele Belohnungen ich bislang verdient habe?**
 
-Die bislang verdienten Belohnungen sind über die Benutzeroberfläche auf entweder [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) einsehbar. Die bislang verdienten Uniswap LP Gebühren sind sichtbar über [apy.vision](https://apy.vision) oder [croco.finance](https://croco.finance) \(Uniswap LP fees earned will show as ⚗️, and WETH or ETH\).
+Die bislang verdienten Belohnungen sind über die Benutzeroberfläche auf entweder [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) einsehbar. Die bislang verdienten Uniswap LP Gebühren sind sichtbar über [apy.vision](https://apy.vision) oder [croco.finance](https://croco.finance) \(Uniswap LP Gebühren werden als ⚗️ und WETH oder ETH generiert\).
 
 ![croco.finance](../.gitbook/assets/untitled.png)
 
