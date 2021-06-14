@@ -5,8 +5,10 @@ Op een gegeven moment heb je misschien besloten dat je klaar bent om je beloning
 De onderstaande gids is bedoeld om je door dat proces heen te leiden.
 
 {% hint style="info" %}
-Please note that after claiming your rewards and unsubscribing your LP, you will no longer receive rewards from the Aludel reward program. To receive rewards again please follow the guide below, then withdraw your LP using the "Withdraw unsubscribed LP" button, and then subscribe your LP using the "Increase LP subscription" button.
+Houd er rekening mee dat na het claimen van je beloningen en het afmelden van je LP, Je niet langer beloningen verkrijgt van het Aludel belonings programma. Om weer beloningen te verkrijgen volg de uitleg hierbeneden, trek daarna je LP terug door gebruik te maken van de "Withdraw unsubscribed LP" knop, en abonneer daarna je LP weer met de "Increase LP subscription" knop.
 {% endhint %}
+
+
 
 1. Ga naar [crucible.alchemist.wtf](https://crucible.alchemist.wtf/), verbind je wallet en ga naar het tabje "Your Crucibles".
 2. Eenmaal in het tabje "Your Crucibles", bekijk de details van de Crucible waarvan je beloningen wilt claimen en meld je af voor LP door op de naar beneden gerichte pijl te klikken:
