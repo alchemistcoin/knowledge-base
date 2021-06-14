@@ -92,7 +92,7 @@ Crucibles 只能由**Uniswap V2** LP代幣鑄造。 請確保你將代幣添加�
 
  **我能以某種方式看到我獲得了多少獎勵嗎?**
 
-您可以在 [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)上查看Crucible 的累積獎勵，並使用[apy.vision](https://apy.vision/) 或 [croco.finance](https://croco.finance/)來查看Uniswap LP累積的費用 \(Uniswap LP fees earned will show as ⚗️, and WETH or ETH\)。
+您可以在 [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)上查看Crucible 的累積獎勵，並使用[apy.vision](https://apy.vision/) 或 [croco.finance](https://croco.finance/)來查看Uniswap LP累積的費用 \( Uniswap LP 賺取的費用將顯示為 ⚗️ ，以及 WETH 或 ETH \)。
 
 ![croco.finance](../.gitbook/assets/untitled.png)
 
