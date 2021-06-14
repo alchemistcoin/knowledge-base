@@ -4,6 +4,10 @@ Ad un certo punto ti sentirai pronto per richiedere le tue ricompense e disiscri
 
  La guida sottostante è stata creata proprio per guidarti in questo processo. 
 
+{% hint style="info" %}
+Please note that after claiming your rewards and unsubscribing your LP, you will no longer receive rewards from the Aludel reward program. To receive rewards again please follow the guide below, then withdraw your LP using the "Withdraw unsubscribed LP" button, and then subscribe your LP using the "Increase LP subscription" button.
+{% endhint %}
+
 1. Apri [crucible.alchemist.wtf](https://crucible.alchemist.wtf/), connetti il tuo wallet e clicca la barra "Your Crucibles".
 2. Una volta sulla barra "Your Crucibles", espandi i dettagli sul Crucible dal quale vuoi chiedere le ricompense e disiscrivi i tuoi token LP cliccando sulla freccia verso il basso:
 
