@@ -17,7 +17,7 @@
   * [Come conio un Crucible?](crucible/guides-crucible.alchemist.wtf/how-do-i-mint-a-crucible.md)
   * [Cosa posso fare con il mio nuovo Crucible?](crucible/guides-crucible.alchemist.wtf/what-can-i-do-with-my-new-crucible.md)
   * [Richiedere ricompense e disiscrivere i tuoi token LP](crucible/guides-crucible.alchemist.wtf/claiming-rewards-and-unsubscribing-your-lp.md)
-* [Come diventare un  Alchemist certificato su Discord ��](crucible/how-to-become-a-certified-alchemist-on-discord.md)
+* [Come diventare un  Alchemist certificato su Discord 💬](crucible/how-to-become-a-certified-alchemist-on-discord.md)
 * [Compatibilità dei wallet](crucible/wallet-compatibility.md)
 * [Guide visive 🎞](crucible/visual-guides.md)
 * [FAQ 📖](crucible/faq.md)
