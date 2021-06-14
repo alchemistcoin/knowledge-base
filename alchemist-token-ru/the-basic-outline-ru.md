@@ -2,6 +2,8 @@
 
 Существует токен, который называется Alchemist. Его тикером является символ "⚗️". Также известный как "mist" и "$MIST". Не путайте его с [MUST](https://www.coingecko.com/en/coins/must) - несмотря на то, что в его названии также присутствует тигель \(⚗️\), он не имеет ничего общего с Alchemist.
 
+![](../.gitbook/assets/mm_mi21st.png)
+
 Для чего необходим ⚗️? Я здесь не для ответа на этот вопрос. Пожалуйста прочтите [официальный ](https://docs.alchemist.wtf/mist/v/russian/alchemist-token-ru/faq-ru)[ЧАВО](https://docs.alchemist.wtf/mist/v/russian/alchemist-token-ru/faq-ru).
 
 Вы можете стейкать ⚗️как и другие монеты и в конечном счете [выпустить Crucible NFT](https://docs.alchemist.wtf/mist/v/russian/crucible/teach-me-about-crucibles-ru) для участия в программе вознаграждений [Aludel](https://docs.alchemist.wtf/mist/v/russian/alchemist-token-ru/the-basic-outline-ru#3-aludel). 
