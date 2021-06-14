@@ -4,6 +4,10 @@
 
 以下指南旨在引导您完成这一过程。
 
+{% hint style="info" %}
+Please note that after claiming your rewards and unsubscribing your LP, you will no longer receive rewards from the Aludel reward program. To receive rewards again please follow the guide below, then withdraw your LP using the "Withdraw unsubscribed LP" button, and then subscribe your LP using the "Increase LP subscription" button.
+{% endhint %}
+
 1. 打开 [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) ，连接您的钱包并点击" Your Crucibles "（你的 Crucible ）标签
 2. 进入“ Your Crucibles ”页面后，在您想领取奖励和退订 LP 的 Crucibles 上点击向下的箭头展开详细信息： ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.58.png) 
 3. 您的 Crucible 现在应显示出了更多的信息，比如您在奖励中获得了多少 MIST 或 ETH ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.42.png) 
