@@ -1,6 +1,6 @@
 # Основные тезисы
 
-Существует токен, который называется Alchemist. Его тикером является символ "⚗️". Также известный как "mist" и "$MIST". Не путайте его с [MUST](https://www.coingecko.com/en/coins/must) - несмотря на то, что в его названии также присутствует тигель \(⚗️\), он не имеет ничего общего с Alchemist.
+Существует токен, который называется Alchemist. Его тикером является символ "⚗️". Также известный как "mist" и "$MIST". Не путайте его с [Mist \(MIST\)](https://www.coingecko.com/en/coins/mist), [Alchemist DeFi Mist \(MIST\)](https://www.coingecko.com/en/coins/alchemist-defi-mist) и [Cometh \(MUST\)](https://coinmarketcap.com/currencies/cometh/)  - несмотря на алхимический символ \(⚗️\) и схожие наименования, данные проекты не имеют ничего общего с Alchemist \(MIST\).
 
 ![](../.gitbook/assets/mm_mi21st.png)
 
