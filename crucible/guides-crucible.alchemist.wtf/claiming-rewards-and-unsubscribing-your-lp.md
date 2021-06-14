@@ -4,6 +4,10 @@ W pewnym momencie możesz zdecydować, że jesteś gotowy, aby odebrać swoje na
 
 Poniższy przewodnik ma na celu przeprowadzenie Cię przez ten proces.
 
+{% hint style="info" %}
+Please note that after claiming your rewards and unsubscribing your LP, you will no longer receive rewards from the Aludel reward program. To receive rewards again please follow the guide below, then withdraw your LP using the "Withdraw unsubscribed LP" button, and then subscribe your LP using the "Increase LP subscription" button.
+{% endhint %}
+
 1. Otwórz [crucible.alchemist.wtf](https://crucible.alchemist.wtf/), połącz swój portfel i przejdź do zakładki "Your Crucibles".
 
 2. Kiedy jesteś już na zakładce "Your Crucibles", za pomocą ikonki strzałki skierowanej w dół rozwiń szczegóły wybranego Crucible:
