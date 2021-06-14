@@ -78,7 +78,7 @@ Crucible 只支持 **Uniswap V2** 流动资金池。向 **Uniswap V3** 资金池
 
 ### **如何查看我在此期间获得了多少奖励?**
 
-您可以在 [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) 上查看 Crucible 的累积奖励，并使用 [apy.vision](https://apy.vision/) 或 [croco.finance](https://croco.finance/) 来查看 Uniswap LP 所累积的费用 \( Uniswap LP 赚取的奖励将显示为 ⚗️ ，以及 WETH 或 ETH \)。
+您可以在 [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) 上查看 Crucible 的累积奖励，并使用 [apy.vision](https://apy.vision/) 或 [croco.finance](https://croco.finance/) 来查看 Uniswap LP 所累积的费用 \( Uniswap LP 赚取的费用将显示为 ⚗️ ，以及 WETH 或 ETH \)。
 
 ![croco.finance](../.gitbook/assets/untitled.png)
 
