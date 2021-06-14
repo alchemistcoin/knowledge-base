@@ -4,6 +4,10 @@
 
 以下的指南旨在引導你完成這個過程。 
 
+{% hint style="info" %}
+Please note that after claiming your rewards and unsubscribing your LP, you will no longer receive rewards from the Aludel reward program. To receive rewards again please follow the guide below, then withdraw your LP using the "Withdraw unsubscribed LP" button, and then subscribe your LP using the "Increase LP subscription" button.
+{% endhint %}
+
 1. 打開 [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)連接你的錢包並按"Your Crucibles"標簽。
 2. 進入“Your Crucibles”選項卡後，在您想從其取消訂閱/領取獎勵的 Crucibles 點擊向下的箭頭展開詳細資料。
 
