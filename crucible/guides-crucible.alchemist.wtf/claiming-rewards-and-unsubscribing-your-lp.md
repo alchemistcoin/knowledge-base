@@ -4,10 +4,8 @@ Bir noktada, ödüllerinizi talep etmeye ve Crucible'nızdan LP katılımınız�
 
 Aşağıdaki kılavuz, bu süreçte size yarım etmek için tasarlanmıştır.
 
-{% hint style="warning" %}
-Katılımını kaldırmak/ödül talep ederken işleminizin botlar tarafından önden çalıştırılmasını önlemek için TaiChi ağına geçmeniz gerekecek.
-
-Bu adım zorunludur ve talimatlar aşağıdaki adımlara dahildir
+{% hint style="info" %}
+Please note that after claiming your rewards and unsubscribing your LP, you will no longer receive rewards from the Aludel reward program. To receive rewards again please follow the guide below, then withdraw your LP using the "Withdraw unsubscribed LP" button, and then subscribe your LP using the "Increase LP subscription" button.
 {% endhint %}
 
 1. [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)'yi açın, cüzdanınızı bağlayın ve "Your Crucibles" sekmesini ziyaret edin.
