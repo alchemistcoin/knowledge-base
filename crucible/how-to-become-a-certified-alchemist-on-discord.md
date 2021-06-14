@@ -1,6 +1,6 @@
 # Cum poti deveni un Alchimist Certificat in Discord 💬
 
-Daca detii un Crucible NFT, tu poti deveni un Alchimist Certificat in [canalul nostru Discord](https://discord.com/invite/qWQQMMKjKe) 🧙‍♂️⚗. Unul din avantaje este ca Alchimistul Certificat poate sa fie parte si sa voteze in diferite competitii discord.
+Daca detii un Crucible NFT, tu poti deveni un Alchimist Certificat in [canalul nostru Discord](https://discord.com/invite/qWQQMMKjKe) 🧙‍♂️⚗️. Unul din avantaje este ca Alchimistul Certificat poate sa fie parte si sa voteze in diferite competitii discord.
 
 Daca Crucible NFT detinut de tine a fost deja creat folosind [Alchemist.farm](https://alchemist.farm), te rog mergi direct la **Partea 2.**
 
@@ -47,5 +47,5 @@ Dupa ce ai primit accesul la walletul tau Metamask continand propriul tau Crucib
 
  ![](https://i.imgur.com/KTO91Q1.png)
 
-       10. Felicitari, acum esti un Alchimist Certificat 🧙‍♂️⚗
+       10. Felicitari, acum esti un Alchimist Certificat 🧙‍♂️⚗️
 

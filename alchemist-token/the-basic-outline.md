@@ -2,6 +2,8 @@
 
 Exista un token numit Alchemist, care are simbolul „⚗️”. Acest token se mai numeste si „mist” sau „$MIST”. Nu-l confundați cu [MUST](https://www.coingecko.com/en/coins/must) - in ciuda asemanarii la o prima privire, in realitate nu are nicio legatura cu Alchemist. Pentru a nu fi inselati cand vreti sa cumparati $MIST, asigurati-va adaugand adresa contractului**`0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab`** cand alegeti in exchange tokenul cumparat.
 
+![](../.gitbook/assets/mm_mi21st.png)
+
 Pentru ce este bun ⚗️MIST? Acest articol nu isi propune sa raspunda la intrebarea asta. Va rugam sa consultati [Intrebari Frecvente](faq.md).
 
 Puteti sa puneti in stake ⚗️MIST ca și în cazul altor monede dar o puteti folosi mai ales pentru a [crea NFT-uri Crucible ](../crucible/teach-me-about-crucibles.md)pentru programul de recompensa  [Aludel](the-basic-outline.md#3-aludel) .
