@@ -4,6 +4,10 @@
 
 Инструкция ниже призвана помочь вам.
 
+{% hint style="info" %}
+Please note that after claiming your rewards and unsubscribing your LP, you will no longer receive rewards from the Aludel reward program. To receive rewards again please follow the guide below, then withdraw your LP using the "Withdraw unsubscribed LP" button, and then subscribe your LP using the "Increase LP subscription" button.
+{% endhint %}
+
 1. Откройте [crucible.alchemist.wtf](https://crucible.alchemist.wtf/), подключите MetaMask и зайдите во вкладку "Your Crucibles".
 2. С помощью кнопки, в виде стрелочки указывающей вниз, разверните сведения о вашем Crucible. ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.58.png) 
 3. Вы увидите информацию о том, сколько наград в MIST или ETH вам доступны. ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.42.png) 
