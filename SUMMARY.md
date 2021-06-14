@@ -19,7 +19,7 @@
   * [Получение награды и отмена подписки токенов ПЛ](crucible/guides-crucible.alchemist.wtf-ru/claiming-rewards-and-unsubscribing-your-lp-ru.md)
 * [Как получить роль "сертифицированного алхимика" в дискорде 💬](crucible/how-to-become-a-certified-alchemist-on-discord-ru.md)
 * [Совместимости с кошельками](crucible/wallet-compatibility-ru.md)
-* [Визуальные инструкции](crucible/visual-guides-ru.md)
+* [Визуальные инструкции 🎞](crucible/visual-guides-ru.md)
 * [ЧАВО 📖](crucible/aludel-crucible-chavo.md)
 
 ## JOIN US
