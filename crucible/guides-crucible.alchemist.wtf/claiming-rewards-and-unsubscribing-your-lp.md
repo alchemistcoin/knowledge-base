@@ -5,7 +5,7 @@
 Le mode d'emploi ci-dessous vous guidera pas à pas dans ce process. 
 
 {% hint style="info" %}
-Please note that after claiming your rewards and unsubscribing your LP, you will no longer receive rewards from the Aludel reward program. To receive rewards again please follow the guide below, then withdraw your LP using the "Withdraw unsubscribed LP" button, and then subscribe your LP using the "Increase LP subscription" button.
+Veuillez noter qu'après avoir réclamé vos récompenses et désengagé vos LP, vous ne recevrez plus de récompenses de la part du programme de récompense Aludel. Pour recevoir de nouveau des récompenses, suivez le mode d'emploi ci-dessous, puis retirez vos LP en utilisant le bouton "Withdraw unsubscribed LP", puis soumettez vos LP en utilisant le bouton "Increase LP subscription".
 {% endhint %}
 
 1. Ouvrez [crucible.alchemist.wtf](https://crucible.alchemist.wtf/), connectez votre wallet et ouvrez l'onlget "Your Crucibles".
