@@ -1,6 +1,6 @@
 # Wie man ein "zertifizierter Alchemist" auf dem Discord Server wird 💬
 
-Wenn du ein Crucible besitzt, kannst du ein zertifizierter Alchemist auf unserem [Discord](https://discord.com/invite/qWQQMMKjKe) 🧙‍♂️⚗ werden. Ein Vorteil besteht darin, dass du an Discord Abstimmungen und Wettbewerben teilnehmen kannst. One perk of becoming a certified alchemist is that it allows you to take part in discord votes and competitions.
+Wenn du ein Crucible besitzt, kannst du ein zertifizierter Alchemist auf unserem [Discord](https://discord.com/invite/qWQQMMKjKe) 🧙‍♂️⚗️ werden. Ein Vorteil besteht darin, dass du an Discord Abstimmungen und Wettbewerben teilnehmen kannst. One perk of becoming a certified alchemist is that it allows you to take part in discord votes and competitions.
 
 Sollte dein Crucible über eine Website gemintet worden sein, so kannst du direkt zu [**Teil 2**](how-to-become-a-certified-alchemist-on-discord.md#teil-2) ****springen.
 
@@ -29,5 +29,5 @@ Nachdem du Zugriff auf deine Wallet hast, die dein Crucible enthält, kannst du 
 7. Collab.Land wird dir nun folgende Nachricht senden und wenn du wirklich ein Crucible hältst, dir ebenfalls deine Rolle im Discord zuweisen. ![](https://i.imgur.com/1UMmipM.png)
 8. Die Schriftfarbe deines Namens sollte nun rot gefärbt sein.
 9. Wenn du einen Linksklick auf deinen Discord Namen machst, solltest du ebenfalls deine neue Rolle "certified alchemist" rot umrandet wiederfinden.  ![](https://i.imgur.com/KTO91Q1.png)
-10. Herzlichen Glückwunsch, du bist nun ein zertifizierter Alchemist! 🧙‍♂️⚗
+10. Herzlichen Glückwunsch, du bist nun ein zertifizierter Alchemist! 🧙‍♂️⚗️
 

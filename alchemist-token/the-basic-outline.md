@@ -2,6 +2,8 @@
 
 Wir nennen unseren Token Alchemist. Wir benutzen folgendes Ticker Symbol "⚗️". Unteranderem ist es auch bekannt als "mist" und "$MIST". Bitte verwechsele es nicht mit [Mist \(MIST\)](https://www.coingecko.com/en/coins/mist), [Alchemist DeFi Mist \(MIST\)](https://www.coingecko.com/en/coins/alchemist-defi-mist) und [Cometh \(MUST\)](https://coinmarketcap.com/currencies/cometh/) neben dem teils identischem Ticker Symbol oder Namen gibt es keinerlei Verbindung zu Alchemist \(MIST\).
 
+![](../.gitbook/assets/mm_mi21st.png)
+
 Wofür ist ⚗️ gut? Siehe hierzu das [offizielle FAQ](faq.md)
 
 Du kannst deine Mist ⚗️ wie andere Coins als Liquidität benutzen und schlussendlich damit ein Crucible NFT erstellen, welches im [Aludel](the-basic-outline.md#3-aludel) Programm teilnimmt.
