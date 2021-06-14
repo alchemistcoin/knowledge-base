@@ -2,6 +2,8 @@
 
 有一個代幣的名稱是Alchemist。它的代號符號是"⚗️"。它亦稱為"mist" 和 "$MIST"。請不要跟[MUST](https://www.coingecko.com/en/coins/must) 混淆 - 儘管它也有顯示蒸餾器的圖案，但它其實跟Alchemist是沒有關係的。
 
+![](.gitbook/assets/mm_mi21st.png)
+
 ⚗️有什麼用？我們不是在這裏答這個問題的，請參考我們的[官方FAQ](faq.md)。
 
 你可以像其他代幣一樣將⚗️作質押\(staking\)，最終你可以用它在[Aludel](the-basic-outline.md#3-aludel)中[ 鑄造Crucible NFTs](crucible/teach-me-about-crucibles.md) \(煉丹爐/坩堝\) 。
