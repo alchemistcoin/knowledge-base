@@ -3,7 +3,7 @@
 Wenn du dich irgendwann dazu entscheiden solltest, dass du du deine Belohnungen erhalten und deine LP Token nicht mehr teilnehmen lassen möchtest, dann hilft dir die untenstehende Anleitung Schritt für Schritt dabei, den Prozess zu meistern.
 
 {% hint style="info" %}
-Please note that after claiming your rewards and unsubscribing your LP, you will no longer receive rewards from the Aludel reward program. To receive rewards again please follow the guide below, then withdraw your LP using the "Withdraw unsubscribed LP" button, and then subscribe your LP using the "Increase LP subscription" button.
+Bitte beachte, dass du nach dem Einfordern von Belohnungen und nicht mehr teilnehmen mit deinen LP Token keine Belohnungen mehr durch das Aludel Programm erhältst. Um erneut Belohnungen zu erhalten, befolge bitte die Anleitung und nutze zunächst den "Withdraw unsubscribed LP" Button, so dass du anschließend erneut deine LP Token teilnehmen lässt in dem du den "Increase LP subscription" Button nutzt.
 {% endhint %}
 
 1. Öffne [crucible.alchemist.wtf](https://crucible.alchemist.wtf/), verbinde deine Wallet und klicke auf den "Your Crucibles" Reiter.
