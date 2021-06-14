@@ -1,6 +1,6 @@
 # 如何成为 Discord 上的 " Certified Alchemist "？💬
 
-若您拥有一个 Crucible ，就可以在我们的 [Discord 频道](https://discord.com/invite/qWQQMMKjKe)上成为一名 Certified Alchemist\(认证炼金术士\)🧙‍♂️⚗。成为 Certified Alchemist 的其中一个好处在于，您可以参与 Discord 上的各类投票和比赛。
+若您拥有一个 Crucible ，就可以在我们的 [Discord 频道](https://discord.com/invite/qWQQMMKjKe)上成为一名 Certified Alchemist\(认证炼金术士\)🧙‍♂️⚗️。成为 Certified Alchemist 的其中一个好处在于，您可以参与 Discord 上的各类投票和比赛。
 
 如果您的 Crucible 是直接在网站上铸造的，请直接阅读[**第二部分**](how-to-become-a-certified-alchemist-on-discord.md#di-er-bu-fen)\*\*\*\*
 
@@ -29,5 +29,5 @@
 7. Collab.Land 将向您发送以下信息，如果您真的拥有一个 Crucible，机器人将自动更新您的角色 ![](https://i.imgur.com/1UMmipM.png)
 8. 在 Discord 聊天界面，您的名字的字体颜色应该已经变成了红色（如果您没有其他角色）
 9. 当您左键点击自己的 Discord 名字，会看到角色栏内已经出现了红色圈出的 certified alchemist 的角色 ![](https://i.imgur.com/KTO91Q1.png)
-10. 恭喜您，您现在是一名 Certified Alchemist 了！ 🧙‍♂️⚗
+10. 恭喜您，您现在是一名 Certified Alchemist 了！ 🧙‍♂️⚗️
 
