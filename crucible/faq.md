@@ -78,7 +78,7 @@ Every time you put LP tokens in the Aludel reward program, it keeps track of how
 
 ## **Can I somehow see how much rewards I have acquired in the meantime?**
 
-You can see the accumulated reward for your crucible by using the UI at either [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) and the accumulated Uniswap LP fees earned using [apy.vision](https://apy.vision/) or [croco.finance](https://croco.finance/) \(Uniswap LP fees earned will show as ⚗️, and WETH or ETH\)
+You can see the accumulated reward for your crucible by using the UI at either [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) and the accumulated Uniswap LP fees earned using [apy.vision](https://apy.vision/) or [croco.finance](https://croco.finance/) \(Uniswap LP fees earned will show as ⚗️, and WETH or ETH\).
 
 ![croco.finance](../.gitbook/assets/untitled.png)
 
