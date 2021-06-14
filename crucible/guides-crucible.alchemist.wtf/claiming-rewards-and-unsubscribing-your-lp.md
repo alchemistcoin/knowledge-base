@@ -4,6 +4,10 @@
 
 नीचे दी गयी गाइड यह करने में आपकी मदद कर सकता है.
 
+{% hint style="info" %}
+Please note that after claiming your rewards and unsubscribing your LP, you will no longer receive rewards from the Aludel reward program. To receive rewards again please follow the guide below, then withdraw your LP using the "Withdraw unsubscribed LP" button, and then subscribe your LP using the "Increase LP subscription" button.
+{% endhint %}
+
 1. [crucible.alchemist.wtf](https://crucible.alchemist.wtf/), को खोलिये, अपना वॉलेट कनेक्ट कीजिये और "Your crucibles" टैब पर जाइये.
 2. "Your crucibles" टैब पर आने के बाद, नीचे की ओर तीर का उपयोग करके वह क्रूसिबल को चुनिए जिसमें से आप अपने रिवार्ड्स क्लेम करना चाहते हैं और एलपी अनसब्सक्राइब करना चाहते हैं:
 
