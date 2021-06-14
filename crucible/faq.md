@@ -76,7 +76,7 @@ Za każdym razem, gdy umieszczasz tokeny LP w programie nagród Aludel, program 
 
 ## **Czy mogę w międzyczasie sprawdzić jak dużą nagrodę zdobyłem?**
 
-Możesz zobaczyć zgromadzoną nagrodę za swój Crucible używając interfejsu użytkownika na [crucible.alchemist.wtf](https://crucible.alchemist.wtf/), a skumulowane opłaty za Uniswap LP możesz sprawdzić za pomocą [apy.vision](https://apy.vision/) lub [croco.finance](https://croco.finance/) \(Uniswap LP fees earned will show as ⚗️, and WETH or ETH\).
+Możesz zobaczyć zgromadzoną nagrodę za swój Crucible używając interfejsu użytkownika na [crucible.alchemist.wtf](https://crucible.alchemist.wtf/), a skumulowane zyski z opłat Uniswap LP możesz sprawdzić za pomocą [apy.vision](https://apy.vision/) lub [croco.finance](https://croco.finance/) \(Zyski z opłat Uniswap LP wyświetlą się jako ⚗️ i WETH lub ETH\).
 
 ![croco.finance](../.gitbook/assets/untitled.png)
 
