@@ -18,35 +18,35 @@ Please note that after claiming your rewards and unsubscribing your LP, you will
 4. "Manage Crucible" बटन को दबाइये.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.04.png)  
 5. अब आपको "Rewards" टैब के अंतर्गत आंकड़ों की अधिक जटिल सूची दिखाई जानी चाहिए  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.22.png)  
 6. पृष्ठ के निचले भाग में "Claim rewards and unsubscribe" पर क्लिक कीजिये. ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.05.52.png)  
-7. Fill in the prompt with how much LP you wish to unsubscribe and Click "Claim rewards and unsubscribe LP".  
+7. आप कितनी एलपी सदस्यता समाप्त करना चाहते हैं, इसके साथ संकेत भरें और "Claim rewards and unsubscribe LP" क्लिक करें.  
    ![](../../.gitbook/assets/1.png)   
 
 
-   8. You will now get two pop up boxes from MetaMask asking you for a “Signature Request”. Click “sign” both times.  
+   8. अब आपको मेटामास्क से "Signature Request" के लिए दो पॉप अप बॉक्स मिलेंगे. दोनों बार "Sign" पर क्लिक करें.  
    ![](../../.gitbook/assets/2%20%282%29%20%282%29%20%281%29.png)   
-   1st Signature Request
+   पहला हस्ताक्षर अनुरोध
 
   
    ![](../../.gitbook/assets/3%20%281%29%20%285%29%20%281%29%20%284%29.png)  
-    2nd Signature Request  
+   दूसरा हस्ताक्षर अनुरोध  
 
 
-   9. The cost of Gas will be automatically calculated by the website based on the current rate of gas. This will be submitted on your behalf as part of the claim rewards transaction.
+   9. गैस की वर्तमान दर के आधार पर वेबसाइट द्वारा गैस की लागत की गणना स्वचालित रूप से की जाएगी. यह आपकी ओर से दावा पुरस्कार लेनदेन के हिस्से के रूप में प्रस्तुत किया जाएगा.
 
 
 
-   10. You will now get a message indicating that your claim is now being submitted via Flashbots. This is to protect your rewards from frontrunners. The process may take up to 5 minutes to complete.
+   10. अब आपको एक संदेश मिलेगा जो दर्शाता है कि आपका दावा अब फ्लैशबॉट्स के माध्यम से जमा किया जा रहा है. यह आपके पुरस्कारों को आगे बढ़ने वालों से बचाने के लिए है. प्रक्रिया को पूरा होने में 5 मिनट तक का समय लग सकता है.
 
    ![](../../.gitbook/assets/4%20%281%29%20%282%29.png)  
   
-   If you do not have enough ETH in your wallet for the transaction, you will receive a message as below.  
+   यदि आपके वॉलेट में लेन-देन के लिए पर्याप्त ETH नहीं है, तो आपको नीचे जैसा संदेश प्राप्त होगा.  
    ![](../../.gitbook/assets/edlin%20%281%29.png)  
 
 
-   11. If your transaction is successful you will get the message below.  
+   11. यदि आपका लेनदेन सफल होता है तो आपको नीचे संदेश प्राप्त होगा.  
    ![](../../.gitbook/assets/6.png)  
   
-   Due to the nature of bundling transactions, it's possible the transaction may not be successful on your first attempt. If this is the case, please try again. The gas fee will only be charged if there is a successful transaction. If the transaction fails, you will not be charged.  
+   बंडलिंग लेन-देन की प्रकृति के कारण, यह संभव है कि लेन-देन आपके पहले प्रयास में सफल न हो. यदि ऐसा है, तो कृपया पुन: प्रयास करें. सफल लेनदेन होने पर ही गैस शुल्क लिया जाएगा. यदि लेनदेन विफल हो जाता है, तो आपसे शुल्क नहीं लिया जाएगा.  
    ![](../../.gitbook/assets/7%20%281%29.png)
 
 
