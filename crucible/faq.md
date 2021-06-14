@@ -71,7 +71,7 @@ Every time you put LP tokens in the Aludel reward program, it keeps track of how
 
 ## Kan ik op de een of andere manier zien hoeveel beloningen ik in de tussentijd heb verdiend?**?**
 
-Je kunt de verzamelde beloning voor je Crucible zien door de gebruikersinterface te gebruiken bij [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) en de verzamelde Uniswap LP-vergoedingen met [apy.vision](https://apy.vision/) of [croco.finance](https://croco.finance/dashboard/) \(Uniswap LP vergoedingen zullen eruitzien als ⚗️ en WETH of ETH\).
+Je kunt de verzamelde beloning voor je Crucible zien door de gebruikersinterface te gebruiken bij [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) en de verzamelde Uniswap LP-vergoedingen met [apy.vision](https://apy.vision/) of [croco.finance](https://croco.finance/dashboard/) \(Uniswap LP-vergoedingen zullen worden laten zien als ⚗️ en WETH of ETH\).
 
 ![croco.finance](../.gitbook/assets/untitled.png)
 
