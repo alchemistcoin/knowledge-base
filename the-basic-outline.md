@@ -1,6 +1,6 @@
 # 基本说明
 
-我们的代币名为 Alchemist 。它的符号是" ⚗️ "。也可以称它为" mist "或者" $MIST "。不过不要把它和 [MUST](https://www.coingecko.com/en/coins/must) 搞混——尽管它现在显示的也是个蒸馏器的图标，但它和 Alchemist 没有任何关系。 
+我们的代币名为 Alchemist 。它的符号是" ⚗️ "。也可以称它为" mist "或者" $MIST "。不过不要把它和 [Mist \(MIST\)](https://www.coingecko.com/en/coins/mist), [Alchemist DeFi Mist \(MIST\)](https://www.coingecko.com/en/coins/alchemist-defi-mist)或[Cometh \(MUST\)](https://coinmarketcap.com/currencies/cometh/) 搞混——尽管都有符号⚗️以及相似的名字，但这三个代币和Alchemist（MIST）没有任何关系。
 
 ![](.gitbook/assets/mm_mi21st.png)
 
