@@ -1,6 +1,6 @@
 # L' essentiel
 
-Il y a un token nommé Alchemist. Il a pour symbole de ticker "⚗️". On l'appelle également "mist" et "$MIST".  Ne confondez pas avec [MUST](https://www.coingecko.com/en/coins/must) - malgré l'alambique qu'il affiche actuellement, il n'a pas de lien avec Alchemist.
+Il y a un token nommé Alchemist. Il a pour symbole de ticker "⚗️". On l'appelle également "mist" et "$MIST".  Ne confondez pas avec [MUST](https://www.coingecko.com/en/coins/must), [Alchemist DeFi Mist \(MIST\)](https://www.coingecko.com/en/coins/alchemist-defi-mist), et [Cometh \(MUST\)](https://coinmarketcap.com/currencies/cometh/) - malgré l'alambique qu'il affiche actuellement, il n'a pas de lien avec Alchemist.
 
 ![](.gitbook/assets/mm_mi21st.png)
 
