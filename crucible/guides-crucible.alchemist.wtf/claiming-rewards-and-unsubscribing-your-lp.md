@@ -10,29 +10,37 @@ Please note that after claiming your rewards and unsubscribing your LP, you will
 
 1. [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)'yi açın, cüzdanınızı bağlayın ve "Your Crucibles" sekmesini ziyaret edin.
 2. "Your Crucibles" sekmesinde, ödül almak istediğiniz Crucible ayrıntılarını genişletin ve aşağı bakan oka tıklayarak LP katılımınızı iptal edin: ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.58.png) 
-3. Crucible şimdi size ödül olarak ne kadar MIST veya ETH kazandığınız gibi daha fazla bilgi göstermelidir. ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.42.png) 
-4. "Manage Crucible" butonuna tıklayın ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.04.png) 
-5. Şimdi "Rewards" sekmesi altında daha karmaşık bir istatistik listesi gösterilmelidir.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.22.png) 
-6. Sayfanın altındaki "Claim rewards and unsubscribe"a tıklayın ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.05.52.png) 
-7. **Bir sonraki adıma geçmeden önce**, şimdi cüzdanınızı TaiChi Ağına bağlamanız gerekecek,[ ](https://github.com/Taichi-Network/docs/blob/master/sendPriveteTx_tutorial.md)bağlantı detayları ve talimatları için lütfen [bu bağlantıya](https://github.com/Taichi-Network/docs/blob/master/sendPriveteTx_tutorial.md) bakın, bu süreçte size adım atmak için aşağıda animasyonlu eğitim hazırladık. ![](../../.gitbook/assets/taichi-network-add.gif) 
-8. MetaMask'in TaiChi ağını aşağıdaki gibi gösterdiğinden emin olun.
+3. Crucible şimdi size ödül olarak ne kadar MIST veya ETH kazandığınız gibi daha fazla bilgi göstermelidir. ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.42.png)  
+4. "Manage Crucible" butonuna tıklayın ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.04.png)  
+5. Şimdi "Rewards" sekmesi altında daha karmaşık bir istatistik listesi gösterilmelidir.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.22.png)  
+6. Sayfanın altındaki "Claim rewards and unsubscribe"a tıklayın ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.05.52.png)  
+7. Fill in the prompt with how much LP you wish to unsubscribe and Click "Claim rewards and unsubscribe LP". ![](../../.gitbook/assets/1.png)  
+8. You will now get two pop up boxes from MetaMask asking you for a “Signature Request”. Click “sign” both times.  
+   ![](../../.gitbook/assets/2%20%282%29%20%282%29%20%281%29.png)   
+   1st Signature Request
 
-   ![](https://i.imgur.com/kszVVbq.png)
+  
+   ![](../../.gitbook/assets/3%20%281%29%20%285%29%20%281%29%20%284%29.png)  
+    2nd Signature Request  
 
-9. Şimdi web sitesine dönün ve ne kadar LP katılımınızı kaldırmak istediğinizi girin ve "Claim rewards and unsubscribe LP"e tıklayın. ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.06.00.png) 
-10. Adım 7-8'i doğru yapmadıysanız bir hata görürsünüz, bu hatayı görürseniz lütfen 7. adıma dönün ve tekrar deneyin. ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.06.44.png) 
-11. Şimdi MetaMask'tan bir “Signature Request\(İmza Talebi\)” isteyen bir açılır kutu alacaksınız "sign" yı tıklayın ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.11.35.png) 
-12. Ardından, aşağıda gösterildiği gibi MetaMask'tan bir token transfer bildirim kutusu alacaksınız. **EDIT butonuna tıklayarak Gaz Ücretini kontrol etmenizi öneririz. Bazı kullanıcılar, bu varsayılan ayarı en yavaş seçeneğe getirmişlerdir, bu da işleminizin tamamlanmasını geciktirebilir. Gaz ücretlerinin çok yüksek olduğundan endişeleniyorsanız, en düşük gaz ücretlerinin ne zaman ortaya çıkabileceğine karar vermenize yardımcı olması için** [**ethereumprice.org/gas/**](https://ethereumprice.org/gas/) **adresini kullanın.**
+9. The cost of Gas will be automatically calculated by the website based on the current rate of gas. This will be submitted on your behalf as part of the claim rewards transaction.
 
-    ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.11.44.png) 
+10. You will now get a message indicating that your claim is now being submitted via Flashbots. This is to protect your rewards from frontrunners. The process may take up to 5 minutes to complete.
 
-13. İşlem şimdi TaiChi ağına gönderilecek. Bu işlemi Etherscan'da hemen göremeyeceksiniz, bu yüzden paniğe kapılmayın! İşlem TaiChi Ağından geçtikten sonra orada görünecektir.
-14. İşleminizin TaiChi'de olup olmadığını kontrol etmek istiyorsanız, ilerlemesini görmek için işlem karmasını [taichi.network](https://taichi.network/)'e yapıştırabilirsiniz. **Not**: TaiChi ağı, ethereum ağından biraz daha yavaş olacaktır.
-15. İşlem gönderildikten ve tamamlandıktan sonra, Crucible'ı görüntülemek için ethereum ağına geri dönmeniz gerekecektir.
+    ![](../../.gitbook/assets/4%20%281%29%20%282%29.png)  
+  
+    If you do not have enough ETH in your wallet for the transaction, you will receive a message as below.  
+    ![](../../.gitbook/assets/edlin%20%281%29.png)  
 
-    ![](https://i.imgur.com/fcPY6Zp.png) 
+11. If your transaction is successful you will get the message below.  
+    ![](../../.gitbook/assets/6.png)  
+  
+    Due to the nature of bundling transactions, it's possible the transaction may not be successful on your first attempt. If this is the case, please try again. The gas fee will only be charged if there is a successful transaction. If the transaction fails, you will not be charged.  
+    ![](../../.gitbook/assets/7%20%281%29.png)
 
-16. Yenilediğinizde artık LP tokenlarının kaldırıldığı Crucible'ı göreceksiniz.
 
-\*\*\*\*
+
+
+
+    \*\*\*\*
 
