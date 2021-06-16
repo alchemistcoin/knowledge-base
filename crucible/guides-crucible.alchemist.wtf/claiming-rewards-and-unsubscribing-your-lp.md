@@ -24,7 +24,7 @@ Molim vas obratite pažnju da nakon preuzimanja nagrade i otkazivanja LP-a, viš
 5. Sada bi trebalo da se prikaže još kompleksnija statistika, u okviru "Rewards" taba.    ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.22.png) 
 6. Klikni na "Claim rewards and unsubscribe" u dnu strane  
 
-   ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.05.52.png)
+   ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.05.52.png)  
 
 7. Upiši koliko LP tokena otkazuješ sa pretplate i klikni na "Claim rewards and unsubscribe LP".  ![](../../.gitbook/assets/1.png) 
 8. Sada će se pojaviti pop up box sa MetaMask koji te pita za “Signature Request”, a ti onda klikni na “sign”. 
