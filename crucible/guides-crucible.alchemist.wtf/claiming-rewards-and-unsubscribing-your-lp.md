@@ -5,6 +5,14 @@ La un moment dat poti decide ca vrei sa Soliciti Recompensele si sa Retragi LP-u
 Ghidul de mai jos este conceput sa te conduca prin pasii acestui proces.
 
 {% hint style="info" %}
+Please note that when you unsubscribe all of your LP or only a portion of your LP from the crucible, the reward multiplier for the unsubscribed LP will be reset.  If you unsubscribe only a portion of the subscribed LP, the reward multiplier for the portion unsubscribed will be reset, while the subscribed portion will remain at its current multiplier. 
+
+For example, suppose you have 1.7 LP subscribed and its reward multiplier is at 10x. You decide to unsubscribe 1 LP. The 0.7 LP remaining \(still subscribed\) will continue to have a reward multiplier of 10x, while the unsubscribed 1 LP's reward multiplier will be reset. 
+
+The rewards you receive will be for the unsubscribed 1 LP, not the subscribed 0.7 LP.
+{% endhint %}
+
+{% hint style="info" %}
 Trebuie să reții că revendicand recompensele și retragand LP-ul, nu mai poti primi recompense din programul Aludel. Pentru a primi din nou recompense, urmeaza ghidul de mai jos, apoi retrage LP-ul folosind butonul „Withdraw unsubscribed LP”, dupa care poti aloca din nou LP-ul folosind butonul „Increase LP subscription”.
 {% endhint %}
 
