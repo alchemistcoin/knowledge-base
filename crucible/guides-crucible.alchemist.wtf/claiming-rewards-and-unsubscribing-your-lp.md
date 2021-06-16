@@ -21,12 +21,12 @@ Molim vas obratite pažnju da nakon preuzimanja nagrade i otkazivanja LP-a, viš
 
    ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.04.png)  
 
-5. Sada bi trebalo da se prikaže još kompleksnija statistika, u okviru "Rewards" taba.   ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.22.png) 
+5. Sada bi trebalo da se prikaže još kompleksnija statistika, u okviru "Rewards" taba.    ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.22.png) 
 6. Klikni na "Claim rewards and unsubscribe" u dnu strane  
 
    ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.05.52.png)
 
-7. Upiši koliko LP tokena otkazuješ sa pretplate i klikni na "Claim rewards and unsubscribe LP". ![](../../.gitbook/assets/1.png) 
+7. Upiši koliko LP tokena otkazuješ sa pretplate i klikni na "Claim rewards and unsubscribe LP".  ![](../../.gitbook/assets/1.png) 
 8. Sada će se pojaviti pop up box sa MetaMask koji te pita za “Signature Request”, a ti onda klikni na “sign”. 
 
    ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MZtVtOEMQShtte8TrMq%2F-MbH1zJp7tqPw-lQpaLe%2F-MbH22XqtTl2UAgHIht_%2F2.png?alt=media&token=7b5ea3a1-22e4-4bc3-acb1-f9056c58bc45) 
