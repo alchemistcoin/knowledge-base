@@ -13,11 +13,12 @@ Si no está seguro de cómo cambiar entre la V3 y la V2, utilice nuestros enlace
 {% endhint %}
 
 * [Alchemist YouTube Channel](https://www.youtube.com/channel/UCIs4LugynLei2TN__lJh-6Q)
-* [Crear un Crucible](https://www.youtube.com/watch?v=Rl9Rf-3Sp-8)
-* [Obtener un token LP,  y crear un Crucible](https://www.youtube.com/watch?v=Ga1qcQ6x3as)
-* [Obtener un token LP, crear un Crucible, y conviértete en un Alquimista Certificado en Discord](https://www.youtube.com/watch?v=k7MO1QpqCds)
-* [Transferir un Crucible utilizando Alchemist website y OpenSea.io](https://www.youtube.com/watch?v=i2MCYimelBM)
-* [Perdida impermanente \(Impermanent Loss\) - mira antes de stakear LP](https://www.youtube.com/watch?v=8XJ1MSTEuU0)
+* [Learn how to Mint an Alchemist Crucible](https://www.youtube.com/watch?v=SnnA4NBluDI)
+* \(old website\) [Crear un Crucible](https://www.youtube.com/watch?v=Rl9Rf-3Sp-8)
+* \(old website\) [Obtener un token LP,  y crear un Crucible](https://www.youtube.com/watch?v=Ga1qcQ6x3as)
+* \(old website\) [Obtener un token LP, crear un Crucible, y conviértete en un Alquimista Certificado en Discord](https://www.youtube.com/watch?v=k7MO1QpqCds)
+* \(old website\) [Transferir un Crucible utilizando Alchemist website y OpenSea.io](https://www.youtube.com/watch?v=i2MCYimelBM)
+* \(old website\) [Perdida impermanente \(Impermanent Loss\) - mira antes de stakear LP](https://www.youtube.com/watch?v=8XJ1MSTEuU0)
 
 ### **Im**á**genes 🖼🎨**
 
