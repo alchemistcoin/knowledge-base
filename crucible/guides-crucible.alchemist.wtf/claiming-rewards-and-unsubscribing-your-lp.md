@@ -5,7 +5,7 @@ La un moment dat poti decide ca vrei sa Soliciti Recompensele si sa Retragi LP-u
 Ghidul de mai jos este conceput sa te conduca prin pasii acestui proces.
 
 {% hint style="info" %}
-Please note that after claiming your rewards and unsubscribing your LP, you will no longer receive rewards from the Aludel reward program. To receive rewards again please follow the guide below, then withdraw your LP using the "Withdraw unsubscribed LP" button, and then subscribe your LP using the "Increase LP subscription" button.
+Trebuie să reții că revendicand recompensele și retragand LP-ul, nu mai poti primi recompense din programul de recompense Aludel. Pentru a primi din nou recompense, urmeaza ghidul de mai jos, apoi retrage LP-ul folosind butonul „Withdraw unsubscribed LP”, dupa care poti aloca din nou LP-ul folosind butonul „Increase LP subscription”.
 {% endhint %}
 
 1. Intra pe [crucible.alchemist.wtf](https://crucible.alchemist.wtf/), conecteaza wallet-ul tau si viziteaza fila "Your Crucibles".
