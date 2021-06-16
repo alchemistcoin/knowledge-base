@@ -5,6 +5,14 @@
 नीचे दी गयी गाइड यह करने में आपकी मदद कर सकता है.
 
 {% hint style="info" %}
+Please note that when you unsubscribe all of your LP or only a portion of your LP from the crucible, the reward multiplier for the unsubscribed LP will be reset.  If you unsubscribe only a portion of the subscribed LP, the reward multiplier for the portion unsubscribed will be reset, while the subscribed portion will remain at its current multiplier. 
+
+For example, suppose you have 1.7 LP subscribed and its reward multiplier is at 10x. You decide to unsubscribe 1 LP. The 0.7 LP remaining \(still subscribed\) will continue to have a reward multiplier of 10x, while the 1 LP unsubscribed will be reset. 
+
+The rewards you receive will be for the unsubscribed 1 LP, not the subscribed 0.7 LP.
+{% endhint %}
+
+{% hint style="info" %}
 कृपया ध्यान दें कि अपने पुरस्कारों का दावा करने और अपने एलपी की सदस्यता समाप्त करने के बाद, आपको अब एलुडेल पुरस्कार कार्यक्रम से पुरस्कार प्राप्त नहीं होंगे. फिर से पुरस्कार प्राप्त करने के लिए कृपया नीचे दी गई मार्गदर्शिका का पालन करें, फिर "Withdraw unsubscribed LP" बटन का उपयोग करके अपना एलपी वापस लें, और फिर "Increase LP subscription" बटन का उपयोग करके अपने एलपी की सदस्यता लें.
 {% endhint %}
 
