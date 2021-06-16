@@ -1,5 +1,7 @@
 # 如何鑄造 Crucible?
 
+{% embed url="https://www.youtube.com/watch?v=SnnA4NBluDI" %}
+
 ## **獲取**和提供$MIST ⚗️來鑄造一個Crucible
 
 首先，你需要有$MIST並將其提供到Uniswap-V2的流動資金池\(LP pool\)。
