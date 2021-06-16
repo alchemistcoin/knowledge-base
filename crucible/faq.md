@@ -54,7 +54,7 @@ Le pool de récompenses est visible [ici](https://etherscan.io/address/0x04108d6
 
 ## **Comment puis-je récupérer les récompenses?**
 
-Vous pouvez récupérer toutes vos récompenses en appuyant sur “Claim Rewards and Unsubscribe LP”. Attention, cela réinitialise également votre multiplicateur de récompense. 
+Vous pouvez récupérer toutes vos récompenses en appuyant sur “[Claim Rewards and Unsubscribe LP](guides-crucible.alchemist.wtf/claiming-rewards-and-unsubscribing-your-lp.md)”. Attention, cela réinitialise également votre multiplicateur de récompense. 
 
 ## **Le nombre de jetons LP mis dans le Crucible importe-t-il ?** 
 
