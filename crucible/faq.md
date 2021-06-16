@@ -54,7 +54,7 @@ You can see the reward pool [here.](https://etherscan.io/address/0x04108d6e9a51b
 
 ## **How do I claim the rewards?**
 
-All rewards are received when you "Claim Rewards and Unsubscribe LP". Be careful, this also resets your reward multiplier. 
+All rewards are received when you "[Claim Rewards and Unsubscribe LP](guides-crucible.alchemist.wtf/claiming-rewards-and-unsubscribing-your-lp.md)". Be careful, this also resets your reward multiplier. 
 
 ## **Does it matter how many LP tokens go into the Crucible?**
 
@@ -160,7 +160,7 @@ No, as long as the rewards are not unsubscribed from the Aludel.
 
 **?כיצד אוכל לתבוע את התגמולים**
 
-"Claim Rewards and Unsubscribe LP" כל התגמולים מתקבלים כאשר אתה לוחץ על .היזהר, זה גם מאפס את מכפיל התגמול שלך כאשר אתה עושה זאת בכדי למנוע מבוטים להריץ את 
+"[Claim Rewards and Unsubscribe LP](guides-crucible.alchemist.wtf/claiming-rewards-and-unsubscribing-your-lp.md)" כל התגמולים מתקבלים כאשר אתה לוחץ על .היזהר, זה גם מאפס את מכפיל התגמול שלך כאשר אתה עושה זאת בכדי למנוע מבוטים להריץ את 
 
 **?Crucible -נכנסים ל LP tokens האם זה משנה כמה**
 
