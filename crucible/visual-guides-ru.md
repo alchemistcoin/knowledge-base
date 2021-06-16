@@ -13,11 +13,12 @@
 {% endhint %}
 
 * [Alchemist YouTube Channel](https://www.youtube.com/channel/UCIs4LugynLei2TN__lJh-6Q)
-* [​Создание C​rucible](https://www.youtube.com/watch?v=Rl9Rf-3Sp-8)
-* [​Получение токенов ПЛ и создание Crucible​](https://www.youtube.com/watch?v=Ga1qcQ6x3as)
-* ​[Получение токенов ПЛ и создание Crucible​ и получение роли "сертифицированный алхимик" в дискорде](https://www.youtube.com/watch?v=k7MO1QpqCds)
-* [Перемещение Crucible с помощью Alchemist website и OpenSea.io ](https://www.youtube.com/watch?v=i2MCYimelBM)
-* [Непостоянные потери - обязательно просмотреть перед предоставлением ликвидности](https://www.youtube.com/watch?v=8XJ1MSTEuU0)​
+* [Learn how to Mint an Alchemist Crucible](https://www.youtube.com/watch?v=SnnA4NBluDI)
+* [​](https://www.youtube.com/watch?v=Rl9Rf-3Sp-8)\(old website\) [Создание C​rucible](https://www.youtube.com/watch?v=Rl9Rf-3Sp-8)
+* \(old website\) [​Получение токенов ПЛ и создание Crucible​](https://www.youtube.com/watch?v=Ga1qcQ6x3as)
+* \(old website\) ​[Получение токенов ПЛ и создание Crucible​ и получение роли "сертифицированный алхимик" в дискорде](https://www.youtube.com/watch?v=k7MO1QpqCds)
+* \(old website\) [Перемещение Crucible с помощью Alchemist website и OpenSea.io ](https://www.youtube.com/watch?v=i2MCYimelBM)
+* \(old website\) [Непостоянные потери - обязательно просмотреть перед предоставлением ликвидности](https://www.youtube.com/watch?v=8XJ1MSTEuU0)​
 
 ### **Изображения 🖼🎨** <a id="images"></a>
 
