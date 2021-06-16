@@ -5,7 +5,7 @@ At some point you may decided that you are ready to Claim your rewards and Unsub
 The guide below is designed to step you through that process.
 
 {% hint style="info" %}
-Please note that if you unsubscribe only a portion of the subscribed LP from the crucible, the reward multiplier for the portion unsubscribed will still be reset to 1x. But the subscribed portion will remain at its current multiplier. 
+Please note that this process resets your reward multiplier.  If you unsubscribe only a portion of the subscribed LP from the crucible, the reward multiplier for the portion unsubscribed will still be reset to 1x. But the subscribed portion will remain at its current multiplier. 
 
 For example, suppose you have 1.7 LP subscribed and its reward multiplier is at 10x. You decide to unsubscribe 1 LP. The 0.7 LP remaining \(still subscribed\) will continue to have a reward multiplier of 10x, while the 1 LP unsubscribed will be reset. 
 
