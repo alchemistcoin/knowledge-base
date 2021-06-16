@@ -13,11 +13,12 @@ Als je niet zeker weet hoe je tussen V3 en V2 moet schakelen, gebruik dan onze l
 {% endhint %}
 
 * [Alchemist YouTube Channel](https://www.youtube.com/channel/UCIs4LugynLei2TN__lJh-6Q)
-* [Maak een Crucible](https://www.youtube.com/watch?v=Rl9Rf-3Sp-8)
-* [Verkrijg LP, maak daarna een Crucible](https://www.youtube.com/watch?v=Ga1qcQ6x3as)
-* [Verkrijg LP, maak daarna een Crucible, en word een Certified Alchemist op Discord](https://www.youtube.com/watch?v=k7MO1QpqCds)
-* [Crucible overdracht via Alchemist website en OpenSea.io](https://www.youtube.com/watch?v=i2MCYimelBM)
-* [Impermanent Loss - bekijk dit voordat je LP staked](https://www.youtube.com/watch?v=8XJ1MSTEuU0)
+* [Learn how to Mint an Alchemist Crucible](https://www.youtube.com/watch?v=SnnA4NBluDI)
+* \(old website\) [Maak een Crucible](https://www.youtube.com/watch?v=Rl9Rf-3Sp-8)
+* \(old website\) [Verkrijg LP, maak daarna een Crucible](https://www.youtube.com/watch?v=Ga1qcQ6x3as)
+* \(old website\) [Verkrijg LP, maak daarna een Crucible, en word een Certified Alchemist op Discord](https://www.youtube.com/watch?v=k7MO1QpqCds)
+* \(old website\) [Crucible overdracht via Alchemist website en OpenSea.io](https://www.youtube.com/watch?v=i2MCYimelBM)
+* \(old website\) [Impermanent Loss - bekijk dit voordat je LP staked](https://www.youtube.com/watch?v=8XJ1MSTEuU0)
 
 ### **Afbeelding 🖼🎨**
 
