@@ -1,6 +1,6 @@
 # Osnovni koncepti
 
-Ovde se radi o tokenu koji se zove Alchemist. Njegov ticker simbol je "⚗️". On se takođe vodi kao "mist" i "$MIST". Nemojte da ga pomešate sa [MUST](https://www.coingecko.com/en/coins/must) - bez obzira što se slično pišu i prikazuju na ekrenu, on nema nikakve veze sa Alchemistom.
+Ovde se radi o tokenu koji se zove Alchemist. Njegov ticker simbol je "⚗️". On se takođe vodi kao "mist" i "$MIST". Nemojte da ga pomešate sa [MUST](https://www.coingecko.com/en/coins/must), [Alchemist DeFi Mist \(MIST\)](https://www.coingecko.com/en/coins/alchemist-defi-mist), ili [Cometh \(MUST\)](https://coinmarketcap.com/currencies/cometh/)- bez obzira što se slično pišu i prikazuju na ekrenu, on nema nikakve veze sa Alchemistom.
 
 ![](../.gitbook/assets/mm_mi21st.png)
 
