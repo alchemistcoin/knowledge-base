@@ -54,7 +54,7 @@ Puoi vedere la pool di riconpense [qui](https://etherscan.io/address/0x04108d6e9
 
 ## **Come chiedo le ricompense?**
 
-Tutte le ricompense sono ricevute cliccando "Claim Rewards and Unsubscribe LP". Presta attenzione, perchè ciò andrà a resettare il tuo moltiplicatore di ricompense. 
+Tutte le ricompense sono ricevute cliccando "[Claim Rewards and Unsubscribe LP](guides-crucible.alchemist.wtf/claiming-rewards-and-unsubscribing-your-lp.md)". Presta attenzione, perchè ciò andrà a resettare il tuo moltiplicatore di ricompense. 
 
 ##  **Ha importanza la quantità di token LP che si trova nel Crucible?**
 
