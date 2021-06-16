@@ -51,7 +51,7 @@ Je kunt de beloningspool [hier](https://etherscan.io/address/0x04108d6e9a51bec51
 
 ## Hoe claim ik de beloningen?
 
-Alle beloningen worden ontvangen wanneer je klikt op "Claim Rewards and Unsubscribe LP". Wees voorzichtig, dit stelt ook je beloningsvermenigvuldiger opnieuw in.
+Alle beloningen worden ontvangen wanneer je klikt op "[Claim Rewards and Unsubscribe LP](guides-crucible.alchemist.wtf/claiming-rewards-and-unsubscribing-your-lp.md)". Wees voorzichtig, dit stelt ook je beloningsvermenigvuldiger opnieuw in.
 
 ## Maakt het uit hoeveel LP-tokens er in de Crucible gaan?
 
