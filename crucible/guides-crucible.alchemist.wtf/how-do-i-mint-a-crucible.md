@@ -1,5 +1,7 @@
 # 如何铸造 Crucible ？
 
+{% embed url="https://www.youtube.com/watch?v=SnnA4NBluDI" %}
+
 ## 获取并提供 $MIST⚗️ 来铸造一个 Crucible
 
 首先，您需要持有 $MIST 并将其提供到 Uniswap-V2 流动池。
