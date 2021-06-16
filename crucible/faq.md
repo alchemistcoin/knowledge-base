@@ -54,7 +54,7 @@ You can see the reward pool [here.](https://etherscan.io/address/0x04108d6e9a51b
 
 ## **How do I claim the rewards?**
 
-All rewards are received when you [Claim Rewards and Unsubscribe LP](guides-crucible.alchemist.wtf/claiming-rewards-and-unsubscribing-your-lp.md) in full. Be careful, this also resets your reward multiplier.
+All rewards are received when you [Claim Rewards and Unsubscribe LP](guides-crucible.alchemist.wtf/claiming-rewards-and-unsubscribing-your-lp.md) in full. Be careful, this also [resets your reward multiplier](guides-crucible.alchemist.wtf/claiming-rewards-and-unsubscribing-your-lp.md).
 
 ## **Does it matter how many LP tokens go into the Crucible?**
 
