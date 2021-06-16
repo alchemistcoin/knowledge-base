@@ -59,7 +59,7 @@ Nagradni fond možete da pogledate [ovde.](https://etherscan.io/address/0x04108d
 
 ## **Kako da pokupim svoje nagrade?**
 
-Sve nagrade se prikupljaju kada se ode na "Claim Rewards and Unsubscribe LP". Budite pažljivi, to će takođe resetovati vaš nagradni multiplikator.
+Sve nagrade se prikupljaju kada se ode na "[Claim Rewards and Unsubscribe LP](guides-crucible.alchemist.wtf/claiming-rewards-and-unsubscribing-your-lp.md)". Budite pažljivi, to će takođe resetovati vaš nagradni multiplikator.
 
 ## **Da li je važno koliko LP tokena ide u Crucible?**
 
