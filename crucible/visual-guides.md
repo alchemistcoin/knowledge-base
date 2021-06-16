@@ -13,11 +13,12 @@ Jeśli nie masz pewności, jak przełączać się między V3 i V2, skorzystaj z 
 {% endhint %}
 
 * [Alchemist YouTube Channel](https://www.youtube.com/channel/UCIs4LugynLei2TN__lJh-6Q)
-* [Stwórz Crucible](https://www.youtube.com/watch?v=Rl9Rf-3Sp-8)
-* [Pozyskaj LP, a następnie stwórz Crucible](https://www.youtube.com/watch?v=Ga1qcQ6x3as)
-* [Pozyskaj LP, a następnie stwórz Crucible i zostań Certyfikowanym Alchemikiem na Discordzie](https://www.youtube.com/watch?v=k7MO1QpqCds)
-* [Przesyłanie Crucible z wykorzystaniem Alchemist website oraz OpenSea.io](https://www.youtube.com/watch?v=i2MCYimelBM)
-* [Nietrwała strata \(Impermanent Loss\) - obejrzyj przed stakowaniem LP](https://www.youtube.com/watch?v=8XJ1MSTEuU0)
+* [Learn how to Mint an Alchemist Crucible](https://www.youtube.com/watch?v=SnnA4NBluDI)
+* \(old website\) [Stwórz Crucible](https://www.youtube.com/watch?v=Rl9Rf-3Sp-8)
+* \(old website\) [Pozyskaj LP, a następnie stwórz Crucible](https://www.youtube.com/watch?v=Ga1qcQ6x3as)
+* \(old website\) [Pozyskaj LP, a następnie stwórz Crucible i zostań Certyfikowanym Alchemikiem na Discordzie](https://www.youtube.com/watch?v=k7MO1QpqCds)
+* \(old website\) [Przesyłanie Crucible z wykorzystaniem Alchemist website oraz OpenSea.io](https://www.youtube.com/watch?v=i2MCYimelBM)
+* \(old website\) [Nietrwała strata \(Impermanent Loss\) - obejrzyj przed stakowaniem LP](https://www.youtube.com/watch?v=8XJ1MSTEuU0)
 
 ### **Obrazy 🖼🎨**
 
