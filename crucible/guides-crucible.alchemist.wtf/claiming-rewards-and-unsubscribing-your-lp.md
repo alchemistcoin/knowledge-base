@@ -13,7 +13,7 @@ The rewards you receive will be for the unsubscribed 1 LP, not the subscribed 0.
 {% endhint %}
 
 {% hint style="info" %}
-Please note that after claiming your rewards and unsubscribing your LP, your unsubscribed LP will no longer receive rewards from the Aludel reward program. To receive rewards again please follow the guide below, then withdraw your LP using the "Withdraw unsubscribed LP" button, and then subscribe your LP using the "Increase LP subscription" button.
+Please note that after claiming your rewards and unsubscribing your LP, your unsubscribed LP will no longer receive rewards from the Aludel reward program. To receive rewards again please follow the guide below, then withdraw your unsubscribed LP using the "Withdraw unsubscribed LP" button, and then subscribe your LP using the "Increase LP subscription" button.
 {% endhint %}
 
 1. To claim your rewards and unsubscribe your LP open [crucible.alchemist.wtf](https://crucible.alchemist.wtf/), connect your wallet and visit "Your Crucibles" tab. 
