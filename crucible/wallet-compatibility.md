@@ -1,4 +1,4 @@
-# Wallete-le Compatibile
+# Wallete Compatibile
 
 In baza unor teste limitate si a feedback-ului utilizatorilor, am elaborat următoarea diagramă de compatibilitate.
 

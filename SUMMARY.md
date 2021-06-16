@@ -18,7 +18,7 @@
   * [Ce pot sa fac cu noul meu NFT Crucible?](crucible/guides-crucible.alchemist.wtf/what-can-i-do-with-my-new-crucible.md)
   * [Revendica Recompensele & Retrage LP](crucible/guides-crucible.alchemist.wtf/claiming-rewards-and-unsubscribing-your-lp.md)
 * [Cum poti deveni un Alchimist Certificat in Discord 💬](crucible/how-to-become-a-certified-alchemist-on-discord.md)
-* [Wallete-le Compatibile](crucible/wallet-compatibility.md)
+* [Wallete Compatibile](crucible/wallet-compatibility.md)
 * [Ghiduri Vizuale 🎞](crucible/visual-guides.md)
 * [Intrebari Frecvente 📖 FAQ](crucible/faq-new.md)
 
