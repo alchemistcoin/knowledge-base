@@ -13,11 +13,12 @@ Wenn du unsicher sein solltest, wie du zwischen V3 und V2 wechseln kannst, siehe
 {% endhint %}
 
 * [Alchemist YouTube Channel](https://www.youtube.com/channel/UCIs4LugynLei2TN__lJh-6Q)
-* [Erstelle ein Crucible](https://www.youtube.com/watch?v=Rl9Rf-3Sp-8)
-* [Erhalte LP Token und erstelle ein Crucible](https://www.youtube.com/watch?v=Ga1qcQ6x3as)
-* [Erhalte LP Token, erstelle ein Crucible und werde anschließend ein zertifizierter Alchemist](https://www.youtube.com/watch?v=k7MO1QpqCds)
-* [Crucible Transfer mit Alchemist website und OpenSea.io](https://www.youtube.com/watch?v=i2MCYimelBM)
-* [Unbeständiger Verlust, bitte anschauen bevor Liquidität bereitgestellt wird](https://www.youtube.com/watch?v=8XJ1MSTEuU0)
+* [Learn how to Mint an Alchemist Crucible](https://www.youtube.com/watch?v=SnnA4NBluDI)
+* \(old website\) [Erstelle ein Crucible](https://www.youtube.com/watch?v=Rl9Rf-3Sp-8)
+* \(old website\) [Erhalte LP Token und erstelle ein Crucible](https://www.youtube.com/watch?v=Ga1qcQ6x3as)
+* \(old website\) [Erhalte LP Token, erstelle ein Crucible und werde anschließend ein zertifizierter Alchemist](https://www.youtube.com/watch?v=k7MO1QpqCds)
+* \(old website\) [Crucible Transfer mit Alchemist website und OpenSea.io](https://www.youtube.com/watch?v=i2MCYimelBM)
+* \(old website\) [Unbeständiger Verlust, bitte anschauen bevor Liquidität bereitgestellt wird](https://www.youtube.com/watch?v=8XJ1MSTEuU0)
 
 ### **Bilder 🖼🎨**
 
