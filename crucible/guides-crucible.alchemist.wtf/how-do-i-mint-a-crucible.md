@@ -1,5 +1,7 @@
 # ¿Cómo se crea un Crucible?
 
+{% embed url="https://www.youtube.com/watch?v=SnnA4NBluDI" %}
+
 ## Intercambio y suscripción de $MIST ⚗️ para crear \(o mint\) un Crucible
 
 En primer lugar, necesitas tener ⚗️ \($MIST\) y suscribirlo al pool de liquidez de Uniswap-V2.
