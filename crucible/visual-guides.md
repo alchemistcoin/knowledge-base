@@ -13,11 +13,12 @@
 {% endhint %}
 
 * [Alchemist YouTube Channel](https://www.youtube.com/channel/UCIs4LugynLei2TN__lJh-6Q)
-* [制作一个 Crucible](https://www.youtube.com/watch?v=Rl9Rf-3Sp-8)
-* [获取 LP ，然后制作一个 Crucible](https://www.youtube.com/watch?v=Ga1qcQ6x3as)
-* [获得 LP，然后制作一个 Crucible 并成为 Discord 上的认证 Alchemist](https://www.youtube.com/watch?v=k7MO1QpqCds)
-* [使用 Alchemist website 和 OpenSea.io 进行坩埚转移](https://www.youtube.com/watch?v=i2MCYimelBM)
-* [无偿损失——在质押 LP 之前关注](https://www.youtube.com/watch?v=8XJ1MSTEuU0)
+* [Learn how to Mint an Alchemist Crucible](https://www.youtube.com/watch?v=SnnA4NBluDI)
+* \(old website\) [制作一个 Crucible](https://www.youtube.com/watch?v=Rl9Rf-3Sp-8)
+* \(old website\) [获取 LP ，然后制作一个 Crucible](https://www.youtube.com/watch?v=Ga1qcQ6x3as)
+* \(old website\) [获得 LP，然后制作一个 Crucible 并成为 Discord 上的认证 Alchemist](https://www.youtube.com/watch?v=k7MO1QpqCds)
+* \(old website\) [使用 Alchemist website 和 OpenSea.io 进行坩埚转移](https://www.youtube.com/watch?v=i2MCYimelBM)
+* \(old website\) [无偿损失——在质押 LP 之前关注](https://www.youtube.com/watch?v=8XJ1MSTEuU0)
 
 ### **图片 🖼🎨**
 
