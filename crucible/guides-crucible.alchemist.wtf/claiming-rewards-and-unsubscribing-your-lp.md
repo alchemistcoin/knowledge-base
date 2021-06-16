@@ -5,6 +5,14 @@
 以下指南旨在引导您完成这一过程。
 
 {% hint style="info" %}
+Please note that if you unsubscribe only a portion of the subscribed LP from the crucible, the reward multiplier for the portion unsubscribed will still be reset to 1x. But the subscribed portion will remain at its current multiplier. 
+
+For example, suppose you have 1.7 LP subscribed and its reward multiplier is at 10x. You decide to unsubscribe 1 LP. The 0.7 LP remaining \(still subscribed\) will continue to have a reward multiplier of 10x, while the 1 LP unsubscribed will be reset. 
+
+The rewards you receive will be for the unsubscribed 1 LP, not the subscribed 0.7 LP.
+{% endhint %}
+
+{% hint style="info" %}
 请注意，在领取您的奖励和退订您的 LP 后，您将不会再继续收到 Aludel 奖励。若想再次获得奖励，请遵循以下指南，先点击" Withdraw unsubscribed LP \(提取未订阅的 LP \) "按钮提取您的 LP ，再点击" Increase LP subscription \(增加 LP 订阅\) "按钮重新订阅您的 LP 。
 {% endhint %}
 
