@@ -13,11 +13,12 @@ Daca nu esti sigur cum aa schimbi intre UniSwap V3 si V2 foloseste link-urile di
 {% endhint %}
 
 * [Alchemist YouTube Channel](https://www.youtube.com/channel/UCIs4LugynLei2TN__lJh-6Q)
-* [Creeaza un NFT Crucible](https://www.youtube.com/watch?v=Rl9Rf-3Sp-8)
-* [Obtine LP, apoi Creaza un NFT Crucible](https://www.youtube.com/watch?v=Ga1qcQ6x3as)
-* [Obtine LP, apoi creeaza un NFT Crucible si devino un Alchimist Certificat in Discord](https://www.youtube.com/watch?v=k7MO1QpqCds)
-* [Transfera un NFT Crucible folosind Alchemist website si OpenSea.io](https://www.youtube.com/watch?v=i2MCYimelBM)
-* [Pierderea Impermanenta - vezi inainte sa pui in stake LP](https://www.youtube.com/watch?v=8XJ1MSTEuU0)
+* [Learn how to Mint an Alchemist Crucible](https://www.youtube.com/watch?v=SnnA4NBluDI)
+* \(old website\) [Creeaza un NFT Crucible](https://www.youtube.com/watch?v=Rl9Rf-3Sp-8)
+* \(old website\) [Obtine LP, apoi Creaza un NFT Crucible](https://www.youtube.com/watch?v=Ga1qcQ6x3as)
+* \(old website\) [Obtine LP, apoi creeaza un NFT Crucible si devino un Alchimist Certificat in Discord](https://www.youtube.com/watch?v=k7MO1QpqCds)
+* \(old website\) [Transfera un NFT Crucible folosind Alchemist website si OpenSea.io](https://www.youtube.com/watch?v=i2MCYimelBM)
+* \(old website\) [Pierderea Impermanenta - vezi inainte sa pui in stake LP](https://www.youtube.com/watch?v=8XJ1MSTEuU0)
 
 ### **Imagini 🖼🎨**
 
