@@ -1,6 +1,6 @@
 # Cadrul General de Baza
 
-Exista un token numit Alchemist, care are simbolul „⚗️”. Acest token se mai numeste si „mist” sau „$MIST”. Nu-l confundați cu [MUST](https://www.coingecko.com/en/coins/must) - in ciuda asemanarii la o prima privire, in realitate nu are nicio legatura cu Alchemist. Pentru a nu fi inselati cand vreti sa cumparati $MIST, asigurati-va adaugand adresa contractului**`0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab`** cand alegeti in exchange tokenul cumparat.
+Exista un token numit Alchemist, care are simbolul „⚗️”. Acest token se mai numeste si „mist” sau „$MIST”. Nu-l confundați cu [Mist \(MIST\)](https://www.coingecko.com/en/coins/mist), [Alchemist DeFi Mist \(MIST\)](https://www.coingecko.com/en/coins/alchemist-defi-mist), and [Cometh \(MUST\)](https://coinmarketcap.com/currencies/cometh/) -  in ciuda asemanarii la o prima privire, in realitate nu are nicio legatura cu Alchemist. Pentru a nu fi inselati cand vreti sa cumparati $MIST, asigurati-va adaugand adresa contractului**`0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab`** cand alegeti in exchange tokenul cumparat.
 
 ![](../.gitbook/assets/mm_mi21st.png)
 
