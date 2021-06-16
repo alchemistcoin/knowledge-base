@@ -5,7 +5,7 @@ At some point you may decided that you are ready to Claim your rewards and Unsub
 The guide below is designed to step you through that process.
 
 {% hint style="info" %}
-Please note that this process resets your reward multiplier.  If you unsubscribe only a portion of the subscribed LP from the crucible, the reward multiplier for the portion unsubscribed will still be reset to 1x. But the subscribed portion will remain at its current multiplier. 
+Please note that claiming rewards and unsubscribing your LP resets your reward multiplier.  If you unsubscribe only a portion of the subscribed LP from the crucible, the reward multiplier for the portion unsubscribed will still be reset to 1x. But the subscribed portion will remain at its current multiplier. 
 
 For example, suppose you have 1.7 LP subscribed and its reward multiplier is at 10x. You decide to unsubscribe 1 LP. The 0.7 LP remaining \(still subscribed\) will continue to have a reward multiplier of 10x, while the 1 LP unsubscribed will be reset. 
 
@@ -13,7 +13,7 @@ The rewards you receive will be for the unsubscribed 1 LP, not the subscribed 0.
 {% endhint %}
 
 {% hint style="info" %}
-Please note that after claiming your rewards and unsubscribing your LP, you will no longer receive rewards from the Aludel reward program. To receive rewards again please follow the guide below, then withdraw your LP using the "Withdraw unsubscribed LP" button, and then subscribe your LP using the "Increase LP subscription" button.
+Please note that after claiming your rewards and unsubscribing your LP, your unsubscribed LP will no longer receive rewards from the Aludel reward program. To receive rewards again please follow the guide below, then withdraw your LP using the "Withdraw unsubscribed LP" button, and then subscribe your LP using the "Increase LP subscription" button.
 {% endhint %}
 
 1. To claim your rewards and unsubscribe your LP open [crucible.alchemist.wtf](https://crucible.alchemist.wtf/), connect your wallet and visit "Your Crucibles" tab. 
