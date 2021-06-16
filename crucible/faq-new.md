@@ -54,7 +54,7 @@ Puedes ver el conjunto de recompensas [aquí](https://etherscan.io/address/0x041
 
 ## **¿Cómo reclamo las recompensas?**
 
-Todas las recompensas se reciben cuando pulse "Claim Rewards and Unsubscribe LP". Ten cuidado, esto también reinicia tu multiplicador de recompensas. 
+Todas las recompensas se reciben cuando pulse "[Claim Rewards and Unsubscribe LP](guides-crucible.alchemist.wtf/claiming-rewards-and-unsubscribing-your-lp.md)". Ten cuidado, esto también reinicia tu multiplicador de recompensas. 
 
 ## **¿Importa cuántos tokens de LP entran en el Crucible?**
 
