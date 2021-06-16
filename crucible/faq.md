@@ -56,7 +56,7 @@ Pulę nagród możesz zobaczyć [tutaj.](https://etherscan.io/address/0x04108d6e
 
 ## **Jak odebrać nagrody?**
 
-Wszystkie nagrody otrzymasz, gdy użyjesz opcji "Claim Rewards and Unsubscribe LP". Uważaj, to resetuje również mnożnik nagród.
+Wszystkie nagrody otrzymasz, gdy użyjesz opcji "[Claim Rewards and Unsubscribe LP](guides-crucible.alchemist.wtf/claiming-rewards-and-unsubscribing-your-lp.md)". Uważaj, to resetuje również mnożnik nagród.
 
 ## **Czy ma znaczenie jak dużo tokenów LP trafia do Crucible?**
 
