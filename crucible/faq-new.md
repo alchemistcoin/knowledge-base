@@ -53,7 +53,7 @@ Fondul de recompensa poate fi vazut [aici.](https://etherscan.io/address/0x04108
 
 ## **Cum pot solicita recompensele?**
 
-Toate recompensele asociate contului tau vor fi incasate atunci cand soliciti de pe butonul "Claim Rewards and Unsubscribe LP". Trebuie sa stii ca solicitarea recompenselor reseteaza factorul de multiplicare a recompenselor. 
+Toate recompensele asociate contului tau vor fi incasate atunci cand soliciti de pe butonul "[Claim Rewards and Unsubscribe LP](guides-crucible.alchemist.wtf/claiming-rewards-and-unsubscribing-your-lp.md)". Trebuie sa stii ca solicitarea recompenselor reseteaza factorul de multiplicare a recompenselor. 
 
 ## Contează câti tokeni LP intră în **Crucible?**
 
