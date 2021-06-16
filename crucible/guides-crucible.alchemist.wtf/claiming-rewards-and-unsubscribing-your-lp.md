@@ -3,11 +3,11 @@
 Wenn du dich irgendwann dazu entscheiden solltest, dass du du deine Belohnungen erhalten und deine LP Token nicht mehr teilnehmen lassen möchtest, dann hilft dir die untenstehende Anleitung Schritt für Schritt dabei, den Prozess zu meistern.
 
 {% hint style="info" %}
-Please note that when you unsubscribe all of your LP or only a portion of your LP from the crucible, the reward multiplier for the unsubscribed LP will be reset.  If you unsubscribe only a portion of the subscribed LP, the reward multiplier for the portion unsubscribed will be reset, while the subscribed portion will remain at its current multiplier. 
+Bitte beachte, dass wenn du all oder nur teilweise deine LP Token nicht mehr teilnehmen lassen möchtest, dass sich der Belohnungsmultiplikator für deine nicht mehr teilnehmen LP Token zurücksetzt. Währenddessen verbleibt der weiterhin teilnehmende Teil deiner LP Token inklusive aktuellem Multiplikator erhalten. 
 
-For example, suppose you have 1.7 LP subscribed and its reward multiplier is at 10x. You decide to unsubscribe 1 LP. The 0.7 LP remaining \(still subscribed\) will continue to have a reward multiplier of 10x, while the unsubscribed 1 LP's reward multiplier will be reset. 
+Beispiel: Stell dir vor, du hast aktuell 1,7 LP Token in deinem Crucible teilnehmend und dein Belohnungsmultiplikator hat bereits den Faktor 10 erreicht. Du entscheidest dich nun dazu 1 LP Token zu entfernen. Die verbliebenen 0,7 LP Token im Crucible werden weiter den zehnfachen Multiplikator behalten, währenddessen der Multiplikator für den 1 LP Token auf einfach zurück springt. 
 
-The rewards you receive will be for the unsubscribed 1 LP, not the subscribed 0.7 LP.
+Auch werden die Belohnungen nur für deinen 1 LP Token, der nicht mehr teilnimmt eingefordert - nicht jedoch der Anteil von den verbleibenden 0,7 LP Token, die stets im Crucible verblieben sind.
 {% endhint %}
 
 {% hint style="info" %}
