@@ -3,6 +3,14 @@
 Wenn du dich irgendwann dazu entscheiden solltest, dass du du deine Belohnungen erhalten und deine LP Token nicht mehr teilnehmen lassen möchtest, dann hilft dir die untenstehende Anleitung Schritt für Schritt dabei, den Prozess zu meistern.
 
 {% hint style="info" %}
+Please note that when you unsubscribe all of your LP or only a portion of your LP from the crucible, the reward multiplier for the unsubscribed LP will be reset.  If you unsubscribe only a portion of the subscribed LP, the reward multiplier for the portion unsubscribed will be reset, while the subscribed portion will remain at its current multiplier. 
+
+For example, suppose you have 1.7 LP subscribed and its reward multiplier is at 10x. You decide to unsubscribe 1 LP. The 0.7 LP remaining \(still subscribed\) will continue to have a reward multiplier of 10x, while the 1 LP unsubscribed will be reset. 
+
+The rewards you receive will be for the unsubscribed 1 LP, not the subscribed 0.7 LP.
+{% endhint %}
+
+{% hint style="info" %}
 Bitte beachte, dass du nach dem Einfordern von Belohnungen und nicht mehr teilnehmen mit deinen LP Token keine Belohnungen mehr durch das Aludel Programm erhältst. Um erneut Belohnungen zu erhalten, befolge bitte die Anleitung und nutze zunächst den "Withdraw unsubscribed LP" Button, so dass du anschließend erneut deine LP Token teilnehmen lässt in dem du den "Increase LP subscription" Button nutzt.
 {% endhint %}
 
