@@ -5,6 +5,14 @@ W pewnym momencie możesz zdecydować, że jesteś gotowy, aby odebrać swoje na
 Poniższy przewodnik ma na celu przeprowadzenie Cię przez ten proces.
 
 {% hint style="info" %}
+Pamiętaj, że po anulowaniu subskrypcji dla całości LP lub dla jego części, mnożnik nagród dla LP wypisanych z subskrypcji zostanie zresetowany. Jeżeli anulujesz subskrypcję tylko dla części subskrybowanych LP to mnożnik dla tej części zostanie zresetowany, ale dla pozostałej części mnożnik utrzyma się na dotychczasowym poziomie. 
+
+Dla przykładu, załóżmy że masz zasubskrybowane 1.7 LP z mnożnikiem x10. Decydujesz się na anulowanie subskrypcji dla 1 LP. Pozostałe 0.7 LP \(nadal będące subskrypcji\) dalej będzie miało mnożnik nagród x10, podczas gdy mnożnik dla 1 LP wypisanego z subskrypcji zostanie zresetowany.
+
+Otrzymasz nagrody tylko za 1 LP wypisany z subskrypcji, nie otrzymasz nagród za zasubskrybowane 0.7 LP.
+{% endhint %}
+
+{% hint style="info" %}
 Pamiętaj, że po odebraniu nagrody i anulowaniu subskrypcji swojego LP przestaniesz otrzymywać nagrody z programu Aludel. Aby ponownie otrzymywać nagrody, postępuj zgodnie z poniższą instrukcją, następnie wycofaj swój LP używając przycisku "Withdraw unsubscribed LP", a w kolejnym kroku zapisz swój LP do subskrypcji korzystając z przycisku "Increase LP subscription".
 {% endhint %}
 
