@@ -1,5 +1,7 @@
 # How do I mint a Crucible?
 
+{% embed url="https://www.youtube.com/watch?v=SnnA4NBluDI" %}
+
 ## Swapping and Subscribing $MIST ⚗️ to mint a Crucible
 
 First of all, you need to have $MIST and subscribe it to the Uniswap-V2 Liquidity pool.
