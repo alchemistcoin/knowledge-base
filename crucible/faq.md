@@ -79,7 +79,7 @@ Svaki put kada stavite LP tokene u nagradni program Aludel, on prati koliko dugo
 
 ## **Da li postoji način da vidim koliku nagradu sam prikupio u međuvremenu?**
 
-Možete da pogledate prikupljenu nagradu za vaš crucible, koristeći UI na[ crucible.alchemist.wtf](https://crucible.alchemist.wtf/) i akumulirani Uniswap LP zaradu koristeći [apy.vision](https://apy.vision/) or [croco.finance](https://croco.finance/) \(Uniswap LP fees earned will show as ⚗️, and WETH or ETH\).
+Možete da pogledate prikupljenu nagradu za vaš crucible, koristeći UI na[ crucible.alchemist.wtf](https://crucible.alchemist.wtf/) i akumulirani Uniswap LP zaradu koristeći [apy.vision](https://apy.vision/) or [croco.finance](https://croco.finance/) \(Uniswap LP nagrada će biti prikazana kao ⚗️, i WETH ili ETH\).
 
 ![croco.finance](../.gitbook/assets/untitled.png)
 
