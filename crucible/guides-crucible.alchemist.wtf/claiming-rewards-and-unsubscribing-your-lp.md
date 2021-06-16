@@ -5,7 +5,7 @@ U nekom trenutku ćeš poželeti da prikupiš svoje nagrade i otkažeš pretplet
 Vodič koji sledi će ti pokazati kako da prođeš kroz ceo proces korak po korak:
 
 {% hint style="info" %}
-Please note that after claiming your rewards and unsubscribing your LP, you will no longer receive rewards from the Aludel reward program. To receive rewards again please follow the guide below, then withdraw your LP using the "Withdraw unsubscribed LP" button, and then subscribe your LP using the "Increase LP subscription" button.
+Molim vas obratite pažnju da nakon preuzimanja nagrade i otkazivanja LP-a, više nećete dobijati nagrade iz Aludiel programa. Pratite vodič ispod kako bi opet počeli da dobijate nagrade, preuzmite vas LP klikom na "Withdraw unsubscribed LP" dugme, i potom pretplatite vaš LP klikom na "Increase LP subscription" dugme.
 {% endhint %}
 
 1. Otvori [crucible.alchemist.wtf](https://crucible.alchemist.wtf/), poveži svoj wallet i poseti "Your Crucibles" tab.
