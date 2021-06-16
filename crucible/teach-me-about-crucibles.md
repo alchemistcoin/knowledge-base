@@ -77,7 +77,7 @@ Ja. Veel gebruikers in de community hebben al meerdere Crucibles gemint.
    
 Of dit voordelig is of niet, dit is aan jou om te beslissen.
 
-## How can I check how many LP tokens someone else's Crucible is worth?
+## Hoe kan ik checken hoeveel LP-tokens iemand anders zijn Crucible waard is?
 
 Je kan de token-ID van de Crucible nemen, deze omzetten in hexadecimaal \(als het in decimalen is\) en vervolgens naar het adres zoeken op [etherscan.io](https://etherscan.io).
 

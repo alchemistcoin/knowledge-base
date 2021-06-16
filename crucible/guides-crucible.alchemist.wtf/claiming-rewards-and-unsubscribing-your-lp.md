@@ -5,18 +5,18 @@ Op een gegeven moment heb je misschien besloten dat je klaar bent om je beloning
 De onderstaande gids is bedoeld om je door dat proces heen te leiden.
 
 {% hint style="info" %}
-Please note that when you unsubscribe all of your LP or only a portion of your LP from the crucible, the reward multiplier for the unsubscribed LP will be reset.  If you unsubscribe only a portion of the subscribed LP, the reward multiplier for the portion unsubscribed will be reset, while the subscribed portion will remain at its current multiplier. 
+Houd er rekening mee dat na het afmelden van al je LP of een klein deel van je LP van de crucible, de beloningsvermenigvuldiger voor de afgemelde LP wordt gereset. Als je maar een deel van je geabonneerde LP afmeldt , wordt de beloningsvermenigvuldiger voor het afgemelde deel van de LP gerest, terwijl het geabonneerde deel op zijn huidige beloningsvermenigvuldiger blijft.
 
-For example, suppose you have 1.7 LP subscribed and its reward multiplier is at 10x. You decide to unsubscribe 1 LP. The 0.7 LP remaining \(still subscribed\) will continue to have a reward multiplier of 10x, while the unsubscribed 1 LP's reward multiplier will be reset. 
+Ter illustratie: Je hebt 1.7 LP geabonneerd en de beloningsvermenigvuldiger zit op 10x. Je besluit om 1 LP af te melden. De 0.7 LP die overblijft \(nog steeds geabonneerd\) zal op een 10x beloningsvermenigvuldiger blijven, terwijl de beloningsvermenigvuldiger van de afgemelde LP wordt gereset.
 
-The rewards you receive will be for the unsubscribed 1 LP, not the subscribed 0.7 LP.
+De beloningen die je krijgt zijn voor de afgemelde 1 LP,  niet de geabonneerde 0.7 LP.
 {% endhint %}
 
 {% hint style="info" %}
 Houd er rekening mee dat na het claimen van je beloningen en het afmelden van je LP, je niet langer beloningen verkrijgt van het Aludel belonings programma. Om weer beloningen te verkrijgen volg de uitleg hierbeneden, en trek daarna je LP terug door gebruik te maken van de "Withdraw unsubscribed LP" knop, abonneer daarna je LP weer met de "Increase LP subscription" knop.
 {% endhint %}
 
-1. Ga naar [crucible.alchemist.wtf](https://crucible.alchemist.wtf/), verbind je wallet en ga naar het tabje "Your Crucibles".
+1. Ga naar [crucible.alchemist.wtf](https://crucible.alchemist.wtf/), verbind je wallet en ga naar het tabje "Your Crucibles". 
 2. Eenmaal in het tabje "Your Crucibles", bekijk de details van de Crucible waarvan je beloningen wilt claimen en meld je af voor LP door op de naar beneden gerichte pijl te klikken:
 
   
