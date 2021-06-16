@@ -56,7 +56,7 @@ You can see the reward pool [here.](https://etherscan.io/address/0x04108d6e9a51b
 
 All rewards are received when you [Claim Rewards and Unsubscribe LP](guides-crucible.alchemist.wtf/claiming-rewards-and-unsubscribing-your-lp.md). Be careful, this also resets your reward multiplier.  
 
-Please note that if you unsubscribe only a portion of the subscribed LP from the crucible, the reward multiplier for the portion unsubscribed will still be reset to 1x.  But the unsubscribed portion will remain at its current multiplier.
+Please note that if you unsubscribe only a portion of the subscribed LP from the crucible, the reward multiplier for the portion unsubscribed will still be reset to 1x.  But the subscribed portion will remain at its current multiplier.
 
 For example, suppose you have 1.7 LP subscribed and its reward multiplier is at 10x.  You decide to unsubscribe 1 LP.  The 0.7 LP remaining will continue to have a reward multiplier of 10x, while the 1 LP unsubscribed will be reset.
 
