@@ -1,5 +1,7 @@
 # Kako da mintujem Crucible?
 
+{% embed url="https://www.youtube.com/watch?v=SnnA4NBluDI" %}
+
 ## Zamena i pretplata $MIST ⚗️ za mintovanje Crucible-a
 
 Pre svega, potrebno je da poseduješ određenu količinu $MIST-a i izvršiš pretplatu na Uniswap-V2 Liquidity pool.
