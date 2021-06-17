@@ -17,6 +17,7 @@
 | [docs.alchemist.wtf](https://docs.alchemist.wtf) | Документация |
 | [mistX.io](https://mistx.io/) | mistX Веб-сайт |
 | [copperlaunch.com](https://copperlaunch.com/) | Copper Веб-сайт |
+| [sandwiched.wtf](https://sandwiched.wtf/) | Sandwiched Веб-сайт |
 
 ### Сообщество
 
