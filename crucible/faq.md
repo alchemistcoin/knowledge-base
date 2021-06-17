@@ -96,7 +96,7 @@ No, it only empties it. You retain the empty Crucible. Please note that after a 
 
 ## **Can I transfer the Crucible NFT to another wallet?**
 
-Yes, the ownership of the NFT \(and the Subscribed LP tokens\) can be transferred to any ERC721 compatible wallet. This can be done via the "Transfer Crucible" button on [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)
+Yes, the ownership of the NFT \(and the Subscribed LP tokens\) can be transferred to any ERC721 compatible wallet. This can be done via the "[Transfer Crucible](guides-crucible.alchemist.wtf/what-can-i-do-with-my-new-crucible.md#transferring-your-crucible-to-another-wallet)" button on [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)
 
 ## **If I transfer my Crucible from one wallet to another will that reset the multiplier?**
 
