@@ -9,7 +9,7 @@ Please note that when you unsubscribe all of your LP or only a portion of your L
 
 For example, suppose you have 1.7 LP subscribed and its reward multiplier is at 10x. You decide to unsubscribe 1 LP. The 0.7 LP remaining \(still subscribed\) will continue to have a reward multiplier of 10x, while the unsubscribed 1 LP's reward multiplier will be reset. 
 
-The rewards you receive will be for the unsubscribed 1 LP, not the subscribed 0.7 LP.
+The rewards you receive will be from the unsubscribed 1 LP, not the subscribed 0.7 LP.
 {% endhint %}
 
 {% hint style="info" %}
