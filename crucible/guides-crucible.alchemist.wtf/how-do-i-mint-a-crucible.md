@@ -1,5 +1,7 @@
 # Cum pot creea un NFT Crucible?
 
+{% embed url="https://www.youtube.com/watch?v=SnnA4NBluDI" %}
+
 ## Schimband si Alocand $MIST ⚗️ ca sa creezi un NFT Crucible
 
 În primul rând, trebuie să aveți $MIST și să îl alocati fondului de lichiditate Uniswap-V2 
