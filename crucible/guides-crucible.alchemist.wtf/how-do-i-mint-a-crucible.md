@@ -1,5 +1,7 @@
 # Wie erstelle ich ein Crucible?
 
+{% embed url="https://www.youtube.com/watch?v=SnnA4NBluDI" %}
+
 ## Swappen und Liquidität mit $MIST ⚗️ bereitstellen um ein Crucible zu minten
 
 Zunächst benötigst du $MIST und stellst Liquidität zum Uniswap-V2 LP bereit.
