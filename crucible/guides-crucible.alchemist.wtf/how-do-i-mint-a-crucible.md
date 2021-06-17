@@ -1,5 +1,7 @@
 # Bir Crucible nasıl oluşturabilirim?
 
+{% embed url="https://www.youtube.com/watch?v=SnnA4NBluDI" %}
+
 ## Bir Crucible oluşturmak için $MIST ⚗️ Alım-Satımı ve Katılım Sağlamak
 
 Öncelikle, $MIST'e sahip olmanız ve bunu Uniswap-V2 Likidite havuzuna eklemeniz gerekir.
