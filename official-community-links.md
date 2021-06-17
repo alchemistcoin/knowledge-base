@@ -17,6 +17,7 @@ Pentru a participa in Alchemist recomandam sa folositi doar link-urile oficiale.
 | [docs.alchemist.wtf](https://docs.alchemist.wtf) | Documentatia Alchemist |
 | [mistX.io](https://mistx.io/) | Site-ul mistX  |
 | [copperlaunch.com](https://copperlaunch.com/) | Site-ul Copper |
+| [sandwiched.wtf](https://sandwiched.wtf/) | Site-ul Sandwiched |
 
 ### Comunitatea Alchemist
 
