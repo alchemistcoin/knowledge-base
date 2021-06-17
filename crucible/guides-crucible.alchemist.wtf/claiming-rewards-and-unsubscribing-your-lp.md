@@ -5,15 +5,15 @@ La un moment dat poti decide ca vrei sa Soliciti Recompensele si sa Retragi LP-u
 Ghidul de mai jos este conceput sa te conduca prin pasii acestui proces.
 
 {% hint style="info" %}
-Please note that when you unsubscribe all of your LP or only a portion of your LP from the crucible, the reward multiplier for the unsubscribed LP will be reset.  If you unsubscribe only a portion of the subscribed LP, the reward multiplier for the portion unsubscribed will be reset, while the subscribed portion will remain at its current multiplier. 
+Este important de luat in considerare ca, atunci când retragi întregul LP sau doar o parte din LP-ul alocat in Aludel, multiplicatorul de recompensa pentru LP-ul retras va fi resetat. Daca retragi doar o porțiune din LP-ul alocat, multiplicatorul de recompensa pentru partea retrasa va fi resetat, în timp ce pentru partea LP ramasa in Aludel multiplicatorul actual se va mentine. 
 
-For example, suppose you have 1.7 LP subscribed and its reward multiplier is at 10x. You decide to unsubscribe 1 LP. The 0.7 LP remaining \(still subscribed\) will continue to have a reward multiplier of 10x, while the unsubscribed 1 LP's reward multiplier will be reset. 
+Ca si exemplu, consideram ca ai 1,7 LP alocat și multiplicatorul de recompensă este de 10x. Decizi să te retragi 1 LP. iar pentru 0,7 LP rămas alocat multiplicatorul de recompensa de 10x se va mentine pentru partea de 0.7 LP, îar pentru cel 1 LP retras multiplicatorul de recompensa se va reseta. 
 
-The rewards you receive will be for the unsubscribed 1 LP, not the subscribed 0.7 LP.
+Recompensele Aludel pe care le primesti vor fi doar pentru 1 LP dezabonat, nu si pentru 0,7 LP care ramane in continuare alocat in Aludel.
 {% endhint %}
 
 {% hint style="info" %}
-Trebuie să reții că revendicand recompensele și retragand LP-ul, nu mai poti primi recompense din programul Aludel. Pentru a primi din nou recompense, urmeaza ghidul de mai jos, apoi retrage LP-ul folosind butonul „Withdraw unsubscribed LP”, dupa care poti aloca din nou LP-ul folosind butonul „Increase LP subscription”.
+Trebuie să reții ca revendicand recompensele și retragand LP-ul, nu mai poti primi recompense din programul Aludel. Pentru a primi din nou recompense, urmeaza ghidul de mai jos, apoi retrage LP-ul folosind butonul „Withdraw unsubscribed LP”, dupa care poti aloca din nou LP-ul folosind butonul „Increase LP subscription”.
 {% endhint %}
 
 1. Intra pe [crucible.alchemist.wtf](https://crucible.alchemist.wtf/), conecteaza wallet-ul tau si viziteaza fila "Your Crucibles".
@@ -21,7 +21,7 @@ Trebuie să reții că revendicand recompensele și retragand LP-ul, nu mai poti
 
    ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.58.png)
 
-3. In fila "Your Crucible" ar trebui sa poti vedea mai multe informatii, cum ar fi cati $MIST sau ETH ai castigat ca recompensa in Aludel.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.42.png)  
+3. In fila "Your Crucible" ar trebui sa poti vedea mai multe informatii, cum ar fi cat $MIST sau ETH ai castigat ca recompensa in Aludel.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.42.png)  
 4. Click pe butonul "Manage Crucible"  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.04.png)  
 5. Vei vedea o lista mai complexa de statistici sub fila "Rewards".  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.22.png)  
 6. Click pe "Claim rewards and unsubscribe" din partea dreapta jos a paginii. ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.05.52.png)  
