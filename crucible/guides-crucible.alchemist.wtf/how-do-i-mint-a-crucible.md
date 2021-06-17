@@ -1,5 +1,7 @@
 # Come conio un Crucible?
 
+{% embed url="https://www.youtube.com/watch?v=SnnA4NBluDI" %}
+
 ## Scambiare e Iscrivere $MIST ⚗️ per coniare un Crucible
 
 Per prima cosa, devi possedere \(dei\) $MIST e iscriverlo/i alla Liquidi pool Uniswap-V2. 
