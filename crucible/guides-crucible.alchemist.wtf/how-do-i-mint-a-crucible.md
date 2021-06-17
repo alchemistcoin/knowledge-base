@@ -1,5 +1,7 @@
 # Jak wybić Crucible?
 
+{% embed url="https://www.youtube.com/watch?v=SnnA4NBluDI" %}
+
 ## Wymiana i Subskrypcja $MIST ⚗️ w celu wybicia Crucible
 
 Przede wszystkim musisz mieć $MIST i zasubskrybować go do puli płynności Uniswap-V2.
