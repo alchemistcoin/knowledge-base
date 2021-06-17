@@ -1,5 +1,7 @@
 # Comment minter un Crucible ?
 
+{% embed url="https://www.youtube.com/watch?v=SnnA4NBluDI" %}
+
 ## Swapper et Souscrire du $MIST ⚗️ pour minter un Crucible
 
 Tout d'abord, vous devez détenir du $MIST et l'engager dans la pool de liquidité Uniswap-V2.
