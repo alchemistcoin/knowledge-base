@@ -1,5 +1,7 @@
 # Hoe mint ik een Crucible?
 
+{% embed url="https://www.youtube.com/watch?v=SnnA4NBluDI" %}
+
 ## $MIST ruilen en abonneren ⚗️ om een Crucible te minten
 
 Allereerst moet je $MIST hebben en je abonneren op de Uniswap-V2 Liquidity-pool. Als je dit nog niet hebt gedaan, raadpleeg dan onze 2-delige gids over: [Verkrijgen & Abonneren](../../alchemist-token/acquiring-and-subscribing.md)
