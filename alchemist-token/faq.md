@@ -10,7 +10,7 @@ Over time $MIST is bound to appear on other trading sites, when this happens the
 
 ## **What is total/circulating supply?**
 
-Circulating supply and total supply are the same. This started with 1,000,000, but increases by 1% every two weeks. The current supply is shown [here](https://etherscan.io/token/0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab)
+Circulating supply and total supply are the same. This started with 1,000,000, but increases by 1% every two weeks. The current supply is shown on [etherscan](https://etherscan.io/token/0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab).
 
 ## **Do you plan pre/private/public sale?**
 
