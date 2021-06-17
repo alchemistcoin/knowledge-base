@@ -1,6 +1,6 @@
 # Revendica Recompensele & Retrage LP
 
-La un moment dat poti decide ca vrei sa Soliciti Recompensele si sa Retragi LP-ul alocat NFT-ului tau Crucible.
+La un moment dat poti decide ca vrei sa Soliciti Recompensele si sa Retragi din Aludel LP-ul alocat NFT-ului tau Crucible.
 
 Ghidul de mai jos este conceput sa te conduca prin pasii acestui proces.
 
