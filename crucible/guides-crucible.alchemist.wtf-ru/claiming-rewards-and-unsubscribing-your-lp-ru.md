@@ -5,11 +5,11 @@
 Инструкция ниже призвана помочь вам.
 
 {% hint style="info" %}
-Please note that when you unsubscribe all of your LP or only a portion of your LP from the crucible, the reward multiplier for the unsubscribed LP will be reset.  If you unsubscribe only a portion of the subscribed LP, the reward multiplier for the portion unsubscribed will be reset, while the subscribed portion will remain at its current multiplier. 
+Пожалуйста, обратите внимание, что когда вы отменяется подписку всех токенов ПЛ или только часть, множитель вознаграждения для этих токенов обнуляется. Если вы отменяете подписку только части подписанных ПЛ токенов, множитель награды для токенов с отмененной подпиской будет обнулен, а для подписанных токенов останется текущий множитель.
 
-For example, suppose you have 1.7 LP subscribed and its reward multiplier is at 10x. You decide to unsubscribe 1 LP. The 0.7 LP remaining \(still subscribed\) will continue to have a reward multiplier of 10x, while the unsubscribed 1 LP's reward multiplier will be reset. 
+Например, предположим, что у вас есть 1.7 подписанных ПЛ токенов, а множитель вознаграждения составляет 10x. Вы решаете отменить подписку на 1 LP. Оставшиеся 0,7 LP \(все еще подписанные\) будут по-прежнему иметь множитель вознаграждения 10x, а множитель вознаграждения 1 ПЛ токена с отмененной подпиской будет обнулен.
 
-The rewards you receive will be for the unsubscribed 1 LP, not the subscribed 0.7 LP.
+Награды, будут начислены за 1 ПЛ токен с отмененной подпиской, а не за подписанные 0.7 ПЛ.
 {% endhint %}
 
 {% hint style="info" %}

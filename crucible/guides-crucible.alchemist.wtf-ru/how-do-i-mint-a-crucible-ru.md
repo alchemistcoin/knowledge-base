@@ -1,5 +1,7 @@
 # Как создать Crucible?
 
+{% embed url="https://www.youtube.com/watch?v=SnnA4NBluDI" %}
+
 ## Обмен и подписка $MIST ⚗️ для создания Crucible
 
 Для начала вам нужен $MIST, который вы должны подписать в пул ликвидности Uniswap-V2.
