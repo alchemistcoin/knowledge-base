@@ -22,7 +22,7 @@
 * [Discord'da Nasıl "Certified Alchemist" Olunur 💬](crucible/how-to-become-a-certified-alchemist-on-discord.md)
 * [Cüzdan Uyumluluğu](crucible/wallet-compatibility.md)
 * [Görsel Kılavuz  🎞](crucible/goersel-kilavuz.md)
-* [FAQ 📖](crucible/faq.md)
+* [SSS 📖](crucible/faq.md)
 
 ## Join us
 

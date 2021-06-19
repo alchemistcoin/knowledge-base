@@ -5,15 +5,15 @@ Bir noktada, ödüllerinizi talep etmeye ve Crucible'nızdan LP katılımınız�
 Aşağıdaki kılavuz, bu süreçte size yarım etmek için tasarlanmıştır.
 
 {% hint style="info" %}
-Please note that when you unsubscribe all of your LP or only a portion of your LP from the crucible, the reward multiplier for the unsubscribed LP will be reset.  If you unsubscribe only a portion of the subscribed LP, the reward multiplier for the portion unsubscribed will be reset, while the subscribed portion will remain at its current multiplier. 
+Lütfen, LP'nizin tamamını veya LP'nizin yalnızca bir kısmını crucibledan çıkardığınızda, abonelikten çıkmamış LP'nin ödül çarpanının sıfırlanacağını unutmayın. Katılım sağlanan LP'nin yalnızca bir kısmından çıkarsanız, katılım sağlanan kısım için ödül çarpanı sıfırlanırken katılım sağlanan kısım mevcut çarpanında kalır. 
 
-For example, suppose you have 1.7 LP subscribed and its reward multiplier is at 10x. You decide to unsubscribe 1 LP. The 0.7 LP remaining \(still subscribed\) will continue to have a reward multiplier of 10x, while the unsubscribed 1 LP's reward multiplier will be reset. 
+Örneğin, 1,7 LP katılımınız olduğunu ve ödül çarpanının 10x olduğunu varsayalım. 1 LP katılımınızı iptal etmeye karar verdiniz. Kalan 0,7 LP'nin \(hala katılım sağlanan\) 10x ödül çarpanı olmaya devam edecek, katılımdan çıkarılan 1 LP'nin ödül çarpanı sıfırlanacak. 
 
-The rewards you receive will be from the unsubscribed 1 LP, not the subscribed 0.7 LP.
+Alacağınız ödüller, katılım sağlanan 0,7 LP'den değil, katılımdan çıkarılan 1 LP'den olacaktır.
 {% endhint %}
 
 {% hint style="info" %}
-Please note that after claiming your rewards and unsubscribing your LP, you will no longer receive rewards from the Aludel reward program. To receive rewards again please follow the guide below, then withdraw your LP using the "Withdraw unsubscribed LP" button, and then subscribe your LP using the "Increase LP subscription" button.
+Lütfen ödüllerinizi talep ettikten ve LP katılımınızı iptal ettikten sonra, artık Aludel ödül programından ödül almayacağınızı unutmayın. Ödülleri tekrar almak için lütfen aşağıdaki kılavuzu takip edin, ardından "Withdraw unsubscribed LP" butonunu kullanarak LP'nizi geri çekin ve ardından "Increase LP subscription" butonunu kullanarak LP'nize katılım sağlayın.
 {% endhint %}
 
 1. [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)'yi açın, cüzdanınızı bağlayın ve "Your Crucibles" sekmesini ziyaret edin.
