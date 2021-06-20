@@ -28,15 +28,21 @@ Skorzystaj z jednego z poniższych przewodników w celu wybicia Crucible
 
 ## **Dlaczego nie widzę tokenów ⚗️$mist w moim portfelu?**
 
-Możesz dodać adres kontraktu **`0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab`** aby tokeny zaczeły być widoczne.
+Możesz dodać adres kontraktu **`0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab`** aby tokeny zaczeły być widoczne.  
+Token Symbol: ⚗️  
+Token Decimal: 18
 
 ## **Dlaczego nie widzę mojego LP w portfelu?**
 
-Możesz dodać adres kontraktu **`0xcd6bcca48069f8588780dfa274960f15685aee0e`** aby tokeny LP zaczeły być widoczne.
+Możesz dodać adres kontraktu **`0xcd6bcca48069f8588780dfa274960f15685aee0e`** aby tokeny LP zaczeły być widoczne.  
+Token Symbol: UNI-V2  
+Token Decimal: 18
 
 ## **Dlaczego nie widzę mojego Crucible w portfelu?**
 
-Możesz dodać adres kontraktu **`0x54e0395CFB4f39beF66DBCd5bD93Cca4E9273D56`** aby Crucible zaczął być widoczny.
+Możesz dodać adres kontraktu **`0x54e0395CFB4f39beF66DBCd5bD93Cca4E9273D56`** aby Crucible zaczął być widoczny.  
+Token Symbol: CRUCIBLE-V1  
+Token Decimal: 0
 
 ## **Jakie są nagrody za subskrypcję w Aludel?**
 
