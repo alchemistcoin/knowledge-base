@@ -24,15 +24,21 @@ Gebruik een van de onderstaande guides om een Crucible te minten
 
 ## Waarom kan ik mijn ⚗️Mist niet in mijn wallet zien?
 
-Voeg het contract adres **`0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab`** toe om het te zien.
+Voeg het contract adres **`0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab`** toe om het te zien.  
+Token Symbol: ⚗️  
+Token Decimal: 18
 
 ## **Waarom zie ik mijn LP niet in mijn wallet?**
 
-Voeg het contract adres **`0xcd6bcca48069f8588780dfa274960f15685aee0e`** toe om het te zien.
+Voeg het contract adres **`0xcd6bcca48069f8588780dfa274960f15685aee0e`** toe om het te zien.  
+Token Symbol: UNI-V2  
+Token Decimal: 18
 
 ## Waarom zie ik mijn Crucible niet in mijn wallet?
 
-Voeg het contract adres **`0x54e0395CFB4f39beF66DBCd5bD93Cca4E9273D56`** toe om je Crucible\(s\) te zien.
+Voeg het contract adres **`0x54e0395CFB4f39beF66DBCd5bD93Cca4E9273D56`** toe om je Crucible\(s\) te zien.  
+Token Symbol: CRUCIBLE-V1  
+Token Decimal: 0
 
 ## Wat zijn de beloningen voor het abonneren op de Aludel**?**
 
