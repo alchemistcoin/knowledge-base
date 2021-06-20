@@ -29,6 +29,7 @@ Gebruik alleen de officiële lijst met links, wanneer je werkt met of deelneemt 
 | [web.telegram.org/\#/im?p=@alchemistcoin](https://web.telegram.org/#/im?p=@alchemistcoin) | Telegram \(Web Versie\) |
 | [reddit.com/r/alchemist\_coin/](https://www.reddit.com/r/alchemist_coin/) | Reddit |
 | [instagram.com/thealchemistcoin](https://www.instagram.com/thealchemistcoin/) | Instagram |
+| [youtube.com/channel/UCIs4LugynLei2TN\_\_lJh-6Q](https://www.youtube.com/channel/UCIs4LugynLei2TN__lJh-6Q) | YouTube |
 | [alchemistcoin.medium.com](https://alchemistcoin.medium.com/) | Medium |
 
 
