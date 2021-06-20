@@ -26,15 +26,21 @@ Please use one of the guides below to mint a crucible
 
 ## **Por qué no puedo ver mis ⚗️Mist en mi wallet?**
 
-Puedes añadir la dirección del contrato **`0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab`** para que aparezca.
+Puedes añadir la dirección del contrato **`0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab`** para que aparezca.  
+Token Symbol: ⚗️  
+Token Decimal: 18
 
 ## **¿Por qué no puedo ver mi token LP en mi wallet?**
 
-Puedes añadir la dirección del contrato **`0xcd6bcca48069f8588780dfa274960f15685aee0e`** para que aparezca.
+Puedes añadir la dirección del contrato **`0xcd6bcca48069f8588780dfa274960f15685aee0e`** para que aparezca.  
+Token Symbol: UNI-V2  
+Token Decimal: 18
 
 ## **¿Por qué no puedo ver mi Crucible en mi wallet?**
 
-Puedes añadir la dirección del contrato **`0x54e0395CFB4f39beF66DBCd5bD93Cca4E9273D56`** para hacer visibles tu Crucible.
+Puedes añadir la dirección del contrato **`0x54e0395CFB4f39beF66DBCd5bD93Cca4E9273D56`** para hacer visibles tu Crucible.  
+Token Symbol: CRUCIBLE-V1  
+Token Decimal: 0
 
 ## **¿Cuáles son las recompensas por suscribir a Aludel?**
 
