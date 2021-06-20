@@ -24,15 +24,21 @@ Bitte benutze die untenstehende Anleitung, um ein Crucible zu minten:
 
 ## **Warum kann ich meine ⚗️ $MIST nicht in meiner Wallet sehen?**
 
-Du kannst diese Vertragsadresse **`0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab`** hinzufügen, so dass sie sichtbar werden.
+Du kannst diese Vertragsadresse **`0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab`** hinzufügen, so dass sie sichtbar werden.  
+Token Symbol: ⚗️  
+Token Decimal: 18
 
 ## **Warum kann ich meine LP Token nicht in meiner Wallet sehen?**
 
-Du kannst diese Vertragsadresse **`0xcd6bcca48069f8588780dfa274960f15685aee0e`** hinzufügen, so dass sie sichtbar werden.
+Du kannst diese Vertragsadresse **`0xcd6bcca48069f8588780dfa274960f15685aee0e`** hinzufügen, so dass sie sichtbar werden.  
+Token Symbol: UNI-V2  
+Token Decimal: 18
 
 ## **Warum kann ich mein\(e\) Crucible\(s\) nicht in meiner Wallet sehen?**
 
-Du kannst diese Vertragsadresse **`0x54e0395CFB4f39beF66DBCd5bD93Cca4E9273D56`** hinzufügen, so dass sie sichtbar werden.
+Du kannst diese Vertragsadresse **`0x54e0395CFB4f39beF66DBCd5bD93Cca4E9273D56`** hinzufügen, so dass sie sichtbar werden.  
+Token Symbol: CRUCIBLE-V1  
+Token Decimal: 0
 
 ## **Was sind die Vorteile für die Teilnahme im Aludel?**
 
