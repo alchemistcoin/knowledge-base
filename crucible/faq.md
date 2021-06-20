@@ -26,15 +26,21 @@ Crucible 只支持 **Uniswap V2** 流动资金池。向 **Uniswap V3** 资金池
 
 ### **为什么我的钱包里看不到我的 ⚗️Mist ?**
 
-您可以手动添加合约地址 **`0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab`** 以使其可见。
+您可以手动添加合约地址 **`0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab`** 以使其可见。  
+Token Symbol: ⚗️  
+Token Decimal: 18
 
 ### **为什么我的钱包里看不到我的 LP ?**
 
-您可以手动添加合约地址 **`0xcd6bcca48069f8588780dfa274960f15685aee0e`** 以使其可见。
+您可以手动添加合约地址 **`0xcd6bcca48069f8588780dfa274960f15685aee0e`** 以使其可见。  
+Token Symbol: UNI-V2  
+Token Decimal: 18
 
 ### **为什么我的钱包里看不到 Crucible ?**
 
-您可以手动添加合约地址 **`0x54e0395CFB4f39beF66DBCd5bD93Cca4E9273D56`** 以使其可见。
+您可以手动添加合约地址 **`0x54e0395CFB4f39beF66DBCd5bD93Cca4E9273D56`** 以使其可见。  
+Token Symbol: CRUCIBLE-V1  
+Token Decimal: 0
 
 ### **订阅 Aludel 有什么奖励？**
 
