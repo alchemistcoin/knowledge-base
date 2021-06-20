@@ -1,6 +1,6 @@
 # Claiming Rewards & Unsubscribing your LP
 
-At some point you may decided that you are ready to Claim your rewards and Unsubscribe your LP from your Crucible. 
+At some point you may decide that you are ready to Claim your rewards and Unsubscribe your LP from your Crucible. 
 
 The guide below is designed to step you through that process.
 
