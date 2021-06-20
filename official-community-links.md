@@ -25,6 +25,7 @@ Please only use our list of official links when taking part in the Alchemist.
 | [discord.alchemist.wtf](http://discord.alchemist.wtf) | Discord |
 | [t.me/alchemistcoin](https://t.me/alchemistcoin) | Telegram \(App Link\) |
 | [web.telegram.org/\#/im?p=@alchemistcoin](https://web.telegram.org/#/im?p=@alchemistcoin) | Telegram \(Web Version\) |
+| [reddit.com/r/alchemist\_coin/](https://www.reddit.com/r/alchemist_coin/) | Reddit |
 | [instagram.com/thealchemistcoin](https://www.instagram.com/thealchemistcoin/) | Instagram |
 | [youtube.com/channel/UCIs4LugynLei2TN\_\_lJh-6Q](https://www.youtube.com/channel/UCIs4LugynLei2TN__lJh-6Q) | YouTube |
 | [alchemistcoin.medium.com](https://alchemistcoin.medium.com/) | Medium |
