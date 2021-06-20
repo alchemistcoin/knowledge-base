@@ -5,11 +5,11 @@
 以下指南旨在引导您完成这一过程。
 
 {% hint style="info" %}
-Please note that when you unsubscribe all of your LP or only a portion of your LP from the crucible, the reward multiplier for the unsubscribed LP will be reset.  If you unsubscribe only a portion of the subscribed LP, the reward multiplier for the portion unsubscribed will be reset, while the subscribed portion will remain at its current multiplier.
+请注意，当您从 Crucible 中退订所有 LP 或仅退订部分 LP 时，退订出来的 LP 的奖励倍数将被重置。 如果您只退订一部分您订阅的 LP ，退订出来的那一部分的奖励倍数将被重置，而剩余还在订阅状态的那部分将保持其当前倍数。
 
-For example, suppose you have 1.7 LP subscribed and its reward multiplier is at 10x. You decide to unsubscribe 1 LP. The 0.7 LP remaining \(still subscribed\) will continue to have a reward multiplier of 10x, while the unsubscribed 1 LP's reward multiplier will be reset. 
+举个例子，假设您订阅了1.7个 LP ，当前其奖励倍数为10倍。现在您决定退订1个 LP 。剩余的0.7个（仍在订阅中的） LP 将继续拥有10倍的奖励倍数，而退订的那1个 LP 的奖励倍数将被重置。
 
-The rewards you receive will be from the unsubscribed 1 LP, not the subscribed 0.7 LP.
+您收到的奖励将来自于已经退订的那1个 LP ，而不是正在订阅的0.7个 LP 。
 {% endhint %}
 
 {% hint style="info" %}
