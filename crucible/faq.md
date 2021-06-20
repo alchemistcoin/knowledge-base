@@ -24,17 +24,23 @@ Ti sconsigliamo di eseguire ciascuno di questi processi su un dispositivo mobile
 
 * [Coniare un Crucible su crucible.alchemist.wtf](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-Ma-u8pbtC9OkHlc6DJr/v/italian/crucible/guides-crucible.alchemist.wtf)
 
-## **Perchè non riesco a vedere  ⚗️Mist nel mio wallet?**
+## **Perchè non riesco a vedere ⚗️Mist nel mio wallet?**
 
-Puoi aggiungere l'indirizzo di contratto  **`0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab`** per renderli visibili.
+Puoi aggiungere l'indirizzo di contratto  **`0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab`** per renderli visibili.  
+Token Symbol: ⚗️  
+Token Decimal: 18
 
 ## **Perchè non riesco a vedere i miei token LP nel mio wallet?**
 
-Puoi aggiungere l'indirizzo di contratto  **`0xcd6bcca48069f8588780dfa274960f15685aee0e`** per renderli visibili. 
+Puoi aggiungere l'indirizzo di contratto  **`0xcd6bcca48069f8588780dfa274960f15685aee0e`** per renderli visibili.   
+Token Symbol: UNI-V2  
+Token Decimal: 18
 
 ## **Perchè non riesco a vedere il mio Crucible nel mio wallet?**
 
-Puoi aggiungere l'indirizzo di contratto **`0x54e0395CFB4f39beF66DBCd5bD93Cca4E9273D56`** per rendere il tuo/i tuoi Crucible visibili. 
+Puoi aggiungere l'indirizzo di contratto **`0x54e0395CFB4f39beF66DBCd5bD93Cca4E9273D56`** per rendere il tuo/i tuoi Crucible visibili.   
+Token Symbol: CRUCIBLE-V1  
+Token Decimal: 0
 
 ## **Quali sono le ricompense ottenute dall'iscrizione dei token in Aludel?**
 
