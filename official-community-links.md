@@ -25,6 +25,7 @@
 | [discord.alchemist.wtf](http://discord.alchemist.wtf) | डिस्कॉर्ड |
 | [t.me/alchemistcoin](https://t.me/alchemistcoin) | टेलीग्राम ऐप |
 | [web.telegram.org/\#/im?p=@alchemistcoin](https://web.telegram.org/#/im?p=@alchemistcoin) | टेलीग्राम वेब |
+| [reddit.com/r/alchemist\_coin/](https://www.reddit.com/r/alchemist_coin/) | Reddit |
 | [instagram.com/thealchemistcoin](https://www.instagram.com/thealchemistcoin/) | इंस्टाग्राम |
 | [youtube.com/channel/UCIs4LugynLei2TN\_\_lJh-6Q](https://www.youtube.com/channel/UCIs4LugynLei2TN__lJh-6Q) | यूट्यूब |
 | [alchemistcoin.medium.com](https://alchemistcoin.medium.com/) | मीडियम प्लेटफार्म |
