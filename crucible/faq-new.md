@@ -25,15 +25,21 @@ Va rugam sa folositi unul din ghidurile de mai jos despre cum sa creati un Cruci
 
 ## **De ce nu pot sa vad token-ul ⚗️Mist in walletul meu?** 
 
-Trebuie sa adaugi adresa contractului**`0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab`** ca sa fie vizibil in wallet.
+Trebuie sa adaugi adresa contractului**`0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab`** ca sa fie vizibil in wallet.  
+Token Symbol: ⚗️  
+Token Decimal: 18
 
 ## **De ce nu pot sa vad token-ul LP in walletul meu?**
 
-Trebuie sa adaugi adresa contractului **`0xcd6bcca48069f8588780dfa274960f15685aee0e`** ca sa fie vizibil in wallet.
+Trebuie sa adaugi adresa contractului **`0xcd6bcca48069f8588780dfa274960f15685aee0e`** ca sa fie vizibil in wallet.  
+Token Symbol: UNI-V2  
+Token Decimal: 18
 
 ## **De ce nu pot sa vad NFT-ul Crucible in walletul meu?**
 
-Trebuie sa adaugi adresa contractului  **`0x54e0395CFB4f39beF66DBCd5bD93Cca4E9273D56`** ca NFT-ul Crucible sa fie vizibil in wallet.
+Trebuie sa adaugi adresa contractului  **`0x54e0395CFB4f39beF66DBCd5bD93Cca4E9273D56`** ca NFT-ul Crucible sa fie vizibil in wallet.  
+Token Symbol: CRUCIBLE-V1  
+Token Decimal: 0
 
 ## **Care este recompensa pentru a subscrie in programul Aludel?**
 
