@@ -28,19 +28,25 @@ Crucibles 只能由**Uniswap V2** LP代幣鑄造。 請確保你將代幣添加�
 
 **為什麼我的錢包裡看不到我的 ⚗️Mist ?**
 
-您可以添加合約地址 **`0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab`** 
+您可以添加合約地址 **`0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab`**   
+Token Symbol: ⚗️  
+Token Decimal: 18
 
 
 
 **為什麼我的錢包裡看不到我的 LP?**
 
-您可以添加合約地址 **`0xcd6bcca48069f8588780dfa274960f15685aee0e`** 
+您可以添加合約地址 **`0xcd6bcca48069f8588780dfa274960f15685aee0e`**   
+Token Symbol: UNI-V2  
+Token Decimal: 18
 
 
 
 **為什麼我的錢包裡看不到 Crucible?**
 
-您可以添加合約地址 **`0x54e0395CFB4f39beF66DBCd5bD93Cca4E9273D56`** 
+您可以添加合約地址 **`0x54e0395CFB4f39beF66DBCd5bD93Cca4E9273D56`**   
+Token Symbol: CRUCIBLE-V1  
+Token Decimal: 0
 
 \*\*\*\*
 
