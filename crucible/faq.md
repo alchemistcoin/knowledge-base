@@ -26,15 +26,21 @@ Bir crucible oluşturmak için lütfen aşağıdaki kılavuzlardan birini kullan
 
 ## Cüzdanımda ⚗️Mist'imi neden göremiyorum?
 
-Görünür kılmak için **`0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab`** sözleşme adresini ekleyebilirsiniz.
+Görünür kılmak için **`0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab`** sözleşme adresini ekleyebilirsiniz.  
+Token Symbol: ⚗️  
+Token Decimal: 18
 
 ## Neden LP'mi cüzdanımda göremiyorum**?**
 
-Görünür hale getirmek için **`0xcd6bcca48069f8588780dfa274960f15685aee0e`** sözleşme adresini ekleyebilirsiniz.
+Görünür hale getirmek için **`0xcd6bcca48069f8588780dfa274960f15685aee0e`** sözleşme adresini ekleyebilirsiniz.  
+Token Symbol: UNI-V2  
+Token Decimal: 18
 
 ## **Crucible'ımı** cüzdanımda neden göremiyorum**?**
 
-Crucible'ınızı görünür kılmak için **`0x54e0395CFB4f39beF66DBCd5bD93Cca4E9273D56`** sözleşme adresini ekleyebilirsiniz.
+Crucible'ınızı görünür kılmak için **`0x54e0395CFB4f39beF66DBCd5bD93Cca4E9273D56`** sözleşme adresini ekleyebilirsiniz.  
+Token Symbol: CRUCIBLE-V1  
+Token Decimal: 0
 
 ## Aludel'e **Katılım** sağlamanın ödülleri nelerdir?
 
