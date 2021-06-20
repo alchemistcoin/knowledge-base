@@ -31,15 +31,21 @@ Ne preporučujemo da to radite na mobilnim uređajima.
 
 ## **Zašto ne mogu da vidim svoj ⚗️Mist u svom novčaniku?**
 
-Možete da dodate contract adresu **`0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab`** da biste ga učinili vidljivim.
+Možete da dodate contract adresu **`0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab`** da biste ga učinili vidljivim.  
+Token Symbol: ⚗️  
+Token Decimal: 18
 
 ## **Zašto ne mogu da vidim svoj LP u svom novčaniku?**
 
-Možete da dodate contract adresu **`0xcd6bcca48069f8588780dfa274960f15685aee0e`** da biste ga učinili vidljivim.
+Možete da dodate contract adresu **`0xcd6bcca48069f8588780dfa274960f15685aee0e`** da biste ga učinili vidljivim.  
+Token Symbol: UNI-V2  
+Token Decimal: 18
 
 ## **Zašto ne mogu da vidim svoj Crucible u svom novčaniku?**
 
-Možete da dodate contract adresu **`0x54e0395CFB4f39beF66DBCd5bD93Cca4E9273D56`** da biste učinili vidljivim vaš crucible \(ili više njih\).
+Možete da dodate contract adresu **`0x54e0395CFB4f39beF66DBCd5bD93Cca4E9273D56`** da biste učinili vidljivim vaš crucible \(ili više njih\).  
+Token Symbol: CRUCIBLE-V1  
+Token Decimal: 0
 
 ## **Koja je nagrada za pretplatu na Aludel?**
 
