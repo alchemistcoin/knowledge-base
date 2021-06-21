@@ -137,15 +137,21 @@ No, as long as the rewards are not unsubscribed from the Aludel.
 
  **?שלי בארנק ⚗️Mist מדוע איני יכול לראות את ה**
 
-אתה יכול להוסיף את כתובת החוזה **0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab** .כדי להפוך אותם לגלויים
+אתה יכול להוסיף את כתובת החוזה **0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab** .כדי להפוך אותם לגלויים  
+⚗️ ****:Token Symbol  
+Token Decimal: 18
 
 **?שלי בארנק LP מדוע איני יכול לראות את ה**
 
-אתה יכול להוסיף את כתובת החוזה **0xcd6bcca48069f8588780dfa274960f15685aee0e** .כדי להפוך אותם לגלויים
+אתה יכול להוסיף את כתובת החוזה **0xcd6bcca48069f8588780dfa274960f15685aee0e** .כדי להפוך אותם לגלויים  
+Token Symbol: UNI-V2  
+Token Decimal: 18
 
 **?שלי בארנק Crucible מדוע איני יכול לראות את ה**
 
-אתה יכול להוסיף את כתובת החוזה **0x54e0395CFB4f39beF66DBCd5bD93Cca4E9273D56** .שלך לגלוי Crucible -כדי להפוך את ה
+אתה יכול להוסיף את כתובת החוזה **0x54e0395CFB4f39beF66DBCd5bD93Cca4E9273D56** .שלך לגלוי Crucible -כדי להפוך את ה  
+Token Symbol: CRUCIBLE-V1  
+Token Decimal: 0
 
 **?Aludel -מהם התגמולים עבור הרשמה ל**
 
