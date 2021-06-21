@@ -31,6 +31,7 @@
 | [instagram.com/thealchemistcoin](https://www.instagram.com/thealchemistcoin/) | Instagram |
 | [alchemistcoin.medium.com](https://alchemistcoin.medium.com/) | Medium |
 | [youtube.com/channel/UCIs4LugynLei2TN\_\_lJh-6Q](https://www.youtube.com/channel/UCIs4LugynLei2TN__lJh-6Q) | Youtube |
+| [duneanalytics.com/alchemistcoin](https://duneanalytics.com/alchemistcoin) | Dune Analytics |
 
 
 
