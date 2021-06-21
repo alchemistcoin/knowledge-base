@@ -31,6 +31,7 @@ Pentru a participa in Alchemist recomandam sa folositi doar link-urile oficiale.
 | [instagram.com/thealchemistcoin](https://www.instagram.com/thealchemistcoin/) | Instagram |
 | [youtube.com/channel/UCIs4LugynLei2TN\_\_lJh-6Q](https://www.youtube.com/channel/UCIs4LugynLei2TN__lJh-6Q) | YouTube |
 | [alchemistcoin.medium.com](https://alchemistcoin.medium.com/) | Medium |
+| [duneanalytics.com/alchemistcoin](https://duneanalytics.com/alchemistcoin) | Dune Analytics |
 
 
 
