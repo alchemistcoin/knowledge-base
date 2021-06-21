@@ -29,6 +29,7 @@
 | [instagram.com/thealchemistcoin](https://www.instagram.com/thealchemistcoin/) | इंस्टाग्राम |
 | [youtube.com/channel/UCIs4LugynLei2TN\_\_lJh-6Q](https://www.youtube.com/channel/UCIs4LugynLei2TN__lJh-6Q) | यूट्यूब |
 | [alchemistcoin.medium.com](https://alchemistcoin.medium.com/) | मीडियम प्लेटफार्म |
+| [duneanalytics.com/alchemistcoin](https://duneanalytics.com/alchemistcoin) | Dune Analytics |
 
 
 
