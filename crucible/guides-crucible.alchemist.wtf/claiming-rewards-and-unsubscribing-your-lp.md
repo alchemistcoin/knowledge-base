@@ -5,11 +5,11 @@
 नीचे दी गयी गाइड यह करने में आपकी मदद कर सकता है.
 
 {% hint style="info" %}
-Please note that when you unsubscribe all of your LP or only a portion of your LP from the crucible, the reward multiplier for the unsubscribed LP will be reset.  If you unsubscribe only a portion of the subscribed LP, the reward multiplier for the portion unsubscribed will be reset, while the subscribed portion will remain at its current multiplier. 
+कृपया ध्यान दें कि जब आप क्रूसिबल से अपने सभी एलपी या अपने एलपी के केवल एक हिस्से की सदस्यता समाप्त करते हैं, तो सदस्यता समाप्त एलपी के लिए इनाम गुणक रीसेट हो जाएगा। अगर आप सब्स्क्राइब्ड एलपी के केवल एक हिस्से को अनसब्सक्राइब करते हैं, तो अनसब्सक्राइब किए गए हिस्से के लिए रिवॉर्ड मल्टीप्लायर रीसेट कर दिया जाएगा, जबकि सब्सक्राइब्ड हिस्सा अपने मौजूदा मल्टीप्लायर पर बना रहेगा।
 
-For example, suppose you have 1.7 LP subscribed and its reward multiplier is at 10x. You decide to unsubscribe 1 LP. The 0.7 LP remaining \(still subscribed\) will continue to have a reward multiplier of 10x, while the unsubscribed 1 LP's reward multiplier will be reset. 
+उदाहरण के लिए, मान लें कि आपने 1.7 एलपी सब्सक्राइब किया है और इसका रिवॉर्ड मल्टीप्लायर 10x है। आप 1 एलपी की सदस्यता समाप्त करने का निर्णय लेते हैं। शेष 0.7 एलपी \(अभी भी सब्सक्रइबड\) क पस 10x क इनम गणक जर रहग, जबक सदसयत न लन वल 1 एलप क इनम गणक क रसट कर दय जएग"
 
-The rewards you receive will be from the unsubscribed 1 LP, not the subscribed 0.7 LP.
+आपक परपत हन वल परसकर अनसबसकरइबड 1 एलप स हग, सबसकरइबड 0.7 एलप स नह
 {% endhint %}
 
 {% hint style="info" %}
