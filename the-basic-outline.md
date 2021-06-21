@@ -1,6 +1,6 @@
 # मूल रूपरेखा
 
-अल्केमिस्ट नामक एक टोकन है. उसका टिकर प्रतीक "⚗️" है. इसे “mist” एवं “$MIST” के नाम से भी जाना जाता है. इसे [MUST](https://www.coingecko.com/en/coins/must) - के साथ भ्रमित न करें - इसके एलेम्बिक प्रतीक के बावजूद इसका अलकेमिस्ट से कोई संबंध नहीं है.
+[अल्केमिस्ट ](https://etherscan.io/token/0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab)नामक एक टोकन है। इसमें टिकर चिन्ह "⚗️" है। इसेु "mist" और "$ MIST" के रूप में भी जाना जाता है। इसे [मिस्ट \(MIST\)](https://www.coingecko.com/en/coins/mist), [अल्केमिस्ट डेफी मिस्ट \(MIST\)](https://www.coingecko.com/en/coins/alchemist-defi-mist), और [कॉमेथ \(MUST](https://coinmarketcap.com/currencies/cometh/)\) के साथ भ्रमित न करें - एलेम्बिक प्रतीक और इसी तरह के नामों के बावजूद, इन तीन टोकन का अल्केमिस्ट \(MIST\) से कोई संबंध नहीं है।
 
 ![](.gitbook/assets/mm_mi21st.png)
 
