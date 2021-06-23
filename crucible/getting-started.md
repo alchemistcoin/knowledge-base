@@ -1,4 +1,4 @@
-# Getting Started
+# מתחילים
 
 There are a few precautions to take before taking part in the Crucible program, please be sure to read the notices and warnings below before continuing.
 
