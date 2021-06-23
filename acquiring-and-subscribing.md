@@ -46,15 +46,17 @@
 הוספת נזילות לבריכת V3 של Uniswap אינה תואמת לתכנית התגמולים.
 {% endhint %}
 
-1. Head to [Add LP to $MIST on Uniswap V2](https://app.uniswap.org/#/add/v2/0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab/ETH)
-   * Connect MetaMask wallet if not already done so
-2. You should see something like this:
+1.עבור אל- [Add LP to $MIST on Uniswap V2](https://app.uniswap.org/#/add/v2/0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab/ETH)
 
-    ![](https://i.imgur.com/7paIEyF.png)
+חבר את ארנק ה- MetaMask אם עדיין לא עשית זאת
 
-3. Enter the amounts you want to stake. Both sides need to be equal value, so changing one will change the other. You most likely just want to click the "MAX" button on the ⚗️ side
-4. Hit "Stake" or "Supply", make necessary approvals via MetaMask, wait for the transaction to complete
-5. You should see your new LP tokens \(named UNI-V2\) on Etherscan again:
+3.אתה אמור לראות משהו כזה:
+
+![](https://i.imgur.com/7paIEyF.png)
+
+1. Enter the amounts you want to stake. Both sides need to be equal value, so changing one will change the other. You most likely just want to click the "MAX" button on the ⚗️ side
+2. Hit "Stake" or "Supply", make necessary approvals via MetaMask, wait for the transaction to complete
+3. You should see your new LP tokens \(named UNI-V2\) on Etherscan again:
 
     ![](https://i.imgur.com/6hAoHGw.png)
 
