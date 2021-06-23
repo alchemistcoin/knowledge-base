@@ -54,11 +54,13 @@
 
 ![](https://i.imgur.com/7paIEyF.png)
 
-1. Enter the amounts you want to stake. Both sides need to be equal value, so changing one will change the other. You most likely just want to click the "MAX" button on the ⚗️ side
-2. Hit "Stake" or "Supply", make necessary approvals via MetaMask, wait for the transaction to complete
-3. You should see your new LP tokens \(named UNI-V2\) on Etherscan again:
+1.הזן את הסכומים שאתה רוצה לעשות סטייק. שני הצדדים צריכים להיות שווים בערך, ולכן שינוי של אחד ישנה את השני. סביר להניח שאתה רק רוצה ללחוץ על כפתור "MAX" בצד ה- ⚗️
 
-    ![](https://i.imgur.com/6hAoHGw.png)
+2.לחץ על "סטייק" או "סופלי", בצע את האישורים ההכרחיים באמצעות MetaMask, והמתן לסיום העסקה
+
+3.אתה אמור לראות עכשיו את אסימוני ה- LP החדשים שלך \(בשם UNI-V2\) ב- Etherscan:
+
+1.  ![](https://i.imgur.com/6hAoHGw.png)
 
 ## 
 
