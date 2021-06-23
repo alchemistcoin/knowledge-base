@@ -80,7 +80,7 @@ Cada vez que pones tokens LP en el programa de recompensas de Aludel, este lleva
 
 ## **¿Puedo ver de alguna manera cuántas recompensas he adquirido mientras tanto?**
 
-Puedes ver la recompensa acumulada de tu Crucible usando la IU en [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) y las comisiones de LP acumuladas de Uniswap usando en [apy.vision](https://apy.vision/) o [croco.finance](https://croco.finance/) \(Uniswap LP fees earned will show as ⚗️, and WETH or ETH\).
+Puedes ver la recompensa acumulada de tu Crucible usando la IU en [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) y las comisiones de LP acumuladas de Uniswap usando en [apy.vision](https://apy.vision/) o [croco.finance](https://croco.finance/) \(Las comisiones de Uniswap LP ganadas aparecerán como ⚗️, y WETH o ETH\).
 
 ![croco.finance](../.gitbook/assets/untitled.png)
 
