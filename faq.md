@@ -1,38 +1,8 @@
+---
+description: $MIST FAQ
+---
+
 # שאלות נפוצות
-
-## **Where can I trade ⚗️ \($MIST\) ?**
-
-We recommend using mistX.io, you can find it using our link
-
-* [swap.alchemist.wtf](http://swap.alchemist.wtf/)
-
-Over time $MIST is bound to appear on other trading sites, when this happens these places can be identified by using [Coingecko](https://www.coingecko.com/en/coins/alchemist) or [CoinMarketCap](https://coinmarketcap.com/currencies/alchemist/).
-
-## **What is total/circulating supply?**
-
-Circulating supply and total supply are the same. This started with 1,000,000, but increases by 1% every two weeks. The current supply is shown [here](https://etherscan.io/token/0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab)
-
-## **Do you plan pre/private/public sale?**
-
-There are no sales. We held an initial Balancer pool and all ETH raised were deposited into the reward program.
-
-## **Does the token have inflation?**
-
-Inflation is currently 1% every two weeks but can be modified up or down. To avoid being diluted by inflation, Subscribe your ⚗️$MIST in the Aludel reward program.
-
-The current allocation of the inflation tokens is:
-
-50% to Aludel reward pool, 25% to $MIST community multisig & 25% to $MIST treasury.
-
-## **What can I do with my ⚗️$MIST?**
-
-A liquidity provider reward program has been deployed for the ⚗️$MIST/ETH Uniswap pool. This reward program is called the Aludel. \(Think of this as a staking smart contract designed by our guildmaster\).
-
-A community multisig has been created to accumulate funds that can be used for bounties. Take a look at the [\#builders-application](https://discord.gg/92hQDCw25u) on discord or donate to the multisig at [multisig.alchemistcoin.eth.](https://etherscan.io/address/multisig.alchemistcoin.eth)
-
-
-
-## **שאלות נפוצות $MIST**
 
 **היכן אוכל לסחור ⚗️ \($MIST\) ?**
 
@@ -42,31 +12,31 @@ A community multisig has been created to accumulate funds that can be used for b
 
 עם הזמן $ MIST חייב להופיע באתרי מסחר אחרים, כאשר זה קורה ניתן לזהות את המקומות הללו באמצעות [Coingecko](https://www.coingecko.com/en/coins/alchemist) או [CoinMarketCap](https://coinmarketcap.com/currencies/alchemist/).
 
-**? מהו ההיצע הכולל / במחזור**
+**מהו ההיצע הכולל / במחזור ?**
 
 ההיצע במחזור וההיצע הכולל זהים. זה התחיל ב -1,000,000, אך עולה בכ -1% אחת לשבועיים. ההיצע הנוכחי מוצג [כאן](https://etherscan.io/token/0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab)
 
-**? האם אתם מתכננים מכירה מוקדמת / פרטית / ציבורית**
+**האם אתם מתכננים מכירה מוקדמת / פרטית / ציבורית ?**
 
-שגויס הועבר לתוכנית התגמול ETH לא מתבצעות מכירות. ערכנו מאגר איזונים ראשוני וכל
+לא מתבצעות מכירות. ערכנו מאגר איזונים ראשוני וכל ETH שגויס הועבר לתוכנית התגמול.
 
-**? האם לאסימון יש אינפלציה**
+**האם לאסימון יש אינפלציה ?**
 
-.האינפלציה כרגע היא 1% אחת לשבועיים, אך ניתן לשנות אותה למעלה או למטה Aludel שלך לתוכנית התגמול של ⚗️$mist כדי למנוע דילול על ידי אינפלציה, רשום את ה
+האינפלציה כרגע היא 1% אחת לשבועיים, אך ניתן לשנות אותה למעלה או למטה. כדי למנוע דילול על ידי אינפלציה, רשום את ה- ⚗️$mist שלך לתוכנית התגמול של Aludel  
 
-:ההקצאה הנוכחית של אסימוני האינפלציה היא
+ההקצאה הנוכחית של אסימוני האינפלציה היא:
 
-50% Aludel למאגר התגמולים של 25% $mist community multisig 25% $mist treasury
+50% to Aludel reward pool, 25% to $MIST community multisig & 25% to $MIST treasury.
 
-**? שלי ⚗️$mist -מה אני יכול לעשות עם ה**
+**מה אני יכול לעשות עם ה- ⚗️ $mist שלי ?**
 
-.⚗️$mist/ETH Uniswap תוכנית תגמול של ספקי נזילות נפרסת לבריכת \(שתוכנן ע"י הגילדה שלנו staking smart contract חשוב על זה כעל\) .Aludel תוכנית תגמול זו נקראת
+תוכנית תגמול של ספקי נזילות נפרסת לבריכת ****ETH Uniswap / ⚗️$MIST. תוכנית תגמול זו נקראת Aludel \(חשוב על זה כעל staking smart contract שתוכנן ע"י הגילדה שלנו \)  
 
-.bounties -לצבירת כספים שיכולים לשמש ל community multisig נוצר discord -ב [bounties channel](https://discord.gg/92hQDCw25u) -למידע נוסף היכנסו ל [multisig.alchemistcoin.eth.](https://etherscan.io/address/multisig.alchemistcoin.eth) multisig -או לתרומות ל
+נוצר מולטי-סיג קהילתי לצבירת כספים שיכולים לשמש לבאונטי. לעוד מידע כנס ל-  [\#builders-application](https://discord.gg/92hQDCw25u) ב- discord או תרום ל- multisig בכתובת [multisig.alchemistcoin.eth](https://etherscan.io/address/multisig.alchemistcoin.eth)
 
 ## **שאלות נפוצות Multisig**
 
-**multisig מיהם מחזיקי המפתחות?**
+**מיהם מחזיקי המפתחות multisig ?**
 
 .נבחרו על ידי הקהילה על סמך אמון ותרומות לפרוייקט Multisig מחזיקי המפתחות
 
