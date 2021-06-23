@@ -9,17 +9,17 @@
 {% endhint %}
 
 {% hint style="warning" %}
-* **Do not** use ![](../.gitbook/assets/brave.png) Brave browser as it is not compatible with the process at this time and your transaction will fail, resulting in lost fees.
-* We do not recommend using a hardware wallet at this time as many do not currently support EIP-712 signing.
-* Some users have reported issues with Trust Wallet. Please express caution when using it.
-* We do not recommend you do any of these processes on a mobile device.
+* **אל תשתמש** בדפדפן![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MZtVtOEMQShtte8TrMq%2F-M_7MUcgZAdkMiyqBsW1%2F-M_7NXHZsBftQq_mrhe9%2Fbrave.png?alt=media&token=b5e1c802-edd2-4348-908d-0b147d3c9b40) Brave ****מכיוון שהוא אינו תואם לתהליך בשלב זה והעסקה שלך תיכשל וכתוצאה מכך תאבד עמלות.
+* אנו לא ממליצים להשתמש בארנק חומרה בשלב זה מכיוון שרבים אינם תומכים כעת בחתימת EIP-712
+* חלק מהמשתמשים דיווחו על בעיות עם ארנק Trust. אנא פעלו בזהירות בעת השימוש בו
+* אנו לא ממליצים לך לבצע אף אחד מהתהליכים האלה במכשיר נייד
 {% endhint %}
 
 {% hint style="info" %}
-The Aludel reward system is still an ongoing experiment, please keep in mind the following precautions before taking part in the program.
+מערכת התגמולים של Aludel היא עדיין ניסוי מתמשך, זכור את אמצעי הזהירות הבאים לפני שתשתתף בתוכנית.
 {% endhint %}
 
-If you've read the above notices, then you're ready to move on to learning [about Crucibles](teach-me-about-crucibles.md).
+אם קראת את ההודעות שלעיל, אתה מוכן לעבור ללמוד על [Crucibles](teach-me-about-crucibles.md).
 
 {% page-ref page="teach-me-about-crucibles.md" %}
 
