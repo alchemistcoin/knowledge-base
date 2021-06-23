@@ -14,7 +14,7 @@
 ## Crucible
 
 * [מתחילים](crucible/getting-started.md)
-* [Teach me about Crucibles](crucible/teach-me-about-crucibles.md)
+* [Crucibles למד אותי על](crucible/teach-me-about-crucibles.md)
 * [crucible.alchemist.wtf :מדריכים](crucible/guides-crucible.alchemist.wtf/README.md)
   * [How do I mint a Crucible?](crucible/guides-crucible.alchemist.wtf/how-do-i-mint-a-crucible.md)
   * [What can I do with my new Crucible?](crucible/guides-crucible.alchemist.wtf/what-can-i-do-with-my-new-crucible.md)
