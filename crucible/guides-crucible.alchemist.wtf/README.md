@@ -1,6 +1,6 @@
-# Guides: crucible.alchemist.wtf
+# crucible.alchemist.wtf :מדריכים
 
-### Contents
+### תוכן
 
 1. [How do I mint a Crucible?](how-do-i-mint-a-crucible.md)
 2. [What can I do with my new Crucible?](what-can-i-do-with-my-new-crucible.md)
