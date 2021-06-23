@@ -37,13 +37,13 @@
 
  ![](https://i.imgur.com/bF9wsrg.png)
 
-### 2. Subscribing $MIST ⚗️ to receive LP tokens
+###  2. רשום את המיסט ⚗️ לקבלת אסימוני LP 
 
-Ever provided liquidity on Uniswap? If so you know how to do this already.
+האם סיפקתם אי פעם נזילות ב- Uniswap? אם כן אתה יודע לעשות זאת כבר.
 
 {% hint style="danger" %}
-Crucible only supports the **Uniswap V2** Liquidity Pool.   
-Adding liquidity to the **Uniswap V3** pool is not compatible with the Rewards Program.
+קרושיבל \(Crucible\) תומך רק בבריכת הנזילות של Uniswap V2.  
+הוספת נזילות לבריכת V3 של Uniswap אינה תואמת לתכנית התגמולים.
 {% endhint %}
 
 1. Head to [Add LP to $MIST on Uniswap V2](https://app.uniswap.org/#/add/v2/0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab/ETH)
