@@ -2,47 +2,40 @@
 
 ### 1. קבלת MIST$ ⚗️
 
-סחרת אי פעם במטבעות ב- Uniswap? אם כן אתה יודע לעשות זאת כבר.
+סחרת אי פעם במטבעות ב- mistX.io? אם כן אתה יודע לעשות זאת כבר.
 
 {% hint style="warning" %}
-בגלל נזילות נמוכה ב- Uniswap V3, החלקה נוספת עשויה לגרום לכך שלא תקבל את המחיר הטוב ביותר עבור הרכישה שלך. אנא השתמש בקישור Uniswap V2 שלנו למטה כדי לבצע החלפת אסימונים.
+אנו ממליצים להשתמש ב- mistX.io בעת סחר $ MIST. עם זאת, אם תחליט להשתמש ב- Uniswap,
+
+בגלל נזילות נמוכה ב- Uniswap V3, החלקה נוספת עשויה לגרום לכך שלא תקבל את המחיר הטוב ביותר עבור הרכישה שלך. אנא השתמש בקישור[ **Uniswap V2**](https://app.uniswap.org/#/swap?outputCurrency=0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab&use=V2)  שלנו למטה כדי לבצע החלפת אסימונים.
 {% endhint %}
 
 
 
-1.עבור אל[ Swap $MIST on Uniswap V2](http://swap.alchemist.wtf/)
+1.עבור אל[ ](http://swap.alchemist.wtf/)[Swap $MIST on mistX.io](http://swap.alchemist.wtf/)
 
 2.חבר את ארנק ה- MetaMask שלך
 
 3.אתה תראה את המסך הבא:
 
+ ![](.gitbook/assets/swap%20%282%29%20%282%29%20%282%29%20%281%29.jpg)
 
+ 4.הזן את סכום המיסט ⚗️ שתרצה לרכוש, וודא שיש לך ערך שווה ערך ל- ETH לשימוש ההרשמה.
 
-### Getting $MIST ⚗️
+5.לחץ על "החלף", בצע את האישורים הנחוצים באמצעות MetaMask , והמתן לסיום העסקה.
 
-Ever traded coins on mistX.io? If so you know how to do this already.
+* גיליתי ששני הניסיונות הראשונים שלי נכשלו, לכאורה מכיוון שהם לא עובדו במהירות מספיק כדי שהמחיר יישאר יציב לפני שיסיימו.
+* ל- MetaMask היכולת לאפשר לך להאיץ עסקה על ידי איתורה בכרטיסייה "פעילות" ובחירה לשלם יותר דלק עבור עיבוד בעדיפות גבוהה יותר.
 
-{% hint style="warning" %}
-We recommend using mistX.io when trading $MIST.  However, if you decide to use Uniswap, please note that due to low liquidity on **Uniswap V3**, extra slippage might mean you will not get the best price for your purchase. Please use this [**Uniswap V2**](https://app.uniswap.org/#/swap?outputCurrency=0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab&use=V2) link to perform the token swap when using Uniswap.
-{% endhint %}
+6.נווט אל [https://etherscan.io/address/](https://etherscan.io/address/) כדי להציג עסקאות ממתינות ואת כל האסימונים המשויכים לחשבונך.
 
-1. Head to [Swap $MIST on mistX.io](http://swap.alchemist.wtf/)
-2. Connect MetaMask wallet
-3. You should see something like this:
+* אם אתה משתמש ב- MetaMask אתה יכול ללחוץ על השלוש נקודות ואז על "View on Etherscan" כדי לקפוץ אליו:
 
-    ![](.gitbook/assets/swap%20%282%29%20%282%29%20%282%29%20%281%29.jpg)
+  ![](https://i.imgur.com/jdzodQP.png)
 
-4.  Enter the amount of ⚗️ you wish to purchase, ensuring you have an equivalent value of ETH remaining to use for the subscribing
-5. Hit "Swap", make necessary approvals via MetaMask, wait for the transaction to complete
-   * I found that my first two attempts failed, seemingly because they weren't being processed fast enough for the price to remain stable before they finished
-   * MetaMask has the ability to let you speed up a transaction by locating it in the "Activity" tab and choosing to pay more gas for higher priority processing
-6. Navigate to [https://etherscan.io/address/](https://etherscan.io/address/) to view pending transactions and all tokens associated with your account.
-   * if you use MetaMask you can click the triple dots and then "View on Etherscan" to jump to it:
+7.אתה אמור לראות את ה- ⚗️ מוצג כך:
 
-     ![](https://i.imgur.com/jdzodQP.png)
-7. You should see your new ⚗️ displayed like the following:
-
-    ![](https://i.imgur.com/bF9wsrg.png)
+ ![](https://i.imgur.com/bF9wsrg.png)
 
 ### 2. Subscribing $MIST ⚗️ to receive LP tokens
 
