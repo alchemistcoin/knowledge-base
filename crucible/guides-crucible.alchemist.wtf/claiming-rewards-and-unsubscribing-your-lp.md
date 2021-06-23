@@ -5,15 +5,15 @@ En cualquier momento puedes decidir que estás listo para reclamar tus recompens
 Las intrucciones siguiente estan diseñadas para guiarte a través de ese proceso.
 
 {% hint style="info" %}
-Please note that when you unsubscribe all of your LP or only a portion of your LP from the crucible, the reward multiplier for the unsubscribed LP will be reset.  If you unsubscribe only a portion of the subscribed LP, the reward multiplier for the portion unsubscribed will be reset, while the subscribed portion will remain at its current multiplier. 
+Por favor, ten en cuenta que cuando desuscribes todos tus LP o sólo una parte de tus LP del Crucible, el multiplicador de recompensa de los LP desuscritos se restablecerá. Si sólo cancelas una parte de los LP suscritos, el multiplicador de recompensa de la parte no suscrita se restablecerá, mientras que la parte suscrita mantendrá su multiplicador actual. 
 
-For example, suppose you have 1.7 LP subscribed and its reward multiplier is at 10x. You decide to unsubscribe 1 LP. The 0.7 LP remaining \(still subscribed\) will continue to have a reward multiplier of 10x, while the unsubscribed 1 LP's reward multiplier will be reset. 
+Por ejemplo, supón que tienes 1,7 lP suscritos y su multiplicador de recompensa es de 10x. Decides desuscribir 1 LP. Los 0,7 LP restantes \(todavía suscritos\) seguirán teniendo un multiplicador de recompensa de 10x, mientras que el multiplicador de recompensa de 1 LP desuscrito se restablecerá. 
 
-The rewards you receive will be from the unsubscribed 1 LP, not the subscribed 0.7 LP.
+Las recompensas que recibas serán de los 1 LP no suscritos, no de los 0,7 LP suscritos.
 {% endhint %}
 
 {% hint style="info" %}
-Please note that after claiming your rewards and unsubscribing your LP, you will no longer receive rewards from the Aludel reward program. To receive rewards again please follow the guide below, then withdraw your LP using the "Withdraw unsubscribed LP" button, and then subscribe your LP using the "Increase LP subscription" button.
+Por favor, ten en cuenta que después de reclamar tus recompensas y desuscribir tu LP, dejarás de recibir recompensas del programa de recompensas de Aludel. Para volver a recibir recompensas, sigue la guía que aparece a continuación, luego retira tu LP usando el botón "Withdraw unsubscribed LP", y luego suscribe tu LP usando el botón "Increase LP subscription".
 {% endhint %}
 
 {% hint style="warning" %}
@@ -38,11 +38,11 @@ Este paso es obligatorio y las instrucciones se incluyen en los pasos siguientes
     ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.22.png)   
 
 6. Haz clic en "Claim rewards and unsubscribe" al final de la pagina ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.05.52.png)  
-7. Fill in the prompt with how much LP you wish to unsubscribe and Click "Claim rewards and unsubscribe LP".  
+7. Rellena la pregunta con la cantidad de LP que deseas cancelar y haz clic en "Claim rewards and unsubscribe LP".  
    ![](../../.gitbook/assets/1.png)   
 
 
-   8. You will now get two pop up boxes from MetaMask asking you for a “Signature Request”. Click “sign” both times.  
+   8. Ahora aparecerán dos cuadros emergentes de MetaMask pidiéndote una "Solicitud de Firma" \(Signature Request\). Haga clic en "firmar" \(Sign\) las dos veces.  
    ![](../../.gitbook/assets/2%20%282%29%20%282%29%20%281%29.png)   
    1st Signature Request
 
@@ -51,21 +51,21 @@ Este paso es obligatorio y las instrucciones se incluyen en los pasos siguientes
     2nd Signature Request  
 
 
-   9. The cost of Gas will be automatically calculated by the website based on the current rate of gas. This will be submitted on your behalf as part of the claim rewards transaction.
+   9. El coste del gas será calculado automáticamente por el sitio web basándose en la tarifa actual del gas. Esto se presentará en su nombre como parte de la transacción de reclamo de recompensas.
 
 
 
-   10. You will now get a message indicating that your claim is now being submitted via Flashbots. This is to protect your rewards from frontrunners. The process may take up to 5 minutes to complete.
+   10. Ahora recibirás un mensaje indicando que tu reclamación se está enviando a través de Flashbots. Esto es para proteger tus recompensas de los bots \(frontrunning bots\). El proceso puede tardar hasta 5 minutos en completarse.
 
    ![](../../.gitbook/assets/4%20%281%29%20%282%29.png)  
   
-   If you do not have enough ETH in your wallet for the transaction, you will receive a message as below.  
+   Si no tienes suficiente ETH en tu cartera para la transacción, recibirás un mensaje como el que aparece a continuación.  
    ![](../../.gitbook/assets/edlin%20%281%29.png)  
 
 
-   11. If your transaction is successful you will get the message below.  
+   11. Si tu transacción es exitosa, obtendrás el siguiente mensaje.  
    ![](../../.gitbook/assets/6.png)  
   
-   Due to the nature of bundling transactions, it's possible the transaction may not be successful on your first attempt. If this is the case, please try again. The gas fee will only be charged if there is a successful transaction. If the transaction fails, you will not be charged.  
+   Debido a la naturaleza de las transacciones de agrupación, es posible que la transacción no tenga éxito en su primer intento. Si este es el caso, por favor, inténtalo de nuevo. La tasa de gas sólo se cobrará si la transacción tiene éxito. Si la transacción falla, no se le cobrará.  
    ![](../../.gitbook/assets/7%20%281%29.png)
 
