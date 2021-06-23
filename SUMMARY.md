@@ -9,7 +9,7 @@
 
 * [המתווה הבסיסי](the-basic-outline.md)
 * [רכישות והרשמות](acquiring-and-subscribing.md)
-* [FAQ](faq.md)
+* [שאלות נפוצות](faq.md)
 
 ## Crucible
 

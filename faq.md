@@ -1,4 +1,4 @@
-# FAQ
+# שאלות נפוצות
 
 ## **Where can I trade ⚗️ \($MIST\) ?**
 
@@ -30,27 +30,17 @@ A liquidity provider reward program has been deployed for the ⚗️$MIST/ETH Un
 
 A community multisig has been created to accumulate funds that can be used for bounties. Take a look at the [\#builders-application](https://discord.gg/92hQDCw25u) on discord or donate to the multisig at [multisig.alchemistcoin.eth.](https://etherscan.io/address/multisig.alchemistcoin.eth)
 
-## **Multisig**
-
-### **Who are the multisig key holders?**
-
-Multisig Key holders were chosen by the community based on trust and contributions to the project.
-
-Current multisig signers are:
-
-* [@ees2oo](https://twitter.com/ees2oo) : [stussy.eth](https://etherscan.io/address/stussy.eth)
-* [@sal\_ash\_](https://twitter.com/sal_ash_) : [salash.eth](https://etherscan.io/address/salash.eth)
-* [@brandoniles](https://twitter.com/brandoniles) : [brandoniles.eth](https://etherscan.io/address/brandoniles.eth)
-* [@Fiskantes](https://twitter.com/Fiskantes) : [fiskantes.eth](https://etherscan.io/address/fiskantes.eth)
-* [@0xMaki](https://twitter.com/0xMaki) : [0xmaki.eth](https://etherscan.io/address/0xmaki.eth)
-
 
 
 ## **שאלות נפוצות $MIST**
 
-**?⚗️ \($MIST\) היכן אוכל לסחור**
+**היכן אוכל לסחור ⚗️ \($MIST\) ?**
 
-[uniswap.alchemist.wtf](http://uniswap.alchemist.wtf)
+אנו ממליצים להשתמש ב- mistX.io, תוכל למצוא אותו באמצעות הקישור שלנו
+
+* [swap.alchemist.wtf](http://swap.alchemist.wtf/)
+
+עם הזמן $ MIST חייב להופיע באתרי מסחר אחרים, כאשר זה קורה ניתן לזהות את המקומות הללו באמצעות [Coingecko](https://www.coingecko.com/en/coins/alchemist) או [CoinMarketCap](https://coinmarketcap.com/currencies/alchemist/).
 
 **? מהו ההיצע הכולל / במחזור**
 
