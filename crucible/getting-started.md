@@ -1,11 +1,11 @@
 # מתחילים
 
-There are a few precautions to take before taking part in the Crucible program, please be sure to read the notices and warnings below before continuing.
+ישנם מספר אמצעי זהירות שיש לנקוט לפני שתשתתף בתכנית ה- Crucible, אנא הקפד לקרוא את ההודעות והאזהרות שלהלן לפני שתמשיך.
 
 {% hint style="danger" %}
-**Important Notice**  
-Crucibles can only be minted from **Uniswap V2** LP Tokens.  
-Please make sure you are adding tokens to the V2 pool and not V3.
+**הודעה חשובה**  
+ניתן לבצע מינט ל- Crucibles רק מאסימוני **Uniswap V2** LP.  
+אנא וודא שאתה מוסיף אסימונים לבריכת ה- V2 ולא ל- V3.
 {% endhint %}
 
 {% hint style="warning" %}
