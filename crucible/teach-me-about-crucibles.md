@@ -21,23 +21,23 @@
 
 ראוי להזכיר לשם הבהירות: אם אתה מבצע מינט לכור ההיתוך, אתה עדיין גם מבצע סטקינג ⚗️ גם בבריכת הנזילות של Uniswap-V2. אתה למעשה עוסק בכל שלושת הדרכים לרווח פוטנציאלי.
 
-## How do you mint a Crucible?
+## ? Crucible -איך מבצעים מינט ל 
 
-Originally the only method was getting to grips with the official CLI tool. Fortunately, community members have since created web-apps that makes the process a lot easier. Due to the extra risk of making mistakes whilst using the CLI tool it is no longer recommended to take that approach. 
+במקור השיטה היחידה הייתה להתמודד עם הכלי הרשמי CLI. למרבה המזל, חברי הקהילה יצרו מאז אפליקציות אינטרנט שהופכות את התהליך להרבה יותר קל. בשל הסיכון הנוסף לטעויות בעת השימוש בכלי CLI, כבר לא מומלץ לנקוט בגישה זו.
 
-Please use the guide below to mint a Crucible:
+אנא השתמש במדריך שלמטה לביצוע מינט לכור היתוך \(Crucible\):
 
 * [Minting a Crucible on crucible.alchemist.wtf](guides-crucible.alchemist.wtf/)
 
-## What is a Crucible worth?
+## ? \(Crucible\) מה שווה כור ההיתוך  
 
-The value of a Crucible is difficult to determine. The NFT nature of the Crucible could potentially make it have speculative value beyond the its immediate worth, but some Crucibles may be considered more special than others.
+את הערך של כור היתוך קשה לקבוע. אופי ה- NFT של כור ההיתוך עשוי לגרום לו להיות בעל ערך ספקולטיבי מעבר לשוויו המיידי, אך ישנם כורי היתוכים שעשויים להיחשב למיוחדים יותר מאחרים.
 
-Speculation aside, however, what we do know is that a Crucible is created with some variable amount of LP tokens inside, which have an immediately measurable value. 
+ספקולציות בצד, עם זאת, מה שאנו יודעים הוא שכור היתוך נוצר עם כמה משתנים של אסימוני LP שבתוכם יש ערך מדיד מיידי.
 
-At a minimum, you could value a crucible based on what you would receive back for unsubscribing its LP contents and trading back to your fiat currency.
+לכל הפחות, תוכל להעריך את כור ההיתוך על סמך מה שתקבל בחזרה על ביטול רישום תכולת ה- LP שלו ומסחר חזרה למטבע הפיאט שלך.
 
-Refer to [this section](teach-me-about-crucibles.md#how-can-i-check-how-many-lp-tokens-someone-elses-crucible-is-worth) below for methods to check the contents of a Crucible.
+עיין  [בסעיף זה](teach-me-about-crucibles.md#how-can-i-check-how-many-lp-tokens-someone-elses-crucible-is-worth) להלן לקבלת שיטות לבדיקת תוכן של כור היתוך.
 
 ## Should you mint a Crucible?
 
