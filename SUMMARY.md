@@ -21,7 +21,7 @@
   * [Claiming Rewards & Unsubscribing your LP](crucible/guides-crucible.alchemist.wtf/claiming-rewards-and-unsubscribing-your-lp.md)
 * [How to Become a "Certified Alchemist" on Discord 💬](crucible/how-to-become-a-certified-alchemist-on-discord.md)
 * [Wallet Compatibility](crucible/wallet-compatibility.md)
-* [Visual Guides 🎞](crucible/visual-guides.md)
+* [🎞 מדריכים וויזואלים](crucible/visual-guides.md)
 * [FAQ 📖](crucible/faq.md)
 
 ## Join us

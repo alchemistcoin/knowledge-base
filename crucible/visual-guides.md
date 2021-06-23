@@ -1,15 +1,15 @@
-# Visual Guides 🎞
+# 🎞 מדריכים וויזואלים
 
-### **Videos 🎬📺**
+### **🎬📺 וידאו**
 
 {% hint style="info" %}
-Please note some of the videos are out of date in regards to the current appearance of [crucible.alchemist.wtf](http://crucible.alchemist.wtf/). Also, these videos are community made videos - but they can still be of assistance.
+שימו לב שחלק מהסרטונים לא מעודכנים בכל הקשור למראה הנוכחי של [crucible.alchemist.wtf](http://crucible.alchemist.wtf/)
+
+כמו כן, סרטונים אלה הם סרטונים המיוצרים על ידי הקהילה - אך הם עדיין יכולים להועיל.
 {% endhint %}
 
 {% hint style="warning" %}
-References to Uniswap in the videos may be outdated. Please make sure you are using **Uniswap V2** for providing Liquidity as V3 is not supported.
-
-If you are unsure how to switch between V3 and V2, please use our links in the [guide](../acquiring-and-subscribing.md).
+הפניות ל- Uniswap בסרטונים עשויות להיות לא מעודכנות. אנא וודא שאתה משתמש ב- **Uniswap V2** לצורך אספקת נזילות מכיוון ש- V3 אינו נתמך. אם אינך בטוח כיצד לעבור בין V3 ל- V2, אנא השתמש בקישורים שלנו במדריך הזה- [guide](../acquiring-and-subscribing.md)
 {% endhint %}
 
 * [Alchemist YouTube Channel](https://www.youtube.com/channel/UCIs4LugynLei2TN__lJh-6Q)
@@ -20,7 +20,7 @@ If you are unsure how to switch between V3 and V2, please use our links in the [
 * \(old website\) [Crucible Transfer using Alchemist website and OpenSea.io](https://www.youtube.com/watch?v=i2MCYimelBM)
 * \(old website\) [Impermanent Loss - watch before staking LP](https://www.youtube.com/watch?v=8XJ1MSTEuU0)
 
-### **Images 🖼🎨**
+### **🖼🎨 תמונות**
 
 ![Processes to enter the Aludel Program](https://i.imgur.com/7sK0Jr2.png)
 
