@@ -1,9 +1,9 @@
-# Wallet Compatibility
+# תאימות ארנק
 
-Based on limited testing and feedback from users, we have come up with the following compatibility chart.
+בהתבסס על בדיקות ומשוב מוגבלים של משתמשים, הבאנו את תרשים התאימות הבא.
 
 {% hint style="info" %}
-The accuracy of this information may change over time and is only to be used as a guide.
+הדיוק במידע זה עשוי להשתנות עם הזמן וישמש רק כמדריך.
 {% endhint %}
 
 <table>
