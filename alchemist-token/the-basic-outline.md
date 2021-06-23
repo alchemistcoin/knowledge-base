@@ -1,6 +1,6 @@
 # Le basi
 
-C'è un token chiamato Alchemist. É rappresentato dal simbolo "⚗️". Viene anche chiamato "mist" e "$MIST". Non confonderlo con  [MUST](https://www.coingecko.com/en/coins/must): nonostante l'alambicco raffigurato, non c'è alcun tipo di legame con Alchemist. 
+C'è un token chiamato Alchemist. É rappresentato dal simbolo "⚗️". Viene anche chiamato "mist" e "$MIST". Non confonderlo con [Mist \(MIST\)](https://www.coingecko.com/en/coins/mist), [Alchemist DeFi Mist \(MIST\)](https://www.coingecko.com/en/coins/alchemist-defi-mist), and [Cometh \(MUST\)](https://coinmarketcap.com/currencies/cometh/): nonostante l'alambicco raffigurato, non c'è alcun tipo di legame con Alchemist. 
 
 ![](../.gitbook/assets/mm_mi21st.png)
 
