@@ -26,10 +26,19 @@
 4.בחר את הארנק בו נמצא ה- Crucible שלך  
 ![](https://i.imgur.com/y4bXisJ.png)
 
-1. v ![](https://i.imgur.com/nF29cFo.png)
-2. You will see the following message and can now return to Discord ![](https://i.imgur.com/WVIelT9.png)
-3. Collab.Land will send you the following message and if you really own a Crucible the bot will update your role ![](https://i.imgur.com/1UMmipM.png)
-4. The font color of your name should now be the color red on the Discord chat screen
-5. If you left click on your Discord name you should see the role certified alchemist circled in red ![](https://i.imgur.com/KTO91Q1.png)
-6. Congratulations, your now a Certified Alchemist! 🧙‍♂️⚗️
+5.חתמו על הודעה  
+![](https://i.imgur.com/nF29cFo.png)
+
+6.תראה את ההודעה הבאה וכעת תוכל לחזור ל- Discord  
+![](https://i.imgur.com/WVIelT9.png)
+
+7.ה- Collab.Land ישלח לך את ההודעה הבאה ואם באמת אתה הבעלים של ה- Crucible הבוט יעדכן את תפקידך  
+![](https://i.imgur.com/1UMmipM.png)
+
+8.צבע הפונט של שמך צריך להיות בצבע אדום במסך הצ'אט של Discord
+
+9.אם תלחץ בעכבר על כפתור שמאל על שם הדיסקורד שלך, אתה אמור לראות את התפקיד שלך כ- certified alchemist מוקף באדום.  
+![](https://i.imgur.com/KTO91Q1.png)
+
+10.מזל טוב, אתה עכשיו אלכימאי מוסמך! 🧙‍♂️⚗️
 
