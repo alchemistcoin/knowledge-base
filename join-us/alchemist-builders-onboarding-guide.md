@@ -1,24 +1,28 @@
-# Alchemist Builders Onboarding Guide
+---
+description: Alchemist Builders Onboarding Guide
+---
 
-## Vision
+# מדריך הכניסה לבנאים אלכימאים
 
-So you think you got what it takes to become an alchemist, to walk the path of the Great Work which might lead you to trails never taken, territories unexplored - like the greatest alchemist of our times - a famous psychiatrist Carl Jung said: "One does not become enlightened by imagining figures of light, but by making the darkness conscious"
+## חזון
 
-Within the alchemist labs the experiments are focused on exploring highly technical concepts in an attempt to discover the ingredients required to properly synthesize the Philosophers Stone - for example designing the Mint a Crucible NFT experience or the mistX Gasless DEX.
+אז אתה חושב שקיבלת את מה שצריך כדי להפוך לאלכימאי, ללכת בדרך של העבודה הגדולה שעשויה להוביל אותך לשבילים שמעולם לא נלקחו, שטחים שלא נחקרו - כמו האלכימאי הגדול ביותר בימינו - פסיכיאטר מפורסם קרל יונג אמר: "אחד לא נהיה מואר על ידי דמויות דמויות של אור, אלא על ידי הפיכת החושך למודע "
 
-Beside technical experimentation our guild has grown into a decentralised safe haven where the weary scholars can feel comfortable, at ease and safe. Creative projects like building the Alchemist Radio or finding the right art direction for the Crucible NFT are just some of the endless examples of outcomes from the Alchemists playing around with some beakers and funnels in their down time.
+בתוך מעבדות האלכימאים הניסויים מתמקדים בחקר מושגים טכניים ביותר בניסיון לגלות את המרכיבים הנדרשים לסינתזה נכונה של אבן הפילוסופים - למשל תכנון המנטה לחוויית NFT כור היתוך או mistX Gasless DEX.
 
-In general, we follow the guiding principles dear to the alchemists since the epoch of the Emerald Tablet in order to effectively create value in every process - all the active participants have internalized this mindset, so that we basically share an equally polarized vision:
+לצד הניסויים הטכניים, הגילדה שלנו הפכה למקלט מבוזר שבו החוקרים העייפים יכולים להרגיש בנוח, נינוחים ובטוחים. פרויקטים יצירתיים כמו בניית רדיו האלכימאי או מציאת הכיוון האמנותי המתאים ל- NFT של Crucible הם רק כמה מהדוגמאות האינסופיות לתוצאות של האלכימאים שמשחקים עם כמה כוסות ומשפכים בזמן ההפוגה.
 
-* Focus on value
-* Start where you are
-* Progress iteratively with feedback
-* Collaborate and promote visibility
-* Think and work holistically
-* Keep it simple and practical
-* Optimize and automate
+באופן כללי אנו עוקבים אחר העקרונות המנחים היקרים לאלכימאים מאז תקופת לוח האזמרגד בכדי ליצור ערך בכל תהליך - כל המשתתפים הפעילים הפנימו את הלך הרוח הזה, כך שבעצם אנו חולקים חזון מקוטב באותה מידה:
 
-For more details please read this [article](where-to-start-the-7-itil-guiding-principles-thegostep-s.md)
+* התמקדו בערך
+* התחל איפה שאתה
+* התקדמו איטרטיבי עם משוב
+* לשתף פעולה ולקדם נראות
+* חשוב ועבוד בצורה הוליסטית
+* שמור על זה פשוט ופרקטי
+* אופטימיזציה ואוטומטית
+
+לפרטים נוספים אנא קרא מאמר[ זה](where-to-start-the-7-itil-guiding-principles-thegostep-s.md)
 
 ## Compliance & Ethic
 
