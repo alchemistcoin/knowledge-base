@@ -2,8 +2,8 @@
 
 ישנם מספר דברים שאתה יכול לעשות עם כור ההיתוך החדש שלך, להלן הדברים הנפוצים ביותר שאתה יכול לעשות באמצעות [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)
 
-* [Checking your rewards](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
-* [Increasing your LP Subscription](what-can-i-do-with-my-new-crucible.md#increasing-your-lp-subscription)
+* [בודק את התגמולים שלך](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
+* [הגדלת מנוי ה- LP שלך](what-can-i-do-with-my-new-crucible.md#increasing-your-lp-subscription)
 * [Checking how much LP you've subscribed to your Crucible](what-can-i-do-with-my-new-crucible.md#checking-how-much-lp-youve-subscribed-to-your-crucible)
 * [Transferring your Crucible to another wallet](what-can-i-do-with-my-new-crucible.md#transferring-your-crucible-to-another-wallet)
 * [Locating and Copying your Crucible Address](what-can-i-do-with-my-new-crucible.md#locating-and-copying-your-crucible-address)
