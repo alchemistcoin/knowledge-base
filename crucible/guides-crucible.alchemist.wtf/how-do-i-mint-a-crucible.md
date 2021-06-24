@@ -1,40 +1,51 @@
-# How do I mint a Crucible?
+# איך מבצעים מינט לכור היתוך?
 
 {% embed url="https://www.youtube.com/watch?v=SnnA4NBluDI" %}
 
-## Swapping and Subscribing $MIST ⚗️ to mint a Crucible
+## החלפה והרשמת MIST$ ⚗️ לביצוע מינט לכור ההיתוך
 
-First of all, you need to have $MIST and subscribe it to the Uniswap-V2 Liquidity pool.
+ראשית כל, עליך להחזיק MIST$ ⚗️ ולהירשם כמנוי למאגר הנזילות של Uniswap-V2.
 
-If you have not done this already, please refer to our 2-part guide on [Acquiring & Subscribing](../../acquiring-and-subscribing.md).
+אם עדיין לא עשית זאת, עיין במדריך הדו-חלקי שלנו בנושא [רכישות ומנויים](../../acquiring-and-subscribing.md).
 
-## Minting a Crucible using LP tokens
+## מינטינג לכור היתוך \(Minting a Crucible\) באמצעות אסימוני LP
 
 {% hint style="warning" %}
-**Important information:** 
+**מידע חשוב:** 
 
-Do not use Brave browser as it is not compatible with the process at this time and your transaction will fail, resulting in lost fees. 
+אל תשתמש בדפדפן Brave מכיוון שהוא אינו תואם לתהליך בשלב זה והעסקה שלך תיכשל וכתוצאה מכך יאבדו עמלות.
 
-We do not recommend using a hardware wallet at this time as many do not currently support EIP-712 signing. When they fix this, we can implement it.
+אנו לא ממליצים להשתמש בארנק חומרה בשלב זה מכיוון שרבים אינם תומכים כעת בחתימת EIP-712. כאשר הם יתקנו זאת, נוכל ליישם זאת.
 
-We do not recommend you do this on a mobile
+אנו לא ממליצים לך לעשות זאת בנייד
 {% endhint %}
 
-### Step by Step guide
+### מדריך שלב אחר שלב
 
-1. Firstly head to [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)
-2. Connect a wallet using the "Connect Wallet" button. For this example we will use Metamask
+1.ראשית פנה אל [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)
 
-   ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.48.31.png) - or - ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.48.38.png) 
+2.חבר ארנק באמצעות כפתור "Connect Wallet". לדוגמא זו נשתמש ב- Metamask
 
-3. You should see something like this:
+1. ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.48.31.png) - או - ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.48.38.png)
 
-    ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.49.57.png) 
+3.אתה צריך לראות משהו כזה:
 
-4. Enter the amount of LP you wish you put into the Crucible. You probably wish to click "Max" to enter your full amount  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.01.png)  
-5. Hit "Mint a Crucible", make necessary approvals via MetaMask, wait for the transaction to complete. **Note: There should be 2 signing requests and a transaction request, if they do not pop up you might have to open MetaMask.**  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.05.png)  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.16.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.20.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.28.png) 
-6. Once you have Confirmed your transaction you should receive the following prompts, click to view your transaction. Once your transaction has been confirmed, please move to the next step. ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.02.png)![](../../.gitbook/assets/screenshot-2021-05-07-at-13.24.50.png) 
-7. Now your transaction is confirmed, you can close the pop-up above and Click on the "Crucibles" tab, this should show your newly minted crucible  ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.01.22.png) 
+  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.49.57.png)
 
-## **Congratulations, if you've made it this far, you're now an Alchemist**
+4.הזן את כמות ה- LP שאתה מעוניין להכניס לתוך כור ההיתוך. אתה בטח תרצה ללחוץ על "מקסימום" כדי להזין את הסכום המלא שלך  
+ ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.01.png)   
+
+
+5.לחץ על "Mint a Crucible", בצע אישורים הכרחיים באמצעות MetaMask, המתן לסיום העסקה.  
+ **הערה: צריכות להיות שתי בקשות חתימה ובקשת עסקה, אם הן לא צצות, ייתכן שיהיה עליך לפתוח את MetaMask.**  
+![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.05.png)  
+ ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.16.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.20.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.28.png) 
+
+6.לאחר שאישרת את העסקה שלך, עליך לקבל את ההנחיות הבאות, לחץ לצפייה בעסקה שלך. לאחר אישור העסקה שלך, עבור לשלב הבא.  
+![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.02.png)![](../../.gitbook/assets/screenshot-2021-05-07-at-13.24.50.png) 
+
+7.לאחר אישור העסקה שלך, אתה יכול לסגור את החלון הקופץ למעלה ולחץ על הכרטיסייה "Crucibles", זה אמור להציג את כור ההיתוך החדש שלך  
+![](../../.gitbook/assets/screenshot-2021-05-07-at-13.01.22.png) 
+
+##  מזל טוב, אם הגעת עד הלום, אתה עכשיו אלכימאי!
 
