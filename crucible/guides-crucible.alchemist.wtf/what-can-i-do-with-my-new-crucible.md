@@ -1,12 +1,12 @@
-# מה אוכל לעשות עם כור ההיתוך החדש שלי ?
+# מה אוכל לעשות עם כור ההיתוך \(Crucible\) החדש שלי ?
 
 ישנם מספר דברים שאתה יכול לעשות עם כור ההיתוך החדש שלך, להלן הדברים הנפוצים ביותר שאתה יכול לעשות באמצעות [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)
 
 * [בודק את התגמולים שלך](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
 * [הגדלת מנוי ה- LP שלך](what-can-i-do-with-my-new-crucible.md#increasing-your-lp-subscription)
-* [Checking how much LP you've subscribed to your Crucible](what-can-i-do-with-my-new-crucible.md#checking-how-much-lp-youve-subscribed-to-your-crucible)
-* [Transferring your Crucible to another wallet](what-can-i-do-with-my-new-crucible.md#transferring-your-crucible-to-another-wallet)
-* [Locating and Copying your Crucible Address](what-can-i-do-with-my-new-crucible.md#locating-and-copying-your-crucible-address)
+* [בדוק כמה LP אתה מנוי על כור ההיתוך שלך](what-can-i-do-with-my-new-crucible.md#checking-how-much-lp-youve-subscribed-to-your-crucible)
+* [העברת כור ההיתוך שלך לארנק אח](what-can-i-do-with-my-new-crucible.md#transferring-your-crucible-to-another-wallet)ר
+* [איתור והעתקת כתובת כור ההיתוך שלך](what-can-i-do-with-my-new-crucible.md#locating-and-copying-your-crucible-address)
 
 ## בדוק את התגמולים שלך
 
