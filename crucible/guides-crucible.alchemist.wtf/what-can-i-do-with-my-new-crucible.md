@@ -1,4 +1,4 @@
-# מה אוכל לעשות עם כור ההיתוך \(Crucible\) החדש שלי ?
+# מה אוכל לעשות עם כור ההיתוך החדש שלי ?
 
 ישנם מספר דברים שאתה יכול לעשות עם כור ההיתוך החדש שלך, להלן הדברים הנפוצים ביותר שאתה יכול לעשות באמצעות [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)
 
@@ -9,6 +9,8 @@
 * [איתור והעתקת כתובת כור ההיתוך שלך](what-can-i-do-with-my-new-crucible.md#locating-and-copying-your-crucible-address)
 
 ## בדוק את התגמולים שלך
+
+1.פתח את [crucible.alchemist.wtf](https://crucible.alchemist.wtf/), חבר את הארנק שלך ופתח את הכרטיסייה "Your Crucibles".
 
 1. Open [crucible.alchemist.wtf](https://crucible.alchemist.wtf/), connect your wallet and visit "Your Crucibles" tab.
 2. Once on the "Your Crucibles" tab, expand the details on the Crucible you wish to view using the downwards facing arrow: ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.58.png) 
