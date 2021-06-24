@@ -39,11 +39,11 @@
 
 עיין  [בסעיף זה](teach-me-about-crucibles.md#how-can-i-check-how-many-lp-tokens-someone-elses-crucible-is-worth) להלן לקבלת שיטות לבדיקת תוכן של כור היתוך.
 
-## Should you mint a Crucible?
+##  ? \(Crucible\) האם כדאי לבצע מינט לכור ההיתוך
 
-That is for you to decide. Ensure you understand what could gain, what you could lose, and then weigh up whether you think it's a good choice for you.
+זוהי החלטה שרק אתה תוכל להחליט. וודא שאתה מבין מה תוכל להרוויח, ומה אתה יכול להפסיד, ואז שקול אם אתה חושב שזו בחירה טובה עבורך.
 
-#### The cost of minting
+####  העלות של ביצוע מינט
 
 When dealing with Ethereum based tokens and contracts you will face gas fees at almost every stage. 
 
