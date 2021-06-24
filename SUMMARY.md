@@ -27,7 +27,7 @@
 ## Join us
 
 * [מדריך הכניסה לבנאים אלכימאים](join-us/alchemist-builders-onboarding-guide.md)
-* [Where to start? – the 7 ITIL guiding principles \(thegostep\(s\);\)\)!](join-us/where-to-start-the-7-itil-guiding-principles-thegostep-s.md)
+* [איפה להתחיל? - 7 העקרונות המנחים של ITIL \(thegostep \(s\);\)\)!](join-us/where-to-start-the-7-itil-guiding-principles-thegostep-s.md)
 
 ## TOOLS
 

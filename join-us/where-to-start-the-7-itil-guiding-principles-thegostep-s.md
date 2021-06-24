@@ -1,36 +1,36 @@
-# Where to start? – the 7 ITIL guiding principles \(thegostep\(s\);\)\)!
+# איפה להתחיל? - 7 העקרונות המנחים של ITIL \(thegostep \(s\);\)\)!
 
-A guiding principle is a recommendation that provides universal and enduring guidance to an organization, which applies in all circumstances, regardless of changes in its goals, strategies, type of work, or management structure.
+עקרון מנחה הוא המלצה המספקת הדרכה אוניברסלית ומתמשכת לארגון, החלה בכל הנסיבות, ללא קשר לשינויים ביעדים, אסטרטגיות, סוג העבודה או מבנה הניהול שלה.
 
 ![](https://i.imgur.com/iy0U6hG.png)
 
-### 1. Focus on value.
+### 1.התמקדו בערך.
 
-Everything the organization does should link back, directly or indirectly, to value for itself, its “customers”, and other stakeholders. When focusing on value. The first step is to know who are the customers and key stakeholders that my value is being served. Second, it is important to understand what constitutes value from the consumer’s perspective. It is also critical to understand the customer’s experience with the organization and the product/service through a clear awareness of the customer experience or user experience.
+כל מה שהארגון עושה צריך לקשר, ישירות או בעקיפין, לערך לעצמו, ל"לקוחותיו "ולבעלי העניין האחרים. כשמתמקדים בערך. הצעד הראשון הוא לדעת מיהם הלקוחות ובעלי העניין המרכזיים שהערך שלי מוגש. שנית, חשוב להבין מה מהווה ערך מנקודת מבטו של הצרכן. כמו כן, קריטי להבין את חוויית הלקוח עם הארגון ואת המוצר / שירות באמצעות מודעות ברורה לחוויית הלקוח או לחוויית המשתמש.
 
-* Know the usage of your service/product/organization.
-* Encourage a focus on value among your team members.
-* Focus on value during every normal operational activity.
-* Include in any improvement initiative the focus on value.
+* דע את השימוש בשירות / מוצר / ארגון שלך.
+* עודד התמקדות בערך בקרב חברי הצוות שלך.
+* התמקדו בערך במהלך כל פעילות תפעולית רגילה.
+* כלול בכל יוזמת שיפור את ההתמקדות בערך.
 
-### 2. Start where you are.
+### 2.התחל איפה שאתה.
 
-When you seek an improvement opportunity, do not start over without considering what is already available to be leveraged. You should not waste your time by wrecking the base of your work – be aware what has been invested \(costs, sweat and time\).
+כשאתה מחפש הזדמנות לשיפור, אל תתחיל מחדש מבלי לשקול מה כבר זמין למינוף. אתה לא צריך לבזבז את הזמן שלך על ידי הרס בסיס העבודה שלך - היה מודע למה שהושקע \(עלויות, זיעה וזמן\).
 
-Observing existing services and methods should be in line with measurement if possible, to properly understand their current state and what can be reused from them. Information should always be as accurate as possible to make objective decisions. Always see measurement as a support for the analysis. Be aware – measurement is used to support the analysis of what has been observed rather than to replace it, as over-reliance on data analytics and reporting can unintentionally introduce biases and risks in decision-making.
+התבוננות בשירותים ובשיטות הקיימים צריכה להיות בקנה אחד עם המדידה במידת האפשר, כדי להבין כראוי את מצבם הנוכחי ומה ניתן לעשות בהם שימוש חוזר. המידע צריך להיות מדויק ככל האפשר בכדי לקבל החלטות אובייקטיביות. ראו תמיד במדידה תמיכה לניתוח. שים לב - המדידה משמשת לתמיכה בניתוח של מה שנצפה במקום להחליף אותו, שכן הסתמכות יתר על ניתוח נתונים ודיווח יכולה להכניס באופן לא מכוון הטיות וסיכונים בקבלת ההחלטות.
 
-* The Starting Point is either the “customer” or result. Judge your existing methods as objective as possible!
-* Did you find successful existing practices? Use them! Determine if and how these can be expanded and replicated upon to achieve a desired improvement.
-* Evaluate with risk management skills.
-* Face it! Sometimes almost nothing or even nothing can be re-used.
+* נקודת המוצא היא "הלקוח" או התוצאה. שפט את השיטות הקיימות שלך אובייקטיביות ככל האפשר!
+* האם מצאת שיטות מוצלחות קיימות? השתמש בהם! קבע אם וכיצד ניתן להרחיב ולשכפל אותם בכדי להשיג שיפור רצוי.
+* הערך בכישורי ניהול סיכונים.
+* תתמודד עם זה! לפעמים כמעט שום דבר ואפילו שום דבר לא יכול לשמש מחדש.
 
-### 3. Progress iteratively with feedback.
+### 3.התקדמו באופן איטרטיבי עם משוב.
 
-Resist the temptation to do everything at once. Slice it! Small steps or milestones \(iterations\) can be executed and completed in a timely manner. Each goal will be easier to achieve, its motivating instead of a frustrating. The focus on each effort will be sharper. Reflect any changes in circumstances and keep the focus on value on mind to re-evaluate and potentially revision every iteration as well as the whole initiative. Honest feedback is your tool to review your actions – analyze your improvement opportunities, risks and issues. Give feedback a value to learn, build and improve.
+לעמוד בפיתוי לעשות הכל בבת אחת. פורסים את זה! ניתן לבצע צעדים קטנים או אבני דרך \(חזרות\) ולהשלים אותם בזמן. כל מטרה תהיה קלה יותר להשגה, המניעה שלה במקום מתסכלת. ההתמקדות בכל מאמץ תהיה חדה יותר. שיקף את כל השינויים בנסיבות ושמור על המיקוד בערך בראש כדי להעריך מחדש ואולי לעדכן כל איטרציה כמו גם את כל היוזמה. משוב כנה הוא הכלי שלך לסקור את פעולותיך - לנתח את הזדמנויות השיפור, הסיכונים והנושאים שלך. תן למשוב ערך ללמוד, לבנות ולשפר.
 
-* Small steps or milestones, while comprehend the whole.
-* Feedback is essential – circumstances change fast.
-* Fast =/= incomplete.
+* צעדים קטנים או אבני דרך, תוך הבנת המכלול.
+* משוב חיוני - הנסיבות משתנות במהירות.
+* מהיר = / = לא שלם.
 
 ### 4. Collaborate and promote visibility.
 
