@@ -46,5 +46,4 @@
 ---
 
 * [Untitled](untitled.md)
-* [Introducing new features & Aludel v1.5](introducing-new-features-and-aludel-v1.5.md)
 
