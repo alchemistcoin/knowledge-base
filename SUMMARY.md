@@ -22,7 +22,7 @@
 * [איך להפוך ל- "Certified Alchemist" ב- Discord 💬](crucible/how-to-become-a-certified-alchemist-on-discord.md)
 * [תאימות ארנק](crucible/wallet-compatibility.md)
 * [🎞 מדריכים וויזואלים](crucible/visual-guides.md)
-* [FAQ 📖](crucible/faq.md)
+* [FAQ / שאלות נפוצות 📖](crucible/faq.md)
 
 ## Join us
 

@@ -1,4 +1,8 @@
-# FAQ 📖
+---
+description: FAQ
+---
+
+# FAQ / שאלות נפוצות 📖
 
 ## **אנא צפה בסרטון זה על הפסד בלתי קבוע לפני שתמשיך**
 
@@ -106,134 +110,23 @@ Token Decimal: 0
 
 ![croco.finance](../.gitbook/assets/untitled.png)
 
-## **Can I add more LP to an existing Crucible?**
+## האם אוכל להוסיף עוד LP לכור ההיתוך \(Crucible\) הקיים**?**
 
-Yes. The gas for adding more LPs to your current Crucible will be much lower than when you initially minted a Crucible. Each Subscription event is independent, so any LP you add will start their own multiplier independently.
+כן. הגז להוספת יותר LP לכור ההיתוך הנוכחי שלך יהיה נמוך בהרבה מאשר בהתחלה שביצעת מינט לכור ההיתוך. כל הרשמת מנוי הוא עצמאי, ולכן כל LP שתוסיף יתחיל מכפיל משלו באופן עצמאי.
 
-## **Does “Claim Rewards and Unsubscribe LP” remove my LP & rewards from the Crucible?**
+## האם **“Claim Rewards and Unsubscribe LP”** מסיר את ה- LP שלי ואת התגמולים מהכור היתוך?
 
-No. This only claims the rewards earned, your LP will remain in the Crucible until you “Withdraw Unsubscribed LP”.
+לא. זה תובע רק את התגמולים שהרווחת, ה- LP שלך יישארו בתוך כור ההיתוך עד שאתה מבצע “Withdraw Unsubscribed LP”.
 
-## **Does “Withdraw Unsubscribed LP” destroy the Crucible?**
+## האם **“Withdraw Unsubscribed LP”** הורס את כור ההיתוך?
 
-No, it only empties it. You retain the empty Crucible.
+לא, זה רק מרוקן אותו. אתה שומר את כור ההיתוך הריק.
 
-## **Can I transfer the Crucible NFT to another wallet?**
+## האם אוכל להעביר את ה- Crucible NFT לארנק אחר?
 
-Yes, the ownership of the NFT \(and the Subscribed LP tokens\) can be transferred to any ERC721 compatible wallet. This can be done via the "Transfer Crucible" button on [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)
+כן, ניתן להעביר את הבעלות על ה- NFT \(ואסימוני ה- LP המנויים\) לכל ארנק תואם ל- ERC721. ניתן לעשות זאת באמצעות כפתור "Transfer Crucible" ב-  [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)
 
-## **If I transfer my Crucible from one wallet to another will that reset the multiplier?**
+## אם אני מעביר את כור ההיתוך שלי מארנק אחד למשנהו האם זה יאפס את המכפיל?
 
-No, as long as the rewards are not unsubscribed from the Aludel.
-
-
-
-## **אנא צפה בסרטון זה על הפסד בלתי קבוע לפני שתמשיך**
-
-**? Crucible NFT -ל Mint איך אני עושה / Aludel -כיצד אוכל להשתתף ב**
-
-שלך Crucible NFT -ל mint אתה צריך לעשות ,Aludel -כדי להשתתף ב ⚗️$mist/ETH Uniswap LP tokens ולהפקיד לתוכו קצת \(חשוב על זה כעל כספת וירטואלית\) .שמנויים LPביחס לכמות ומשך אסימוני ה Aludel צובר תמלוגים מתוכנית Crucible -ה והמנוי תלויה במחירי הגז הנוכחיים של האתריום, Crucible -ל minting העלות כדי לעשות .ETH ניתן לצפות שזה יהיה בערך 0.1-0.2
-
-**:מידע חשוב**
-
-**מכיוון שהוא אינו תואם לתהליך בשלב זה והעיסקה שלך תיכשל Brave אל תשתמש בדפדפן** **.וכתוצאה מכך תאבד את העמלות**
-
-**.EIP-712 אנו לא ממליצים להשתמש בארנק חומרה בשלב זה מכיוון שרבים אינם תומכים כעת בחתימת** **.כאשר הם יתקנו זאת, נוכל ליישם זאת**
-
-**.Trustwallet חלק מהמשתמשים דיווחו על בעיות עם**
-
-**אנו לא ממליצים לך לעשות זאת בנייד**
-
-1. [https://crucible.alchemist.wtf/](https://crucible.alchemist.wtf/) ,היכנסו לאתר crucible -עבור ה mint כדי לבצע
-2. שלך MetaMask -חבר את ארנק ה
-3. Crucible -שאתה מעוניין להכניס לתוך ה LP -הזן את כמות ה
-4. “Mint Crucible and Subscribe LP to Aludel” הקלק על .חתום עליהם והמתן לסיום ,MetaMask -אתה תקבל 2 הודעות קופצות מ
-5. 0.1-0.2 Eth לאחר מכן תתבקש לאשר את העסקה, בדרך כלל זה עולה באיזור Crucible כדי ליצור .אם אתה מרוצה מתעריפי הגז, לחץ על אשר והמתן לביצוע העסקה
-6. החדש שלך Crucible -לאחר שהפעולה הושלמה תראה את ה Etherscan -ב Erc721 בכרטיסיית האסימונים
-
- **?שלי בארנק ⚗️Mist מדוע איני יכול לראות את ה**
-
-אתה יכול להוסיף את כתובת החוזה **0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab** .כדי להפוך אותם לגלויים  
-⚗️ ****:Token Symbol  
-Token Decimal: 18
-
-**?שלי בארנק LP מדוע איני יכול לראות את ה**
-
-אתה יכול להוסיף את כתובת החוזה **0xcd6bcca48069f8588780dfa274960f15685aee0e** .כדי להפוך אותם לגלויים  
-Token Symbol: UNI-V2  
-Token Decimal: 18
-
-**?שלי בארנק Crucible מדוע איני יכול לראות את ה**
-
-אתה יכול להוסיף את כתובת החוזה **0x54e0395CFB4f39beF66DBCd5bD93Cca4E9273D56** .שלך לגלוי Crucible -כדי להפוך את ה  
-Token Symbol: CRUCIBLE-V1  
-Token Decimal: 0
-
-**?Aludel -מהם התגמולים עבור הרשמה ל**
-
-.תגמולים מחולקים ממאגר התגמולים באופן יחסי לכמות ומשך ההרשמה ,רשומים וככל שאתה משאיר אותם זמן רב יותר ⚗️$mist/ETH Uniswap LP tokens ככל שיש לך יותר .כך הם יצברו יותר תגמולים  
-.נועדה לתגמל משתתפים לטווח הארוך Aludel תוכנית התגמול של
-
-[כאן](https://etherscan.io/address/0x04108d6e9a51bec5170f8fd953a156cf754ba541) אתה יכול לראות את מאגר התגמולים
-
-**?Discord -כיצד אוכל להיות אלכמאי מוסמך ב**
-
-* [guide](https://alchemist-docs.gitbook.io/alchemist/crucible/how-to-become-a-certified-alchemist-on-discord) אנא השתמש במדריך
-* Discord -הצטרף ל
-* והצטרף אליו Welcome עבור לערוץ
-* Collab.Land לאחר מכן תקבל הודעה מהבוט
-* שלך ⚗️$mist חבר את הארנק שלך שמכיל את ה
-* Updating roles, Please check assigned roles in Alchemist הבוט יעביר לך הודעה 
-* !וכעת תהיה אלכימאי מוסמך alchemy סגור את הבוט וחזור לדף הראשי בערוץ של 
-
-**?כיצד אוכל לתבוע את התגמולים**
-
-"[Claim Rewards and Unsubscribe LP](guides-crucible.alchemist.wtf/claiming-rewards-and-unsubscribing-your-lp.md)" כל התגמולים מתקבלים כאשר אתה לוחץ על .היזהר, זה גם מאפס את מכפיל התגמול שלך כאשר אתה עושה זאת בכדי למנוע מבוטים להריץ את 
-
-**?Crucible -נכנסים ל LP tokens האם זה משנה כמה**
-
-ככל שתקבל יותר LP tokens כמות הנזילות שאתה מספק תגדל ולכן תקבל גם אחוז גדול יותר ממאגר התגמולים. לא קיימת דרישת מינימום ל- LP אך אנו ממליצים שתזכור את עלות גז האתריום שאתה שוקל זאת 
-
-**?אחד Crucible -או הרשמה גבוהה יותר ב Crucible האם יש יתרון בלהחזיק יותר**
-
-.יחיד מכיוון שהוא ממזער את עלויות הגז Crucible -ב LP כמעט תמיד עדיף לצבור
-
-היא multiple Crucibles -הפעם היחידה בה אתה משתמש ב
-
-.עם מנוי פעיל כלשהו Crucible אם אתה שואף למכור / להעביר
-
-**?על מכפיל התגמול "Claim Rewards and Unsubscribe LP" כיצד משפיע**
-
-,Aludel לתוכנית התגמול של LP בכל פעם שמכניסים אסימונים של .זה עוקב אחרי משך הזמן שרשומים לאסימונים האלה .מתחיל מכפיל תגמול שמתחיל פי 1 ומגדיל פי 10 מעל 60 יום Aludel -ה .\(Last In, First Out\) תובע תחילה מהמנוי עם המכפיל הנמוך ביותר Aludel כאשר תובעים סכום חלקי
-
-![](../.gitbook/assets/untitled%20%281%29.png)
-
-**?האם אני יכול איכשהו לראות כמה תגמולים רכשתי בינתיים**
-
-שלך באמצעות ממשק המשתמש באתר crucible אתה יכול לראות את התגמולים המצטברים עבור ה [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)  
-:באמצעות אחד מהאתרים כאן Unuswap שנצברו על ידי LP -ובעמלות ה [apy.vision](https://apy.vision/) [croco.finance](https://croco.finance/) \(Uniswap LP fees earned will show as ⚗️, and WETH or ETH\)
-
-![croco.finance](../.gitbook/assets/untitled.png)
-
-**?הקיים Crucible -ל LP האם אוכל להוסיף עוד**
-
-הנוכחי שלך יהיה נמוך בהרבה מאשר בהתחלה שביצעת את ה crucible -ל LP כן. הגז להוספת יותר  
-.שלך crucible -ל mint .שתוסיף יתחיל מכפיל משלו באופן עצמאי LP כל אירוע הרשמה הוא עצמאי, כך שכל
-
-**?Crucible -והתגמולים שלי מה LP -מסיר את ה “Claim Rewards and Unsubscribe LP” האם**
-
-.לא עד שאתה מבצע crucible שלך ישאר בתוך ה LP זה תובע רק את התגמולים שהרווחת ה  
-“Withdraw Unsubscribed LP”
-
-**?Crucible -משמיד את ה “Withdraw Unsubscribed LP” האם**
-
-.הריק Crucible -לא, זה רק מרוקן אותו. אתה שומר את ה
-
-**?לארנק אחר Crucible NFT -האם אוכל להעביר את ה**
-
-ERC721 -לכל ארנק תואם ל \(הרשומים LP -ואסימוני ה\) NFT -כן, ניתן להעביר את הבעלות על ה שנמצא כאן "Transfer Crucible" ניתן לעשות זאת באמצעות כפתור [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)
-
-**?שלי מארנק אחד למשנהו האם זה יאפס את המכפיל Crucible -אם אני מעביר את ה**
-
-.Aludel -לא כל עוד התגמולים אינם רשומים ב
+לא, כל עוד התגמולים אינם מנויים מהאלודל.
 
