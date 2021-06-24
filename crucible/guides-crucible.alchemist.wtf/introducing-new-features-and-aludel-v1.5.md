@@ -2,10 +2,10 @@
 
 ## Guide Contents
 
-1. [Taking part in the New Aludel](introducing-new-features-and-aludel-v1.5.md#4-taking-part-in-the-reward-program)
+1. [Taking part in the New Aludel](introducing-new-features-and-aludel-v1.5.md#1-taking-part-in-the-new-aludel-v-1-5)
 2. [Viewing your individual subscriptions performance](introducing-new-features-and-aludel-v1.5.md#2-viewing-your-individual-subscriptions-performance)
 3. [Claiming rewards and Unsubscribing from a reward program](introducing-new-features-and-aludel-v1.5.md#3-claiming-rewards-and-unsubscribing-from-a-reward-program)
-4. [Using your Crucible as a Smart Wallet/Vault](introducing-new-features-and-aludel-v1.5.md#using-your-crucible-as-a-smart-wallet-vault)
+4. [Using your Crucible as a Smart Wallet/Vault](introducing-new-features-and-aludel-v1.5.md#4-using-your-crucible-as-a-smart-wallet-vault)
 
 ## 1. Taking part in the new Aludel v1.5
 
