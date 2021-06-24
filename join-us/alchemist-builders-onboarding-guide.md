@@ -60,23 +60,23 @@ description: Alchemist Builders Onboarding Guide
 
 #### כללי
 
-Basecamp is a project management app that you can access in your browser and on your phone. It gives you the tools you need to set up to-dos, a schedule, create and upload documents and files, message and chat with your colleagues, and check in regularly with your group—all in one place!
+ה- Basecamp היא אפליקציה לניהול פרויקטים אליה תוכלו לגשת בדפדפן ובטלפון. זה נותן לך את הכלים הדרושים לך להגדרת מטלות, לוח זמנים, ליצור ולהעלות מסמכים וקבצים, לשלוח הודעות ולשוחח עם עמיתייך, ולבדוק באופן קבוע עם הקבוצה שלך - הכל במקום אחד!
 
-Whether you are working alone and need to get organized with your work or use it to collaborate on a project, with work or something personal, Basecamp makes it easy. It’s quick to set up and if you are consistent in using it it should make communication with your team a lot easier. Especially teams that are virtual.
+בין אם אתה עובד לבד וזקוק להתארגן עם העבודה שלך או להשתמש בה לשיתוף פעולה בפרויקט, עם עבודה או משהו אישי, Basecamp מקלה על כך. זה מהיר להגדרה ואם אתה עקבי בשימוש בו זה אמור להקל על התקשורת עם הצוות שלך. במיוחד קבוצות וירטואליות.
 
 #### איך אנו משתמשים בזה
 
-Basecamp is the place where we collect, develop and map all projects. A more precise allocation of tasks and responsibilities are also carried out, as well as transcripts of calls and meetings. It is primarily used to provide an overview if you and especially the multisig-signers, senior alchemists, and builders involved, want to look at a project as a whole.
+ה- Basecamp הוא המקום בו אנו אוספים, מפתחים וממפים את כל הפרויקטים. חלוקה מדויקת יותר של משימות ואחריות מתבצעת גם, כמו גם תמלילי שיחות ופגישות. זה משמש בעיקר כדי לספק סקירה כללית אם אתה ובעיקר החותמים הרב-סיגיים, האלכימאים הבכירים והבונים המעורבים, רוצים להסתכל על פרויקט בכללותו.
 
 ### Github
 
 #### כללי
 
-GitHub is a web-based version-control and collaboration platform for software developers. GitHub facilitates social coding by providing a web interface to the Git code repository and management tools for collaboration. GitHub can be thought of as a serious social networking site for software developers. Members can follow each other, rate each other's work, receive updates for specific projects and communicate publicly or privately.
+ה- GitHub היא פלטפורמת בקרת גרסאות ושיתופי פעולה מבוססת אינטרנט עבור מפתחי תוכנה. GitHub מאפשר קידוד חברתי על ידי מתן ממשק אינטרנט למאגר קוד Git וכלי ניהול לשיתוף פעולה. ניתן לחשוב על GitHub כאתר רשת חברתית רציני עבור מפתחי תוכנה. חברים יכולים לעקוב זה אחר זה, לדרג את עבודתו של זה, לקבל עדכונים לפרויקטים ספציפיים ולתקשר באופן ציבורי או פרטי.
 
 #### איך אנו משתמשים בזה
 
-GitHub is the digital home of our developers. As already stated in the description, it the perfect platform for collaboration on deployment & developement, especially for us as a decentralized autonomous organization. It represents, separted into different respositories, the core of our products.
+ה- GitHub הוא הבית הדיגיטלי של המפתחים שלנו. כפי שכבר נאמר בתיאור, זו הפלטפורמה המושלמת לשיתוף פעולה בפריסה ופיתוח, במיוחד עבורנו כארגון אוטונומי מבוזר. הוא מייצג, מחולק למאגרים שונים, את ליבת המוצרים שלנו.
 
 **קישורים:** [**Alchemist Github**](https://github.com/alchemistcoin/alchemist)\*\*\*\*
 
@@ -84,21 +84,21 @@ GitHub is the digital home of our developers. As already stated in the descripti
 
 #### כללי
 
-Linear helps streamline software projects, sprints, tasks, and bug tracking. It's built for high-performance teams. It's directly connected to Github.
+לינאר עוזר לייעל פרויקטים של תוכנה, ספרינטים, משימות ומעקב אחר באגים. הוא נבנה עבור צוותים בעלי ביצועים גבוהים. זה מחובר ישירות ל- GitHub.
 
 #### איך אנו משתמשים בזה
 
-Linear is primarily used by us to document developer-relevant issues, problems and / or hurdles that arise during the architecture and processing of individual tasks \(previously defined in the Basecamp\) and ultimately to provide solutions or workarounds. Thus, Linear represents the tool, which breaks down individual tasks transparently and in detail for technical topics. Tracking tasks on Github.
+הליניאר משמש אותנו בעיקר לתיעוד נושאים, בעיות ו / או מכשולים הרלוונטיים למפתחים המתעוררים במהלך הארכיטקטורה והעיבוד של משימות בודדות \(שהוגדרו בעבר ב- Basecamp\) ובסופו של דבר לספק פתרונות או דרכים לעקיפת הבעיה. לפיכך, לינארי מייצגת את הכלי, המפרק משימות אישיות באופן שקוף ומפורט לנושאים טכניים. מעקב אחר משימות ב- Github.
 
 ### Figma
 
 #### כללי
 
-Figma is a cloud-based design tool that is similar to Sketch in functionality and features, but with big differences that make Figma better for team collaboration. For those skeptical of such claims, we’ll explain how Figma simplifies the design process and is more effective than other programs at helping designers and teams work together efficiently.
+ה- Figma הוא כלי תכנון מבוסס ענן הדומה ל- Sketch בפונקציונליות ובתכונות, אך עם הבדלים גדולים שהופכים את Figma לטובת יותר לשיתוף פעולה בקבוצות. לאלה הספקנים לגבי טענות מסוג זה, נסביר כיצד פיגמה מפשטת את תהליך העיצוב והיא יעילה יותר מתוכניות אחרות בסיוע למעצבים ולצוותים לעבוד יחד ביעילות.
 
 #### איך אנו משתמשים בזה
 
-Figma is mainly used by us to share creative content and work on it together. These can be, for example, UI-relevant design drafts, but also initial designs of community projects of any kind - an example here would be designs for one-pagers. Especially when it comes to design decisions, as these are often influenced by personal taste, in our opinion they should first be shared before they are published.
+פיגמה משמשת אותנו בעיקר לשיתוף תוכן יצירתי ולעבודה משותפת. אלה יכולים להיות, למשל, טיוטות עיצוב רלוונטיות לממשק המשתמש, אך גם עיצובים ראשוניים של פרויקטים קהילתיים מכל סוג שהוא - דוגמה כאן תהיה עיצובים עבור זימוני יחיד. במיוחד בכל הנוגע להחלטות עיצוביות, מכיוון שאלה מושפעות לרוב מטעם אישי, לדעתנו יש לשתף אותן תחילה לפני פרסומן.
 
 **קישורים:** [**Alchemist Figma**](https://figma.com)\*\*\*\*
 
@@ -106,47 +106,47 @@ Figma is mainly used by us to share creative content and work on it together. Th
 
 #### כללי
 
-Coordinape is a platform for DAOs to easily and fairly distribute resources to contributors. Community grants, internal salaries, and special projects can all be incentivized and rewarded by the community itself. Instead of cumbersome voting or black box committees, contributors themselves can quickly and transparently reward the value they see being created.
+קואורדינאפ היא פלטפורמה עבור DAOs להפצת משאבים בקלות ובאופן הוגן לתורמים. מענקים קהילתיים, משכורות פנימיות ופרויקטים מיוחדים יכולים להיות מתמרצים ומתוגמלים על ידי הקהילה עצמה. במקום וועדות הצבעה מסורבלות או קופסאות שחורות, התורמים עצמם יכולים לתגמל במהירות ובשקיפות את הערך שהם רואים שנוצר.
 
 #### איך אנו משתמשים בזה
 
-Alchemists that have received payouts from the multisig will be placed in circles and have the ability to reward their fellow contributors.
+אלכימאים שקיבלו תשלומים מה- multisig ישובצו במעגלים ויוכלו לתגמל את עמיתיהם התורמים.
 
-## Meeting Calender
+## Meeting Calender / מפגש עם לוח שנה
 
-You can find our shared calendar [here](https://calendar.google.com/calendar/u/2/r?cid=c29sYm9mcWlnZGQzbzdzY3E3cWdyN3R2b2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ). All dates are included, be they project-related or generally interesting for the entire organization. Meetings are essential to question individual approaches and to discuss them in a team. A transcript will then be written out of sustainability in the base camp. Since the participants are spread all over the world, the times are usually chosen so that as many as possible can take part.
+תוכל למצוא את לוח השנה המשותף שלנו [כאן](https://calendar.google.com/calendar/u/2/r?cid=c29sYm9mcWlnZGQzbzdzY3E3cWdyN3R2b2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ). כל התאריכים כלולים, בין אם הם קשורים לפרויקט או בדרך כלל מעניינים עבור כל הארגון. פגישות חיוניות כדי להטיל ספק בגישות אישיות ולדון בהן בצוות. לאחר מכן ייכתב תמלול מתוך קיימות במחנה הבסיס. מכיוון שהמשתתפים פרוסים בכל רחבי העולם, הזמנים נבחרים בדרך כלל כך שרבים ככל האפשר יוכלו לקחת חלק.
 
-## Routines to Achieve Transparency
+## שגרות להשגת שקיפות
 
-In a decentralized team it is sometimes difficult to get an overview of who contributed what and how often. To counteract this, we decided to introduce some routines to promote transparency and visibility even for builders & senior alchemists who are not directly involved in the project.
+בצוות מבוזר לפעמים קשה להשיג סקירה של מי תרם מה ובאיזו תדירות. כדי לנטרל זאת, החלטנו להציג כמה שגרות לקידום השקיפות והנראות גם עבור בונים ואלכימאים בכירים שאינם מעורבים ישירות בפרויקט.
 
 ### Builder Stand Up
 
-To make the process more transparent for everyone, we're creating a \# builders-standup channel that we want to encourage active project contributors to post updates to regularly. What did you last work on and what progress did you make? What are you currently working on? What blockers / issues did you run into since your last update and do you need help with anything?
+כדי להפוך את התהליך לשקוף יותר עבור כולם, אנו יוצרים ערוץ \# builders-standup שאנו רוצים לעודד תורמים פעילים לפרויקטים לפרסום עדכונים אליו באופן קבוע. על מה עבדת לאחרונה ואיזה התקדמות עשית? על מה אתה עובד כרגע? באילו חוסמים / בעיות נתקלת מאז העדכון האחרון שלך ואתה זקוק לעזרה בכל דבר?
 
-We also want to encourage you to push all your WIP branches to GitHub frequently, and especially on Thursdays, so that Senior Alchemists have a better idea on how to calculate the stipend distribution for the week
+אנו רוצים גם לעודד אותך לדחוף את כל סניפי ה- WIP שלך ל- GitHub לעתים קרובות, ובמיוחד בימי חמישי, כדי שלאלכימאים בכירים יהיה מושג טוב יותר כיצד לחשב את חלוקת הקצבה לשבוע
 
-### Participation on Scheduled Meetings
+### השתתפות בפגישות מתוזמנות
 
-As already described under the topic "Meeting Calendar", we appreciate the lively exchange in the team on current topics. The easiest and most uncomplicated way to do this is always the spoken word. Regular participation is therefore essential for several reasons at the same time - finding quick solutions, bundling several opinions on certain topics, finding a majority approach and promoting integrity. If it is not possible that you cannot participate in principle or as an exception, let your team know and then take the transcript \(Basecamp\) to stay up to date.
+כפי שכבר תואר בנושא "לוח השנה לפגישות", אנו מעריכים את חילופי הדברים התוססים בצוות בנושאים הנוכחיים. הדרך הקלה והמסובכת ביותר לעשות זאת היא תמיד המילה המדוברת. השתתפות קבועה היא אפוא חיונית מכמה סיבות בו זמנית - מציאת פתרונות מהירים, אגדת מספר דעות בנושאים מסוימים, מציאת גישה ברוב וקידום יושרה. אם לא ייתכן שאינך יכול להשתתף באופן עקרוני או כחריג, הודע לצוות שלך ואז קח את התמליל \(Basecamp\) כדי להתעדכן.
 
-### Communication and Tool Interactions
+### אינטראקציות כלי תקשורת וכלי עבודה
 
-We have various tools in use, which we of course also want to use so that we can recognize progress for our set expectations. The work done should be in focus either way. The communication of small or large milestones is often relevant for the entire project, even if this is not always necessarily visible at first glance, and should therefore be in Basecamp \(Project Management\), Linear \(developer\), Figma \(artist\) and / or can be found in the Discord. We would therefore like to encourage you to communicate a lot and actively via one of the channels made available to you.
+יש לנו כלים שונים בשימוש, שכמובן נרצה להשתמש בהם כדי שנוכל לזהות התקדמות לציפיות שנקבעו לנו. העבודה שבוצעה צריכה להיות במיקוד בכל מקרה. תקשורת של אבני דרך קטנות או גדולות רלוונטית לעיתים קרובות לכל הפרויקט, גם אם זה לא תמיד נראה לעין במבט ראשון, ולכן הוא צריך להיות ב- Basecamp \(ניהול פרויקטים\), Linear \(מפתח\), Figma \(אומן\) ו / או ניתן למצוא בדיסקורד. לכן אנו רוצים לעודד אותך לתקשר הרבה ובאופן פעיל באמצעות אחד הערוצים העומדים לרשותך.
 
-## Feedback
+## משוב
 
-We would like to support you with your onboarding as a builder and have therefore incorporated fixed feedback discussions in the initial phase. A senior alchemist or a builder colleague will answer your questions after your first overview and assign you a starting point. The aim of the conversation is to clear up ambiguities and to answer questions of all kinds, so that you can be as much a part of your project as possible from the beginning.
+ברצוננו לתמוך בך בהטמעה שלך כבונה ולכן שילבנו דיוני משוב קבועים בשלב הראשוני. אלכימאי בכיר או עמית בניין יענה על שאלותיך לאחר הסקירה הראשונה שלך ויקצה לך נקודת התחלה. מטרת השיחה היא לנקות עמימות ולענות על שאלות מכל הסוגים, כך שתוכלו להיות חלק ככל האפשר מהפרויקט שלכם מההתחלה.
 
-Another feedback appointment is then set after about 2 weeks, when we would like to know in particular how well you have settled and how symptom-free you have been able to contribute your strengths to the value of the project. We also try to optimize our onboarding process through feedback that you give us.
+פגישת משוב נוספת נקבעת לאחר כשבועיים, כאשר נרצה לדעת במיוחד עד כמה התיישבת וכמה נטולת תסמינים הצלחת לתרום את חוזקותיך לערך הפרויקט. אנו מנסים לייעל את תהליך ההעלאה שלנו באמצעות משוב שאתה נותן לנו.
 
 ## The Builders' Stipend
 
-Once the development efforts begin, the Senior Alchemists start allocating a builders’ stipend to distribute among the project’s actively contributing team members. The stipend comes from a finite pool of $MIST and is distributed weekly based on what the Senior Alchemists deem to be the most beneficial allocation for nourishing the project’s growth. It is subject to change with every payout, but the Senior Alchemists will usually give a rough justification for why the funds were distributed in a particular manner.
+לאחר תחילת מאמצי הפיתוח, אלכימאים בכירים מתחילים להקצות מלגת בונים לחלוקה בין חברי הצוות התורמים באופן פעיל. הקצבה מגיעה ממאגר סופי של $ MIST ומחולקת מדי שבוע על סמך מה שהאלכימאים הבכירים רואים כהקצאה המועילה ביותר להזנת צמיחת הפרויקט. זה עשוי להשתנות בכל תשלום, אך אלכימאים בכירים בדרך כלל יתנו הצדקה גסה מדוע חולקו הכספים באופן מסוים.
 
-The builders stipend is here to make it easy for you to put aside other distractions and focus on building with the rest of the Alchemists. It is not a salary. It is not meant to be the primary incentive to drive your contributions. If you’re here as a mercenary and just want to get paid then you’re probably in the wrong community.
+מלגת הבונים כאן כדי להקל עליכם להפריש הסחות דעת אחרות ולהתמקד בבנייה עם שאר האלכימאים. זה לא משכורת. זה לא אמור להיות התמריץ העיקרי להניע את התרומות שלך. אם אתה כאן כשכיר חרב ורק רוצה לקבל תשלום אז אתה כנראה בקהילה הלא נכונה.
 
-## Onboarding Form
+## טופס הרשמה
 
-To take part in the onboarding process, please fill out this [form](https://dzd671syme2.typeform.com/to/YUBB53J8)!
+כדי להשתתף בתהליך ההרשמה, אנא מלא [טופס זה](https://dzd671syme2.typeform.com/to/YUBB53J8)!
 
