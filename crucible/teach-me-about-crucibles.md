@@ -67,31 +67,31 @@
 
 אנא עיין [במדריך התאימות לארנק](wallet-compatibility.md).
 
-## How much LP tokens do I need to create a Crucible?
+## כמה אסימוני LP אני צריך כדי ליצור כור היתוך \(Crucible\) ?
 
-Community members have successfully minted a Crucible with as low as 0.1 LP tokens.
+חברי הקהילה ביצעו מינט לכור ההיתוך בהצלחה עם מעט אסימונים, עד 0.1 אסימוני LP.
 
-Of course, a Crucible still costs gas to mint, so please take into consideration this cost when creating one with minimal LP.
+כמובן, כור היתוך עדיין עולה דלק לביצוע מינט, אז אנא קחו בחשבון עלות זו בעת יצירת כור היתוך כזה עם LP מינימלי.
 
-Remember, you earn rewards proportional to your LP share of the total LP staked in the Aludel.
+זכור, אתה מרוויח תגמולים פרופורציונליים לחלק ה- LP שלך מסך ה- LP של הסטייקינג המושקע באלודל.
 
-## Can I create multiple Crucibles?
+## האם אני יכול ליצור כורי היתוך מרובים?
 
-Yes. Many users in the community have already minted multiple Crucibles.
+כן. משתמשים רבים בקהילה כבר ביצעו מינט למספר כורי היתוך. 
 
-Whether this is beneficial or not, this is up to you to decide.
+בין אם זה מועיל ובין אם לא, זה תלוי בך להחליט.
 
-## How can I check how many LP tokens someone else's Crucible is worth?
+## איך אני יכול לבדוק מה השווי של אסימוני LP של כור היתוך של מישהו אחר?
 
-You can take the take the Crucible's token ID, convert it into hexadecimal \(if it is in decimal\) and then search for the address on [etherscan.io](https://etherscan.io).
+אתה יכול לקחת את מזהה האסימון של כור ההיתוך \(Crucible's token ID\), להמיר אותו להקסדצימלי \(אם הוא בעשרוני\) ואז לחפש את הכתובת באתר [etherscan.io](https://etherscan.io).
 
-This will display what the contents are and the history of transactions that have occurred within the Crucible.
+זה יציג מה התוכן וההיסטוריה של העסקאות שהתרחשו בתוך כור ההיתוך.
 
-If you can't see any tokens displayed for it, then it's most likely empty.
+אם אינך יכול לראות אסימונים המוצגים עבורו, סביר להניח שהוא ריק.
 
-## How do I view my tokens on MetaMask ![](../.gitbook/assets/metamask-fox.svg) ?
+##   כיצד אוכל להציג את האסימונים שלי ב- ![](../.gitbook/assets/metamask-fox.svg) MetaMask?
 
-Refer to [our FAQ ](faq.md#why-cant-i-see-my-mist-in-my-wallet)on the addresses that you need to add to your wallet to be able to see the token.
+עיין [בשאלות הנפוצות](faq.md#why-cant-i-see-my-mist-in-my-wallet) שלנו בכתובות שאתה צריך להוסיף לארנק שלך כדי שתוכל לראות את האסימון.
 
 \*\*\*\*
 
