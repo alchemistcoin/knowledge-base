@@ -1,24 +1,30 @@
 # FAQ 📖
 
+## **אנא צפה בסרטון זה על הפסד בלתי קבוע לפני שתמשיך**
+
 {% embed url="https://youtu.be/8XJ1MSTEuU0" caption="Please watch this Video on Impermanent loss before subscribing LP" %}
 
-## **How do I participate in the Aludel / How do I mint a Crucible NFT?**
+## כיצד אוכל להשתתף ב- Aludel / כיצד אוכל לבצע מינט ל- NFT של כור היתוך?
 
 {% hint style="danger" %}
-Crucible only supports the **Uniswap V2** Liquidity Pool. Adding liquidity to the **Uniswap V3** pool is not compatible with the Rewards Program.
+הכור היתוך תומך רק בבריכת הנזילות של **Uniswap V2**. הוספת נזילות לבריכת של **Uniswap V3** אינה תואמת לתכנית התגמולים.
 {% endhint %}
+
+
 
 {% hint style="warning" %}
-**Precautions**
+**אמצעי זהירות**
 
-Do not use Brave browser as it is not compatible with the process at this time and your transaction will fail, resulting in lost fees.
+אל תשתמש בדפדפן Brave מכיוון שהוא אינו תואם לתהליך בשלב זה והעסקה שלך תיכשל וכתוצאה מכך אבדות עמלות. 
 
-We do not recommend using a hardware wallet at this time as many do not currently support EIP-712 signing. When they fix this, we can implement it.
+אנו לא ממליצים להשתמש בארנק חומרה בשלב זה מכיוון שרבים אינם תומכים כעת בחתימת EIP-712. כאשר הם יתקנו זאת, נוכל ליישם ולהוסיף זאת. 
 
-Some users have reported issues with Trustwallet.
+חלק מהמשתמשים דיווחו על בעיות עם Trustwallet. 
 
-We do not recommend you do this on a mobile.
+אנו לא ממליצים לך לעשות זאת בנייד.
 {% endhint %}
+
+
 
 Please use one of the guides below to mint a crucible
 
