@@ -32,6 +32,7 @@
 
 * [Crucible](https://crucible.alchemist.wtf/)
 * [mistX](https://mistx.io/)
+* [Sandwiched.wtf](https://sandwiched.wtf/)
 * [Copper](https://copperlaunch.com/)
 
 ## Links 🔗 <a id="discussion"></a>
@@ -42,6 +43,7 @@
 * [Instagram](https://www.instagram.com/thealchemistcoin/)
 * [YouTube](https://www.youtube.com/channel/UCIs4LugynLei2TN__lJh-6Q)
 * [Github](http://alchemist.wtf/)
+* [Reddit](https://www.reddit.com/r/alchemist_coin/)
 
 ---
 
