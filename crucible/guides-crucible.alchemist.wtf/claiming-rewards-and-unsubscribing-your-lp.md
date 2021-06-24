@@ -1,4 +1,8 @@
-# Claiming Rewards & Unsubscribing your LP
+---
+description: Claiming Rewards & Unsubscribing your LP
+---
+
+# תביעת תגמולים וביטול מנוי ה- LP שלך
 
 At some point you may decided that you are ready to Claim your rewards and Unsubscribe your LP from your Crucible. 
 
