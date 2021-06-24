@@ -4,20 +4,22 @@ description: Claiming Rewards & Unsubscribing your LP
 
 # תביעת תגמולים וביטול מנוי ה- LP שלך
 
-At some point you may decided that you are ready to Claim your rewards and Unsubscribe your LP from your Crucible. 
+בשלב מסוים ייתכן שתחליט שאתה מוכן לתבוע את תגמוליך ולבטל את מנוי ה- LP שלך מהכור היתוך שלך.
 
-The guide below is designed to step you through that process.
+המדריך שלהלן נועד להעביר אותך בתהליך זה.
 
 {% hint style="info" %}
-Please note that when you unsubscribe all of your LP or only a portion of your LP from the crucible, the reward multiplier for the unsubscribed LP will be reset.  If you unsubscribe only a portion of the subscribed LP, the reward multiplier for the portion unsubscribed will be reset, while the subscribed portion will remain at its current multiplier. 
+שים לב שכאשר תבטל את הרישום של כל ה- LP שלך או רק חלק מה- LP שלך מכור ההיתוך, מכפיל התגמול עבור ה- LP שלא נרשם יאופס. אם תבטל את הרישום רק לחלק מה- LP המנוי, מכפיל התגמול עבור החלק שלא נרשם יאופס, ואילו החלק המנוי יישאר במכפיל הנוכחי שלו.
 
-For example, suppose you have 1.7 LP subscribed and its reward multiplier is at 10x. You decide to unsubscribe 1 LP. The 0.7 LP remaining \(still subscribed\) will continue to have a reward multiplier of 10x, while the unsubscribed 1 LP's reward multiplier will be reset. 
+לדוגמה, נניח שיש לך 1.7 LP כמנוי ומכפיל התגמול שלו הוא פי 10. אתה מחליט לבטל את הרישום ל- LP 1. ל- 0.7 LP שנותרו \(עדיין מנויים\) ימשיך להיות מכפיל תגמול של פי 10, בעוד שמכפיל התגמול של 1 LP שלא נרשם יאופס.
 
-The rewards you receive will be from the unsubscribed 1 LP, not the subscribed 0.7 LP.
+התגמולים שתקבל יהיו מה- LP 1 שהסרת להם את ההרשמה, ולא מ- 0.7 LP המנויים.
 {% endhint %}
 
+
+
 {% hint style="info" %}
-Please note that after claiming your rewards and unsubscribing your LP, you will no longer receive rewards from the Aludel reward program. To receive rewards again please follow the guide below, then withdraw your LP using the "Withdraw unsubscribed LP" button, and then subscribe your LP using the "Increase LP subscription" button.
+לידיעתך, לאחר שתתבע את תגמוליך ותבטל את הרישום ל- LP שלך, לא תקבל עוד תגמולים מתוכנית התגמול של Aludel. כדי לקבל שוב תגמולים אנא עקוב אחר המדריך שלהלן, ואז משוך את ה- LP שלך באמצעות הלחצן "Withdraw unsubscribed LP" ולאחר מכן הירשם ל- LP שלך באמצעות כפתור "Increase LP subscription".
 {% endhint %}
 
 1. To claim your rewards and unsubscribe your LP open [crucible.alchemist.wtf](https://crucible.alchemist.wtf/), connect your wallet and visit "Your Crucibles" tab.
