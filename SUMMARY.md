@@ -17,7 +17,7 @@
 * [Crucibles למד אותי על](crucible/teach-me-about-crucibles.md)
 * [crucible.alchemist.wtf :מדריכים](crucible/guides-crucible.alchemist.wtf/README.md)
   * [איך מבצעים מינט לכור היתוך?](crucible/guides-crucible.alchemist.wtf/how-do-i-mint-a-crucible.md)
-  * [What can I do with my new Crucible?](crucible/guides-crucible.alchemist.wtf/what-can-i-do-with-my-new-crucible.md)
+  * [מה אוכל לעשות עם כור ההיתוך החדש שלי?](crucible/guides-crucible.alchemist.wtf/what-can-i-do-with-my-new-crucible.md)
   * [Claiming Rewards & Unsubscribing your LP](crucible/guides-crucible.alchemist.wtf/claiming-rewards-and-unsubscribing-your-lp.md)
 * [איך להפוך ל- "Certified Alchemist" ב- Discord 💬](crucible/how-to-become-a-certified-alchemist-on-discord.md)
 * [תאימות ארנק](crucible/wallet-compatibility.md)

@@ -1,6 +1,6 @@
-# What can I do with my new Crucible?
+# מה אוכל לעשות עם כור ההיתוך החדש שלי?
 
-There are a number of things you can do with your newly minted crucible, below are the most common things that you can do using crucible.alchemist.wtf
+ישנם מספר דברים שאתה יכול לעשות עם כור ההיתוך החדש שלך, להלן הדברים הנפוצים ביותר שאתה יכול לעשות באמצעות [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)
 
 * [Checking your rewards](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
 * [Increasing your LP Subscription](what-can-i-do-with-my-new-crucible.md#increasing-your-lp-subscription)
