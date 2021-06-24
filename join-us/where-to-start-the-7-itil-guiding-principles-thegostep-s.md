@@ -32,65 +32,63 @@
 * משוב חיוני - הנסיבות משתנות במהירות.
 * מהיר = / = לא שלם.
 
-### 4. Collaborate and promote visibility.
+### 4.לשתף פעולה ולקדם נראות.
 
-Involving the right people in the correct roles, efforts benefit from more relevance \(judgement for decision making has more value\) and create increased long-term success. Inclusion is generally a better policy than exclusion since enthusiastic contributions, creative solutions, and important perspectives can be obtained from unexpected sources. Requirements for success are information, understanding and trust.
+בשיתוף האנשים הנכונים בתפקידים הנכונים, מאמצים נהנים מרלוונטיות רבה יותר \(לשיפוט לקבלת החלטות יש ערך רב יותר\) ויוצרים הצלחה מוגברת לטווח הארוך. הכללה היא בדרך כלל מדיניות טובה יותר מאשר הרחקה שכן ניתן להשיג תרומות נלהבות, פתרונות יצירתיים ונקודות מבט חשובות ממקורות בלתי צפויים. הדרישות להצלחה הן מידע, הבנה ואמון.
 
-Identify and manage all stakeholders or groups involved. The most obvious stakeholder group is the “customers”, as in ITIL the organization’s main goal is to facilitate customer outcomes. Other examples of stakeholder collaboration include: developers \(collaboration with other internal teams – like research\) or internal and external suppliers.
+זהה ונהל את כל בעלי העניין או הקבוצות המעורבות. קבוצת בעלי העניין הברורה ביותר היא "הלקוחות", שכן ב- ITIL המטרה העיקרית של הארגון היא להקל על תוצאות הלקוחות. דוגמאות נוספות לשיתוף פעולה של בעלי עניין כוללות: מפתחים \(שיתוף פעולה עם צוותים פנימיים אחרים - כמו מחקר\) או ספקים פנימיים וחיצוניים.
 
-The contribution to improvement of each stakeholder group at each level should be understood, as should the most effective methods to engage with them. Expect different variations about the level and type of collaboration, depending on the relationship between the organization and “consumer”. Address the needs of involved stakeholders! Determining the type, method, and frequency of such messaging! An organized activity @communication is highly recommended.
+יש להבין את התרומה לשיפור של כל קבוצת בעלי עניין בכל רמה, כמו גם את השיטות היעילות ביותר לעסוק בהן. צפו בווריאציות שונות לגבי רמת וסוג שיתוף הפעולה, תלוי ביחסים בין הארגון ל"צרכן ". לתת מענה לצרכים של בעלי עניין מעורבים! קביעת סוג, שיטה ותדירות של הודעות כאלה! מומלץ מאוד לבצע פעילות מאורגנת @ תקשורת.
 
-Stakeholders need a clear vision of the progress and workload! Never give the impression that nothing happens! Insufficient visibility leads to poor decision making and impacts the ability to improve internal capabilities. To avoid this, you will need critical \(and sincere!\) analysis of the workflow, bottlenecks and excess capacity.
+בעלי העניין זקוקים לחזון ברור לגבי ההתקדמות ועומס העבודה! לעולם אל תתרשם כי שום דבר לא קורה! חשיפה לא מספקת מובילה לקבלת החלטות לקויה ומשפיעה על היכולת לשפר יכולות פנימיות. כדי למנוע זאת, תזדקק לניתוח קריטי \(וכנה!\) של זרימת העבודה, צווארי הבקבוק והקיבולת העודפת.
 
-* Collaboration =/= consensus
-* Shout out loud – frequent communication is the way to go.
-* “Good” decisions can only be made with visibility.
+* שיתוף פעולה = / = קונצנזוס
+* צעק בקול רם - תקשורת תכופה היא הדרך ללכת.
+* החלטות "טובות" יכולות להתקבל רק עם נראות.
 
-### 5. Think and work holistically.
+### 5.חשבו ועבדו בצורה הוליסטית.
 
-In a complex system, the alteration of one element can impact others. These impacts need to be identified, analyzed and planned for. Nothing stands alone – whether a service, practice, process or department. The result will suffer unless it works in an integrated way to handle its activities as a whole, rather than as separate parts.
+במערכת מורכבת, שינוי של אלמנט אחד יכול להשפיע על אחרים. יש לזהות, לנתח ולתכנן את ההשפעות הללו. שום דבר לא עומד בפני עצמו - בין אם שירות, תרגול, תהליך או מחלקה. התוצאה תיפגע אלא אם כן היא תפעל בצורה משולבת לטפל בפעילותה כולה, ולא כחלקים נפרדים.
 
-Taking a holistic approach to ITIL concepts includes establishing an understanding of how all the parts of an organization work together \(four dimensions: organizations and people, information and technology, partners and/or suppliers, value streams and processes\). Demand is captured and translated into outcomes.
+נקיטת גישה הוליסטית למושגי ITIL כוללת יצירת הבנה של האופן בו כל חלקי הארגון עובדים יחד \(ארבעה ממדים: ארגונים ואנשים, מידע וטכנולוגיה, שותפים ו / או ספקים, זרמי ערך ותהליכים\). הביקוש נתפס ומתורגם לתוצאות.
 
-* Recognize the complexity of every element.
-* Collaboration is key to working holistically.
-* Reach out for patterns in the needs of and interactions between elements.
-* Automation can facilitate working integrated.
+* הכירו את המורכבות של כל אלמנט.
+* שיתוף פעולה הוא המפתח לעבודה הוליסטית.
+* להגיע לדפוסים בצרכים ובאינטראקציות בין אלמנטים.
+* אוטומציה יכולה להקל על עבודה משולבת.
 
-### 6. Keep it simple and practical.
+### 6.שמור על זה פשוט ופרקטי.
 
-Always use the minimum number of steps to accomplish an objective. Result-based thinking should be used to produce practical solutions that deliver valuable outcomes. If a process, action or metric fails to provide value or produce a useful outcome, then eliminate it. Do not focus on every exception, this will automatically lead to over-complication. Instead, rules, workflows or processes should be designed that can be used to handle exceptions generally.
+השתמש תמיד במספר הצעדים המינימלי להשגת מטרה. יש להשתמש בחשיבה המבוססת על תוצאות כדי לייצר פתרונות מעשיים המספקים תוצאות בעלות ערך. אם תהליך, פעולה או מדד אינם מצליחים לספק ערך או לייצר תוצאה שימושית, אז בטל אותו. אל תתמקד בכל יוצא מן הכלל, זה יוביל אוטומטית לסיבוך יתר. במקום זאת, יש לתכנן כללים, תהליכי עבודה או תהליכים שניתן להשתמש בהם כדי להתמודד עם חריגים באופן כללי.
 
-Value creation is your goal – keeping it simple and practical helps to understand the contribution. Establish and communicate a holistic view of the work. Individual teams or groups can understand how their work is being influenced by, and in turn influences, others.
+יצירת ערך היא המטרה שלך - שמירה על פשטות ומעשית עוזרת להבין את התרומה. לבסס ולתקשר מבט הוליסטי על העבודה. צוותים או קבוצות בודדים יכולים להבין כיצד מושפעת עבודתם מאחרים, ובתורם.פקח את עיניך מיעדים סותרים בעת תכנון, ניהול או שיטות פעולה. לדוגמא, מנהלים עשויים לרצות הרבה נתונים \(כמות\), אך צוותי השירות עשויים להיות מוגבלים בתעדוף האיסוף והפרטים של נתונים אלה. מצא פשרה בין יעדים מתחרים.
 
-Keep your eyes open of conflicting objectives when designing, managing, or operating practices. For example, managers may want a lot of data \(quantity\), but service teams might be constrained in prioritizing the collection and detail of that data. Find a compromise between competing objectives.
+* ודא ערך.
+* פשטות היא המפתח.
+* קבעו רק כמה כללים שיכסו את הנוהגים העיקריים.
+* כבד את הזמן והעבודה של האנשים המעורבים.
+* האימוץ קל יותר כאשר הוא לא מסובך.
+* קבל את הפירות התלויים נמוך.
 
-* Ensure value.
-* Simplicity is key.
-* Set only a few rules to cover the major practices.
-* Respect the time and work of people involved.
-* Adoption is easier when it is not complicated.
-* Get the low-hanging fruits.
+### 7.אופטימיזציה ואוטומטית.
 
-### 7. Optimize and automate.
+מקסם את ערך העבודה שמבוצעת על ידי משאבים אנושיים וטכניים. הטכנולוגיה יכולה לסייע לארגונים להגדיל ולקבל על עצמם משימות תכופות וחוזרות על עצמן. עם זאת, לא תמיד צריך להסתמך על טכנולוגיה ללא יכולת התערבות אנושית, מכיוון שאוטומציה למען האוטומציה יכולה להגדיל את העלויות ולהפחית את החוסן והחוסן.
 
-Maximize the value of the work carried out by human and technical resources. Technology can help organizations to scale up and take on frequent and repetitive tasks. However, technology should not always be relied upon without the capability of human intervention, as automation for automation’s sake can increase costs and reduce robustness and resilience.
+אופטימיזציה מתכוונת להפוך משהו יעיל ושימושי כפי שהוא אמור להיות. בצע אופטימיזציה תמיד לפני שתשקול אוטומציה. קח בחשבון שהגדרת מגבלות אילוץ לאופטימיזציה! לְמָשָׁל. עלויות, זמן או משאבים עלולים לבזבז.
 
-Optimization intents to make something as effective and useful as it should be. Always optimize first before considering an automation. Consider that you have set constraint limits for optimization! E.g. Costs, time or resources could be wasted.
+הדרך לאופטימיזציה עוקבת אחר השלבים ברמה הגבוהה הזו:
 
-The path to optimization follows these high-level steps:
+* הצהירו על ההקשר בו מתקיימת האופטימיזציה המוצעת.
+* שפט את המצב הנוכחי של האופטימיזציה המוצעת.
+* התמקד בתוצאה הרצויה בפשטות ובערך של אופטימיזציה. הציבו גבולות!
+* ודא שהאופטימיזציה מקובלת על כל המעורבים,
+* זכרו איטרציות - אופטימיזציות וכל המעורבים אוהבים פירות תלויים נמוכים.
+* עקוב אחר השפעת / השפעת האופטימיזציות.
 
-* Declare the context in which the proposed optimization exists.
-* Judge the current state of the proposed optimization.
-* Focus for the desired outcome on simplification and value of an optimization. Set limits!
-* Ensure the optimization is for everyone involved acceptable,
-* Remember iterations – optimizations and everyone involved loves low-hanging fruits.
-* Monitor the impact/effect of optimizations.
+אוטומציה מתייחסת בדרך כלל לשימוש בטכנולוגיה לביצוע צעד או סדרת צעדים בצורה נכונה. הגדר אוטומציה בהקשר של סטנדרטיזציה והתייעלות של משימות ידניות. לְמָשָׁל. להגדיר כללים שיאפשרו החלטות מבלי להיבדק בנפרד. עצור את המעורבות וההערכה האנושית של כל חלק בתהליך להשגת יעילות רבה יותר. אוטומציה היא הזדמנות להפחתת עלויות, להפחתת טעויות אנושיות ולשיפור חוויות המעורבים \(חשוב!\).
 
-Automation typically refers to the use of technology to perform a step or series of steps correctly. Set automation in the context of standardization and streamlining of manual tasks. E.g. define rules to allow decisions without being reviewed individually. Stop human involvement and evaluation of each part of a process to achieve more efficiency. Automation is an opportunity for reduced costs, reduced human errors, and \(important!\) improving experiences for involved.
-
-* Optimization &gt;&gt;&gt;&gt; Automation
-* Use automation to achieve better experiences, reduce errors and save costs and time.
-* Define your metrics.
-* Use the other guiding principles when applying this one!
+* אופטימיזציה &gt;&gt;&gt;&gt; אוטומציה
+* השתמש באוטומציה כדי להשיג חוויות טובות יותר, להפחית שגיאות ולחסוך עלויות וזמן.
+* הגדר את המדדים שלך.
+* השתמש בעקרונות המנחים האחרים בעת יישום זה!
 

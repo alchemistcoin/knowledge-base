@@ -11,7 +11,7 @@
 * [רכישות והרשמות](acquiring-and-subscribing.md)
 * [שאלות נפוצות](faq.md)
 
-## Crucible
+## Crucible / כור היתוך
 
 * [מתחילים](crucible/getting-started.md)
 * [Crucibles למד אותי על](crucible/teach-me-about-crucibles.md)
@@ -24,18 +24,18 @@
 * [🎞 מדריכים וויזואלים](crucible/visual-guides.md)
 * [FAQ / שאלות נפוצות 📖](crucible/faq.md)
 
-## Join us
+## הצטרף אלינו <a id="join-us"></a>
 
 * [מדריך הכניסה לבנאים אלכימאים](join-us/alchemist-builders-onboarding-guide.md)
 * [איפה להתחיל? - 7 העקרונות המנחים של ITIL \(thegostep \(s\);\)\)!](join-us/where-to-start-the-7-itil-guiding-principles-thegostep-s.md)
 
-## TOOLS
+## כלים <a id="tools"></a>
 
 * [Crucible](https://crucible.alchemist.wtf/)
 * [mistX](https://mistx.io/)
 * [Copper](https://copperlaunch.com/)
 
-## Links 🔗 <a id="discussion"></a>
+## קישורים 🔗 <a id="discussion"></a>
 
 * [Twitter](https://twitter.com/_alchemistcoin)
 * [Discord](https://discord.com/invite/qWQQMMKjKe)
