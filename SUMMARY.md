@@ -17,7 +17,6 @@
   * [How do I mint a Crucible?](crucible/guides-crucible.alchemist.wtf/how-do-i-mint-a-crucible.md)
   * [What can I do with my new Crucible?](crucible/guides-crucible.alchemist.wtf/what-can-i-do-with-my-new-crucible.md)
   * [Claiming Rewards & Unsubscribing your LP](crucible/guides-crucible.alchemist.wtf/claiming-rewards-and-unsubscribing-your-lp.md)
-  * [Introducing new features & Aludel v1.5](crucible/guides-crucible.alchemist.wtf/introducing-new-features-and-aludel-v1.5.md)
 * [How to Become a "Certified Alchemist" on Discord 💬](crucible/how-to-become-a-certified-alchemist-on-discord.md)
 * [Wallet Compatibility](crucible/wallet-compatibility.md)
 * [Visual Guides 🎞](crucible/visual-guides.md)
