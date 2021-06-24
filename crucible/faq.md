@@ -26,47 +26,59 @@
 
 
 
-Please use one of the guides below to mint a crucible
+אנא השתמש באחד המדריכים שלמטה לביצוע מינט לכור ההיתוך
 
 * [Minting a Crucible on crucible.alchemist.wtf](guides-crucible.alchemist.wtf/)
 
-## **Why can’t I see my ⚗️Mist in my wallet?**
+## מדוע איני יכול לראות את ה- ⚗️ Mist שלי בארנק?
 
-You can add the contract address **`0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab`** to make them visible.  
+אתה יכול להוסיף את כתובת החוזה לארנק שלך כדי להפוך אותם לגלויים: 
+
+address **`0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab`**   
 Token Symbol: ⚗️  
 Token Decimal: 18
 
-## **Why can’t I see my LP in my wallet?**
+## מדוע איני יכול לראות את ה- LP שלי בארנק?
 
-You can add the contract address **`0xcd6bcca48069f8588780dfa274960f15685aee0e`** to make them visible.  
+אתה יכול להוסיף את כתובת החוזה לארנק שלך כדי להפוך אותם לגלויים:
+
+address **`0xcd6bcca48069f8588780dfa274960f15685aee0e`** to make them visible.  
 Token Symbol: UNI-V2  
 Token Decimal: 18
 
-## **Why can’t I see my Crucible in my wallet?**
+## מדוע איני יכול לראות את הכור היתוך \(Crucible\) שלי בארנק?
 
-You can add the contract address **`0x54e0395CFB4f39beF66DBCd5bD93Cca4E9273D56`** to make your Crucible\(s\) visible.  
+אתה יכול להוסיף את כתובת החוזה לארנק שלך כדי להפוך אותם לגלויים:
+
+address **`0x54e0395CFB4f39beF66DBCd5bD93Cca4E9273D56`**   
 Token Symbol: CRUCIBLE-V1  
 Token Decimal: 0
 
-## **What are the rewards for Subscribing in the Aludel?**
+##  ****מהם התגמולים למנוי ב- Aludel?
 
-Rewards are distributed from the reward pool proportionally to the amount and duration of a Subscription. The more ⚗️$mist/ETH Uniswap LP tokens you Subscribe and the longer you leave it for, the more rewards it will accumulate. The Aludel reward program is designed to reward long term participants.
+תגמולים מחולקים ממאגר התגמולים באופן יחסי לכמות ומשך זמן המנוי. ככל שרשום תחתיך יותר אסימונים של   ⚗️$mist/ETH Uniswap LP tokens וככל שאתה משאיר אותו זמן רב יותר, כך הוא יצבור יותר תגמולים. תוכנית התגמול של Aludel נועדה לתגמל משתתפים לטווח הארוך.
 
-You can see the reward pool [here.](https://etherscan.io/address/0x04108d6e9a51bec5170f8fd953a156cf754ba541)
+אתה יכול לראות את מאגר התגמולים [כאן](https://etherscan.io/address/0x04108d6e9a51bec5170f8fd953a156cf754ba541).
 
-## **How do I become an certified Alchemist in Discord?**
+## כיצד אוכל להיות אלכימאי מוסמך ב- Discord?
 
-* Please use this [guide](how-to-become-a-certified-alchemist-on-discord.md)
-* Join Discord
-* Go to the Welcome channelType !join
-* You will then get a message from the Collab.Land bot
-* Connect Your wallet containing your ⚗️$mist
-* The bot will then message you  ~ Updating roles, Please check assigned roles in Alchemist
-* Close bot and return to the main alchemy channel and you will now be a certified Alchemist!
+אנא השתמש במדריך [זה](how-to-become-a-certified-alchemist-on-discord.md)
 
-## **How do I claim the rewards?**
+הצטרף לדיסקורד
 
-All rewards are received when you "[Claim Rewards and Unsubscribe LP](guides-crucible.alchemist.wtf/claiming-rewards-and-unsubscribing-your-lp.md)". Be careful, this also resets your reward multiplier. 
+עבור לערוץ Welcome ורשום שם !join
+
+לאחר מכן תקבל הודעה מהבוט Collab.Land
+
+חבר את הארנק שלך המכיל את ה- ⚗️$mist שלך
+
+הבוט יעביר לך הודעה ~ מעדכן תפקידים, אנא בדוק תפקידים שהוקצו באלכימאי
+
+סגור את הבוט וחזור לערוץ האלכימיה הראשי וכעת תהיה אלכימאי מוסמך!
+
+## כיצד אוכל לתבוע את התגמולים?
+
+כל התגמולים מתקבלים כאשר אתה "[תובע את התגמולים ומבטל את המנוי של ה- LP שלך](guides-crucible.alchemist.wtf/claiming-rewards-and-unsubscribing-your-lp.md)". היזהר, זה גם מאפס את מכפיל התגמול שלך.
 
 ## **Does it matter how many LP tokens go into the Crucible?**
 
