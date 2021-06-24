@@ -61,11 +61,11 @@
 
 
 
-## What wallets can I use to store my Crucible?
+## באילו ארנקים אוכל להשתמש כדי לאחסן את כור ההיתוך שלי?
 
-Crucibles are ERC-721 tokens and signing these transactions are not supported by all Wallet Applications. 
+כור היתוך הוא אסימונים של ERC-721 וחתימת עסקאות אלה אינה נתמכת על ידי כל יישומי הארנק.
 
-Please refer to our [wallet compatibility guide.](wallet-compatibility.md)
+אנא עיין [במדריך התאימות לארנק](wallet-compatibility.md).
 
 ## How much LP tokens do I need to create a Crucible?
 
