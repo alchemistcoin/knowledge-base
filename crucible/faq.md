@@ -80,29 +80,29 @@ Token Decimal: 0
 
 כל התגמולים מתקבלים כאשר אתה "[תובע את התגמולים ומבטל את המנוי של ה- LP שלך](guides-crucible.alchemist.wtf/claiming-rewards-and-unsubscribing-your-lp.md)". היזהר, זה גם מאפס את מכפיל התגמול שלך.
 
-## **Does it matter how many LP tokens go into the Crucible?**
+##  ****האם זה משנה כמה אסימונים של LP נכנסים לכור ההיתוך?
 
-The more LP tokens you get the higher amount of liquidity you provided therefore a larger percentage of the rewards pool you will receive. There is no minimum LP required, but we do suggest you be mindful of the ethereum gas cost when considering this.
+ככל שתקבל יותר LP tokens כמות הנזילות שאתה מספק תגדל ולכן תקבל גם אחוז גדול יותר ממאגר התגמולים. לא קיימת דרישת מינימום ל- LP אך אנו ממליצים שתזכור את עלות גז האתריום שאתה שוקל זאת
 
-### **Is it more advantageous to have more Crucibles or a higher Subscription in one Crucible?**
+### האם זה יתרון יותר שיהיה יותר כור**י** היתוך או מנוי גבוה יותר בכור היתוך אחד?
 
-It’s almost always better to accumulate LP in a single Crucible as it minimizes the gas costs.
+כמעט תמיד עדיף לצבור LP בכור היתוך יחיד מכיוון שהוא ממזער את עלויות הדלק. 
 
-The only time you would use multiple Crucibles is if you aim to transfer / sell a Crucible with some active Subscription on it.
+הפעם היחידה בה אתה תשתמש בכורי היתוך מרובים היא אם אתה שואף להעביר / למכור כור היתוך עם מנוי פעיל כלשהו.
 
-## What is the maximum number of crucibles that can be created? 
+## מהו המספר המקסימלי של כורי היתוך שניתן ליצור?
 
-An unlimited number of crucibles can be created. Please note that if you visit [etherscan, ](https://etherscan.io/token/0x54e0395cfb4f39bef66dbcd5bd93cca4e9273d56)please disregard the word "Max" in "Max Total Supply" because the supply is unlimited. The "Max Total Supply" shown on etherscan simply indicates the total number crucibles created so far.
+ניתן ליצור מספר בלתי מוגבל של כורי היתוך. לידיעתך, אם אתה מבקר ב- [etherscan](https://etherscan.io/token/0x54e0395cfb4f39bef66dbcd5bd93cca4e9273d56), אנא התעלם מהמילה "Max" ב "Max Total Supply" מכיוון שההיצע הוא בלתי מוגבל. ה- "Max Total Supply" המוצג ב- etherscan פשוט מציין את הסך הכולל של כורי היתוך שנוצרו עד כה.
 
-## **How does "Claim Rewards and Unsubscribe LP" impact the reward multiplier?**
+## כיצד **"Claim Rewards and Unsubscribe LP"** משפיע על מכפיל התגמול?
 
-Every time you put LP tokens in the Aludel reward program, it keeps track of how long those tokens are Subscribed. The Aludel applies a reward multiplier which starts at 1x and increases to 10x over 60 days. When you claim a partial amount, the Aludel first claims from the Subscription with the lowest multiplier \(Last In, First Out\).
+בכל פעם שאתה מציב אסימונים של LP בתכנית התגמול של Aludel, זה עוקב אחר משך הזמן שבו אסימונים אלה מנויים. ה- Aludel מחיל מכפיל תגמול שמתחיל פי 1 ומגדיל פי 10 למשך 60 יום. כאשר תובעים סכום חלקי, Aludel תובע תחילה מהמנוי עם המכפיל הנמוך ביותר \(Last In, First Out\).
 
 ![](../.gitbook/assets/untitled%20%281%29.png)
 
-## **Can I somehow see how much rewards I have acquired in the meantime?**
+## האם אני יכול איכשהו לראות כמה תגמולים רכשתי בינתיים?
 
-You can see the accumulated reward for your crucible by using the UI at either [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) and the accumulated Uniswap LP fees earned using [apy.vision](https://apy.vision/) or [croco.finance](https://croco.finance/) \(Uniswap LP fees earned will show as ⚗️, and WETH or ETH\).
+אתה יכול לראות את התגמול המצטבר עבור כור ההיתוך שלך באמצעות ממשק המשתמש  [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) ובעמלות ה- LP שנצברו על ידי Uniswap שנצברו באמצעות [apy.vision](https://apy.vision/) או [croco.finance](https://croco.finance/) \(דמי LP של Uniswap שנצברו יופיעו כ- ⚗️, ו- WETH או ETH\) .
 
 ![croco.finance](../.gitbook/assets/untitled.png)
 
@@ -129,8 +129,6 @@ No, as long as the rewards are not unsubscribed from the Aludel.
 
 
 ## **אנא צפה בסרטון זה על הפסד בלתי קבוע לפני שתמשיך**
-
-{% embed url="https://youtu.be/8XJ1MSTEuU0" %}
 
 **? Crucible NFT -ל Mint איך אני עושה / Aludel -כיצד אוכל להשתתף ב**
 
@@ -194,7 +192,7 @@ Token Decimal: 0
 
 **?Crucible -נכנסים ל LP tokens האם זה משנה כמה**
 
-כמות הנזילות שאתה מספק תגדל ולכן תקבל גם אחוז גדול יותר ממאגר התגמולים LP tokens ככל שתקבל יותר .אך אנו ממליצים שתזכור את עלות גז האתריום שאתה שוקל זאת LP -לא קיימת דרישת מינימום ל
+ככל שתקבל יותר LP tokens כמות הנזילות שאתה מספק תגדל ולכן תקבל גם אחוז גדול יותר ממאגר התגמולים. לא קיימת דרישת מינימום ל- LP אך אנו ממליצים שתזכור את עלות גז האתריום שאתה שוקל זאת 
 
 **?אחד Crucible -או הרשמה גבוהה יותר ב Crucible האם יש יתרון בלהחזיק יותר**
 
