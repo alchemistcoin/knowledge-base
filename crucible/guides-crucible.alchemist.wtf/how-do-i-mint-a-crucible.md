@@ -1,3 +1,7 @@
+---
+description: Minting a Crucible
+---
+
 # איך מבצעים מינט לכור היתוך?
 
 {% embed url="https://www.youtube.com/watch?v=SnnA4NBluDI" %}
