@@ -24,91 +24,91 @@ description: Alchemist Builders Onboarding Guide
 
 לפרטים נוספים אנא קרא מאמר[ זה](where-to-start-the-7-itil-guiding-principles-thegostep-s.md)
 
-## Compliance & Ethic
+## תאימות ואתיקה
 
-We are open-minded and welcome everyone who wants to join us and actively participate in the discovery of the Elixir of Life. Alchemist guild has no limits or regulations that would limit our growth potential. There is no company, developer or a dark puppet master behind the scenes pulling the strings. Our community grows day by day and leads the project into new - now unimagined spheres. As a decentralized organization, from our point of view it is important to agree on ethics and common rules of conduct. We agreed to follow these rules:
+אנו פתוחים בראש ומקבלים בברכה את כל מי שרוצה להצטרף אלינו ולהשתתף באופן פעיל בגילוי אליקסיר החיים. לגילדת האלכימאים אין מגבלות או תקנות שיגבילו את פוטנציאל הצמיחה שלנו. אין חברה, מפתח או אדון בובות כהה מאחורי הקלעים המושכים בחוטים. הקהילה שלנו גדלה מיום ליום ומובילה את הפרויקט לתחומים חדשים - עכשיו לא מדמיינים. כארגון מבוזר, מנקודת מבטנו חשוב להסכים על אתיקה וכללי התנהגות משותפים. הסכמנו למלא אחר הכללים הבאים:
 
-* Be respectful to each other
-* No racism, sexism, agitation or activity that brings harm to the community
-* No inappropriate language or content
+* היו מכבדים זה את זה
+* אין גזענות, סקסיזם, תסיסה או פעילות שמביאים נזק לקהילה
+* אין שפה או תוכן לא הולם
 
-## Hierachy
+## היררכיה
 
-Our hierarchy is clearly defined and relatively flat. Our Multi-Sig Signers & Senior Alchemists as well as @thegostep as the founder represent the leadership & simultaneous supervision for Alchemist itself. In addition to goals, milestones and timelines, they also set the basic direction so that Alchemist creates the greatest possible value to ensure a bright future to itself.
+ההיררכיה שלנו מוגדרת בבירור ושטוחה יחסית. החותמים הרב-זיגיים שלנו והאלכימאים הבכירים, כמו גם @thegostep כמייסד, מייצגים את ההנהגה והפיקוח הסימולטני של אלכימאי עצמו. בנוסף למטרות, אבני דרך ולוחות זמנים, הם גם קובעים את הכיוון הבסיסי כך שאלכימאי יוצר את הערך הגדול ביותר האפשרי כדי להבטיח לעצמו עתיד מזהיר.
 
-Next comes the builder group with members from different fields of expertise. On the one hand, of course, there are developers on board who primarily take care of the concept, architecture and the implementation of one or several projects. The builder group does not only consist of developers but scholars from all walks of life - marketing experts, artists and some extremely committed community members. Everyone who wishes to actively participate is part of the builder group. Regardless of the existing skills a lively, constructive exchange in Discord or in other tools such as Basecamp is appreciated. The builder role will enable users to view sensitive technical concepts and products under development in the alchemist labs.
+לאחר מכן מגיעה קבוצת הבונים עם חברים מתחומי התמחות שונים. מצד אחד, כמובן, ישנם מפתחים על הסיפון שדואגים בעיקר לתפיסה, ארכיטקטורה ויישום פרויקט אחד או כמה. קבוצת הבונים מורכבת לא רק ממפתחים אלא מלומדים מכל שכבות האוכלוסייה - מומחי שיווק, אמנים וכמה מחברי הקהילה המחויבים ביותר. כל מי שרוצה להשתתף באופן פעיל הוא חלק מקבוצת הבנאים. ללא קשר לכישורים הקיימים, מעריכים החלפה ערה ובונה בדיסקורד או בכל כלים אחרים כמו Basecamp. תפקיד הבנאי יאפשר למשתמשים להציג מושגים טכניים רגישים ומוצרים בפיתוח במעבדות האלכימאים.
 
-In order to keep the teams of builders focused on their transmutations a new role was created - the apprentice. This role gives young alchemists still trying to find their way access to a lot of the experiments going on in the lab, but protects them from territory involving advanced alchemy that might result in accidentally blowing up half the building. The “builder” role will evolve to serve as the next step for the apprentice once they’ve mastered the full technical side of alchemical experimentation.
+על מנת לשמור על צוותי הבונים הממוקדים בתמורות שלהם נוצר תפקיד חדש - החניך. תפקיד זה נותן לאלכימאים צעירים שעדיין מנסים למצוא את דרכם גישה להרבה ניסויים המתרחשים במעבדה, אך מגן עליהם מפני טריטוריה הכוללת אלכימיה מתקדמת שעלולה לגרום לפוצץ בטעות מחצית מהבניין. תפקיד "הבנאי" יתפתח וישמש כשלב הבא לחניך ברגע שישלטו בצד הטכני המלא של ניסויים אלכימיים.
 
-The fourth group are the "regular" community members and certified alchemists, who are mostly made up of $Mist and / or crucible holders. The community plays a major role for us - cooperation, revealing widespread sentiments and provides valuable feedback in relation to existing products and services as well as food for thought for further experiments. We appreciate everyone who found their way to us and like to let them feel comfortable as much as possible in our community.
+הקבוצה הרביעית הם חברי הקהילה "הרגילים" ואלכימאים מוסמכים, שמורכבים בעיקר מ- $ Mist ו / או מחזיקי כור היתוך. הקהילה ממלאת תפקיד מרכזי עבורנו - שיתוף פעולה, גילוי רגשות רחבים ומספק משוב רב ערך ביחס למוצרים ושירותים קיימים, כמו גם חומר למחשבה לניסויים נוספים. אנו מעריכים את כל מי שמצא את דרכם אלינו ואוהב לתת להם להרגיש בנוח ככל האפשר בקהילה שלנו.
 
-## Tools
+## כלים
 
 ### Discord
 
-#### **General**
+#### כללי
 
-Discord is a VoIP, instant messaging and digital distribution platform designed for creating communities. Users communicate with voice calls, video calls, text messaging, media and files in private chats or as part of communities called "servers". Servers are a collection of persistent chat rooms and voice chat channels. Discord runs on Windows, macOS, Android, iOS, iPadOS, Linux, and in web browsers. As of December 2020, the service has over 140 million monthly active users.
+דיסקורד היא פלטפורמת VoIP, מסרים מיידיים והפצה דיגיטלית המיועדת ליצירת קהילות. משתמשים מתקשרים עם שיחות קוליות, שיחות וידאו, הודעות טקסט, מדיה וקבצים בצ'אטים פרטיים או כחלק מקהילות הנקראות "שרתים". שרתים הם אוסף של חדרי צ'אט קבועים וערוצי צ'אט קולי. Discord פועל ב- Windows, macOS, Android, iOS, iPadOS, Linux ובדפדפני אינטרנט. נכון לדצמבר 2020, יש בשירות מעל 140 מיליון משתמשים פעילים מדי חודש.
 
-#### **How we use it**
+#### איך אנו משתמשים בזה
 
-Discord is our preferred communication tool, as it provides a fast, uncomplicated and sustainable solution for conversations - be it in writing or acoustically. We differentiate in 2 categories - Community & Builder. While the community is open to every alchemist, the builder has his own isolated area apart from distraction. The builder area is divided into different projects or topics, but is basically open to every builder and is intended to encourage participation.
+דיסקורד הוא כלי התקשורת המועדף עלינו, מכיוון שהוא מספק פיתרון מהיר, לא מסובך ובר קיימא לשיחות - בין אם זה בכתב או באקוסטי. אנו מבדילים בשתי קטגוריות - קהילה ובונה. בעוד שהקהילה פתוחה לכל אלכימאי, לבנאי יש אזור מבודד משלו מלבד הסחת דעת. אזור הבונה מחולק לפרויקטים או נושאים שונים, אך בעצם פתוח לכל בונה ונועד לעודד השתתפות.
 
-**Links:** [**Alchemist Discord**](http://discord.alchemist.wtf)\*\*\*\*
+קישורים: [**Alchemist Discord**](http://discord.alchemist.wtf)\*\*\*\*
 
 ### Basecamp
 
-#### **General**
+#### כללי
 
 Basecamp is a project management app that you can access in your browser and on your phone. It gives you the tools you need to set up to-dos, a schedule, create and upload documents and files, message and chat with your colleagues, and check in regularly with your group—all in one place!
 
 Whether you are working alone and need to get organized with your work or use it to collaborate on a project, with work or something personal, Basecamp makes it easy. It’s quick to set up and if you are consistent in using it it should make communication with your team a lot easier. Especially teams that are virtual.
 
-#### **How we use it**
+#### איך אנו משתמשים בזה
 
 Basecamp is the place where we collect, develop and map all projects. A more precise allocation of tasks and responsibilities are also carried out, as well as transcripts of calls and meetings. It is primarily used to provide an overview if you and especially the multisig-signers, senior alchemists, and builders involved, want to look at a project as a whole.
 
 ### Github
 
-#### **General**
+#### כללי
 
 GitHub is a web-based version-control and collaboration platform for software developers. GitHub facilitates social coding by providing a web interface to the Git code repository and management tools for collaboration. GitHub can be thought of as a serious social networking site for software developers. Members can follow each other, rate each other's work, receive updates for specific projects and communicate publicly or privately.
 
-#### **How we use it**
+#### איך אנו משתמשים בזה
 
 GitHub is the digital home of our developers. As already stated in the description, it the perfect platform for collaboration on deployment & developement, especially for us as a decentralized autonomous organization. It represents, separted into different respositories, the core of our products.
 
-**Links:** [**Alchemist Github**](https://github.com/alchemistcoin/alchemist)\*\*\*\*
+**קישורים:** [**Alchemist Github**](https://github.com/alchemistcoin/alchemist)\*\*\*\*
 
 ### Linear App
 
-#### **General**
+#### כללי
 
 Linear helps streamline software projects, sprints, tasks, and bug tracking. It's built for high-performance teams. It's directly connected to Github.
 
-#### **How we use it**
+#### איך אנו משתמשים בזה
 
 Linear is primarily used by us to document developer-relevant issues, problems and / or hurdles that arise during the architecture and processing of individual tasks \(previously defined in the Basecamp\) and ultimately to provide solutions or workarounds. Thus, Linear represents the tool, which breaks down individual tasks transparently and in detail for technical topics. Tracking tasks on Github.
 
 ### Figma
 
-#### **General**
+#### כללי
 
 Figma is a cloud-based design tool that is similar to Sketch in functionality and features, but with big differences that make Figma better for team collaboration. For those skeptical of such claims, we’ll explain how Figma simplifies the design process and is more effective than other programs at helping designers and teams work together efficiently.
 
-#### **How we use it**
+#### איך אנו משתמשים בזה
 
 Figma is mainly used by us to share creative content and work on it together. These can be, for example, UI-relevant design drafts, but also initial designs of community projects of any kind - an example here would be designs for one-pagers. Especially when it comes to design decisions, as these are often influenced by personal taste, in our opinion they should first be shared before they are published.
 
-**Links:** [**Alchemist Figma**](https://figma.com)\*\*\*\*
+**קישורים:** [**Alchemist Figma**](https://figma.com)\*\*\*\*
 
 ### **Coordinape**
 
-#### **General**
+#### כללי
 
 Coordinape is a platform for DAOs to easily and fairly distribute resources to contributors. Community grants, internal salaries, and special projects can all be incentivized and rewarded by the community itself. Instead of cumbersome voting or black box committees, contributors themselves can quickly and transparently reward the value they see being created.
 
-#### **How we use it**
+#### איך אנו משתמשים בזה
 
 Alchemists that have received payouts from the multisig will be placed in circles and have the ability to reward their fellow contributors.
 
