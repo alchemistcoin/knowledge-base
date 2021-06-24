@@ -45,19 +45,21 @@
 
 ####  העלות של ביצוע מינט
 
-When dealing with Ethereum based tokens and contracts you will face gas fees at almost every stage. 
+כאשר אתה מתמודד עם אסימונים וחוזים מבוססי אתריום, תאלץ להתמודד גם בפני דמי גז כמעט בכל שלב.
 
-Gas prices continuously fluctuate and this plays a major role on how much gas you are expected to pay, for this reason we are unable to give an indication.
+מחירי הדלק משתנים ללא הרף וזה ממלא תפקיד מרכזי בכמות הגז שאתה צפוי לשלם, מסיבה זו איננו יכולים לתת אינדיקציה.
 
-We can say however, that you should take into account the value of your LP tokens against the cost of gas when you are about to submit a transaction to mint a crucible.
+אנו יכולים לומר כי עליכם לקחת בחשבון את ערך אסימוני ה- LP שלכם מול עלות הדלק כאשר אתם עומדים לעשות עסקה לביצוע מינט לכור היתוך.
 
-#### The tools
+#### הכלים
 
-Our guides have been based on our wallet of choice, MetaMask![](../.gitbook/assets/metamask-fox.svg). If you need advise regarding the use of other wallets, pop into our [discord](http://discord.alchemist.wtf) channel and the community will be happy to answer.
+המדריכים שלנו התבססו על הארנק שבחרנו, MetaMask![](../.gitbook/assets/metamask-fox.svg). אם אתה זקוק לייעוץ בנוגע לשימוש בארנקים אחרים, היכנס לערוץ ה- [discord](http://discord.alchemist.wtf) שלנו והקהילה תשמח לענות.
 
 {% hint style="warning" %}
-MetaMask will not recognise or display your Crucible tokens until you [add the token addresses](faq.md#why-cant-i-see-my-mist-in-my-wallet) to the application. 
+ה- MetaMask שלך לא יזהה או יציג את אסימוני כור ההיתוך שלך עד [שתוסיף את כתובת האסימונים](faq.md#why-cant-i-see-my-mist-in-my-wallet) ליישום.
 {% endhint %}
+
+
 
 ## What wallets can I use to store my Crucible?
 
