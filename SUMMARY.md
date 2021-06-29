@@ -40,6 +40,7 @@
 
 * [Twitter](https://twitter.com/_alchemistcoin)
 * [Discord](http://discord.alchemist.wtf)
+* [Medium](https://medium.com/alchemistcoin)
 * [Telegram](https://t.me/alchemistcoin)
 * [Instagram](https://www.instagram.com/thealchemistcoin/)
 * [YouTube](https://www.youtube.com/channel/UCIs4LugynLei2TN__lJh-6Q)
