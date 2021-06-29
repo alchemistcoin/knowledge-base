@@ -45,4 +45,5 @@
 * [Instagram](https://www.instagram.com/thealchemistcoin/)
 * [YouTube](https://www.youtube.com/channel/UCIs4LugynLei2TN__lJh-6Q)
 * [Github](http://alchemist.wtf/)
+* [Reddit](https://www.reddit.com/r/alchemist_coin/)
 
