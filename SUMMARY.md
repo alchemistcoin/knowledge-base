@@ -40,8 +40,10 @@
 
 * [ट्विटर](https://twitter.com/_alchemistcoin)
 * [डिस्कॉर्ड](http://discord.alchemist.wtf)
+* [Medium](https://medium.com/alchemistcoin)
 * [टेलीग्राम](https://t.me/alchemistcoin)
 * [इंस्टाग्राम](https://www.instagram.com/thealchemistcoin/)
 * [यूट्यूब](https://www.youtube.com/channel/UCIs4LugynLei2TN__lJh-6Q)
 * [गिटहब](http://alchemist.wtf/)
+* [Reddit](https://www.reddit.com/r/alchemist_coin/)
 
