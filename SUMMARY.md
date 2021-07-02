@@ -33,14 +33,17 @@
 
 * [Crucible](https://crucible.alchemist.wtf/)
 * [mistX](https://mistx.io/)
+* [Sandwiched.wtf](https://sandwiched.wtf/)
 * [Copper](https://copperlaunch.com/)
 
 ## Linki 🔗 <a id="discussion"></a>
 
 * [Twitter](https://twitter.com/_alchemistcoin)
 * [Discord](http://discord.alchemist.wtf/)
+* [Medium](https://medium.com/alchemistcoin)
 * [Telegram](https://t.me/alchemistcoin)
 * [Instagram](https://www.instagram.com/thealchemistcoin/)
 * [YouTube](https://www.youtube.com/channel/UCIs4LugynLei2TN__lJh-6Q)
 * [Github](http://alchemist.wtf/)
+* [Reddit](https://www.reddit.com/r/alchemist_coin/)
 
