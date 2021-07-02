@@ -8,7 +8,7 @@ Hiç mistX.io'te coin alım-satımı yaptınız mı? Eğer öyleyse, bunu nasıl
 $MIST al-satı yaparken mistX.io kullanmanızı öneririz. Ancak, Uniswap kullanmaya karar verirseniz, **Uniswap V3**'teki düşük likidite nedeniyle, ekstra kayma\(slippage\), satın alma işleminiz için en iyi fiyatı alamayacağınız anlamına gelebilir. Token alım-satımını gerçekleştirmek için lütfen bu [**Uniswap V2**](https://app.uniswap.org/#/swap?outputCurrency=0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab&use=V2) bağlantısını kullanın.
 {% endhint %}
 
-1. [Uniswap V2'de $MIST alım-satıma](http://swap.alchemist.wtf/) gidin
+1. [mistX.io'de $MIST alım-satıma](http://swap.alchemist.wtf/) gidin
 2. MetaMask cüzdanınızı bağlayın
 3. Bunun gibi bir şey görmelisiniz:
 
