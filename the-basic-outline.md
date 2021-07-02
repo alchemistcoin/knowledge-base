@@ -1,8 +1,6 @@
 # Temel ana hat
 
-There is a token called [Alchemist](https://etherscan.io/token/0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab). It has the ticker symbol "⚗️". It is also referred to as "mist" and "$MIST". Do not confuse it with [Mist \(MIST\)](https://www.coingecko.com/en/coins/mist), [Alchemist DeFi Mist \(MIST\)](https://www.coingecko.com/en/coins/alchemist-defi-mist), and [Cometh \(MUST\)](https://coinmarketcap.com/currencies/cometh/) - despite the alembic symbol ⚗️ and similar names, these three tokens have no relation to Alchemist \(MIST\).  
-  
-[Alchemist ](https://etherscan.io/token/0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab)adında bir token bulunmakta. Tickerı "⚗️" imbik simgesidir. Aynı zamanda "mist" ve "$MIST" olarak da anılır. [MUST](https://www.coingecko.com/en/coins/must) ile karıştırmayın - sembolü imbik olmasına rağmen Alchemist ile hiçbir ilişkisi yoktur.
+[Alchemist ](https://etherscan.io/token/0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab)adında bir token bulunmakta. Tickerı "⚗️" imbik simgesidir. Aynı zamanda "mist" ve "$MIST" olarak da anılır. [Mist \(MIST\)](https://www.coingecko.com/en/coins/mist), [Alchemist DeFi Mist \(MIST\)](https://www.coingecko.com/en/coins/alchemist-defi-mist) ve [Cometh \(MUST\)](https://coinmarketcap.com/currencies/cometh/) ile karıştırmayın - imbik sembolü ⚗️ ve benzer isimlere rağmen, bu üç jetonun Alchemist \(MIST\) ile hiçbir ilişkisi yoktur.
 
 ![](.gitbook/assets/mm_mi21st.png)
 
