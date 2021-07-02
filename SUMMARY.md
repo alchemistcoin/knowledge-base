@@ -46,7 +46,3 @@
 * [Github](http://alchemist.wtf/)
 * [Reddit](https://www.reddit.com/r/alchemist_coin/)
 
----
-
-* [Untitled](untitled.md)
-
