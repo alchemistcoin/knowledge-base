@@ -5,9 +5,7 @@
 Hiç mistX.io'te coin alım-satımı yaptınız mı? Eğer öyleyse, bunu nasıl yapacağınızı zaten biliyorsunuz.
 
 {% hint style="warning" %}
-We recommend using mistX.io when trading $MIST. However, if you decide to use Uniswap, please note that due to low liquidity on **Uniswap V3**, extra slippage might mean you will not get the best price for your purchase. Please use this [**Uniswap V2**](https://app.uniswap.org/#/swap?outputCurrency=0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab&use=V2) ****link to perform the token swap using Uniswap.
-
-**Uniswap V3**'teki düşük likidite nedeniyle, ekstra kayma\(slippage\), satın alma işleminiz için en iyi fiyatı alamayacağınız anlamına gelebilir. Token alım-satımını gerçekleştirmek için lütfen aşağıdaki **Uniswap V2** bağlantımızı kullanın.
+$MIST al-satı yaparken mistX.io kullanmanızı öneririz. Ancak, Uniswap kullanmaya karar verirseniz, **Uniswap V3**'teki düşük likidite nedeniyle, ekstra kayma\(slippage\), satın alma işleminiz için en iyi fiyatı alamayacağınız anlamına gelebilir. Token alım-satımını gerçekleştirmek için lütfen bu [**Uniswap V2**](https://app.uniswap.org/#/swap?outputCurrency=0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab&use=V2) bağlantısını kullanın.
 {% endhint %}
 
 1. [Uniswap V2'de $MIST alım-satıma](http://swap.alchemist.wtf/) gidin
