@@ -2,7 +2,7 @@
 
 ## **⚗️ \($MIST\) ile nerede al-sat yapabilirim?**
 
-Çoğu işlem Uniswap'te gerçekleşir, bunu bağlantımızı kullanarak bulabilirsiniz.
+Çoğu işlem mistX.io'te gerçekleşir, bunu bağlantımızı kullanarak bulabilirsiniz.
 
 * [swap.alchemist.wtf](http://swap.alchemist.wtf/)
 
