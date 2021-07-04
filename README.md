@@ -14,7 +14,7 @@ Een alchemist word je met training en ervaring. Training is een manier van leven
 
 ⚗️$mist wordt gebruikt om toegewijde alchemisten te coördineren en te belonen. Of je nu een artiest, een ontwikkelaar, een communitymanager of een liquiditeitsverschaffer bent, er is een rol beschikbaar voor jou.
 
-Ontmoet de andere alchemisten op discord en bied je vaardigheden aan in het \#bounties-kanaal.
+Ontmoet de andere alchemisten op discord en bied je vaardigheden aan in het [\#builders-application](https://discord.com/channels/812035504869998644/812324390082969620).
 
 #### **Is er een website?**
 
