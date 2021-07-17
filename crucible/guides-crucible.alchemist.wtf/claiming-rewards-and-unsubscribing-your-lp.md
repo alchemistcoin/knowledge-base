@@ -5,15 +5,11 @@ Ad un certo punto ti sentirai pronto per richiedere le tue ricompense e disiscri
  La guida sottostante è stata creata proprio per guidarti in questo processo. 
 
 {% hint style="info" %}
-Please note that when you unsubscribe all of your LP or only a portion of your LP from the crucible, the reward multiplier for the unsubscribed LP will be reset.  If you unsubscribe only a portion of the subscribed LP, the reward multiplier for the portion unsubscribed will be reset, while the subscribed portion will remain at its current multiplier. 
-
-For example, suppose you have 1.7 LP subscribed and its reward multiplier is at 10x. You decide to unsubscribe 1 LP. The 0.7 LP remaining \(still subscribed\) will continue to have a reward multiplier of 10x, while the unsubscribed 1 LP's reward multiplier will be reset. 
-
-The rewards you receive will be from the unsubscribed 1 LP, not the subscribed 0.7 LP.
+Tieni presente che quando annulli l'iscrizione di tutti i tuoi LP o solo una parte dei tuoi LP dal crogiolo, il moltiplicatore di ricompensa per gli LP annullati verrà azzerato. Se annulli solo una parte del LP sottoscritto, il moltiplicatore di ricompensa per la parte non sottoscritta verrà azzerato, mentre la parte sottoscritta rimarrà al suo attuale moltiplicatore.
 {% endhint %}
 
 {% hint style="info" %}
-Please note that after claiming your rewards and unsubscribing your LP, you will no longer receive rewards from the Aludel reward program. To receive rewards again please follow the guide below, then withdraw your LP using the "Withdraw unsubscribed LP" button, and then subscribe your LP using the "Increase LP subscription" button.
+Tieni presente che dopo aver richiesto i tuoi premi e annullato l'iscrizione al tuo LP, non riceverai più premi dal programma di premi Aludel. Per ricevere nuovamente i premi, segui la guida di seguito, quindi ritira il tuo LP utilizzando il pulsante "Withdraw unsubscribed LP", quindi iscriviti utilizzando il pulsante "Increase LP subscription".
 {% endhint %}
 
 1. Apri [crucible.alchemist.wtf](https://crucible.alchemist.wtf/), connetti il tuo wallet e clicca la barra "Your Crucibles".
@@ -28,35 +24,35 @@ Please note that after claiming your rewards and unsubscribing your LP, you will
    ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.05.52.png)   
 
 
-   7. Fill in the prompt with how much LP you wish to unsubscribe and Click "Claim rewards and unsubscribe LP".  
+   7. Compila il prompt con quanti LP desideri annullare l'iscrizione e fai clic su "Claim rewards and unsubscribe LP".  
    ![](../../.gitbook/assets/1.png)   
 
 
-   8. You will now get two pop up boxes from MetaMask asking you for a “Signature Request”. Click “sign” both times.  
+   8. Ora riceverai due finestre pop-up da MetaMask che ti chiedono una "Richiesta di firma". Fare clic su "firma" entrambe le volte.  
    ![](../../.gitbook/assets/2%20%282%29%20%282%29%20%281%29.png)   
-   1st Signature Request
+   1st Richiesta di firma
 
   
    ![](../../.gitbook/assets/3%20%281%29%20%285%29%20%281%29%20%284%29.png)  
-    2nd Signature Request  
+    2nd Richiesta di firma  
 
 
-   9. The cost of Gas will be automatically calculated by the website based on the current rate of gas. This will be submitted on your behalf as part of the claim rewards transaction.
+   9. Il costo del Gas sarà calcolato automaticamente dal sito web in base alla tariffa del gas attuale. Questo verrà inviato per tuo conto come parte della transazione di richiesta dei premi.
 
 
 
-   10. You will now get a message indicating that your claim is now being submitted via Flashbots. This is to protect your rewards from frontrunners. The process may take up to 5 minutes to complete.
+   10. Ora riceverai un messaggio che indica che la tua richiesta è stata inoltrata tramite Flashbots. Questo serve per proteggere i tuoi premi dai favoriti. Il completamento del processo può richiedere fino a 5 minuti.
 
    ![](../../.gitbook/assets/4%20%281%29%20%282%29.png)  
   
-   If you do not have enough ETH in your wallet for the transaction, you will receive a message as below.  
+   Se non hai abbastanza ETH nel tuo portafoglio per la transazione, riceverai un messaggio come di seguito.  
    ![](../../.gitbook/assets/edlin%20%281%29.png)  
 
 
-   11. If your transaction is successful you will get the message below.  
+   11. Se la tua transazione è andata a buon fine riceverai il messaggio qui sotto.  
    ![](../../.gitbook/assets/6.png)  
   
-   Due to the nature of bundling transactions, it's possible the transaction may not be successful on your first attempt. If this is the case, please try again. The gas fee will only be charged if there is a successful transaction. If the transaction fails, you will not be charged.  
+   A causa della natura delle transazioni raggruppate, è possibile che la transazione non vada a buon fine al primo tentativo. In questo caso, riprova. La tassa del gas verrà addebitata solo se la transazione è andata a buon fine. Se la transazione fallisce, non ti verrà addebitato alcun importo.  
    ![](../../.gitbook/assets/7%20%281%29.png)
 
 
