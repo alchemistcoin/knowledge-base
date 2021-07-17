@@ -5,7 +5,7 @@ U nekom trenutku ćeš poželeti da prikupiš svoje nagrade i otkažeš pretplet
 Vodič koji sledi će ti pokazati kako da prođeš kroz ceo proces korak po korak:
 
 {% hint style="info" %}
-Имајте на уму да када откажете претплату са целог свог ЛП-а или само дела ЛП-а, множилац награде за непотписани ЛП биће ресетован. Ако откажете претплату само на део претплаћеног ЛП-а, множилац награде за део који се није претплатио ресетоваће се, док ће претплаћени део остати на свом тренутном множитељу.
+Imajte na umu da kada otkažete pretplatu sa celog svog LP-a ili samo dela LP-a, množilac nagrade za nepotpisani LP biće resetovan. Ako otkažete pretplatu samo na deo pretplaćenog LP-a, množilac nagrade za deo koji se nije pretplatio resetovaće se, dok će pretplaćeni deo ostati na svom trenutnom množitelju.
 {% endhint %}
 
 {% hint style="info" %}
