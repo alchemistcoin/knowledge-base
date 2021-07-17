@@ -24,9 +24,9 @@
 * [Görsel Kılavuz  🎞](crucible/goersel-kilavuz.md)
 * [SSS 📖](crucible/faq.md)
 
-## Join us
+## Bize Katılın <a id="join-us"></a>
 
-* [Alchemist Builders Onboarding Guide](join-us/alchemist-builders-onboarding-guide.md)
+* [Alchemist Geliştirici Başlangıç ​​Rehberi](join-us/alchemist-builders-onboarding-guide.md)
 * [Where to start? – the 7 ITIL guiding principles \(thegostep\(s\);\)\)!](join-us/where-to-start-the-7-itil-guiding-principles-thegostep-s.md)
 
 ## TOOLS
