@@ -1,6 +1,6 @@
 # Temel ana hat
 
-[Alchemist ](https://etherscan.io/token/0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab)adında bir token bulunmakta. Tickerı "⚗️" imbik simgesidir. Aynı zamanda "mist" ve "$MIST" olarak da anılır. [Mist \(MIST\)](https://www.coingecko.com/en/coins/mist), [Alchemist DeFi Mist \(MIST\)](https://www.coingecko.com/en/coins/alchemist-defi-mist) ve [Cometh \(MUST\)](https://coinmarketcap.com/currencies/cometh/) ile karıştırmayın - imbik sembolü ⚗️ ve benzer isimlere rağmen, bu üç jetonun Alchemist \(MIST\) ile hiçbir ilişkisi yoktur.
+[Alchemist ](https://etherscan.io/token/0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab)adında bir token bulunmakta. Tickerı "⚗️" imbik simgesidir. Aynı zamanda "mist" ve "$MIST" olarak da anılır. [Mist \(MIST\)](https://www.coingecko.com/en/coins/mist), [Alchemist DeFi Mist \(MIST\)](https://www.coingecko.com/en/coins/alchemist-defi-mist) ve [Cometh \(MUST\)](https://coinmarketcap.com/currencies/cometh/) ile karıştırmayın - imbik sembolü ⚗️ ve benzer isimlere rağmen, bu üç tokenın Alchemist \(MIST\) ile hiçbir ilişkisi yoktur.
 
 ![](.gitbook/assets/mm_mi21st.png)
 
