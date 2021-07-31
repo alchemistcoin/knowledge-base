@@ -1,4 +1,4 @@
-# Visual Guides 🎞
+# Visual Guides
 
 ### **Videos 🎬📺**
 
