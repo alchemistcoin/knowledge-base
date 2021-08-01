@@ -1,4 +1,4 @@
-# FAQ
+# Frequently Asked Questions
 
 ## **Where can I trade ⚗️ \($MIST\) ?**
 

@@ -1,34 +1,20 @@
 # Table of contents
 
-* [What is Alchemist?](README.md)
-* [Official Community Links 🔗](official-community-links.md)
+* [About Alchemist](README.md)
+* [Community Links](community-links.md)
 
-## Alchemist Token ⚗️ $MIST <a id="alchemist-token"></a>
+## Alchemist Token
 
-* [The Basic Outline](alchemist-token/the-basic-outline.md)
+* [Basics](alchemist-token/basics.md)
 * [Acquiring & Subscribing](alchemist-token/acquiring-and-subscribing.md)
-* [FAQ](alchemist-token/faq.md)
-
-## Crucible
-
-* [Getting Started](crucible/getting-started.md)
-* [Teach me about Crucibles](crucible/teach-me-about-crucibles.md)
-* [Guides: Crucibles](crucible/guides-crucible.alchemist.wtf/README.md)
-  * [How do I mint a Crucible?](crucible/guides-crucible.alchemist.wtf/how-do-i-mint-a-crucible.md)
-  * [What can I do with my new Crucible?](crucible/guides-crucible.alchemist.wtf/what-can-i-do-with-my-new-crucible.md)
-  * [Claiming Rewards & Unsubscribing your LP](crucible/guides-crucible.alchemist.wtf/claiming-rewards-and-unsubscribing-your-lp.md)
-  * [Introducing new features & Aludel v1.5](crucible/guides-crucible.alchemist.wtf/introducing-new-features-and-aludel-v1.5.md)
-* [How to Become a "Certified Alchemist" on Discord](crucible/how-to-become-a-certified-alchemist-on-discord.md)
-* [Wallet Compatibility](crucible/wallet-compatibility.md)
-* [Visual Guides](crucible/visual-guides.md)
-* [FAQ 📖](crucible/faq.md)
+* [Frequently Asked Questions](alchemist-token/faq.md)
 
 ## Join us
 
 * [Alchemist Builders Onboarding Guide](join-us/alchemist-builders-onboarding-guide.md)
 * [Where to start? – The 7 ITIL Guiding Principles](join-us/where-to-start-the-7-itil-guiding-principles-thegostep-s.md)
 
-## TOOLS
+## Products
 
 * [Crucible](https://crucible.alchemist.wtf/)
 * [Copper](https://copperlaunch.com/)
@@ -45,4 +31,18 @@
 * [Telegram](https://t.me/alchemistcoin)
 * [Reddit](https://www.reddit.com/r/alchemist_coin/)
 * [Instagram](https://www.instagram.com/thealchemistcoin/)
+
+## Crucible
+
+* [Getting Started](crucible/getting-started.md)
+* [Teach me about Crucibles](crucible/teach-me-about-crucibles.md)
+* [Guides: Crucibles](crucible/guides-crucible.alchemist.wtf/README.md)
+  * [How do I mint a Crucible?](crucible/guides-crucible.alchemist.wtf/how-do-i-mint-a-crucible.md)
+  * [What can I do with my new Crucible?](crucible/guides-crucible.alchemist.wtf/what-can-i-do-with-my-new-crucible.md)
+  * [Claiming Rewards & Unsubscribing your LP](crucible/guides-crucible.alchemist.wtf/claiming-rewards-and-unsubscribing-your-lp.md)
+  * [Introducing new features & Aludel v1.5](crucible/guides-crucible.alchemist.wtf/introducing-new-features-and-aludel-v1.5.md)
+* [How to Become a "Certified Alchemist" on Discord](crucible/how-to-become-a-certified-alchemist-on-discord.md)
+* [Wallet Compatibility](crucible/wallet-compatibility.md)
+* [Visual Guides](crucible/visual-guides.md)
+* [FAQ 📖](crucible/faq.md)
 
