@@ -19,7 +19,7 @@
 * [Crucible](https://crucible.alchemist.wtf/)
 * [Copper](https://copperlaunch.com/)
 * [mistX](https://mistx.io/)
-* [Sandwiched.wtf](https://sandwiched.wtf/)
+* [Sandwiched](https://sandwiched.wtf/)
 
 ## Links <a id="discussion"></a>
 
