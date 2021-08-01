@@ -1,3 +1,7 @@
+---
+description: ITIL - Information Technology Infrastructure Library
+---
+
 # Where to start? – The 7 ITIL Guiding Principles
 
 A guiding principle is a recommendation that provides universal and enduring guidance to an organization, which applies in all circumstances, regardless of changes in its goals, strategies, type of work, or management structure.
