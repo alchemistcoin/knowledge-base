@@ -9,7 +9,7 @@
 * [Acquiring & Subscribing](alchemist-token/acquiring-and-subscribing.md)
 * [Frequently Asked Questions](alchemist-token/faq.md)
 
-## Join us
+## Join the Team <a id="join-us"></a>
 
 * [Alchemist Builders Onboarding Guide](join-us/alchemist-builders-onboarding-guide.md)
 * [Where to start? – The 7 ITIL Guiding Principles](join-us/where-to-start-the-7-itil-guiding-principles-thegostep-s.md)
@@ -21,7 +21,7 @@
 * [mistX](https://mistx.io/)
 * [Sandwiched.wtf](https://sandwiched.wtf/)
 
-## Links 🔗 <a id="discussion"></a>
+## Links <a id="discussion"></a>
 
 * [Discord](http://discord.alchemist.wtf)
 * [Twitter](https://twitter.com/_alchemistcoin)
@@ -44,5 +44,5 @@
 * [How to Become a "Certified Alchemist" on Discord](crucible/how-to-become-a-certified-alchemist-on-discord.md)
 * [Wallet Compatibility](crucible/wallet-compatibility.md)
 * [Visual Guides](crucible/visual-guides.md)
-* [FAQ 📖](crucible/faq.md)
+* [Frequently Asked Questions](crucible/faq.md)
 
