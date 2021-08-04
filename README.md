@@ -10,7 +10,7 @@ There is no “dev team”. There is no company. There is only a community of al
 
 There is no roadmap. An alchemist never makes forward-looking statements, simply because the future is unpredictable.
 
-**How do I become an Alchemist?**
+## **How do I become an Alchemist?**
 
 Becoming an alchemist requires learning and practice. Training is a way of life for a true alchemist. There is no final destination, only continuous change.
 
@@ -18,7 +18,7 @@ Becoming an alchemist requires learning and practice. Training is a way of life 
 
 Come meet the other alchemists at [discord.alchemist.wtf](http://discord.alchemist.wtf) and offer your skills in the [\#builders-application](https://discord.com/channels/812035504869998644/812324390082969620) channel.
 
-**Is there a website?**
+## **Is there a website?**
 
-[crucible.alchemist.wtf](https://crucible.alchemist.wtf/)
+Currently we don't have a website however all our individual products have their own websites. Please use the menu on the left of the screen and refer to the "Product Links" section.
 

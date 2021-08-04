@@ -4,7 +4,7 @@ There is a token called [Alchemist](https://etherscan.io/token/0x88acdd2a6425c3f
 
 ![](../.gitbook/assets/mm_mi21st.png)
 
-What is ⚗️ good for? You can stake ⚗️ as with other coins, and you can ultimately use it to [mint Crucible NFTs](../crucible/teach-me-about-crucibles.md) in the [Aludel](basics.md#3-aludel) program.
+What is ⚗️ good for? You can stake ⚗️ as with other coins, and you can ultimately use it to [mint Crucible NFTs]() in the [Aludel](basics.md#3-aludel) program.
 
 ## How could I increase my wealth using ⚗️?
 
@@ -30,5 +30,5 @@ This profiting from liquidity pool fees mechanism is no different to staking any
 
 This is where the alchemy happens. "Aludel" is the name of the reward program where you can gain ⚗️ and ETH for subscribing to it with the LP tokens in to a Crucible.
 
-You can learn more about crucibles on the "[Teach me about Crucibles](../crucible/teach-me-about-crucibles.md)" page.
+You can learn more about crucibles on the "[Teach me about Crucibles]()" page.
 
