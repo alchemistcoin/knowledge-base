@@ -4,7 +4,7 @@ There is a token called [Alchemist](https://etherscan.io/token/0x88acdd2a6425c3f
 
 ![](../.gitbook/assets/mm_mi21st.png)
 
-What is ⚗️ good for? You can stake ⚗️ as with other coins, and you can ultimately use it to [mint Crucible NFTs]() in the [Aludel](basics.md#3-aludel) program.
+What is ⚗️ good for? You can stake ⚗️ as with other coins, and you can ultimately use it to [mint Crucible NFTs](https://docs.alchemist.wtf/crucible/guides-1/how-do-i-mint-a-crucible) in the [Aludel](basics.md#3-aludel) program.
 
 ## How could I increase my wealth using ⚗️?
 
