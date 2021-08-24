@@ -8,6 +8,7 @@
 * [Basics](alchemist-token/basics.md)
 * [Acquiring $MIST ⚗️](alchemist-token/acquiring-mist.md)
 * [Frequently Asked Questions](alchemist-token/faq.md)
+* [Guide: Inflation](alchemist-token/guide-inflation.md)
 
 ## Product Documentation
 
