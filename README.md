@@ -18,7 +18,3 @@ Becoming an alchemist requires learning and practice. Training is a way of life 
 
 Come meet the other alchemists at [discord.alchemist.wtf](http://discord.alchemist.wtf) and offer your skills in the [\#builders-application](https://discord.com/channels/812035504869998644/812324390082969620) channel.
 
-## **Is there a website?**
-
-Currently we don't have a website however all our individual products have their own websites. Please use the menu on the left of the screen and refer to the "Product Links" section.
-
