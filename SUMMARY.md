@@ -30,10 +30,11 @@
 
 ## Links <a id="discussion"></a>
 
+* [Landing Page](https://www.alchemist.wtf)
 * [Discord](http://discord.alchemist.wtf)
 * [Twitter](https://twitter.com/_alchemistcoin)
 * [Medium](https://medium.com/alchemistcoin)
-* [Github](http://alchemist.wtf/)
+* [Github](https://github.com/alchemistcoin)
 * [YouTube](https://www.youtube.com/channel/UCIs4LugynLei2TN__lJh-6Q)
 * [Telegram](https://t.me/alchemistcoin)
 * [Reddit](https://www.reddit.com/r/alchemist_coin/)
