@@ -50,34 +50,34 @@ In addition to inflation income, $mist holders will now be rewarded from the suc
 
 **Keyholder**
 
-* Trusted party entrusted with multisig keys
-* Incentivized through reputation + maintaining and increasing the value of $mist
+* trusted party entrusted with multisig keys
+* incentivized through reputation + maintaining and increasing the value of $mist
 
 **Senior**
 
 * admin, protocol custodian
-* Incentivized through maintaining and increasing the value of $mist
-* Outstanding performers promoted to senior
+* incentivized through maintaining and increasing the value of $mist
+* outstanding performers promoted to senior
 
 **Builder**
 
 * dev, artist, designer, researcher, operations
-* Incentivized through builder stipend + maintaining and increasing the value of $mist
+* incentivized through builder stipend + maintaining and increasing the value of $mist
 
 **Initiator**
 
 * founder, product manager, project manager
-* Incentivized through product upside + maintaining and increasing the value of $mist
+* incentivized through product upside + maintaining and increasing the value of $mist
 
 **Crucible holder**
 
-* Investor, liquidity provider, project supporter
-* Incentivized through maintaining and increasing the value of $mist
+* investor, liquidity provider, project supporter
+* incentivized through maintaining and increasing the value of $mist
 
 **Token holder**
 
-* Investor, project supporter -- possibly not comfortable with risk of IL of liquidity provision
-* Incentivized through maintaining and increasing the value of $mist
+* investor, project supporter -- possibly not comfortable with risk of IL of liquidity provision
+* incentivized through maintaining and increasing the value of $mist
 
 ### The Alchemist Council  
 
@@ -89,7 +89,7 @@ Through a majority vote, this council has the responsibility to decide on the fo
 * Funding of new projects and overseeing their milestones
 * Dilute the centralized role they hold responsible for the success of Alchemist. Make the ecosystem resilient.
 
-There are no restrictions on who can become a Senior Alchemist/Council member. Anyone passionate, capable, and who adds significant value to the project can become a Senior. Seniors are selected from Builder/Apprentice/Chaos Labs pools, or the broader crypto ecosystem. \(note: we need a clear path/criteria for what it takes to become a Senior Alchemist all the way from the community member level\)
+There are no restrictions on who can become a Senior Alchemist/Council Member. Anyone passionate, capable, and who adds significant value to the project can become a Senior. Seniors are selected from Builder/Apprentice/Chaos Labs pools, or the broader crypto ecosystem. \(note: we need a clear path/criteria for what it takes to become a Senior Alchemist all the way from the community member level\)
 
 Adding/removing council members
 
@@ -193,5 +193,5 @@ Projects can be as small as one person building brand awareness. Or as big as a 
 
 ### Next Steps
 
-Following the Fractal implementation, the community and Alchemist Council will complete a retrospective after three months on how the system can be improved and refined. 
+Following the Fractal implementation, the community and Alchemist Council will complete a retrospective review after three months on how the system can be improved and refined. 
 

@@ -8,7 +8,7 @@ description: Fund your project through Alchemist
 
 Projects that add value to the Alchemist ecosystem are eligible to receive funding through the [Alchemist Fractal](https://app.gitbook.com/@alchemist-docs/s/alchemist/~/drafts/-Mjbxop8wOca3qeH4DYh/the-alchemist-fractal/overview).
 
-Alchemist is committed to expanding our ecosystem by financing, incubating, and empowering small agile teams to build products that solve problems and grow our community. We encourage experimenting with innovative ideas that flow value both to individual project teams as well as the greater alchemist ecosystem.
+Alchemist is committed to expanding our ecosystem by financing, incubating, and empowering small agile teams to build products that solve problems and grow our community. We encourage experimenting with innovative ideas that flow value both to individual project teams as well as the greater Alchemist ecosystem.
 
 ### Funding amounts
 
