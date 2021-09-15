@@ -170,17 +170,13 @@ We recommend that new project proposals use the following template: [https://hac
    * Simple majority for yes/no
    * Must fit within 30% budget to seed new projects
 3. Project execution phase
+   * Team Discord channel controlled by the initiator
+   * Written progress update every week
+   * Product demo every two week
+4. Project completion phase
+   * Review by council and update project proposal for a new cycle
+   * Written introspective debrief by team
 
-* Team Discord channel controlled by the initiator
-* Written progress update every week
-* Product demo every two week
-
-1. Project completion phase
-
-* Review by council and update project proposal for a new cycle
-* Written introspective debrief by team
-
-  
 Revenue from core products within the ecosystem will be distributed as follows:
 
 * 50% to $mist holders via the Aludel program
