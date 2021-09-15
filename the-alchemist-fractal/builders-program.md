@@ -34,7 +34,7 @@ Eligible teams can apply to be fully or partially funded through the alchemist F
 Alchemist has a pool of experienced builders who may join project teams, assist with development/integration into existing products, or offer technical advice.  
   
 **Community building:**  
-The Alchemist community is strong, passionate, well-versed in the industry, and experienced with liquidity provision \(currently providing over $20m in liquidity for ETH/mist on Uniswap alone\)  
+The Alchemist community is strong, passionate, well-versed in the industry, and experienced with liquidity provision \(currently providing over $20m in liquidity for ETH/mist on Uniswap alone\).  
 
 
 **Design:**  
