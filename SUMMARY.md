@@ -10,6 +10,11 @@
 * [Frequently Asked Questions](alchemist-token/faq.md)
 * [Guide: Inflation](alchemist-token/guide-inflation.md)
 
+## The Alchemist Fractal
+
+* [Overview](the-alchemist-fractal/overview.md)
+* [Builders Program](the-alchemist-fractal/builders-program.md)
+
 ## Product Documentation
 
 * [Crucible Documentation](https://docs.alchemist.wtf/crucible/)
@@ -39,8 +44,4 @@
 * [Telegram](https://t.me/alchemistcoin)
 * [Reddit](https://www.reddit.com/r/alchemist_coin/)
 * [Instagram](https://www.instagram.com/thealchemistcoin/)
-
----
-
-* [Overview](overview.md)
 

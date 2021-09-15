@@ -1,10 +1,14 @@
+---
+description: >-
+  The Alchemist Fractal defines the high-level structure of the Alchemist
+  ecosystem.
+---
+
 # Overview
 
 ## **The Alchemist Fractal**
 
-### Overview 
-
-The Alchemist Fractal defines the high-level structure of the Alchemist ecosystem. Within the Fractal, several Alchemist types all share various responsibilities for different functions of the project.
+Within the Fractal, several Alchemist types all share various responsibilities for different functions of the project.
 
 This is simply the initial iteration of the Fractal. It is not necessarily the final top-level format, nor does it cover replication at more distant org levels. These will be determined and outlined at a later stage. 
 
@@ -23,7 +27,7 @@ The Fractal structure will be a dynamic, ongoing experiment played out in the pu
 7. Incentivize shipping and long term alignment with MIST \(underpromise, overdeliver\)
 8. [Achieve dynamic stability through panarchy](https://www.goodreads.com/book/show/421209.Panarchy)
 
-### Alchemist economics
+### Alchemist Economics
 
 Until now, Aludel rewards for $mist holders have solely derived from inflation. This has been an effective way to bootstrap the ecosystem + community and has successfully incubated several different core products.
 
@@ -31,7 +35,7 @@ In addition to inflation income, $mist holders will now be rewarded from the suc
 
 ![](https://lh3.googleusercontent.com/w2WZ7PkvZiGrEyO8uTYjsmWEoRvHAChGCDlDY7xKHx-Y5jzMCXcsr2Ly-OLn2Po8vrteYKsBfdCa6QLqJiYJEMi3V-Umsyc_TzYz83sEc8EbvCpqVGDJ1XYbNd0AHUrMN0swN0bn=s0)
 
-###  Inflation distribution
+###  Inflation Distribution
 
 1% inflation every two weeks: 
 
@@ -124,7 +128,7 @@ Proposed Members of the Council
   <tbody></tbody>
 </table>
 
-### Fractal inflation income utilization
+### Fractal Inflation Income Utilization
 
 The Alchemist Council is tasked with determining the usage of Fractal income. The planned breakdown is as follows:
 
@@ -141,7 +145,7 @@ The Alchemist Council is tasked with determining the usage of Fractal income. Th
 
 * Set aside and used as needed through a vote of the council.
 
-### New ecosystem projects
+### New Ecosystem Projects
 
 The Alchemist Fractal emphasizes empowering small, agile project teams to build within the Alchemist ecosystem. New projects are incentivized through:
 
@@ -191,7 +195,7 @@ If the project involves the creation of tokens:
 
 Projects can be as small as one person building brand awareness. Or as big as a team of 5 Engineers building an entirely new revenue-generating product!
 
-### Next steps
+### Next Steps
 
 Following the Fractal implementation, the community and Alchemist Council will complete a retrospective after three months on how the system can be improved and refined. 
 
