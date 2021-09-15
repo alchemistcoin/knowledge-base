@@ -135,7 +135,7 @@ The Alchemist Council is tasked with determining the usage of Fractal income. Th
 **50% to fund service teams \(builders, marketing, design, community\)**
 
 * Budget and distribution managed by an Alchemist Council sub-committee 
-* Sub-committee acts as an operations team and is voted in and out via the council
+* Sub-committee acts as an operations team and is voted in and out via the Council
 
 **30% to seed new projects**
 
@@ -143,7 +143,7 @@ The Alchemist Council is tasked with determining the usage of Fractal income. Th
 
 **20% rainy day fund**
 
-* Set aside and used as needed through a vote of the council.
+* Set aside and used as needed through a vote of the Council.
 
 ### New Ecosystem Projects
 
@@ -157,9 +157,9 @@ The Alchemist Fractal emphasizes empowering small, agile project teams to build 
 
 Submitting a new project proposal to the Alchemist Council
 
-There is a small fee \(1 $mist\) to submit a new project proposal to the council to increase the quality and decrease spam proposals. If the proposal passes, this fee is refunded. If the proposal fails, the fee is lost. Current builders are exempt from this fee.
+There is a small fee \(1 $mist\) to submit a new project proposal to the Council to increase the quality and decrease spam proposals. If the proposal passes, this fee is refunded. If the proposal fails, the fee is lost. Current builders are exempt from this fee.
 
-Projects will be analyzed using an ROI-based approach to consider the value that they will add to the ecosystem. This ROI will consider both direct value \(revenue generated and distributed to LPs\) and external value to the alchemist ecosystem \(driving users to other products, community building, etc.\).
+Projects will be analyzed using an ROI-based approach to consider the value that they will add to the ecosystem. This ROI will consider both direct value \(revenue generated and distributed to LPs\) and external value to the Alchemist ecosystem \(driving users to other products, community building, etc.\).
 
 We recommend that new project proposals use the following template: [https://hackmd.io/G7Zn0YKMQmivXVBAeOfJww](https://hackmd.io/G7Zn0YKMQmivXVBAeOfJww) 
 
