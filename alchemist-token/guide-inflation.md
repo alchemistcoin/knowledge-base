@@ -9,7 +9,7 @@ This process is managed by our `StreamV2` contract. The `StreamV2` contract is r
 At current the distribution of inflation is divided into 3 pieces:
 
 1. `50%` is distributed to the [Aludel v1.5](https://etherscan.io/address/0x93c31fc68E613f9A89114f10B38F9fd2EA5de6BC) \([Crucible Documentation](https://docs.alchemist.wtf/crucible)\)
-2. `25%` is distributed to the [Multi-sig](https://etherscan.io/address/multisig.alchemistcoin.eth)
+2. `25%` is distributed to the [Fractal](https://etherscan.io/address/multisig.alchemistcoin.eth)
 3. `25%` is distributed to the [Treasury](https://etherscan.io/address/0x1c428a75181bc25509af3a5b7faee97b4b6d3562)
 
 The `StreamV2` contract is permissionless, this means that once the 14 days have passed since the previous inflation, anyone can make the contract call to mint and distribute the tokens.
