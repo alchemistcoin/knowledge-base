@@ -27,42 +27,33 @@ Projects will be analyzed using an ROI-based approach to consider the value that
 
 ### Why build with alchemist?
 
-Funding:
+**Funding:**  
+Eligible teams can apply to be fully or partially funded through the alchemist Fractal. 
 
-Eligible teams can apply to be fully or partially funded through the alchemist Fractal.   
-
-
-Access to builders:  
+**Access to builders:**  
 Alchemist has a pool of experienced builders who may join project teams, assist with development/integration into existing products, or offer technical advice.  
-
-
-Community building:
-
+  
+**Community building:**  
 The Alchemist community is strong, passionate, well-versed in the industry, and experienced with liquidity provision \(currently providing over $20m in liquidity for ETH/mist on Uniswap alone\)  
 
 
-Design:
-
+**Design:**  
 Alchemist has a team of experienced designers who are on-hand to provide designs to ensure products look great and are up to speck with what is required for success.    
 
 
-Marketing:
-
+**Marketing:**  
 Funded projects will be promoted across all alchemist channels to help with user acquisition and brand awareness.  
 
 
-Business development:
-
+**Business development:**  
 Funded projects will have access to Alchemist’s network of projects and a bizdev team to assist with building external relationships and partnerships.  
 
 
-Key point of contact:
-
+**Key point of contact:**  
 Funded projects will be assigned one key point of contact at Alchemist. This person will assist in the application process and introductions to the relevant stakeholders within the ecosystem.  
 
 
-Access to alchemist tech
-
+**Access to Alchemist tech:**  
 Advice and assistance with integrating with technologies such as Flashbots, NFTs, and more. Where relevant projects have access to launch their token through Copper, set up a liquidity mining program through Crucible, and get direct access to other technologies within the ecosystem.
 
 ### Requirements and Guidelines <a id="docs-internal-guid-4acb8f3b-7fff-94c4-b259-0b626e5c785d"></a>
