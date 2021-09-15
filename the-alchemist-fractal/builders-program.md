@@ -15,8 +15,7 @@ Alchemist is committed to expanding our ecosystem by financing, incubating, and 
 There are no limits to the level of funding projects can receive through the program. Previous projects have received between $500 and $650,000. 
 
 All project funding is paid in $mist.   
-
-
+  
 **Who should apply?**  
 Alchemist is looking for projects that are complementary to our ecosystem. We encourage experimentation and building world-first products or technologies.   
   
@@ -42,11 +41,11 @@ Alchemist has a team of experienced designers who are on-hand to provide designs
 
 
 **Marketing:**  
-Funded projects will be promoted across all alchemist channels to help with user acquisition and brand awareness.  
+Funded projects will be promoted across all Alchemist channels to help with user acquisition and brand awareness.  
 
 
 **Business development:**  
-Funded projects will have access to Alchemist’s network of projects and a bizdev team to assist with building external relationships and partnerships.  
+Funded projects will have access to Alchemists network of projects and a bizdev team to assist with building external relationships and partnerships.  
 
 
 **Key point of contact:**  
