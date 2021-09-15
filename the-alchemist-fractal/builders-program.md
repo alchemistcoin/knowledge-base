@@ -34,24 +34,19 @@ Alchemist has a pool of experienced builders who may join project teams, assist 
   
 **Community building:**  
 The Alchemist community is strong, passionate, well-versed in the industry, and experienced with liquidity provision \(currently providing over $20m in liquidity for ETH/mist on Uniswap alone\).  
-
-
+  
 **Design:**  
 Alchemist has a team of experienced designers who are on-hand to provide designs to ensure products look great and are up to speck with what is required for success.    
-
-
+  
 **Marketing:**  
 Funded projects will be promoted across all Alchemist channels to help with user acquisition and brand awareness.  
-
-
+  
 **Business development:**  
 Funded projects will have access to Alchemists network of projects and a bizdev team to assist with building external relationships and partnerships.  
-
-
+  
 **Key point of contact:**  
 Funded projects will be assigned one key point of contact at Alchemist. This person will assist in the application process and introductions to the relevant stakeholders within the ecosystem.  
-
-
+  
 **Access to Alchemist tech:**  
 Advice and assistance with integrating with technologies such as Flashbots, NFTs, and more. Where relevant projects have access to launch their token through Copper, set up a liquidity mining program through Crucible, and get direct access to other technologies within the ecosystem.
 
@@ -72,42 +67,35 @@ If the project is non-revenue generating, be sure to outline how it benefits the
 **\(1\) Before you start**  
   
 Ensure you are active on the Alchemist [Discord channel](https://discord.com/invite/qWQQMMKjKe) as this is the primary channel for both the community and the project development and operations. Discussions surrounding funding applications will all be handled here.  
-
-
+  
 **\(2\) Create your proposal**  
   
 We recommend you utilize this [proposal template](https://hackmd.io/G7Zn0YKMQmivXVBAeOfJww) as it is generally the best structure to ensure an informed discussion on your project. However, you are free to add more details or change up the structure if you deem it to be beneficial.  
   
 Building a proof of concept within Chaos Labs and gathering community feedback is a great way to set yourself apart from the crowd and to show market demand.  
-
-
+  
 **\(3\) Submit your proposal**  
   
 Submit your proposal to the [\#builder-proposal](https://discord.gg/8UeWbSsKb6) Discord channel with the heading “NEW PROPOSAL” followed by the proposal.  
   
 There is a small fee \(1 $mist\) to submit a new project proposal to the council to increase the quality and decrease spam proposals. If the proposal passes, this fee is refunded. If the proposal fails, the fee is lost. Current builders are exempt from this fee.  
-
-
+  
 **\(4\) Review, Feedback, and Revision**  
   
 The proposal will be reviewed, and any questions or suggestions will be discussed in Discord. We may set up a call to chat about the project in more depth and may request some amendments to the proposal.  
-
-
+  
 **\(5\) Decision**
 
 The proposal will then be put to a vote amongst the Alchemist council. A simple majority is needed for approval.    
-
-
+  
 **\(6\) Onboarding and funding**
 
 Once approved, you will be designated a key point of contact \(if not already assigned\) who will be there to answer any questions you have and introduce you to the relevant channels and people. The funding will also be released in line with the milestones outlined in the approved proposal. If you need additional manpower, you can pitch to the alchemist builder pool to find new team members to help with the project.  
-
-
+  
 **\(7\) Build**  
   
 Now comes the fun part - building and shipping world-changing products. We will be by your side to help along the way! When it comes time to launch, you will link up with the relevant marketing, BizDev and community teams to hit the ground running.  
-
-
+  
 Have more questions?
 
 Reach out to us in our Discord to chat further!
