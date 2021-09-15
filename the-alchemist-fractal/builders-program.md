@@ -24,7 +24,7 @@ While the program is targeted at founders, product managers, and engineers build
 Projects will be analyzed using an ROI-based approach to consider the value that they will add to the ecosystem. This ROI will consider both direct value \(revenue generated and distributed to LPs\) and external value to the alchemist ecosystem \(driving users to other products, community building, etc.\).  
 
 
-### Why build with alchemist?
+### Why build with Alchemist?
 
 **Funding:**  
 Eligible teams can apply to be fully or partially funded through the alchemist Fractal. 

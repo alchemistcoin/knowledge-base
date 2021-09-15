@@ -12,7 +12,7 @@ There is no roadmap. An alchemist never makes forward-looking statements, simply
 
 ## **How do I become an Alchemist?**
 
-Becoming an alchemist requires learning and practice. Training is a way of life for a true alchemist. There is no final destination, only continuous change.
+Becoming an Alchemist requires learning and practice. Training is a way of life for a true alchemist. There is no final destination, only continuous change.
 
 ⚗️ $MIST is used to coordinate and reward committed alchemists. Whether you are an artist, a developer, a community manager, or a liquidity provider, there is a role for you.
 
