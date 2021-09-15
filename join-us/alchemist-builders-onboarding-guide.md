@@ -114,7 +114,7 @@ You can find our shared calendar [here](https://calendar.google.com/calendar/u/2
 
 ## Routines to Achieve Transparency
 
-In a decentralized team it is sometimes difficult to get an overview of who contributed what and how often. To counteract this, we decided to introduce some routines to promote transparency and visibility even for builders & senior Alchemists who are not directly involved in the project.
+In a decentralized team it is sometimes difficult to get an overview of who contributed what and how often. To counteract this, we decided to introduce some routines to promote transparency and visibility even for builders & Senior Alchemists who are not directly involved in the project.
 
 ### Builder Stand Up
 
