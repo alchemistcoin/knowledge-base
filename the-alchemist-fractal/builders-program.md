@@ -96,7 +96,7 @@ The proposal will be reviewed, and any questions or suggestions will be discusse
 
 **\(5\) Decision**
 
-The proposal will then be put to a vote amongst the alchemist council. A simple majority is needed for approval.    
+The proposal will then be put to a vote amongst the Alchemist council. A simple majority is needed for approval.    
 
 
 **\(6\) Onboarding and funding**
