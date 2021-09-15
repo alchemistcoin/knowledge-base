@@ -4,7 +4,7 @@
 
 So you think you got what it takes to become an Alchemist, to walk the path of the Great Work which might lead you to trails never taken, territories unexplored - like the greatest Alchemist of our times - a famous psychiatrist Carl Jung said: "One does not become enlightened by imagining figures of light, but by making the darkness conscious"
 
-Within the alchemist labs the experiments are focused on exploring highly technical concepts in an attempt to discover the ingredients required to properly synthesize the Philosophers Stone - for example designing the Mint a Crucible NFT experience or the mistX Gasless DEX.
+Within the Alchemist labs the experiments are focused on exploring highly technical concepts in an attempt to discover the ingredients required to properly synthesize the Philosophers Stone - for example designing the Mint a Crucible NFT experience or the mistX Gasless DEX.
 
 Beside technical experimentation our guild has grown into a decentralised safe haven where the weary scholars can feel comfortable, at ease and safe. Creative projects like building the Alchemist Radio or finding the right art direction for the Crucible NFT are just some of the endless examples of outcomes from the Alchemists playing around with some beakers and funnels in their down time.
 
