@@ -27,7 +27,7 @@ Projects will be analyzed using an ROI-based approach to consider the value that
 ### Why build with Alchemist?
 
 **Funding:**  
-Eligible teams can apply to be fully or partially funded through the alchemist Fractal. 
+Eligible teams can apply to be fully or partially funded through the Alchemist Fractal. 
 
 **Access to builders:**  
 Alchemist has a pool of experienced builders who may join project teams, assist with development/integration into existing products, or offer technical advice.  
