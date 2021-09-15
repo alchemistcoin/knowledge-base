@@ -89,7 +89,7 @@ Through a majority vote, this council has the responsibility to decide on the fo
 * Funding of new projects and overseeing their milestones
 * Dilute the centralized role they hold responsible for the success of Alchemist. Make the ecosystem resilient.
 
-There are no restrictions on who can become a Senior Alchemist/Council Member. Anyone passionate, capable, and who adds significant value to the project can become a Senior. Seniors are selected from Builder/Apprentice/Chaos Labs pools, or the broader crypto ecosystem. \(note: we need a clear path/criteria for what it takes to become a Senior Alchemist all the way from the community member level\)
+There are no restrictions on who can become a Senior Alchemist/Council Member. Anyone passionate, capable, and who adds significant value to the project can become a Senior. Seniors are selected from Builder/Apprentice/Chaos Labs pools, or the broader crypto ecosystem. 
 
 Adding/removing council members
 
