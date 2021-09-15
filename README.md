@@ -6,9 +6,9 @@ description: The only plan is there is no plan.
 
 Alchemist was started with a [tweet](https://twitter.com/thegostep/status/1358159173440184322?s=20) by [@thegostep](https://twitter.com/thegostep).
 
-There is no “dev team”. There is no company. There is only a community of alchemists figuring out what to build in the open.
+There is no “dev team”. There is no company. There is only a community of Alchemists figuring out what to build in the open.
 
-There is no roadmap. An alchemist never makes forward-looking statements, simply because the future is unpredictable.
+There is no roadmap. An Alchemist never makes forward-looking statements, simply because the future is unpredictable.
 
 ## **How do I become an Alchemist?**
 
