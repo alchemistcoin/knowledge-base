@@ -12,7 +12,7 @@ Within the Fractal, several Alchemist types all share various responsibilities f
 
 This is simply the initial iteration of the Fractal. It is not necessarily the final top-level format, nor does it cover replication at more distant org levels. These will be determined and outlined at a later stage. 
 
-The Fractal structure will be a dynamic, ongoing experiment played out in the public domain. 
+_**The Fractal structure will be a dynamic, ongoing experiment played out in the public domain**_. 
 
 ### Goals of the Fractal:
 
