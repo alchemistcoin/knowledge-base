@@ -78,7 +78,7 @@ Building a proof of concept within Chaos Labs and gathering community feedback i
   
 Submit your proposal to the [\#builder-proposal](https://discord.gg/8UeWbSsKb6) Discord channel with the heading “NEW PROPOSAL” followed by the proposal.  
   
-There is a small fee \(1 $mist\) to submit a new project proposal to the council to increase the quality and decrease spam proposals. If the proposal passes, this fee is refunded. If the proposal fails, the fee is lost. Current builders are exempt from this fee.  
+There is a small fee \(1 $mist\) to submit a new project proposal to the Council to increase the quality and decrease spam proposals. If the proposal passes, this fee is refunded. If the proposal fails, the fee is lost. Current builders are exempt from this fee.  
   
 **\(4\) Review, Feedback, and Revision**  
   
