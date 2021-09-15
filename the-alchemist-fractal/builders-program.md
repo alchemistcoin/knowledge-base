@@ -60,7 +60,7 @@ In return for fully funding a project, all arising revenues are distributed as f
 
 If a project is only partially funded or involves the creation of an additional token - add any revenue plans and suggested distribution schedule to the proposal for review.
 
-If the project is non-revenue generating, be sure to outline how it benefits the alchemist ecosystem.
+If the project is non-revenue generating, be sure to outline how it benefits the Alchemist ecosystem.
 
 ### Application Process
 
