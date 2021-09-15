@@ -155,7 +155,7 @@ The Alchemist Fractal emphasizes empowering small, agile project teams to build 
 * Brand awareness from Alchemist project association
 * Direct upside through product success
 
-Submitting a new project proposal to the Alchemist Council
+**Submitting a new project proposal to the Alchemist Council**
 
 There is a small fee \(1 $mist\) to submit a new project proposal to the Council to increase the quality and decrease spam proposals. If the proposal passes, this fee is refunded. If the proposal fails, the fee is lost. Current builders are exempt from this fee.
 
