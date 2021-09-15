@@ -17,7 +17,7 @@ The Fractal structure will be a dynamic, ongoing experiment played out in the pu
 ### Goals of the Fractal:
 
 1. Drive value/increase rewards to liquidity providers
-2. Incentivize founder level talent to build within the alchemist ecosystem 
+2. Incentivize founder level talent to build within the Alchemist ecosystem 
    1. Allow for launching sub tokens
    2. Provide funding / support / education / distribution \(users\)
 3. Balance product teams \(profit center\) and service teams \(cost center\)
