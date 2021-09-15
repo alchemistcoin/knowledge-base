@@ -86,11 +86,11 @@ The proposal will be reviewed, and any questions or suggestions will be discusse
   
 **\(5\) Decision**
 
-The proposal will then be put to a vote amongst the Alchemist council. A simple majority is needed for approval.    
+The proposal will then be put to a vote amongst the Alchemist Council. A simple majority is needed for approval.    
   
 **\(6\) Onboarding and funding**
 
-Once approved, you will be designated a key point of contact \(if not already assigned\) who will be there to answer any questions you have and introduce you to the relevant channels and people. The funding will also be released in line with the milestones outlined in the approved proposal. If you need additional manpower, you can pitch to the alchemist builder pool to find new team members to help with the project.  
+Once approved, you will be designated a key point of contact \(if not already assigned\) who will be there to answer any questions you have and introduce you to the relevant channels and people. The funding will also be released in line with the milestones outlined in the approved proposal. If you need additional manpower, you can pitch to the Alchemist builder pool to find new team members to help with the project.  
   
 **\(7\) Build**  
   
