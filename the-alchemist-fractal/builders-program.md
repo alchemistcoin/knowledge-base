@@ -65,14 +65,16 @@ Access to alchemist tech
 
 Advice and assistance with integrating with technologies such as Flashbots, NFTs, and more. Where relevant projects have access to launch their token through Copper, set up a liquidity mining program through Crucible, and get direct access to other technologies within the ecosystem.
 
-### Requirements and guidelines
+### Requirements and Guidelines <a id="docs-internal-guid-4acb8f3b-7fff-94c4-b259-0b626e5c785d"></a>
 
 In return for fully funding a project, all arising revenues are distributed as follows:
 
-...TBD after vote…  
-  
-If a project is only partially funded or involves the creation of an additional token - add any revenue plans and suggested distribution schedule to the proposal for review.  
-  
+* 50% to $mist holders via the Aludel program
+* 40% to the product’s founding team members \(distributed at the team’s discretion\)
+* 10% to the Fractal for funding future projects + service teams
+
+If a project is only partially funded or involves the creation of an additional token - add any revenue plans and suggested distribution schedule to the proposal for review.
+
 If the project is non-revenue generating, be sure to outline how it benefits the alchemist ecosystem.
 
 ### Application Process
