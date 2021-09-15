@@ -57,7 +57,7 @@ In addition to inflation income, $mist holders will now be rewarded from the suc
 
 * admin, protocol custodian
 * incentivized through maintaining and increasing the value of $mist
-* outstanding performers promoted to senior
+* outstanding performers promoted to Senior
 
 **Builder**
 
