@@ -179,7 +179,7 @@ We recommend that new project proposals use the following template: [https://hac
 
 Revenue from core products within the ecosystem will be distributed as follows:
 
-* 50% to $mist holders via the Aludel program
+* 50% to $mist liquidity providers via the Aludel program
 * 40% to the product’s founding team members \(distributed at the team’s discretion\)
 * 10% to the Fractal for funding future projects + service teams
 
