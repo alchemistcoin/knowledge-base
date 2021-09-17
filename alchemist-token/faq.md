@@ -28,7 +28,7 @@ The current allocation of the inflation tokens is:
 
 A liquidity provider reward program has been deployed for the ⚗️$MIST/ETH Uniswap pool. This reward program is called the Aludel. \(Think of this as a staking smart contract designed by our guildmaster\).
 
-A community multisig has been created to accumulate funds that can be used for bounties. Take a look at the [\#builders-application](https://discord.gg/92hQDCw25u) on discord or donate to the multisig at [multisig.alchemistcoin.eth.](https://etherscan.io/address/multisig.alchemistcoin.eth)
+A community multisig has been created to accumulate funds that can be used for bounties. Take a look at the [\#council-proposal](https://discord.com/invite/alchemist) on discord or donate to the multisig at [multisig.alchemistcoin.eth.](https://etherscan.io/address/multisig.alchemistcoin.eth)
 
 ## **Multisig**
 
