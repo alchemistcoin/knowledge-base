@@ -29,7 +29,7 @@ _**The Fractal structure will be a dynamic, ongoing experiment played out in the
 
 ### Alchemist Economics
 
-Until now, Aludel rewards for $mist holders have solely derived from [inflation](https://app.gitbook.com/@alchemist-docs/s/alchemist/alchemist-token/guide-inflation). This has been an effective way to bootstrap the ecosystem + community and has successfully incubated several different core products.
+Until now, Aludel rewards for $mist holders have solely derived from [inflation](https://docs.alchemist.wtf/alchemist/alchemist-token/guide-inflation). This has been an effective way to bootstrap the ecosystem + community and has successfully incubated several different core products.
 
 In addition to inflation income, $mist holders will now be rewarded from the success of products within the system. 50% of all core Alchemist product revenues will be deposited directly into the Aludel rewards program on a fortnightly basis.
 
