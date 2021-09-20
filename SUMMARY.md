@@ -20,7 +20,7 @@
 
 * [Guidelines](chaos-lab/guidelines.md)
 
-## The Alchemist Fractal
+## Alchemist Fractal <a id="the-alchemist-fractal"></a>
 
 * [Overview](the-alchemist-fractal/overview.md)
 * [Builders Program](the-alchemist-fractal/builders-program.md)
