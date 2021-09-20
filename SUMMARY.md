@@ -10,16 +10,20 @@
 * [Frequently Asked Questions](alchemist-token/faq.md)
 * [Guide: Inflation](alchemist-token/guide-inflation.md)
 
-## The Alchemist Fractal
-
-* [Overview](the-alchemist-fractal/overview.md)
-* [Builders Program](the-alchemist-fractal/builders-program.md)
-
 ## Product Documentation
 
 * [Crucible Documentation](https://docs.alchemist.wtf/crucible/)
 * [Copper Documentation](https://docs.alchemist.wtf/copper)
 * [mistX Documentation](https://docs.alchemist.wtf/mistx)
+
+## Chaos Lab
+
+* [Guidelines](chaos-lab/guidelines.md)
+
+## The Alchemist Fractal
+
+* [Overview](the-alchemist-fractal/overview.md)
+* [Builders Program](the-alchemist-fractal/builders-program.md)
 
 ## Product Links
 
@@ -35,7 +39,7 @@
 
 ## Links <a id="discussion"></a>
 
-* [Landing Page](https://www.alchemist.wtf)
+* [alchemist.wtf](https://www.alchemist.wtf)
 * [Discord](http://discord.alchemist.wtf)
 * [Twitter](https://twitter.com/_alchemistcoin)
 * [Medium](https://medium.com/alchemistcoin)
