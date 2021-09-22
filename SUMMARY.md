@@ -49,3 +49,7 @@
 * [Reddit](https://www.reddit.com/r/alchemist_coin/)
 * [Instagram](https://www.instagram.com/thealchemistcoin/)
 
+---
+
+* [Branding Guide and Assets](branding-guide-and-assets.md)
+
