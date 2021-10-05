@@ -39,7 +39,7 @@ Refer to [this section](teach-me-about-crucibles.md#how-can-i-check-how-many-lp-
 
 ## Should you mint a Crucible?
 
-That is for you to decide. Ensure you understand what could gain, what you could lose, and then weigh up whether you think it's a good choice for you.
+That is for you to decide. Ensure you understand what you could gain, what you could lose, and then weigh up whether you think it's a good choice for you.
 
 #### The cost of minting
 
