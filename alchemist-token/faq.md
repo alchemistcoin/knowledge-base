@@ -1,10 +1,10 @@
 # Frequently Asked Questions
 
-## **Where can I trade ⚗️ \($MIST\) ?**
+## **Where can I trade ⚗️ ($MIST) ?**
 
 We recommend using mistX.io, you can find it using our link
 
-* [swap.alchemist.wtf](http://swap.alchemist.wtf/)
+* [swap.alchemist.wtf](http://swap.alchemist.wtf)
 
 Over time $MIST is bound to appear on other trading sites, when this happens these places can be identified by using [Coingecko](https://www.coingecko.com/en/coins/alchemist) or [CoinMarketCap](https://coinmarketcap.com/currencies/alchemist/).
 
@@ -26,9 +26,9 @@ The current allocation of the inflation tokens is:
 
 ## **What can I do with my ⚗️$MIST?**
 
-A liquidity provider reward program has been deployed for the ⚗️$MIST/ETH Uniswap pool. This reward program is called the Aludel. \(Think of this as a staking smart contract designed by our guildmaster\).
+A liquidity provider reward program has been deployed for the ⚗️$MIST/ETH Uniswap pool. This reward program is called the Aludel. (Think of this as a staking smart contract designed by our guildmaster).
 
-A community multisig has been created to accumulate funds that can be used for bounties. Take a look at the [\#council-proposal](https://discord.com/invite/alchemist) on discord or donate to the multisig at [multisig.alchemistcoin.eth.](https://etherscan.io/address/multisig.alchemistcoin.eth)
+A community multisig has been created to accumulate funds that can be used for bounties. Take a look at the [#council-proposal](https://discord.com/invite/alchemist) on discord or donate to the multisig at [multisig.alchemistcoin.eth.](https://etherscan.io/address/multisig.alchemistcoin.eth)
 
 ## **Multisig**
 
@@ -38,10 +38,11 @@ Multisig Key holders were chosen by the community based on trust and contributio
 
 Current multisig signers are:
 
-* [@ethen\_](https://twitter.com/ethen_) : [ethen.eth ](https://etherscan.io/address/0x2492897e6138ae7e56d3d3ceb5ad76b801ec7d3f)
-* [@sal\_ash\_](https://twitter.com/sal_ash_) : [salash.eth](https://etherscan.io/address/salash.eth)
+* [@ethen\_](https://twitter.com/ethen\_) : [ethen.eth ](https://etherscan.io/address/0x2492897e6138ae7e56d3d3ceb5ad76b801ec7d3f)
+* [@DanielWorsley\_](https://twitter.com/danielworsley\_) : [danielw.eth](https://etherscan.io/address/danielw.eth)
 * [@brandoniles](https://twitter.com/brandoniles) : [brandoniles.eth](https://etherscan.io/address/brandoniles.eth)
 * [@Fiskantes](https://twitter.com/Fiskantes) : [fiskantes.eth](https://etherscan.io/address/fiskantes.eth)
 * [@0xMaki](https://twitter.com/0xMaki) : [0xmaki.eth](https://etherscan.io/address/0xmaki.eth)
-* [@bad\_boy\_ri\_ri](https://twitter.com/bad_boy_ri_ri)
+* [@bad\_boy\_ri\_ri](https://twitter.com/bad\_boy\_ri\_ri)
+* [@joehquak](https://twitter.com/joehquak) : [quak.eth](https://etherscan.io/address/quak.eth)
 
