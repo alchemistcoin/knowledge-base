@@ -38,7 +38,6 @@ Multisig Key holders were chosen by the community based on trust and contributio
 
 Current multisig signers are:
 
-* [@ethen\_](https://twitter.com/ethen\_) : [ethen.eth ](https://etherscan.io/address/0x2492897e6138ae7e56d3d3ceb5ad76b801ec7d3f)
 * [@DanielWorsley\_](https://twitter.com/danielworsley\_) : [danielw.eth](https://etherscan.io/address/danielw.eth)
 * [@brandoniles](https://twitter.com/brandoniles) : [brandoniles.eth](https://etherscan.io/address/brandoniles.eth)
 * [@Fiskantes](https://twitter.com/Fiskantes) : [fiskantes.eth](https://etherscan.io/address/fiskantes.eth)
