@@ -2,6 +2,7 @@
 
 * [About Alchemist](README.md)
 * [Community Links](community-links.md)
+* [Code of Conduct](code-of-conduct.md)
 
 ## Alchemist Token
 
@@ -20,7 +21,7 @@
 
 * [Guidelines](chaos-lab/guidelines.md)
 
-## Alchemist Fractal <a href="the-alchemist-fractal" id="the-alchemist-fractal"></a>
+## Alchemist Fractal <a href="#the-alchemist-fractal" id="the-alchemist-fractal"></a>
 
 * [Overview](the-alchemist-fractal/overview.md)
 * [Builders Program](the-alchemist-fractal/builders-program.md)
@@ -32,12 +33,12 @@
 * [Sandwiched](https://sandwiched.wtf)
 * [MistX](https://mistx.io)
 
-## Join the Team <a href="join-us" id="join-us"></a>
+## Join the Team <a href="#join-us" id="join-us"></a>
 
 * [Alchemist Builders Onboarding Guide](join-us/alchemist-builders-onboarding-guide.md)
 * [Where to start? – The 7 ITIL Guiding Principles](join-us/where-to-start-the-7-itil-guiding-principles-thegostep-s.md)
 
-## Links <a href="discussion" id="discussion"></a>
+## Links <a href="#discussion" id="discussion"></a>
 
 * [alchemist.wtf](https://www.alchemist.wtf)
 * [Discord](http://discord.alchemist.wtf)
@@ -52,4 +53,3 @@
 ***
 
 * [Branding Guide and Assets](branding-guide-and-assets.md)
-* [Code of Conduct](code-of-conduct.md)
