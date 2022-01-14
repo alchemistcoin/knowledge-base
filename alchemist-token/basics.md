@@ -1,10 +1,10 @@
 # Basics
 
-There is a token called [Alchemist](https://etherscan.io/token/0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab). It has the ticker symbol "⚗️". It is also referred to as "mist" and "$MIST". Do not confuse it with [Mist (MIST)](https://www.coingecko.com/en/coins/mist), [Alchemist DeFi Mist (MIST)](https://www.coingecko.com/en/coins/alchemist-defi-mist), and [Cometh (MUST)](https://coinmarketcap.com/currencies/cometh/) - despite the alembic symbol ⚗️ and similar names, these three tokens have no relation to Alchemist (MIST).
+Token information can be below
 
-![](../.gitbook/assets/mm\_mi21st.png)
+[https://www.coingecko.com/en/coins/alchemist](https://www.coingecko.com/en/coins/alchemist)\
+[https://coingecko.com/en/coins/alchemist/](https://coingecko.com/en/coins/alchemist/)\
 
-What is ⚗️ good for? You can stake ⚗️ as with other coins, and you can ultimately use it to [mint Crucible NFTs](https://docs.alchemist.wtf/crucible/guides-1/how-do-i-mint-a-crucible) in the [Aludel](basics.md#3-aludel) program.
 
 ### Providing Liquidity & Staking
 
