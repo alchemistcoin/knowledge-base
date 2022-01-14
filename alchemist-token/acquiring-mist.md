@@ -1,6 +1,6 @@
 # Acquiring $MIST ⚗️
 
-### 1. Getting $MIST ⚗️
+### &#x20;Getting $MIST ⚗️
 
 Ever traded coins on mistX.io? If so you know how to do this already.
 
@@ -8,7 +8,7 @@ Ever traded coins on mistX.io? If so you know how to do this already.
 We recommend using mistX.io when trading $MIST. However, if you decide to use Uniswap, please note that due to low liquidity on **Uniswap V3**, extra slippage might mean you will not get the best price for your purchase. Please use this [**Uniswap V2**](https://app.uniswap.org/#/swap?outputCurrency=0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab\&use=V2) **** link to perform the token swap using Uniswap.
 {% endhint %}
 
-1. Head to [Swap $MIST on mistX.io](http://swap.alchemist.wtf)
+1. Head to [mistX.io](https://mistx.io/swap)
 2. Connect MetaMask wallet
 3. You should see something like this:\
    ![](../.gitbook/assets/Screenshot\_19.png)
@@ -23,24 +23,6 @@ We recommend using mistX.io when trading $MIST. However, if you decide to use Un
 
     &#x20;![](https://i.imgur.com/bF9wsrg.png)
 
-### 2. Subscribing $MIST ⚗️ to receive LP tokens
 
-Ever provided liquidity on Uniswap? If so you know how to do this already.
-
-{% hint style="danger" %}
-Crucible only supports the **Uniswap V2** Liquidity Pool. \
-Adding liquidity to the **Uniswap V3** pool is not compatible with the Rewards Program.
-{% endhint %}
-
-1. Head to [Add LP to $MIST on Uniswap V2](https://app.uniswap.org/#/add/v2/0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab/ETH)
-   * Connect MetaMask wallet if not already done so
-2.  You should see something like this:
-
-    &#x20;![](https://i.imgur.com/7paIEyF.png)
-3. Enter the amounts you want to stake. Both sides need to be equal value, so changing one will change the other. You most likely just want to click the "MAX" button on the ⚗️ side
-4. Hit "Stake" or "Supply", make necessary approvals via MetaMask, wait for the transaction to complete
-5.  You should see your new LP tokens (named UNI-V2) on Etherscan again:
-
-    &#x20;![](https://i.imgur.com/6hAoHGw.png)
 
 ##
