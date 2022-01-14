@@ -2,9 +2,7 @@
 
 ## **Where can I trade ⚗️ ($MIST) ?**
 
-We recommend using mistX.io, you can find it using our link
-
-[https://mistx.io/](https://mistx.io)
+We recommend using [mistX.io](https://mistx.io)
 
 Over time $MIST is bound to appear on other trading sites, when this happens these places can be identified by using [Coingecko](https://www.coingecko.com/en/coins/alchemist) or [CoinMarketCap](https://coinmarketcap.com/currencies/alchemist/).
 
