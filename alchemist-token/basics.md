@@ -6,7 +6,7 @@ There is a token called [Alchemist](https://etherscan.io/token/0x88acdd2a6425c3f
 
 What is ⚗️ good for? You can stake ⚗️ as with other coins, and you can ultimately use it to [mint Crucible NFTs](https://docs.alchemist.wtf/crucible/guides-1/how-do-i-mint-a-crucible) in the [Aludel](basics.md#3-aludel) program.
 
-### 2. Staking
+### Providing Liquidity & Staking
 
 {% hint style="danger" %}
 Crucible only supports the **Uniswap V2** Liquidity Pool. Adding liquidity to the **Uniswap V3** pool is not compatible with the Rewards Program.
