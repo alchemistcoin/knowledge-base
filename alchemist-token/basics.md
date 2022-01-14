@@ -1,5 +1,7 @@
 # Basics
 
+### $MIST Token ⚗️
+
 Token information can be below
 
 [https://www.coingecko.com/en/coins/alchemist](https://www.coingecko.com/en/coins/alchemist)\
