@@ -50,19 +50,9 @@ Discord is a VoIP, instant messaging and digital distribution platform designed 
 
 Discord is our preferred communication tool, as it provides a fast, uncomplicated and sustainable solution for conversations - be it in writing or acoustically. We differentiate in 2 categories - Community & Builder. While the community is open to every Alchemist, the builder has his own isolated area apart from distraction. The builder area is divided into different projects or topics, but is basically open to every builder and is intended to encourage participation.
 
-**Links:** [**Alchemist Discord**](http://discord.alchemist.wtf)\*\*\*\*
+**Links:** [**Alchemist Discord**](http://discord.alchemist.wtf)****
 
-### Basecamp
 
-#### **General**
-
-Basecamp is a project management app that you can access in your browser and on your phone. It gives you the tools you need to set up to-dos, a schedule, create and upload documents and files, message and chat with your colleagues, and check in regularly with your group—all in one place!
-
-Whether you are working alone and need to get organized with your work or use it to collaborate on a project, with work or something personal, Basecamp makes it easy. It’s quick to set up and if you are consistent in using it it should make communication with your team a lot easier. Especially teams that are virtual.
-
-#### **How we use it**
-
-Basecamp is the place where we collect, develop and map all projects. A more precise allocation of tasks and responsibilities are also carried out, as well as transcripts of calls and meetings. It is primarily used to provide an overview if you and especially the multisig-signers, Senior Alchemists, and builders involved, want to look at a project as a whole.
 
 ### Github
 
@@ -74,7 +64,7 @@ GitHub is a web-based version-control and collaboration platform for software de
 
 GitHub is the digital home of our developers. As already stated in the description, it the perfect platform for collaboration on deployment & development, especially for us as a decentralized autonomous organization. It represents, separated into different repositories, the core of our products.
 
-**Links:** [**Alchemist Github**](https://github.com/alchemistcoin/alchemist)\*\*\*\*
+**Links:** [**Alchemist Github**](https://github.com/alchemistcoin/alchemist)****
 
 ### Linear App
 
@@ -84,7 +74,7 @@ Linear helps streamline software projects, sprints, tasks, and bug tracking. It'
 
 #### **How we use it**
 
-Linear is primarily used by us to document developer-relevant issues, problems and / or hurdles that arise during the architecture and processing of individual tasks \(previously defined in the Basecamp\) and ultimately to provide solutions or workarounds. Thus, Linear represents the tool, which breaks down individual tasks transparently and in detail for technical topics. Tracking tasks on Github.
+Linear is primarily used by us to document developer-relevant issues, problems and / or hurdles that arise during the architecture and processing of individual tasks (previously defined in the Basecamp) and ultimately to provide solutions or workarounds. Thus, Linear represents the tool, which breaks down individual tasks transparently and in detail for technical topics. Tracking tasks on Github.
 
 ### Figma
 
@@ -96,7 +86,7 @@ Figma is a cloud-based design tool that is similar to Sketch in functionality an
 
 Figma is mainly used by us to share creative content and work on it together. These can be, for example, UI-relevant design drafts, but also initial designs of community projects of any kind - an example here would be designs for one-pagers. Especially when it comes to design decisions, as these are often influenced by personal taste, in our opinion they should first be shared before they are published.
 
-**Links:** [**Alchemist Figma**](https://figma.com)\*\*\*\*
+**Links:** [**Alchemist Figma**](https://figma.com)****
 
 ### **Coordinape**
 
@@ -118,17 +108,17 @@ In a decentralized team it is sometimes difficult to get an overview of who cont
 
 ### Builder Stand Up
 
-To make the process more transparent for everyone, we're creating a \# builders-standup channel that we want to encourage active project contributors to post updates to regularly. What did you last work on and what progress did you make? What are you currently working on? What blockers / issues did you run into since your last update and do you need help with anything?
+To make the process more transparent for everyone, we're creating a # builders-standup channel that we want to encourage active project contributors to post updates to regularly. What did you last work on and what progress did you make? What are you currently working on? What blockers / issues did you run into since your last update and do you need help with anything?
 
 We also want to encourage you to push all your WIP branches to GitHub frequently, and especially on Thursdays, so that Senior Alchemists have a better idea on how to calculate the stipend distribution for the week
 
 ### Participation on Scheduled Meetings
 
-As already described under the topic "Meeting Calendar", we appreciate the lively exchange in the team on current topics. The easiest and most uncomplicated way to do this is always the spoken word. Regular participation is therefore essential for several reasons at the same time - finding quick solutions, bundling several opinions on certain topics, finding a majority approach and promoting integrity. If it is not possible that you cannot participate in principle or as an exception, let your team know and then take the transcript \(Basecamp\) to stay up to date.
+As already described under the topic "Meeting Calendar", we appreciate the lively exchange in the team on current topics. The easiest and most uncomplicated way to do this is always the spoken word. Regular participation is therefore essential for several reasons at the same time - finding quick solutions, bundling several opinions on certain topics, finding a majority approach and promoting integrity. If it is not possible that you cannot participate in principle or as an exception, let your team know and then take the transcript (Basecamp) to stay up to date.
 
 ### Communication and Tool Interactions
 
-We have various tools in use, which we of course also want to use so that we can recognize progress for our set expectations. The work done should be in focus either way. The communication of small or large milestones is often relevant for the entire project, even if this is not always necessarily visible at first glance, and should therefore be in Basecamp \(Project Management\), Linear \(developer\), Figma \(artist\) and / or can be found in the Discord. We would therefore like to encourage you to communicate a lot and actively via one of the channels made available to you.
+We have various tools in use, which we of course also want to use so that we can recognize progress for our set expectations. The work done should be in focus either way. The communication of small or large milestones is often relevant for the entire project, even if this is not always necessarily visible at first glance, and should therefore be in Basecamp (Project Management), Linear (developer), Figma (artist) and / or can be found in the Discord. We would therefore like to encourage you to communicate a lot and actively via one of the channels made available to you.
 
 ## Feedback
 
@@ -145,4 +135,3 @@ The builders stipend is here to make it easy for you to put aside other distract
 ## Onboarding Form
 
 To take part in the onboarding process, please fill out this [form](https://alchemistcoin.typeform.com/to/YUBB53J8)!
-
