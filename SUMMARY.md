@@ -22,10 +22,6 @@
 * [Copper Documentation](https://docs.alchemist.wtf/copper)
 * [mistX Documentation](https://docs.alchemist.wtf/mistx)
 
-## Chaos Lab
-
-* [Guidelines](chaos-lab/guidelines.md)
-
 ## Product Links
 
 * [Crucible](https://crucible.alchemist.wtf)
