@@ -4,6 +4,11 @@
 * [Community Links](community-links.md)
 * [Code of Conduct](code-of-conduct.md)
 
+## Alchemist Fractal <a href="#the-alchemist-fractal" id="the-alchemist-fractal"></a>
+
+* [Overview](the-alchemist-fractal/overview.md)
+* [Builders Program](the-alchemist-fractal/builders-program.md)
+
 ## Alchemist Token
 
 * [Basics](alchemist-token/basics.md)
@@ -20,11 +25,6 @@
 ## Chaos Lab
 
 * [Guidelines](chaos-lab/guidelines.md)
-
-## Alchemist Fractal <a href="#the-alchemist-fractal" id="the-alchemist-fractal"></a>
-
-* [Overview](the-alchemist-fractal/overview.md)
-* [Builders Program](the-alchemist-fractal/builders-program.md)
 
 ## Product Links
 
