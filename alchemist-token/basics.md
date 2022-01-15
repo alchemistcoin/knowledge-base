@@ -2,7 +2,7 @@
 
 ### $MIST Token ⚗️
 
-Token information can be below
+Token information can be found below
 
 [https://www.coingecko.com/en/coins/alchemist](https://www.coingecko.com/en/coins/alchemist)\
 [https://coingecko.com/en/coins/alchemist/](https://coingecko.com/en/coins/alchemist/)\
