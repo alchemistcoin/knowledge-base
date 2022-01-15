@@ -24,7 +24,7 @@ This profiting from liquidity pool fees mechanism is no different to staking any
 Please watch this video on "Impermanent Loss" before proceeding.
 {% endembed %}
 
-### 3. Aludel
+### &#x20;Aludel
 
 This is where the alchemy happens. "Aludel" is the name of the reward program where you can gain ⚗️ and ETH for subscribing to it with the LP tokens in to a Crucible.
 
