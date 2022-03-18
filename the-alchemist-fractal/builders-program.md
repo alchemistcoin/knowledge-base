@@ -6,7 +6,11 @@ description: Fund your project through Alchemist
 
 **Introduction**
 
-Projects that add value to the Alchemist ecosystem are eligible to receive funding through the [Alchemist Fractal](https://docs.alchemist.wtf/alchemist/the-alchemist-fractal/overview).
+The Alchemist incubator is a service for founders and builders looking to build out and grow their ideas and projects into products.
+
+Projects that potentially add value to the Alchemist ecosystem are eligible to receive funding through the [Alchemist Fractal](https://docs.alchemist.wtf/alchemist/the-alchemist-fractal/overview).
+
+Proposals are submitted via Discord to the Alchemist Council and are analysed using an ROI-based approach to consider how Alchemist could best assist them and the value that they’ll add to the ecosystem.
 
 Alchemist is committed to expanding our ecosystem by financing, incubating, and empowering small agile teams to build products that solve problems and grow our community. We encourage experimenting with innovative ideas that flow value both to individual project teams as well as the greater Alchemist ecosystem.
 
