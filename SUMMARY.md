@@ -43,7 +43,6 @@
 * [Github](https://github.com/alchemistcoin)
 * [YouTube](https://www.youtube.com/channel/UCIs4LugynLei2TN\_\_lJh-6Q)
 * [Telegram](https://t.me/alchemistcoin)
-* [Instagram](https://www.instagram.com/thealchemistcoin/)
 
 ***
 
