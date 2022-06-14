@@ -6,7 +6,7 @@ MIST token holders own and govern the protocol. They benefit from value accrued 
 
 ## **Where can I trade ⚗️ ($MIST) ?**
 
-We recommend using [mistX.io](https://mistx.io)
+We recommend using [mistX.io](https://mistx.io/)
 
 Over time $MIST is bound to appear on other trading sites, when this happens these places can be identified by using [Coingecko](https://www.coingecko.com/en/coins/alchemist) or [CoinMarketCap](https://coinmarketcap.com/currencies/alchemist/).
 
@@ -47,4 +47,4 @@ Current multisig signers are:
 * [@bad\_boy\_ri\_ri](https://twitter.com/bad\_boy\_ri\_ri)
 * [@joehquak](https://twitter.com/joehquak) : [quak.eth](https://etherscan.io/address/quak.eth)
 * [@Stew](https://twitter.com/Alchy52651117) : [teaboy.eth ](https://etherscan.io/address/0xb3c6ca6db4f7857db70b533e13940baa3579b16e)
-* [@Dire\_0x](https://twitter.com/Dire\_0x) : [0xeDC05F945706dE074158259CB3CAE3afb62aFA15](https://etherscan.io/address/0xeDC05F945706dE074158259CB3CAE3afb62aFA15#tokentxns)
+

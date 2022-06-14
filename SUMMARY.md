@@ -26,7 +26,7 @@
 
 * [Crucible](https://crucible.alchemist.wtf)
 * [Copper](https://copperlaunch.com)
-* [Sandwiched](https://sandwiched.wtf)
+* [Sandwiched](https://sandwiched.wtf/)
 * [MistX](https://mistx.io)
 
 ## Join the Team <a href="#join-us" id="join-us"></a>
