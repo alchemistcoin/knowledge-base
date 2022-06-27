@@ -6,7 +6,7 @@ MIST token holders own and govern the protocol. They benefit from value accrued 
 
 ## **Where can I trade ⚗️ ($MIST) ?**
 
-We recommend using [mistX.io](https://mistx.io/)
+We recommend using U[niswap](https://app.uniswap.org/#/swap?outputCurrency=0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab\&use=V2\&chain=mainnet)
 
 Over time $MIST is bound to appear on other trading sites, when this happens these places can be identified by using [Coingecko](https://www.coingecko.com/en/coins/alchemist) or [CoinMarketCap](https://coinmarketcap.com/currencies/alchemist/).
 
