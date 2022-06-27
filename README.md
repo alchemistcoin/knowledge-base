@@ -12,7 +12,7 @@ There is no roadmap. An Alchemist never makes forward-looking statements, simply
 
 Alchemist is a community driven builders hub and[ Incubator](https://docs.alchemist.wtf/alchemist/the-alchemist-fractal/builders-program), working with like minded developers to finance, incubate and empower small agile teams; building products that promote a fairer and more transparent crypto ecosystem whilst growing the Alchemist community.
 
-Some popular Alchemist projects include [Copper](https://docs.alchemist.wtf/copper), the platform for open, transparent, and user-friendly participation in Balancer Liquidity Bootstrapping Pools, [mistX](https://docs.alchemist.wtf/mistx), the MEV protected exchange aggregator, and [Crucible](https://docs.alchemist.wtf/crucible), the smart contract, non-custodial, staking wallet and NFT.
+Some popular Alchemist projects include [Copper](https://docs.alchemist.wtf/copper), the platform for open, transparent, and user-friendly participation in Balancer Liquidity Bootstrapping Pools and [Crucible](https://docs.alchemist.wtf/crucible), the smart contract, non-custodial, staking wallet and NFT.
 
 ## **How do I become an Alchemist?**
 
