@@ -20,14 +20,12 @@
 
 * [Crucible Documentation](https://docs.alchemist.wtf/crucible/)
 * [Copper Documentation](https://docs.alchemist.wtf/copper)
-* [mistX Documentation](https://docs.alchemist.wtf/mistx)
 
 ## Product Links
 
 * [Crucible](https://crucible.alchemist.wtf)
 * [Copper](https://copperlaunch.com)
 * [Sandwiched](https://sandwiched.wtf/)
-* [MistX](https://mistx.io)
 
 ## Join the Team <a href="#join-us" id="join-us"></a>
 
