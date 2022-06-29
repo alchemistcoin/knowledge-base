@@ -47,4 +47,5 @@ Current multisig signers are:
 * [@bad\_boy\_ri\_ri](https://twitter.com/bad\_boy\_ri\_ri)
 * [@joehquak](https://twitter.com/joehquak) : [quak.eth](https://etherscan.io/address/quak.eth)
 * [@Stew](https://twitter.com/Alchy52651117) : [teaboy.eth ](https://etherscan.io/address/0xb3c6ca6db4f7857db70b533e13940baa3579b16e)
+* [@sausage\_crypto](https://twitter.com/sausage\_crypto) : 0x9E1Ad243719AEf2c6FAe5b6F553fa145d5dB9a3f
 
