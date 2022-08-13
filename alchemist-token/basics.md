@@ -26,6 +26,6 @@ Please watch this video on "Impermanent Loss" before proceeding.
 
 ### &#x20;Aludel
 
-This is where the alchemy happens. "Aludel" is the name of the reward program where you can gain ⚗️ and ETH for subscribing to it with the LP tokens in to a Crucible.
+This is where the alchemy happens. "Aludel v1.5" is the name of the  current reward program where you can gain ⚗️ for subscribing to it with the LP tokens via a Crucible.
 
 You can learn more about crucibles on the "[Teach me about Crucibles](https://docs.alchemist.wtf/crucible/)" page.
