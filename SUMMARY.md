@@ -25,7 +25,6 @@
 
 * [Crucible](https://crucible.alchemist.wtf)
 * [Copper](https://copperlaunch.com)
-* [Sandwiched](https://sandwiched.wtf/)
 
 ## Join the Team <a href="#join-us" id="join-us"></a>
 
@@ -36,6 +35,7 @@
 
 * [alchemist.wtf](https://www.alchemist.wtf)
 * [Discord](http://discord.alchemist.wtf)
+* [Discourse](https://discourse.alchemist.wtf/)
 * [Twitter](https://twitter.com/\_alchemistcoin)
 * [Medium](https://medium.com/alchemistcoin)
 * [Token Terminal](https://www.tokenterminal.com/terminal/projects/alchemist)
