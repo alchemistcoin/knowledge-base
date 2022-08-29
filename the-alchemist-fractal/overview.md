@@ -64,7 +64,7 @@ In addition to inflation income, $mist holders will now be rewarded from the suc
 **Initiator**
 
 * founder, product manager, project manager
-* incentivized through product upside&#x20;
+* incentivized through product upside & builders stipend
 
 **Crucible holder**
 
