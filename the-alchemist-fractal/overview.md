@@ -51,31 +51,28 @@ In addition to inflation income, $mist holders will now be rewarded from the suc
 **Keyholder**
 
 * trusted party entrusted with multisig keys
-* incentivized through reputation + maintaining and increasing the value of $mist
 
 #### Alchemist Council
 
-* A [democratically](https://crucible.alchemist.wtf/governance/alchemistcoin.eth/0x3142ad97626896542bc65ae6c4a289bf8a0460577522e862a9fde47d6759e910) elected body to which the community has delegated executive power
+* &#x20;[democratically](https://crucible.alchemist.wtf/governance/alchemistcoin.eth/0x3142ad97626896542bc65ae6c4a289bf8a0460577522e862a9fde47d6759e910) elected body to which the community has delegated executive power
 
 **Builder**
 
 * dev, artist, designer, researcher, operations
-* incentivized through builder stipend + maintaining and increasing the value of $mist
+* incentivized through builder stipend&#x20;
 
 **Initiator**
 
 * founder, product manager, project manager
-* incentivized through product upside + maintaining and increasing the value of $mist
+* incentivized through product upside&#x20;
 
 **Crucible holder**
 
-* investor, liquidity provider, project supporter
-* incentivized through maintaining and increasing the value of $mist
+* Owner of a crucible, liquidity provider, project supporter
 
 **Token holder**
 
 * investor, project supporter -- possibly not comfortable with risk of IL of liquidity provision
-* incentivized through maintaining and increasing the value of $mist
 
 ### The Alchemist Council &#x20;
 
