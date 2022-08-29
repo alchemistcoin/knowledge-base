@@ -75,7 +75,7 @@ In addition to inflation income, $mist holders will now be rewarded from the suc
 
 ### The Alchemist Council &#x20;
 
-To reduce inefficiencies caused by aggregate $mist holder voting events and to increase the speed of the decision-making process, Senior Alchemists make up the Alchemist Council.&#x20;
+Alchemist Council is a [democratically](https://crucible.alchemist.wtf/governance/alchemistcoin.eth/0x3142ad97626896542bc65ae6c4a289bf8a0460577522e862a9fde47d6759e910) elected body to which the community has delegated executive power
 
 Through a majority vote, this council has the responsibility to decide on the following issues:
 
@@ -83,20 +83,9 @@ Through a majority vote, this council has the responsibility to decide on the fo
 * Funding of new projects and overseeing their milestones
 * Dilute the centralized role they hold responsible for the success of Alchemist. Make the ecosystem resilient.
 
-There are no restrictions on who can become a Senior Alchemist/Council Member. Anyone passionate, capable, and who adds significant value to the project can become a Senior. Seniors are selected from Builder/Apprentice/Chaos Labs pools, or the broader crypto ecosystem.&#x20;
+The Council will continually take note of your [questions and thoughts](https://alchemistcoin.typeform.com/councilquery) and strive to address them via our community calls, communications, and council meetings. For frequently asked or important questions the council will compile a publicly facing document which will keep track of the answers to those questions.
 
-Adding/removing council members
-
-* New Senior Alchemists are added and removed via a vote among council members
-* Any Senior Alchemist can propose that a new council member is added or removed
-* Once a proposal is made, the council has 7 days to vote
-* If the majority of council members vote aye, the member is added/removed
-* If a majority is not reached, the proposal expires
-
-Proposed Members of the Alchemist Council
-
-| <ul><li>thegostep</li><li>ethen</li><li>Sal</li><li>Ri</li><li>Consaltus</li><li>Fiskantes</li></ul> | <ul><li>Nathan</li><li>Dire</li><li>Joeh</li><li>Stew</li><li>Daniel</li></ul> |
-| ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+###
 
 ### Fractal Inflation Income Utilization
 
