@@ -56,6 +56,10 @@ In addition to inflation income, $mist holders will now be rewarded from the suc
 
 * &#x20;[democratically](https://crucible.alchemist.wtf/governance/alchemistcoin.eth/0x3142ad97626896542bc65ae6c4a289bf8a0460577522e862a9fde47d6759e910) elected body to which the community has delegated executive power
 
+#### ~~Senior Alchemist~~ (disbanded)
+
+* given to members of the community that went above and beyond in their contributions to Alchemist.
+
 **Builder**
 
 * dev, artist, designer, researcher, operations
