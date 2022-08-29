@@ -37,10 +37,10 @@ Eligible teams can apply to be fully or partially funded through the Alchemist F
 Alchemist has a pool of experienced builders who may join project teams, assist with development/integration into existing products, or offer technical advice.\
 \
 **Community building:**\
-The Alchemist community is strong, passionate, well-versed in the industry, and experienced with liquidity provision (currently providing over $20m in liquidity for ETH/mist on Uniswap alone).\
+The Alchemist community is strong,passionate & well-versed in the industry.\
 \
 **Design:**\
-****Alchemist has a team of experienced designers who are on-hand to provide designs to ensure products look great and are up to speck with what is required for success.  \
+****Alchemist has designers who are on-hand to provide designs to ensure products look great and are up to speck with what is required for success.  \
 \
 **Marketing:**\
 ****Funded projects will be promoted across all Alchemist channels to help with user acquisition and brand awareness.\
@@ -81,8 +81,6 @@ Building a proof of concept within Chaos Labs and gathering community feedback i
 **(3) Submit your proposal**\
 ****\
 ****Submit your proposal to the[ ](https://discord.com/invite/8UeWbSsKb6)[#Incubation-proposals](https://discord.com/invite/8UeWbSsKb6) Discord channel with the heading “NEW PROPOSAL” followed by the proposal.\
-\
-There is a small fee (1 $mist) to submit a new project proposal to the Council to increase the quality and decrease spam proposals. If the proposal passes, this fee is refunded. If the proposal fails, the fee is lost. Current builders are exempt from this fee.\
 \
 **(4) Review, Feedback, and Revision**\
 ****\
