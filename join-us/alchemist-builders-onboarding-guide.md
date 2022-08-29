@@ -70,15 +70,27 @@ Figma is mainly used by us to share creative content and work on it together. Th
 
 **Links:** [**Alchemist Figma**](https://figma.com)****
 
-### Meeting Calendar
+### **Coordinape**
+
+#### **General**
+
+Coordinape is a platform for DAOs to easily and fairly distribute resources to contributors. Community grants, internal salaries, and special projects can all be incentivized and rewarded by the community itself. Instead of cumbersome voting or black box committees, contributors themselves can quickly and transparently reward the value they see being created.
+
+#### **How we use it**
+
+Alchemists that have received payouts from the multisig will be placed in circles and have the ability to reward their fellow contributors.
+
+## Meeting Calendar
 
 You can find our shared calendar [here](https://calendar.google.com/calendar/u/2/r?cid=c29sYm9mcWlnZGQzbzdzY3E3cWdyN3R2b2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ). All dates are included, be they project-related or generally interesting for the entire organization. Meetings are essential to question individual approaches and to discuss them in a team. A transcript will then be written out of sustainability in the base camp. Since the participants are spread all over the world, the times are usually chosen so that as many as possible can take part.
 
-#### Participation&#x20;
+
+
+### Participation&#x20;
 
 As already described under the topic "Meeting Calendar", we appreciate the lively exchange in the team on current topics. The easiest and most uncomplicated way to do this is always the spoken word. Regular participation is therefore essential for several reasons at the same time - finding quick solutions, bundling several opinions on certain topics, finding a majority approach and promoting integrity. If it is not possible that you cannot participate in principle or as an exception, let your team know.
 
-#### Communication and Tool Interactions
+### Communication and Tool Interactions
 
 We have various tools in use, which we of course also want to use so that we can recognize progress for our set expectations. The work done should be in focus either way. The communication of small or large milestones is often relevant for the entire project, even if this is not always necessarily visible at first glance, and should therefore be in Linear (developer), Figma (artist) and / or can be found in the Discord. We would therefore like to encourage you to communicate a lot and actively via one of the channels made available to you.
 
