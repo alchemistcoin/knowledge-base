@@ -53,7 +53,7 @@ In addition to inflation income, $mist holders will now be rewarded from the suc
 * trusted party entrusted with multisig keys
 * incentivized through reputation + maintaining and increasing the value of $mist
 
-#### Counci
+#### Alchemist Council
 
 * A [democratically](https://crucible.alchemist.wtf/governance/alchemistcoin.eth/0x3142ad97626896542bc65ae6c4a289bf8a0460577522e862a9fde47d6759e910) elected body to which the community has delegated executive power
 
