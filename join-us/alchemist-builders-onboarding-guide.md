@@ -84,27 +84,19 @@ Alchemists that have received payouts from the multisig will be placed in circle
 
 You can find our shared calendar [here](https://calendar.google.com/calendar/u/2/r?cid=c29sYm9mcWlnZGQzbzdzY3E3cWdyN3R2b2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ). All dates are included, be they project-related or generally interesting for the entire organization. Meetings are essential to question individual approaches and to discuss them in a team. A transcript will then be written out of sustainability in the base camp. Since the participants are spread all over the world, the times are usually chosen so that as many as possible can take part.
 
-## Routines to Achieve Transparency
 
-In a decentralized team it is sometimes difficult to get an overview of who contributed what and how often. To counteract this, we decided to introduce some routines to promote transparency and visibility even for builders & Senior Alchemists who are not directly involved in the project.
 
-### Builder Stand Up
+### Participation&#x20;
 
-To make the process more transparent for everyone, we're creating a # builders-standup channel that we want to encourage active project contributors to post updates to regularly. What did you last work on and what progress did you make? What are you currently working on? What blockers / issues did you run into since your last update and do you need help with anything?
-
-We also want to encourage you to push all your WIP branches to GitHub frequently, and especially on Thursdays, so that Senior Alchemists have a better idea on how to calculate the stipend distribution for the week
-
-### Participation on Scheduled Meetings
-
-As already described under the topic "Meeting Calendar", we appreciate the lively exchange in the team on current topics. The easiest and most uncomplicated way to do this is always the spoken word. Regular participation is therefore essential for several reasons at the same time - finding quick solutions, bundling several opinions on certain topics, finding a majority approach and promoting integrity. If it is not possible that you cannot participate in principle or as an exception, let your team know and then take the transcript (Basecamp) to stay up to date.
+As already described under the topic "Meeting Calendar", we appreciate the lively exchange in the team on current topics. The easiest and most uncomplicated way to do this is always the spoken word. Regular participation is therefore essential for several reasons at the same time - finding quick solutions, bundling several opinions on certain topics, finding a majority approach and promoting integrity. If it is not possible that you cannot participate in principle or as an exception, let your team know.
 
 ### Communication and Tool Interactions
 
-We have various tools in use, which we of course also want to use so that we can recognize progress for our set expectations. The work done should be in focus either way. The communication of small or large milestones is often relevant for the entire project, even if this is not always necessarily visible at first glance, and should therefore be in Basecamp (Project Management), Linear (developer), Figma (artist) and / or can be found in the Discord. We would therefore like to encourage you to communicate a lot and actively via one of the channels made available to you.
+We have various tools in use, which we of course also want to use so that we can recognize progress for our set expectations. The work done should be in focus either way. The communication of small or large milestones is often relevant for the entire project, even if this is not always necessarily visible at first glance, and should therefore be in Linear (developer), Figma (artist) and / or can be found in the Discord. We would therefore like to encourage you to communicate a lot and actively via one of the channels made available to you.
 
 ## Feedback
 
-We would like to support you with your onboarding as a builder and have therefore incorporated fixed feedback discussions in the initial phase. A Senior Alchemist or a builder colleague will answer your questions after your first overview and assign you a starting point. The aim of the conversation is to clear up ambiguities and to answer questions of all kinds, so that you can be as much a part of your project as possible from the beginning.
+We would like to support you with your onboarding as a builder and have therefore incorporated fixed feedback discussions in the initial phase. A colleague will answer your questions after your first overview and assign you a starting point. The aim of the conversation is to clear up ambiguities and to answer questions of all kinds, so that you can be as much a part of your project as possible from the beginning.
 
 Another feedback appointment is then set after about 2 weeks, when we would like to know in particular how well you have settled and how symptom-free you have been able to contribute your strengths to the value of the project. We also try to optimize our onboarding process through feedback that you give us.
 
