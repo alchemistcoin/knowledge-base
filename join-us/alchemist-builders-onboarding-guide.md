@@ -110,7 +110,7 @@ Another feedback appointment is then set after about 2 weeks, when we would like
 
 ## The Builders' Stipend
 
-Once the development efforts begin, the sitting [Council ](https://docs.alchemist.wtf/alchemist/the-alchemist-fractal/overview#the-alchemist-council)will start allocating a builders’ stipend to distribute among the project’s actively contributing team members. The stipend comes from a finite pool of $MIST and is distributed weekly based on what the Senior Alchemists deem to be the most beneficial allocation for nourishing the project’s growth. It is subject to change with every payout, but the Senior Alchemists will usually give a rough justification for why the funds were distributed in a particular manner.
+Once the development efforts begin, the sitting [Council ](https://docs.alchemist.wtf/alchemist/the-alchemist-fractal/overview#the-alchemist-council)will start allocating a builders’ stipend to distribute among the project’s actively contributing team members. The stipend comes from a finite pool of $MIST  It may be subject to change with every payout, but the Council will usually give a rough justification for why the funds were distributed in a particular manner.
 
 The builders stipend is here to make it easy for you to put aside other distractions and focus on building with the rest of the Alchemists. It is not a salary. It is not meant to be the primary incentive to drive your contributions. If you’re here as a mercenary and just want to get paid then you’re probably in the wrong community.
 
