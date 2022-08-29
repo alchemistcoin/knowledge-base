@@ -76,13 +76,9 @@ In addition to inflation income, $mist holders will now be rewarded from the suc
 
 ### The Alchemist Council &#x20;
 
-Alchemist Council is a [democratically](https://crucible.alchemist.wtf/governance/alchemistcoin.eth/0x3142ad97626896542bc65ae6c4a289bf8a0460577522e862a9fde47d6759e910) elected body to which the community has delegated executive power
+Alchemist Council is a [democratically](https://crucible.alchemist.wtf/governance/alchemistcoin.eth/0x3142ad97626896542bc65ae6c4a289bf8a0460577522e862a9fde47d6759e910) elected body to which the community has delegated executive power.
 
-Through a majority vote, this council has the responsibility to decide on the following issues:
-
-* Determining the usage of Fractal income
-* Funding of new projects and overseeing their milestones
-* Dilute the centralized role they hold responsible for the success of Alchemist. Make the ecosystem resilient.
+The Council’s mission is to strategically position Alchemist to achieve its maximum potential. Mainly, the Council will be tasked with: reviewing the performance and budgets of existing projects, approving new projects for incubation, and making the final decision on anything that relates to the Alchemist ecosystem. The Council serves as the delegated voice for Alchemist community members, and as such it will work on any matter that serves the community’s interests.
 
 The Council will continually take note of your [questions and thoughts](https://alchemistcoin.typeform.com/councilquery) and strive to address them via our community calls, communications, and council meetings. For frequently asked or important questions the council will compile a publicly facing document which will keep track of the answers to those questions.
 
