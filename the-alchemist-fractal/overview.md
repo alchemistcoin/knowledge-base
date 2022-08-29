@@ -58,14 +58,14 @@ In addition to inflation income, $mist holders will now be rewarded from the suc
 
 #### ~~Senior Alchemist~~ (disbanded)
 
-* given to members of the community that went above and beyond in their contributions to Alchemist.
+* given to members of the community that went above and beyond in their contributions to Alchemist
 
 **Builder**
 
 * dev, artist, designer, researcher, operations
 * incentivized through builder stipend&#x20;
 
-**Initiator**
+#### Product Founder
 
 * founder, product manager, project manager
 * incentivized through product upside & builders stipend
