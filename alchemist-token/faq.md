@@ -36,7 +36,7 @@ Vote in [Alchemist Governance.](https://crucible.alchemist.wtf/governance/alchem
 
 ### **Who are the multisig key holders?**
 
-Multisig Key holders were chosen by the community based on trust and contributions to the project.
+Multisig Key holders were chosen  based on trust and contributions to the project.
 
 Current multisig signers are:
 
