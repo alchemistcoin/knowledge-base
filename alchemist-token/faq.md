@@ -28,7 +28,7 @@ The current allocation of the inflation tokens is:
 
 ## **What can I do with my ⚗️$MIST?**
 
-A liquidity provider reward program has been deployed for the ⚗️$MIST/ETH Uniswap pool. This reward program is called the Aludel v1.5. (Think of this as a staking smart contract designed by our guildmaster).
+A liquidity provider reward program has been deployed for the ⚗️$MIST/ETH Uniswap pool using [Crucibles](https://docs.crucible.wtf/). This reward program is called the Aludel v1.5. (Think of this as a staking smart contract designed by our guildmaster).
 
 Vote in [Alchemist Governance.](https://crucible.alchemist.wtf/governance/alchemistcoin.eth)
 
