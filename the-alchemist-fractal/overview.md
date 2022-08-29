@@ -72,7 +72,7 @@ In addition to inflation income, $mist holders will now be rewarded from the suc
 
 **Token holder**
 
-* investor, project supporter -- possibly not comfortable with risk of IL of liquidity provision
+* project supporter -- possibly not comfortable with risk of IL of liquidity provision
 
 ### The Alchemist Council &#x20;
 
